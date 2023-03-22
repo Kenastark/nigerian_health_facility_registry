@@ -1,0 +1,501 @@
+state,lga,ward,facility_uid,facility_code,facility_name,facility_level,ownership,details
+Abia,Aba North,Ariaria,48319756,01/01/1/1/2/0001,Aba Holy Wounds Hospital,Secondary,Private,View
+Abia,Aba North,Ariaria,63964073,01/01/1/1/2/0012,Chidima Hospital,Primary,Private,View
+Abia,Aba North,Ariaria,26456575,01/01/1/1/2/0025,Euna Hospital,Secondary,Private,View
+Abia,Aba North,Ariaria,73938255,01/01/1/1/2/0030,Goodness & Mercy hospital,Secondary,Private,View
+Abia,Aba North,Ariaria,40844348,01/01/1/1/2/0031,Green Land Hospital,Primary,Private,View
+Abia,Aba North,Ariaria,45969224,01/01/1/1/2/0041,Ivory Specialist Hospital Maternity,Secondary,Private,View
+Abia,Aba North,Ariaria,52126396,01/01/1/1/2/0044,Land Mark Hospital,Primary,Private,View
+Abia,Aba North,Ariaria,78689244,01/01/1/1/2/0049,New Lead Hospital,Primary,Private,View
+Abia,Aba North,Ariaria,61180169,01/01/1/1/2/0054,Nnadozie Hospital/ Maternity,Secondary,Private,View
+Abia,Aba North,Ariaria,73862809,01/01/1/1/1/0019,Powerline Health Post,Primary,Public,View
+Abia,Aba North,Ariaria,78576911,01/01/1/1/1/0023,Ukwumango Health Post,Primary,Public,View
+Abia,Aba North,Ariaria,71707167,01/01/1/1/1/0026,Umuneator Health Post,Primary,Public,View
+Abia,Aba North,Ariaria,42789169,01/01/1/1/1/0028,Umunneato Health Post,Primary,Public,View
+Abia,Aba North,Asa-Okpulor,37712654,01/01/1/1/1/0006,Asa-Okpulor II Health Centre,Primary,Public,View
+Abia,Aba North,Asa-Okpulor,45782504,01/01/1/1/1/0005,Asaokpulor1 PHC,Primary,Public,View
+Abia,Aba North,Asaokpuaja,14064567,01/01/1/1/1/0004,Asaokpuaja Health Post,Primary,Public,View
+Abia,Aba North,Asaokpuaja,25705792,01/01/1/1/2/0007,Berma Hospital,Secondary,Private,View
+Abia,Aba North,Eugene,24234577,01/01/1/1/2/0024,St Eugene Health Post,Primary,Private,View
+Abia,Aba North,Eziama,85469631,01/01/1/1/1/0008,Eziama Primary Health Centre,Primary,Public,View
+Abia,Aba North,Industrial,66904818,01/01/1/1/2/0038,Industrial Health Post,Primary,Public,View
+Abia,Aba North,Ogbor 1,77536737,01/01/1/2/2/0009,Gods Care Hospital,Secondary,Private,View
+Abia,Aba North,Ogbor 1,66479648,01/01/1/1/2/0037,Impact Hospital,Secondary,Private,View
+Abia,Aba North,Ogbor 1,37372783,01/01/1/1/2/0040,isaac okwuonu memorial hospital /maternity,Secondary,Private,View
+Abia,Aba North,Ogbor 1,29605722,01/01/1/1/2/0045,Living Word Hospital,Primary,Private,View
+Abia,Aba North,Ogbor 1,76956340,01/01/1/1/2/0052,Nissi Hospital,Secondary,Private,View
+Abia,Aba North,Ogbor 1,70987597,01/01/1/1/2/0085,Zikora h Hospital,Secondary,Private,View
+Abia,Aba North,Ogbor 2,45827382,01/01/1/1/2/0009,Blessed heaven hospital,Secondary,Private,View
+Abia,Aba North,Ogbor 2,42040526,01/01/1/1/2/0020,Ebenma Hospital,Secondary,Private,View
+Abia,Aba North,Ogbor 2,70718241,01/01/1/1/2/0022,Ellion Hospital clinic,Secondary,Private,View
+Abia,Aba North,Ogbor 2,69214892,01/01/1/1/2/0023,Emmanuel Hospital,Primary,Private,View
+Abia,Aba North,Ogbor 2,80918309,01/01/1/1/2/0032,Group Medical Practice/maternity,Secondary,Private,View
+Abia,Aba North,Ogbor 2,36926333,01/01/1/1/2/0057,Ogbor Hill Clinic,Primary,Public,View
+Abia,Aba North,Ogbor 2,16779098,01/01/1/1/2/0064,Pepple'S Road Clinic,Primary,Public,View
+Abia,Aba North,Ogbor 2,65557962,01/01/1/2/2/0025,Reagents specialist hospital /maternity,Secondary,Private,View
+Abia,Aba North,Old GRA,38145837,01/01/1/1/2/0004,Angels of Mercy Hospital,Secondary,Private,View
+Abia,Aba North,Old GRA,81463501,01/01/1/1/2/0006,Austin Graces Hospital,Secondary,Private,View
+Abia,Aba North,Old GRA,69230910,01/01/1/1/2/0016,chinwendu clinic and maternity,Secondary,Private,View
+Abia,Aba North,Old GRA,85491400,01/01/1/1/2/0021,El-Asamen Hospital,Secondary,Private,View
+Abia,Aba North,Old GRA,60524341,01/01/1/1/2/0027,Family Health Clinic,Primary,Private,View
+Abia,Aba North,Old GRA,72779055,01/01/1/2/2/0086,king well hospital and maternity,Secondary,Private,View
+Abia,Aba North,Old GRA,65477590,01/01/1/1/1/0009,OLD GRA HEALTH POST,Primary,Public,View
+Abia,Aba North,Old GRA,75493094,01/01/1/1/2/0059,Olive Hospital and maternity,Secondary,Private,View
+Abia,Aba North,Old GRA,35748861,01/01/1/1/2/0069,Rosevine Hospital,Primary,Private,View
+Abia,Aba North,Osusu 1,77261518,01/01/1/1/2/0026,Evergreen Hospital,Primary,Private,View
+Abia,Aba North,Osusu 1,80081180,01/01/1/1/2/0050,Newlife Hospital,Primary,Private,View
+Abia,Aba North,Osusu 1,76198735,01/01/1/1/1/0017,Osusu 1 Primary Health Centre,Primary,Public,View
+Abia,Aba North,Osusu 1,30724229,01/01/1/1/2/0079,Tina Maternity,Primary,Private,View
+Abia,Aba North,Osusu 1,14511478,01/01/1/1/2/0081,Touch Health Hospital,Primary,Private,View
+Abia,Aba North,Osusu 1,62805618,01/01/1/1/1/0032,Umuola Okpulor 2 Health Post,Primary,Public,View
+Abia,Aba North,Osusu 2,29511576,01/01/1/1/1/0012,Osusu 11 Phc,Primary,Public,View
+Abia,Aba North,Osusu 2,84632740,01/01/1/1/1/0018,Osusu Clinic,Primary,Public,View
+Abia,Aba North,Osusu 2,85720267,01/01/1/1/2/0078,Theresa'S Hospital,Primary,Private,View
+Abia,Aba North,Umuogor,84391505,01/01/1/1/1/0010,OSOKE PHC,Primary,Public,View
+Abia,Aba North,Umuogor,61736712,01/01/1/1/1/0029,Umuogor Health Phc,Primary,Public,View
+Abia,Aba North,Umuola,47587317,01/01/1/1/2/0003,Alpha Inland Hospital,Secondary,Private,View
+Abia,Aba North,Umuola,62411451,01/01/1/1/2/0042,Kahabiri Hospital,Secondary,Private,View
+Abia,Aba North,Umuola,42707211,01/01/1/2/2/0087,orienz specialist hospital,Secondary,Private,View
+Abia,Aba North,Umuola,44899462,01/01/1/1/2/0066,Pricess Mary Hospital,Secondary,Private,View
+Abia,Aba North,Umuola,82024819,01/01/1/1/2/0071,Seventh Day Adventist Hospital,Primary,Private,View
+Abia,Aba North,Umuola,61351306,01/01/1/1/1/0022,Ukwudara Health Post,Primary,Public,View
+Abia,Aba North,Umuola,73847531,01/01/1/1/1/0024,Ukwuodara Health Post,Primary,Public,View
+Abia,Aba North,Umuola,71692924,01/01/1/1/1/0031,Umuola Egbelu Health Primary Centre,Primary,Public,View
+Abia,Aba North,Umuola,86302157,01/01/1/1/1/0033,Umuola Okpulo1! Health Post,Primary,Public,View
+Abia,Aba North,Unknown,76877011,01/01/1/1/2/0013,Chidinma Clinic,Primary,Private,View
+Abia,Aba North,Unknown,26706951,01/01/1/1/2/0014,Chinnedu Clinic & Maternity,Primary,Private,View
+Abia,Aba North,Unknown,66243577,01/01/1/2/2/0006,Eberechukwu Hospital,Secondary,Private,View
+Abia,Aba North,Unknown,49621696,01/01/1/1/2/0046,M & M Hospital/Maternity,Primary,Private,View
+Abia,Aba North,Unknown,37807246,01/01/1/2/2/0016,Mercy Hospital,Secondary,Private,View
+Abia,Aba North,Unknown,77868735,01/01/1/1/2/0048,Ndubuisi Hospital/Maternity,Primary,Private,View
+Abia,Aba North,Unknown,17407193,01/01/1/1/2/0051,Nigerian Breweries Plc Clinic,Primary,Private,View
+Abia,Aba North,Unknown,27008708,01/01/1/2/2/0018,Nnenna Hospital,Secondary,Private,View
+Abia,Aba North,Unknown,82069400,01/01/1/2/2/0019,Obioma Hospital,Secondary,Private,View
+Abia,Aba North,Unknown,79587067,01/01/1/2/2/0023,Presto Clinic,Secondary,Private,View
+Abia,Aba North,Unknown,30564960,01/01/1/1/2/0075,Standard Hospital,Primary,Private,View
+Abia,Aba North,Unknown,84232784,01/01/1/1/2/0082,Unilever Clinic,Primary,Private,View
+Abia,Aba North,Uratta,80281535,01/01/1/1/2/0043,Kelechi Hospital,Primary,Private,View
+Abia,Aba North,Uratta,53554149,01/01/1/1/1/0015,Ogbosisi Health Post,Primary,Public,View
+Abia,Aba North,Uratta,83569010,01/01/1/1/1/0034,Uratta Primary Health Centre,Primary,Public,View
+Abia,Aba South,Aba River,17872142,01/02/1/1/1/0030,Mother Of Mercy Clinic,Primary,Public,View
+Abia,Aba South,Aba River,85085979,01/02/1/2/2/0034,New Era Hospital,Secondary,Private,View
+Abia,Aba South,Aba River,73533987,01/02/1/1/1/0032,Ngwa Road End Health Clinic,Primary,Public,View
+Abia,Aba South,Aba River,44982893,01/02/1/2/2/0057,St Anthony Hospital,Secondary,Private,View
+Abia,Aba South,Aba Town Hall,47266682,01/02/1/1/2/0014,Chees Hospital,Primary,Private,View
+Abia,Aba South,Aba Town Hall,51105570,01/02/1/1/2/0031,Ekeoma Hospital,Primary,Private,View
+Abia,Aba South,Aba Town Hall,54814938,01/02/1/1/1/0026,Maternal And Child Health Centre,Primary,Public,View
+Abia,Aba South,Aba Town Hall,52507139,01/02/1/2/2/0032,Nazareth Hospital,Secondary,Private,View
+Abia,Aba South,Aba Town Hall,77620165,01/02/1/1/2/0082,Springs Clinic,Primary,Private,View
+Abia,Aba South,Asa,64945641,01/02/1/1/2/0001,Asa Clinic,Primary,Public,View
+Abia,Aba South,Ekeoha,17880030,01/02/1/1/1/0016,Ekeoha Clinic,Primary,Public,View
+Abia,Aba South,Ekeoha,26345263,01/02/1/1/1/0036,Obuda Ward Health Centre,Primary,Public,View
+Abia,Aba South,Elu Ohazu,13258915,01/02/1/1/1/0010,"Eluohazu Ward Primary Health Centre,Asaeme",Primary,Public,View
+Abia,Aba South,Elu Ohazu,87423412,01/02/1/1/2/0073,Our Saviour Maternity Home,Primary,Private,View
+Abia,Aba South,Elu Ohazu,14429833,01/02/1/1/2/0083,St Jude Health Post,Primary,Public,View
+Abia,Aba South,Elu Ohazu,67040877,01/02/1/2/2/0063,"St. Joseph Catholic Hospital, Ohabia",Secondary,Private,View
+Abia,Aba South,Enyimba,55292662,01/02/1/1/1/0002,Aba Ukwu,Primary,Public,View
+Abia,Aba South,Enyimba,85188925,01/02/1/1/2/0009,Amara Maternity,Primary,Private,View
+Abia,Aba South,Enyimba,82196274,01/02/1/1/2/0011,Bethel Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Enyimba,31158757,01/02/1/1/2/0019,Chimdinma Greenlife Hospital,Secondary,Private,View
+Abia,Aba South,Enyimba,52038165,01/02/1/1/2/0036,Faith Foundation Hospital,Primary,Private,View
+Abia,Aba South,Enyimba,54597189,01/02/1/1/2/0040,Harmony Hospital Aba,Primary,Private,View
+Abia,Aba South,Enyimba,13655077,01/02/1/1/2/0050,John Okorie Memorial Hospital,Primary,Private,View
+Abia,Aba South,Enyimba,42145422,01/02/1/1/2/0085,St Paul'S Health Post,Primary,Public,View
+Abia,Aba South,Enyimba,34857568,01/02/1/1/2/0095,Victory Christian Hospital,Primary,Private,View
+Abia,Aba South,Eziukwu 1,13499406,01/02/1/1/1/0018,Eziukwu Primary Health Centre,Primary,Public,View
+Abia,Aba South,Eziukwu 1,66315922,01/02/1/2/2/0030,Mendel Hospital And Diagnostic Centre,Secondary,Private,View
+Abia,Aba South,Eziukwu 1,55523332,01/02/1/1/2/0067,Nwadike Memorial Hospital,Primary,Private,View
+Abia,Aba South,Eziukwu 1,15343155,01/02/1/1/1/0043,Okpjiaku Health Centre,Primary,Public,View
+Abia,Aba South,Eziukwu 1,34442002,01/02/1/1/2/0087,St. James Health Post,Primary,Public,View
+Abia,Aba South,Eziukwu 2,61539232,01/02/1/1/1/0011,Asaokpuaja Health Centre,Primary,Public,View
+Abia,Aba South,Eziukwu 2,80546083,01/02/1/1/2/0022,Chosen Health Post,Primary,Public,View
+Abia,Aba South,Eziukwu 2,81632222,01/02/1/1/2/0045,Ikechukwu Maternity,Primary,Private,View
+Abia,Aba South,Eziukwu 2,83227504,01/02/1/1/1/0009,Lady Anasthasia Hospital,Secondary,Private,View
+Abia,Aba South,Eziukwu 2,52348220,01/02/1/1/2/0070,Onyemaechi Maternity Home,Primary,Private,View
+Abia,Aba South,Glocester,85952324,01/02/1/1/1/0007,Amaogbonna Health Post,Primary,Public,View
+Abia,Aba South,Igwebuike,73898361,01/02/1/1/1/0008,Amaufuru Primary Health Centre,Primary,Public,View
+Abia,Aba South,Igwebuike,61741924,01/02/1/2/2/0008,Blessing Hospital,Secondary,Private,View
+Abia,Aba South,Igwebuike,43729599,01/02/1/1/2/0021,Chinwe Maternity Home,Primary,Private,View
+Abia,Aba South,Igwebuike,71271236,01/02/1/2/2/0031,Miracle Hospital,Secondary,Private,View
+Abia,Aba South,Igwebuike,18136474,01/02/1/1/1/0039,Ohazu 4 Primary Health Centre,Primary,Public,View
+Abia,Aba South,Igwebuike,42629289,01/02/1/1/1/0042,Ohazu II Health post,Primary,Public,View
+Abia,Aba South,Igwebuike,85472164,01/02/1/1/1/0062,Umuosi Health Centre,Primary,Public,View
+Abia,Aba South,Iheorji,73726537,01/02/1/1/1/0006,Amankita Health post,Primary,Public,View
+Abia,Aba South,Iheorji,44120151,01/02/1/1/1/0054,Iheorji health post,Primary,Public,View
+Abia,Aba South,Iheorji,28281610,01/02/1/2/2/0048,Presbyterian Health Post,Secondary,Private,View
+Abia,Aba South,Mbawsi Umuomainta,20104039,01/02/1/1/2/0072,Our Ladys Maternity & Clinic,Primary,Private,View
+Abia,Aba South,Mosque,25369290,01/02/1/1/1/0001,Aba School Of Health Health Clinic,Primary,Public,View
+Abia,Aba South,Mosque,29883826,01/02/1/1/1/0014,College Of Health Centre,Primary,Public,View
+Abia,Aba South,Mosque,26493014,01/02/1/1/1/0020,Georges Health Post,Primary,Public,View
+Abia,Aba South,Ngwa 1,38180166,01/02/1/1/2/0006,Agu Foundation Hosptial,Primary,Private,View
+Abia,Aba South,Ngwa 1,56976820,01/02/1/1/1/0027,Igwebuike Health Clinic,Primary,Public,View
+Abia,Aba South,Ngwa 1,67510480,01/02/1/1/1/0031,Ndiegoro Health Post,Primary,Public,View
+Abia,Aba South,Ngwa 1,74740709,01/02/1/1/1/0041,Ohazu I Health Post,Primary,Public,View
+Abia,Aba South,Ngwa 1,26243932,01/02/1/1/2/0080,Shammah Christian Hospital,Primary,Private,View
+Abia,Aba South,Ngwa 1,36757011,01/02/1/2/2/0061,St. Benard Hospital,Secondary,Private,View
+Abia,Aba South,Ngwa 2,29785431,01/02/1/1/2/0028,Divine Favour Maternity,Primary,Public,View
+Abia,Aba South,Ngwa 2,47254655,01/02/1/2/2/0043,Our Lady Of Sick Hospital,Secondary,Private,View
+Abia,Aba South,Ngwa 2,84503242,01/02/1/1/1/0024,ozuitem health post,Primary,Public,View
+Abia,Aba South,Ngwa 2,22762897,01/02/1/1/2/0084,St Luke Health Post,Primary,Public,View
+Abia,Aba South,Okporoenyi,56938021,01/02/1/1/1/0057,Umuebeke Primary Health Centre,Primary,Public,View
+Abia,Aba South,Okporoenyi,23401005,01/02/1/1/1/0061,Umuokennunu Primary Health Centre,Primary,Public,View
+Abia,Aba South,Umuogele,79679764,01/02/1/1/1/0059,Umuogele Primary Health Centre,Primary,Public,View
+Abia,Aba South,Unknown,39694109,01/02/1/1/2/0003,Abundance Life Clinic,Primary,Private,View
+Abia,Aba South,Unknown,12628779,01/02/1/2/2/0001,Adc Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,45717943,01/02/1/1/2/0004,Ado Hospital,Primary,Private,View
+Abia,Aba South,Unknown,44340214,01/02/1/2/2/0002,Adonis Christy Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,26440645,01/02/1/3/2/0001,Afoma Specialist Hospital,Tertiary,Private,View
+Abia,Aba South,Unknown,17727237,01/02/1/2/2/0004,All Saints Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,57547239,01/02/1/2/2/0006,Berma Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,43676895,01/02/1/1/2/0013,Chazokam Maternity Home,Primary,Private,View
+Abia,Aba South,Unknown,17043089,01/02/1/1/2/0015,Chekwas Clinic,Primary,Private,View
+Abia,Aba South,Unknown,32163718,01/02/1/2/2/0010,Chief Ogumka Memorial Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,48145766,01/02/1/1/2/0026,Clehanson Hospital,Primary,Private,View
+Abia,Aba South,Unknown,30827632,01/02/1/1/2/0027,Deensel Medical Clinic,Primary,Private,View
+Abia,Aba South,Unknown,14427988,01/02/1/1/2/0030,Divine Mercy Clinic,Primary,Private,View
+Abia,Aba South,Unknown,14637780,01/02/1/1/2/0033,Elshaddai Christian Hospital/Maternity,Primary,Private,View
+Abia,Aba South,Unknown,82086628,01/02/1/1/1/0017,Eluohazu Health Centre,Primary,Public,View
+Abia,Aba South,Unknown,25625830,01/02/1/1/2/0034,Emmanuel Medical Center,Primary,Private,View
+Abia,Aba South,Unknown,79067540,01/02/1/2/2/0013,Fazal Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,62096153,01/02/1/2/2/0014,Frank Agu Memorial Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,43252184,01/02/1/1/2/0038,Get Well Clinic,Primary,Private,View
+Abia,Aba South,Unknown,71605126,01/02/1/1/2/0039,Gods Care Hospital,Primary,Private,View
+Abia,Aba South,Unknown,27128248,01/02/1/2/2/0015,Good Shepherd Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,65004204,01/02/1/1/2/0041,Harvey Clinic,Primary,Private,View
+Abia,Aba South,Unknown,41440346,01/02/1/1/2/0042,Health Gate Clinic And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,85533064,01/02/1/2/2/0017,Helina Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,84783416,01/02/1/1/2/0044,Ijeoma Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,74830550,01/02/1/2/2/0018,Immaculate Heart Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,76949547,01/02/1/2/2/0019,Inland Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,33060189,01/02/1/1/2/0048,J.T. Hospital And Clinic,Primary,Private,View
+Abia,Aba South,Unknown,51520922,01/02/1/2/2/0020,Jim Dora Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,57036103,01/02/1/2/2/0021,Jone Christ Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,62412682,01/02/1/2/2/0022,Jonex Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,31939144,01/02/1/1/2/0051,Kelechi Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,12444594,01/02/1/2/2/0023,Life Care Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,17002888,01/02/1/2/2/0024,Light Of God Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,15055523,01/02/1/1/2/0056,Lords Golden Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,56765448,01/02/1/1/2/0057,Macro Hospital,Primary,Private,View
+Abia,Aba South,Unknown,33618651,01/02/1/2/2/0025,Marc Rose Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,60217055,01/02/1/2/2/0027,Martin Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,81805236,01/02/1/2/2/0028,Mary'S Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,36347286,01/02/1/2/2/0029,Mc Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,12590439,01/02/1/1/2/0058,Melly Logo Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,28209366,01/02/1/1/2/0059,Monac Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,82755663,01/02/1/1/2/0060,Mont Zion Christain Maternity,Primary,Private,View
+Abia,Aba South,Unknown,21459820,01/02/1/1/2/0061,Morning Star Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,15771758,01/02/1/2/2/0033,Ndukwe Memorial Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,64301711,01/02/1/1/2/0063,New Generation Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,44062684,01/02/1/1/2/0064,New Welfare Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,28429576,01/02/1/2/2/0035,Ngozika Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,31859662,01/02/1/2/2/0036,Nnamdi Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,59308075,01/02/1/2/2/0039,Obioma Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,47742727,01/02/1/2/2/0041,Ohaeri Memorial Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,39906954,01/02/1/1/2/0068,Oleka Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,65855657,01/02/1/2/2/0042,Onyebuchi Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,52640322,01/02/1/1/2/0069,Onyedikachi Maternity Home,Primary,Private,View
+Abia,Aba South,Unknown,77426675,01/02/1/1/1/0044,Osoke Amato Primary Health Center,Primary,Public,View
+Abia,Aba South,Unknown,70993947,01/02/1/2/2/0044,Padora Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,52452965,01/02/1/2/2/0045,Perpetual Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,58941605,01/02/1/2/2/0046,Petra Hospital (Ngwa Ii),Secondary,Private,View
+Abia,Aba South,Unknown,57710277,01/02/1/2/2/0047,Phoenix Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,74216751,01/02/1/1/2/0074,Plescher Clinic,Primary,Private,View
+Abia,Aba South,Unknown,80629040,01/02/1/1/1/0047,Primary Health Care,Primary,Public,View
+Abia,Aba South,Unknown,79721529,01/02/1/1/1/0048,Primary Health Care Centre Amaufuru,Primary,Public,View
+Abia,Aba South,Unknown,34740533,01/02/1/1/1/0050,Primary Health Centre Umuola Egbelu,Primary,Public,View
+Abia,Aba South,Unknown,48195817,01/02/1/2/2/0049,Progress Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,64852986,01/02/1/2/2/0050,Ramas Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,24103838,01/02/1/2/2/0051,Reachest Hospital And Maternity,Secondary,Private,View
+Abia,Aba South,Unknown,52367144,01/02/1/2/2/0052,Rhema Clinic Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,29603067,01/02/1/1/2/0075,Rheum Clinic,Primary,Private,View
+Abia,Aba South,Unknown,52755446,01/02/1/2/2/0053,Romans Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,13114959,01/02/1/1/2/0076,Sacramento Clinic,Primary,Private,View
+Abia,Aba South,Unknown,41222318,01/02/1/2/2/0054,Sacred Heart Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,30255360,01/02/1/1/2/0077,Salvation Clinic,Primary,Private,View
+Abia,Aba South,Unknown,54125612,01/02/1/1/2/0078,Sam Memorial Hospital/Maternity,Primary,Private,View
+Abia,Aba South,Unknown,42693056,01/02/1/2/2/0055,Sancta Maria Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,25443668,01/02/1/1/2/0079,Shabia Hospital,Primary,Private,View
+Abia,Aba South,Unknown,52268360,01/02/1/2/2/0056,Shalom Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,52930279,01/02/1/1/2/0081,Slim Clinic,Primary,Private,View
+Abia,Aba South,Unknown,43872738,01/02/1/1/2/0086,St. Agnes Clinic And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,36795714,01/02/1/2/2/0058,St. Andrew Hospital & Clinic,Secondary,Private,View
+Abia,Aba South,Unknown,72627855,01/02/1/2/2/0059,St. Anthony Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,76973745,01/02/1/2/2/0060,St. Augustus Hopital,Secondary,Private,View
+Abia,Aba South,Unknown,56005364,01/02/1/2/2/0062,St. Frances Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,46812018,01/02/1/2/2/0064,St. Partrick Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,84917200,01/02/1/1/2/0088,Temple Clinic,Primary,Private,View
+Abia,Aba South,Unknown,18960073,01/02/1/2/2/0065,The Apostolic Church Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,34439421,01/02/1/1/2/0089,The Nazareth Clinic,Primary,Private,View
+Abia,Aba South,Unknown,70989191,01/02/1/1/2/0090,The Presbyterian,Primary,Private,View
+Abia,Aba South,Unknown,77230417,01/02/1/2/2/0066,Tricoma Christain Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,35704298,01/02/1/2/2/0067,Twin Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,42493255,01/02/1/1/2/0091,Uchechi Hospital And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,58133152,01/02/1/1/2/0092,Uchendu Clinic,Primary,Private,View
+Abia,Aba South,Unknown,65595109,01/02/1/2/2/0068,Ucheoma Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,31187261,01/02/1/2/2/0069,Ududi Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,39092246,01/02/1/1/2/0093,Ugo Unity And Maternity,Primary,Private,View
+Abia,Aba South,Unknown,79986344,01/02/1/1/2/0094,Ugochukwu Maternity Home And Clinic,Primary,Private,View
+Abia,Aba South,Unknown,20822613,01/02/1/2/2/0070,Ugonna. Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,87331759,01/02/1/1/1/0056,Umuaku Health Center,Primary,Public,View
+Abia,Aba South,Unknown,13651154,01/02/1/1/1/0058,Umunkwulo Umuagbai Comprehensive Health Center,Primary,Public,View
+Abia,Aba South,Unknown,73067316,01/02/1/1/1/0060,Umuogorosoke Health Center,Primary,Public,View
+Abia,Aba South,Unknown,56460178,01/02/1/2/2/0071,Union Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,52829383,01/02/1/1/1/0063,Uratta Primary Health Center,Primary,Public,View
+Abia,Aba South,Unknown,58760732,01/02/1/2/2/0072,Uwalaka Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,64092998,01/02/1/2/2/0073,Uzoma Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,31476444,01/02/1/2/2/0074,Wimpole Hospital,Secondary,Private,View
+Abia,Aba South,Unknown,55069560,01/02/1/1/2/0097,Winners Family Clinic,Primary,Private,View
+Abia,Arochukwu,Arochukwu 1,30415725,01/03/1/2/2/0058,ARO USA,Secondary,Private,View
+Abia,Arochukwu,Arochukwu 1,71428353,01/03/1/2/1/0001,Arochukwu General Hospital,Secondary,Public,View
+Abia,Arochukwu,Arochukwu 1,82432201,01/03/1/1/1/0024,Health Office Clinic,Primary,Public,View
+Abia,Arochukwu,Arochukwu 1,79312081,01/03/1/1/2/0002,Mikky Maternity,Primary,Private,View
+Abia,Arochukwu,Arochukwu 1,22063166,01/03/1/1/1/0046,Ugwuakuma Health Centre,Primary,Public,View
+Abia,Arochukwu,Arochukwu 1,80610610,01/03/1/1/1/0053,Utughaugwu Health Centre,Primary,Public,View
+Abia,Arochukwu,Arochukwu 2,61467140,01/03/1/2/2/0006,St Anthony'S Hospital (Arochukwu),Secondary,Private,View
+Abia,Arochukwu,Arochukwu 2,80747883,01/03/1/1/1/0047,Ugwuavo Health Centre,Primary,Public,View
+Abia,Arochukwu,Arochukwu 3,82708117,01/03/1/1/1/0015,Amuvi Model health centre,Primary,Public,View
+Abia,Arochukwu,Arochukwu 3,65796216,01/03/1/1/1/0016,Asaga Health Centre,Primary,Public,View
+Abia,Arochukwu,Arochukwu 3,51358956,01/03/1/1/1/0020,Atani Basic Health centre,Primary,Public,View
+Abia,Arochukwu,Arochukwu 3,79521498,01/03/1/2/2/0057,God Blessed,Secondary,Private,View
+Abia,Arochukwu,Arochukwu 3,44547607,01/03/1/2/1/0003,Obinkita Health Centre,Secondary,Public,View
+Abia,Arochukwu,Arochukwu 4,17996206,01/03/1/1/1/0010,Amannagwu Health Centre,Primary,Public,View
+Abia,Arochukwu,Arochukwu 4,16253228,01/03/1/1/1/0025,Ibom Health Centre,Primary,Public,View
+Abia,Arochukwu,Ebemoha,34330029,01/03/1/1/1/0035,Ndiagwu Health Centre,Primary,Public,View
+Abia,Arochukwu,Eleoha Ihe 1,19307930,01/03/1/1/1/0004,Aduanu Health Centre,Primary,Public,View
+Abia,Arochukwu,Eleoha Ihe 1,38484338,01/03/1/1/1/0009,Amamiri Health Centre,Primary,Public,View
+Abia,Arochukwu,Eleoha Ihe 2,49688229,01/03/1/1/1/0003,Achara Health Centre,Primary,Public,View
+Abia,Arochukwu,Eleoha Ihe 2,22909752,01/03/1/1/1/0007,Amafia/Amaetiti Health Centre,Primary,Public,View
+Abia,Arochukwu,Eleoha Ihe 3,76037333,01/03/1/1/1/0042,Okpo Health Centre,Primary,Public,View
+Abia,Arochukwu,Eleoha Ututu,32650247,01/03/1/1/1/0023,Eleoha Health Centre,Primary,Public,View
+Abia,Arochukwu,Eleoha Ututu,15267057,01/03/1/1/1/0038,Nkpakpi Health Centre,Primary,Public,View
+Abia,Arochukwu,Etiti Abam,75191149,01/03/1/1/1/0019,Atani Abam Health Centre,Primary,Public,View
+Abia,Arochukwu,Etiti Abam,65824945,01/03/1/1/1/0033,Ndi Okorie Health Centre,Primary,Public,View
+Abia,Arochukwu,Ikwun 1,64485054,01/03/1/1/1/0018,Atan Ihe Health Centre,Primary,Public,View
+Abia,Arochukwu,Ikwun 1,31331307,01/03/1/2/2/0002,Mercy Catholic Hospital,Secondary,Private,View
+Abia,Arochukwu,Ikwun 1,52221941,01/03/1/1/1/0034,Ndi Okpo Health Centre,Primary,Public,View
+Abia,Arochukwu,Ikwun 1,34894426,01/03/1/1/1/0039,Obichie Health Centre,Primary,Public,View
+Abia,Arochukwu,Ikwun 1,67316196,01/03/1/1/1/0045,Uburu Health Centre,Primary,Public,View
+Abia,Arochukwu,Ikwun 1,65005086,01/03/1/1/1/0051,Umuye Health Centre,Primary,Public,View
+Abia,Arochukwu,Ikwun 2,51200679,01/03/1/1/1/0052,Umuzomgbo Health Centre,Primary,Public,View
+Abia,Arochukwu,Isu,52789227,01/03/1/1/1/0028,Isu Health Centre,Primary,Public,View
+Abia,Arochukwu,Isu,27099949,01/03/1/1/1/0040,Obieze Health Centre,Primary,Public,View
+Abia,Arochukwu,Ohaeke,62818971,01/03/1/1/1/0026,Idima Abam Health Centre,Primary,Public,View
+Abia,Arochukwu,Ohafor 1,67772446,01/03/1/1/1/0013,Amuru Abam Health Centre,Primary,Public,View
+Abia,Arochukwu,Ohafor 1,13030539,01/03/1/1/1/0031,Ndi Ememe Health Centre,Primary,Public,View
+Abia,Arochukwu,Ohafor 1,74438381,01/03/1/1/1/0043,Ozu Abam Health Centre,Primary,Public,View
+Abia,Arochukwu,Ohafor 1,34460006,01/03/1/2/2/0009,The Light Hospital,Secondary,Private,View
+Abia,Arochukwu,Ohafor 2,81194771,01/03/1/1/1/0012,Ameke Abam Health Centre,Primary,Public,View
+Abia,Arochukwu,Ohafor 2,76865125,01/03/1/1/1/0030,Ndi Ebe Abam Health Facility,Primary,Public,View
+Abia,Arochukwu,Ovukwu,65180364,01/03/1/1/1/0032,Ndi Okereke Abam Health Post,Primary,Public,View
+Abia,Arochukwu,Ovukwu,79993826,01/03/1/1/1/0036,Ndi-Oji Health Centre,Primary,Public,View
+Abia,Arochukwu,Unknown,87196432,01/03/1/1/1/0001,Abia Health Post,Primary,Public,View
+Abia,Arochukwu,Unknown,27679189,01/03/1/1/1/0017,Asasa Health Centre,Primary,Public,View
+Abia,Arochukwu,Unknown,14149258,01/03/1/1/1/0022,College Of Education Technical Clinic,Primary,Public,View
+Abia,Arochukwu,Unknown,49238746,01/03/1/2/1/0002,General Hospital Arochukwu,Secondary,Public,View
+Abia,Arochukwu,Ututu,61789514,01/03/1/1/1/0002,Abuma Health Centre,Primary,Public,View
+Abia,Arochukwu,Ututu,48684695,01/03/1/1/1/0008,Amakofia Health Centre,Primary,Public,View
+Abia,Arochukwu,Ututu,18405757,01/03/1/2/1/0055,Cottage Hospital,Secondary,Public,View
+Abia,Arochukwu,Ututu,21507868,01/03/1/1/1/0056,Obiene Health Centre,Primary,Public,View
+Abia,Arochukwu,Ututu,21351915,01/03/1/1/2/0006,Uche Chukwu,Primary,Private,View
+Abia,Arochukwu,Ututu,77467816,01/03/1/1/1/0048,Ukwuakwu Health Centre,Primary,Public,View
+Abia,Bende,Alayi A,45358188,01/04/1/1/1/0002,Agboakoli Alayi Health Centre,Primary,Public,View
+Abia,Bende,Alayi A,38917964,01/04/1/1/1/0006,Alayi Primary Health Center,Primary,Public,View
+Abia,Bende,Alayi A,80867139,01/04/1/1/1/0054,Umuenyere Alayi Primary Health Care Care,Primary,Public,View
+Abia,Bende,Alayi B,59974401,01/04/1/1/1/0011,Amankalu Alayi Primary Health Centre,Primary,Public,View
+Abia,Bende,Alayi B,13341646,01/04/1/1/2/0003,Ezinne Model Maternity Home,Primary,Private,View
+Abia,Bende,Alayi B,65407658,01/04/1/1/1/0028,Isiaku Primary Health Care,Primary,Public,View
+Abia,Bende,Bende,41107901,01/04/1/1/1/0001,Agbamuzu  Health Centre,Primary,Public,View
+Abia,Bende,Bende,50158284,01/04/1/1/1/0021,Bende Maternity,Primary,Public,View
+Abia,Bende,Bende,48775663,01/04/1/1/1/0022,Bende Ovu Primary Health Care,Primary,Public,View
+Abia,Bende,Bende,83206039,01/04/1/1/1/0025,EtitiUlo Health Post,Primary,Public,View
+Abia,Bende,Bende,15457546,01/04/1/1/2/0008,Okoroenyi Primary Health Care,Primary,Public,View
+Abia,Bende,Bende,49891725,01/04/1/1/1/0050,Standard Primary Health Care,Primary,Public,View
+Abia,Bende,Igbere 1,29606773,01/04/1/1/1/0027,Igbere Primary Health Centre,Primary,Public,View
+Abia,Bende,Igbere 1,30661652,01/04/1/1/1/0040,Okafia Ultra Modern Health Care,Primary,Public,View
+Abia,Bende,Igbere 2,53077811,01/04/1/1/1/0010,Amaiyi Igbere Primary Health Centre,Primary,Public,View
+Abia,Bende,Igbere 2,49247576,01/04/1/1/1/0017,Amaukwu Igbere Primary Health Care,Primary,Public,View
+Abia,Bende,Igbere 3,15382674,01/04/1/1/1/0012,Amankalu Igbere Primary Health Care,Primary,Public,View
+Abia,Bende,Igbere 3,14615840,01/04/1/1/1/0057,Umuisi Primary Health Centre,Primary,Public,View
+Abia,Bende,Item 1,30094483,01/04/1/1/1/0009,Amaekpu Health Centre,Primary,Public,View
+Abia,Bende,Item 1,13424830,01/04/1/1/2/0002,Chijioke Osogho Methodist Memorial Hospital,Primary,Private,View
+Abia,Bende,Item 1,57624198,01/04/1/2/1/0001,Umunnato General Hospital,Secondary,Public,View
+Abia,Bende,Item 1,57778248,01/04/1/1/1/0058,Umunnato Primary Health Centre,Primary,Public,View
+Abia,Bende,Item 2,32999007,01/04/1/1/1/0041,Okagwe Primary Health Care,Primary,Public,View
+Abia,Bende,Item 2,57888420,01/04/1/1/1/0044,Okoko Primary Health Center,Primary,Public,View
+Abia,Bende,Item 3,78005554,01/04/1/1/1/0004,Akanu Model Primary Health Centre,Primary,Public,View
+Abia,Bende,Item 3,74845590,01/04/1/1/1/0042,Okai Item  Primary Health Centre,Primary,Public,View
+Abia,Bende,Item 4,26094077,01/04/1/1/1/0014,Amaokwe Item Primary Health Care,Primary,Public,View
+Abia,Bende,Item 4,29225419,01/04/1/1/1/0013,Amaokwe Item Primary Health Center,Primary,Public,View
+Abia,Bende,Itumbauzo 1,18592082,01/04/1/1/1/0035,Ndiwo Primary Health Centre,Primary,Public,View
+Abia,Bende,Itumbauzo 1,44278991,01/04/1/1/1/0039,Ntubi Health Post,Primary,Public,View
+Abia,Bende,Itumbauzo 1,22541358,01/04/1/1/1/0045,Okopedi Health Post,Primary,Public,View
+Abia,Bende,Itumbauzo 1,76521138,01/04/1/1/2/0010,St. Nicholas Catholic Hospital,Secondary,Private,View
+Abia,Bende,Itumbauzo 1,76814532,01/04/1/1/1/0052,Ubibia Primary Health Care,Primary,Public,View
+Abia,Bende,Itumbauzo 2,36969587,01/04/1/1/1/0038,Ntalakwu Primary Health Centre,Primary,Public,View
+Abia,Bende,Nkpa 1,74281812,01/04/1/1/1/0047,Okpuhu Nkpa Primary Health Centre,Primary,Public,View
+Abia,Bende,Nkpa 2,76406188,01/04/1/1/1/0008,Amaegbuato Primary Health Centre,Primary,Public,View
+Abia,Bende,Nkpa 2,25691278,01/04/1/1/1/0053,Ugwunkpa Primary Health Care,Primary,Public,View
+Abia,Bende,Ozuitem,47139613,01/04/1/1/1/0029,Isiegbu Ozuitem Primary Health Centre,Primary,Public,View
+Abia,Bende,Ozuitem,16462213,01/04/1/1/1/0033,Mba Ozuitem Primary Health Care,Primary,Public,View
+Abia,Bende,Ozuitem,14090041,01/04/1/1/1/0059,Umuobasiukwu Primary Health Centre,Primary,Public,View
+Abia,Bende,Ugwueke,46013895,01/04/1/1/1/0007,Amaba Ugwueke Primary Health Centre,Primary,Public,View
+Abia,Bende,Ugwueke,26793712,01/04/1/1/1/0026,Ezeukwu Pimary Health Care,Primary,Public,View
+Abia,Bende,Ugwueke,78528961,01/04/1/1/1/0034,Ndielu Primary Health Care,Primary,Public,View
+Abia,Bende,Ugwueke,77021455,01/04/1/2/2/0003,Royal Cross Methodist Hospital,Secondary,Private,View
+Abia,Bende,Umuhu,44295959,01/04/1/1/1/0055,Umuhu Ezechi Primary Health Care Centre,Primary,Public,View
+Abia,Bende,Umuhu,52173650,01/04/1/1/1/0060,Umuokwe Primary Health Care,Primary,Public,View
+Abia,Bende,Umuimenyi,13958672,01/04/1/1/1/0005,Akoli Primary Health Centre,Primary,Public,View
+Abia,Bende,Umuimenyi,52838820,01/04/1/1/1/0016,Amaorji Imenyi Primary Health Care,Primary,Public,View
+Abia,Bende,Umuimenyi,43502369,01/04/1/1/1/0019,Amoji Lodu Primary Health Care,Primary,Public,View
+Abia,Bende,Umuimenyi,62439703,01/04/1/1/1/0031,Lodu Imenyi Primary Health CARE,Primary,Public,View
+Abia,Bende,Umuimenyi,71799241,01/04/1/1/1/0032,Lohum Primary Health Care,Primary,Public,View
+Abia,Bende,Unknown,61442894,01/04/1/1/1/0043,Okai Health Centre,Primary,Public,View
+Abia,Bende,Unknown,31299750,01/04/1/1/1/0046,Okporoenyi Health Centre,Primary,Public,View
+Abia,Bende,Unknown,85011402,01/04/1/1/1/0051,Tb & Leprosy Referal Centre,Primary,Public,View
+Abia,Bende,Uzuakoli 1,21032965,01/04/1/1/1/0036,Ngwu Primary Health Centre,Primary,Public,View
+Abia,Bende,Uzuakoli 1,58285763,01/04/1/1/1/0037,Nkechi Colwill Methodist Hospital,Primary,Public,View
+Abia,Bende,Uzuakoli 2,31523236,01/04/1/1/2/0001,Achama  Hospital,Secondary,Private,View
+Abia,Bende,Uzuakoli 2,13087702,01/04/1/1/2/0004,Ijeoma Maternity,Primary,Private,View
+Abia,Bende,Uzuakoli 2,23680288,01/04/1/1/2/0011,Tochi Hospital,Secondary,Private,View
+Abia,Bende,Uzuakoli 2,15586001,01/04/1/1/1/0062,Uzuakoli Primary Health Centre,Primary,Public,View
+Abia,Ikwuano,Agbaluozu,68268326,01/05/1/1/1/0038,umugbalu health centre,Primary,Public,View
+Abia,Ikwuano,Ajatanigu,12865735,01/05/1/1/1/0011,Aro-Ajatakiri Health Centre,Primary,Public,View
+Abia,Ikwuano,Ajatanigu,32359427,01/05/1/1/1/0013,umuigu health centre,Primary,Public,View
+Abia,Ikwuano,Ajatanigu,67930944,01/05/1/1/1/0034,Umuigu Health Centre,Primary,Public,View
+Abia,Ikwuano,Ariam 1,55738907,01/05/1/1/1/0008,Ariam Ala-Ala Health Centre,Primary,Public,View
+Abia,Ikwuano,Ariam 1,80785947,01/05/1/1/1/0010,Ariam Primary Health Centre,Primary,Public,View
+Abia,Ikwuano,Azuiyi,49113942,01/05/1/1/1/0041,Azuiyi health centre,Primary,Public,View
+Abia,Ikwuano,Ekpiri,25336132,01/05/1/1/2/0002,Ekpiri Health Centre,Primary,Private,View
+Abia,Ikwuano,Ibere 1,31893587,01/05/1/1/1/0002,Ahia Orie primary heailth centre,Primary,Public,View
+Abia,Ikwuano,Ibere 1,76166423,01/05/1/1/1/0014,Iberenta Health Centre,Primary,Public,View
+Abia,Ikwuano,Ibere 1,15036557,01/05/1/1/1/0015,Ihim Health Centre,Primary,Public,View
+Abia,Ikwuano,Ibere 2,50037983,01/05/1/1/1/0019,Itu-Nta Health Centre,Primary,Public,View
+Abia,Ikwuano,Ibere 2,85594575,01/05/1/1/2/0004,Iyalu Health Centre,Primary,Public,View
+Abia,Ikwuano,Ibere 2,76532839,01/05/1/1/1/0022,Ngwugwo Health Centre,Primary,Public,View
+Abia,Ikwuano,Ibere 2,76967818,01/05/1/1/1/0023,Nkalunta Health Centre,Primary,Public,View
+Abia,Ikwuano,Ibere 2,85127220,01/05/1/1/1/0027,Obuohia Ibere Health Centre,Primary,Public,View
+Abia,Ikwuano,Ikemba,45545924,01/05/1/1/1/0016,Ikemba Health Centre,Primary,Public,View
+Abia,Ikwuano,Oboro 1,48618847,01/05/1/1/1/0006,Amawom Outreach Unit,Primary,Public,View
+Abia,Ikwuano,Oboro 1,68239988,01/05/1/1/1/0030,Oloko Health Centre,Primary,Public,View
+Abia,Ikwuano,Oboro 2,17296960,01/05/1/1/1/0004,Amaba Health Centre,Primary,Public,View
+Abia,Ikwuano,Oboro 2,68442061,01/05/1/1/1/0005,Amabaime Outreach Unit,Primary,Public,View
+Abia,Ikwuano,Oboro 2,60267856,01/05/1/2/1/0002,Michael Okpara University Of Agriculture Health Centre,Secondary,Public,View
+Abia,Ikwuano,Oboro 2,85467063,01/05/1/1/1/0033,Umudike Ukwu Health Centre,Primary,Public,View
+Abia,Ikwuano,Oboro 3,63153206,01/05/1/1/1/0025,Oboro Health Centre,Primary,Public,View
+Abia,Ikwuano,Oboro 3,71594101,01/05/1/1/1/0029,Okwe Health Centre,Primary,Public,View
+Abia,Ikwuano,Oboro 4,78560622,01/05/1/1/1/0017,isiala health clinic,Primary,Public,View
+Abia,Ikwuano,Oboro 4,19932286,01/05/1/1/1/0040,ogbuebule health centre,Primary,Public,View
+Abia,Ikwuano,Oloko 1,81212502,01/05/1/1/1/0001,Ahaba Ukwu Primary Health Centre,Primary,Public,View
+Abia,Ikwuano,Oloko 1,28812445,01/05/1/1/1/0007,Amizi Health Centre,Primary,Public,View
+Abia,Ikwuano,Oloko 1,68667056,01/05/1/1/1/0012,Awomukwu Health Centre,Primary,Public,View
+Abia,Ikwuano,Oloko 1,56756781,01/05/1/1/2/0001,Christiana Maternity Home,Primary,Private,View
+Abia,Ikwuano,Oloko 1,34743283,01/05/1/1/1/0018,Isiugwu Health Centre,Primary,Public,View
+Abia,Ikwuano,Oloko 1,86957950,01/05/1/1/2/0008,Nkasi Maternity Home,Primary,Private,View
+Abia,Ikwuano,Oloko 1,72893842,01/05/1/1/1/0039,umuozugwo health centre,Primary,Public,View
+Abia,Ikwuano,Oloko 2,57391297,01/05/1/1/1/0020,Nchara Akanu Health centre,Primary,Public,View
+Abia,Ikwuano,Oloko 2,48483515,01/05/1/1/1/0021,Nchara Otoro health centre,Primary,Public,View
+Abia,Ikwuano,Oloko 2,82455092,01/05/1/1/1/0028,Obuohia Okike Health Centre,Primary,Public,View
+Abia,Ikwuano,Oloko 2,54087668,01/05/1/1/1/0036,Usaka-Eleogu Health Centre,Primary,Public,View
+Abia,Ikwuano,Ugwuegbu,71364413,01/05/1/1/1/0026,Obugwu Primary Health Centre,Primary,Public,View
+Abia,Ikwuano,Uhala-Uda/Origwe,79649685,01/05/1/1/1/0024,Nnono Health Centre,Primary,Public,View
+Abia,Ikwuano,Unknown,65982919,01/05/1/1/1/0009,Ariam Model Primary Health Care Centre,Primary,Public,View
+Abia,Ikwuano,Unknown,82861680,01/05/1/2/2/0001,Christian Hospital,Secondary,Private,View
+Abia,Ikwuano,Unknown,25625144,01/05/1/2/1/0001,Comprehensive Health Centre (Fmc),Secondary,Public,View
+Abia,Ikwuano,Unknown,51127868,01/05/1/1/2/0005,Linda Maternity,Primary,Private,View
+Abia,Ikwuano,Unknown,38351213,01/05/1/2/2/0002,St. Michaels Catholic Hospital Ariam Elu Elu,Secondary,Private,View
+Abia,Ikwuano,Unknown,22845416,01/05/1/2/2/0003,Steugene Hospital,Secondary,Private,View
+Abia,Ikwuano,Unknown,63786726,01/05/1/1/1/0035,University Of Agriculture Medical Centre Umudike,Primary,Public,View
+Abia,Ikwuano,Usaka,33205750,01/05/1/1/1/0037,Usaka-Ukwu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Abayi Amorji,71538991,01/06/1/1/1/0001,Abayi Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Abayi Amorji,19096220,01/06/1/1/1/0013,Amaorji Primary Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Achiudo,50891782,01/06/1/1/1/0007,Amachi Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Achiudo,33761348,01/06/1/1/1/0065,Usaka Primary Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Agburuezeukwu,81685783,01/06/1/1/1/0003,Agburuezeukwu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Agburuezeukwu,13096024,01/06/1/1/1/0004,Agburuike Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Agburuezeukwu,51722180,01/06/1/1/1/0061,Umuomaiukwu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Ahiabaubi Umuchima,55388912,01/06/1/1/1/0006,Ahiabaubi Primary Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Ahiabaubi Umuchima,45068522,01/06/1/1/1/0048,Umuchima Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Amaasa,56691860,01/06/1/1/1/0035,Ntigha Okpuala Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Amaasa,81453875,01/06/1/1/1/0038,Ohuhu Nsulu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Amaasa,41791409,01/06/1/1/1/0046,Umuakwu Health Clinic,Primary,Public,View
+Abia,Isiala-Ngwa North,Amano Nsulu,30606415,01/06/1/1/1/0030,Ikputu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Amano Nsulu,22977464,01/06/1/1/1/0052,Umuezeukwu Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Amasaa Ntigha,75831040,01/06/1/1/1/0020,Ntigha primaryHealth Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Amasaa Ntigha,60545716,01/06/1/1/1/0049,Umueke Primary Health Center,Primary,Public,View
+Abia,Isiala-Ngwa North,Amasaa Ntigha,25342343,01/06/1/1/1/0050,Umuekpe Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Eziama Ntigha,55837380,01/06/1/1/1/0037,Obingwa Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Ihie,82520554,01/06/1/1/1/0029,Ihie Primary Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Amapu,55537092,01/06/1/1/1/0008,Amaekpu Isiahia Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Amapu,37344419,01/06/1/1/1/0009,Amaekpu Umuamata Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Amapu,45565559,01/06/1/1/1/0014,Amaputa Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Amapu,54131495,01/06/1/1/1/0018,Apu Na Ekpu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Amapu,60274088,01/06/1/1/1/0019,Apu-Na-Ekpu Extension Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Amapu,78956838,01/06/1/1/1/0028,Ichi Ukwu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Amapu,86901481,01/06/1/1/1/0032,Isiala Amapu Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Enyiala,29838529,01/06/1/1/1/0031,Imerem Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Nsulu,57359892,01/06/1/1/1/0026,Eziala Primary Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Nsulu,40589924,01/06/1/1/1/0045,Umuagu Health Clinic,Primary,Public,View
+Abia,Isiala-Ngwa North,Isiala Nsulu,25854474,01/06/1/1/1/0047,Umuala Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Mbawsi Umuomainta,56534095,01/06/1/1/1/0021,Basic Primary Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Mbawsi Umuomainta,39519053,01/06/1/1/2/0016,God Own Heritage Health Clinic,Primary,Private,View
+Abia,Isiala-Ngwa North,Ngwaukwu 1,38252146,01/06/1/1/1/0012,Amaokpu Osusu Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Ngwaukwu 1,33914063,01/06/1/1/1/0017,Amuzu Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Ngwaukwu 1,37190278,01/06/1/1/2/0001,Amuzu Okpumuo Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Ngwaukwu 1,27598505,01/06/1/1/1/0036,Obikabia  Haelth Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Ngwaukwu 1,72013874,01/06/1/2/1/0001,Okpuala Ngwa General Hospital,Secondary,Public,View
+Abia,Isiala-Ngwa North,Ngwaukwu 1,79655139,01/06/1/1/1/0040,Okpula Ngwa Primary Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Ngwaukwu 1,46748423,01/06/1/1/1/0043,Osusu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Ngwaukwu 2,81491819,01/06/1/1/1/0005,Ahiaba Okpuala Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Ngwaukwu 2,19050063,01/06/1/1/2/0007,Chinonye Hospital,Primary,Private,View
+Abia,Isiala-Ngwa North,Oria na Ugaa,49764525,01/06/1/1/1/0059,Umuogwoka Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Ovuokwu,73461069,01/06/1/1/1/0002,Agbaragwu Health Center,Primary,Public,View
+Abia,Isiala-Ngwa North,Umuelemoh Mbawsi,16769031,01/06/1/1/2/0002,Anglican Maternity Home,Primary,Private,View
+Abia,Isiala-Ngwa North,Umuelemoh Mbawsi,42911768,01/06/1/2/2/0001,Central Medical Centre,Secondary,Private,View
+Abia,Isiala-Ngwa North,Umuelemoh Mbawsi,19468358,01/06/1/1/2/0070,Chinoyerem Hospital,Primary,Private,View
+Abia,Isiala-Ngwa North,Umuelemoh Mbawsi,23457723,01/06/1/2/2/0002,Cottage Hospital,Secondary,Private,View
+Abia,Isiala-Ngwa North,Umuelemoh Mbawsi,81466104,01/06/1/1/1/0051,Umuelemoha Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Umuha,84842635,01/06/1/1/1/0023,Egbelu-Ubi Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Umuha,87357023,01/06/1/1/2/0072,Olive clinic,Primary,Private,View
+Abia,Isiala-Ngwa North,Umuha,19759187,01/06/1/2/2/0005,St Eugene Hospital,Secondary,Private,View
+Abia,Isiala-Ngwa North,Umuha,24476194,01/06/1/1/1/0064,Uratta Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Umunna,67374030,01/06/1/1/1/0071,Okpulorukwu H/P,Primary,Public,View
+Abia,Isiala-Ngwa North,Umunna,43285216,01/06/1/1/1/0057,Umuode Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Umunna,85696419,01/06/1/1/1/0063,Umuosu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,15497087,01/06/1/1/1/0011,Amanu Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,44483691,01/06/1/1/2/0005,Chidumaram Hospital,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,52790233,01/06/1/1/2/0006,Chinenyenwa Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,49278578,01/06/1/1/2/0009,Chioma Maternity Home,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,33462732,01/06/1/1/2/0013,Emmamuel Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,69818604,01/06/1/2/2/0003,Euna Hospital,Secondary,Private,View
+Abia,Isiala-Ngwa North,Unknown,43929188,01/06/1/1/2/0014,Ezinna Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,36711385,01/06/1/1/2/0015,Faith Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,69318104,01/06/1/1/2/0017,Gods Care Maternity Clinic,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,21831700,01/06/1/2/2/0004,Innokin Hospital,Secondary,Private,View
+Abia,Isiala-Ngwa North,Unknown,63953874,01/06/1/1/2/0018,Livingword Mission Hospital,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,20500562,01/06/1/1/2/0019,Mercy Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,27121803,01/06/1/1/1/0033,Mgboko Anya Primary Health Center,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,26157597,01/06/1/1/1/0034,Model Primary Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,80548466,01/06/1/1/2/0020,Muhani Hospital,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,38317477,01/06/1/1/2/0021,Nkechinyere Maternity Home,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,36602089,01/06/1/1/2/0022,Ogechi(Chichi) Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,41955998,01/06/1/1/1/0039,Okpuala Health Post,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,62935898,01/06/1/1/1/0042,Osusu Amairi Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,40225419,01/06/1/1/2/0023,Ronald Hospital And Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,40699377,01/06/1/1/2/0024,Soso Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,13924697,01/06/1/1/2/0025,St Simeon Hospital And Maternity,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,80318325,01/06/1/1/1/0044,Ugba Health Clinic,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,36648413,01/06/1/1/2/0027,Uloma Maternity Home,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,37782484,01/06/1/1/1/0053,Umuhu Primary Health Center,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,39992021,01/06/1/1/1/0055,Umunko Primary Health Center,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,58337674,01/06/1/1/1/0056,Umunkpeyi Nvosi Primary Healthcare,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,32409669,01/06/1/1/1/0060,Umuola Egbelu Primary Health Care,Primary,Public,View
+Abia,Isiala-Ngwa North,Unknown,39128732,01/06/1/1/2/0028,Umuomanita District And Comprehensive Centre,Primary,Private,View
+Abia,Isiala-Ngwa North,Unknown,12630315,01/06/1/1/1/0062,Umuomayi Mbawsi,Primary,Public,View
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,16835263,01/07/1/1/1/0010,Amaku Health Centre,Primary,Public,View
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,18974169,01/07/1/1/1/0021,Eziama na Obuba  Health Center,Primary,Public,View
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,70612525,01/07/1/1/2/0006,Mercy Maternity and Rehabilitation Home,Primary,Private,View
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,32166166,01/07/1/1/1/0037,Mgbokonta Health Center,Primary,Public,View
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,57106824,01/07/1/1/1/0107,Nvosi  1 Health  Center,Primary,Public,View
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,59595504,01/07/1/1/1/0049,Obuba Primary Health Center,Primary,Public,View
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,74145406,01/07/1/2/2/0102,Teresa Orsini Clinic,Secondary,Private,View
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,55485137,01/07/1/1/1/0078,Umuko Health Centre,Primary,Public,View
