@@ -35,7 +35,7 @@ for i in range(1,9):
         headers.append(th.text.strip().replace(" ","_").lower())
     headers.append("longitude")
     headers.append("latitude")
-# print(headers)
+
     # Loop over each row in the table body and store the data in a list of dictionaries
     data = []
     for tr in table.find_all('tr'):
