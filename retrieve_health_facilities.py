@@ -56,4 +56,4 @@ df = pd.DataFrame(all_data)
 # df.to_excel("./bystate222.xlsx",sheet_name="Hospital list", index=False)
 
 # export dataframe to a CSV file format
-df.to_csv("./HFR_with_coordinates.csv", index=False)
+df.to_csv("./HFR_with_coordinates_test.csv", index=False)
