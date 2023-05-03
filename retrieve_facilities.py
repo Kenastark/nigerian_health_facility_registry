@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-import duckdb
 
 all_data = []
 for i in range(1,9):
