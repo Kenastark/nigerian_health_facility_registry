@@ -41,10 +41,18 @@ for i in range(1,9):
     for tr in table.find_all('tr'):
         row = {}
         for i, td in enumerate(tr.find_all('td')):
-            row[headers[i]] = td.text.strip()
+            a = td.find('a')
+            button = a.find('button') if a else None
+            if button and button.get('data-longitude') and button.get('data-latitude'):
+                longitude = button.get('data-longitude')
+                latitude = button.get('data-latitude')
+                row["longitude"] = longitude
+                row["latitude"] = latitude
+            row[headers[i]] = td.text.strip() 
+            
         if row:
             data.append(row)
-    
+  
     # Append the data from the current page to the list of all data
     all_data.extend(data)
     
