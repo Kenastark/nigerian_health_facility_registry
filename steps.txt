@@ -1,0 +1,8 @@
+read in both the hubs and master list files into a dataframe
+loop over each of the facility_name in the hubs dataframe, and store the content in a variable facility_name
+loop over each of the state in the hubs dataframe, and store the content in a variable state
+Filter the Master_list by the variable state.
+compare the facility_name from hubs with the facility_name from the Master_list to find an exact match. If found, copy the facility_name to a new corrected_facility_name column.
+If no exact match, find an approximate match > 80%.  If found, copy the facility_name to a new corrected_facility_name column.
+If no approximate match found, write "not found" into the contents of the corrected_facility_name column.
+This will be repeated for each facility_name, state iteration from the hubs dataset.
