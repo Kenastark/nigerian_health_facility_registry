@@ -12,13 +12,13 @@ corrected_names = []
 
 for name, state in zip(df_hub['facility_name'], df_master['state']):
     # Filter the master DataFrame by state
-    filter_master = df_hub[df_hub['state'] == state]
+    filtered_master = df_hub[df_hub['state'] == state]
     
-    if name in filter_master['facility_name'].values:
+    if name in filtered_master['facility_name'].values:
         corrected_names.append(name)
 
     else: #looking for best match
-        best_match = difflib.get_close_matches(name,filter_master["facility_name"],n=1,cutoff=0.6) #from 0.6 below the matching becomes less accurate
+        best_match = difflib.get_close_matches(name,filtered_master["facility_name"],n=1,cutoff=0.6) #from 0.6 below the matching becomes less accurate
         #from 0.65 it matches any "General Hospital" to "General Hospital Ohafia"
         # at 0.7 it still matches to "General Hospital Ohafia"
         # at 0.8 it matches a few(3) to "General Hospital Ohafia"
