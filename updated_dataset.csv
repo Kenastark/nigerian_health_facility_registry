@@ -1,0 +1,768 @@
+state,lga,facility_name,Data source,Unnamed: 4,Unnamed: 5,corrected_facility_name
+Akwa Ibom,Oruk Anam,"GH, Ikot Okoro",IAR TB SAMPLE MAPPING AND TARRIFF,,List of States,not_found
+Akwa Ibom,Eket,"Immanuel General Hospital, Eket",IAR TB SAMPLE MAPPING AND TARRIFF,,Akwa Ibom,General Hospital Ohafia
+Akwa Ibom,Essien Udim,ST. MARY 'S HOSPITAL URUA AKPAN,IAR TB SAMPLE MAPPING AND TARRIFF,,Anambra,not_found
+Akwa Ibom,Etim Ekpo,GENERAL HOSPITAL URUK ATA IKOT EKPO,IAR TB SAMPLE MAPPING AND TARRIFF,,Bayelsa,not_found
+Akwa Ibom,Etinan,QUA IBOE CHURCH LEPROSY HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,Cross River,not_found
+Akwa Ibom,Ikot Ekpene,"IDH, IKOT EKPENE",IAR TB SAMPLE MAPPING AND TARRIFF,,Delta state,not_found
+Akwa Ibom,Ikono,GENERAL HOSPITAL IBIAKU NTOK  OKPO,IAR TB SAMPLE MAPPING AND TARRIFF,,FCT,not_found
+Akwa Ibom,Ikot Abasi,GH Ikot Abasi,IAR TB SAMPLE MAPPING AND TARRIFF,,Rivers State,not_found
+Akwa Ibom,Uyo,UNIVERSITY OF UYO TEACHING HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,Abia,not_found
+Akwa Ibom,Oron,GENERAL HOSPITAL IQUITA,IAR TB SAMPLE MAPPING AND TARRIFF,,Ebonyi,not_found
+Akwa Ibom,,ST LUKES HOSPITAL ANUA,IAR TB SAMPLE MAPPING AND TARRIFF,,Enugu,not_found
+Anambra,ANAMBRA WEST,GENERAL HOSPITAL UMUERI,IAR TB SAMPLE MAPPING AND TARRIFF,,Imo,not_found
+Anambra,AWKA SOUTH,ANAMBRA STATE UNIV. TH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,AWKA NORTH,ANAMBRA STATE UNIV. TH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,ANAOCHA,ST JOSEPH HOSPITAL ADAZI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,ANAOCHA,St Joseph Hospital Adazi ,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,AYAMELUM,GENERAL HOSPITAL UMUERI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,EKWUSIGO,NAUTH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,IDEMILI SOUTH,NAUTH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,IDEMILI NORTH,IYIENU MISSION HOSPITAL OGIDI,IAR TB SAMPLE MAPPING AND TARRIFF,,,LIVING WORD MISSION HOSPITAL ABBA
+Anambra,IHIALA,OUR LADY OF LOUDES,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,OGBARU,ONC DIAGNOSTIC CENTER OGBARU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,ORUMBA NORTH,GENERAL HOSP. AJALLI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,ORUMBA SOUTH,GENERAL HOSP. EKWULUOBIA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,OYI,ISAAC CHIRA HOSPITAL  AWKUZU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,NNEWI SOUTH,ST JOSEPH HOSPITAL ADAZI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,NJIKOKA,GENERAL HOSP. ENUGU UKWU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,ONITSHA NORTH,ST CHARLES BOROMEO/GEN.HOSP.ONITSHA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,ONITSHA SOUTH,ST CHARLES BOROMEO/GEN.HOSP.ONITSHA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,ONITSHA SOUTH,ST CHARLES BOROMEO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Anambra,Aguata,Visitation Hospital Umuchu,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,Anglican Diocesan Hospital and Maternity  Igboukwu,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,St Rapheal Catholic Maternity Igboukwu,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,EDELTRAUT MEMORIAL HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,NATIONAL MEDICAL CENTRE,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,KANDUDI SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,ST MARY'S HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,APEX MEDICAL CENTRE,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,CHIBUZOR HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,DIONYE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,OGECHUKWU HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,CHIDERA SPECIALIST HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,UKANDU HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aguata,CYNVIC SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anambra East,Dioceasan Hosptal Umueri,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anambra West,Rex Universorum Hospital Mmiata Anam,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anaocha,RISE CLINIC,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anaocha,ECHEZONACHUKWU HOSPITAL & MATERNITY AGULU ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anaocha,CHUKWUDI HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anaocha,IFEANYICHUKWU HOSPITAL & MATERNITY AGULU,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anaocha,"ALL SAINTS HOSPITAL, AGULU",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anaocha,ST MICHAEL MEMORIAL HOSPITAL ADAZI ENU,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Anaocha,MACJANE HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Aniocha,ST Joseph Hospital Adazi Nnukwu,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka North,NEON UNIVERSAL MEDICAL SERVICES,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka North,DUECARE HOSPITAL/MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka North,IHECHICHORO BLESSED MEDICALS,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka North,ST RAPHAEL HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka North,GOD'S GIFT/LIFE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka North,DIKE MEDICAL CENTRE,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka North,IZUNNA HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka North,LANCET HOSPITAL LTD (D-ZOE FOUNDATION HOSPITAL),Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,Regina Celi Hospital Awka,Delta and Anambra Sample Shipment Mapping.xlsx,,,General Hospital Ohafia
+Anambra,Awka South,St Faith Hospital Awka,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,MESHIAC MEMORIAL HOSPITAL/MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,GRACELAND SPECIALIST HOSPITAL/MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,CHRIST THE KING SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,AWKA MEDICAL CENTRE,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,PRIME HOSPITAL AWKA,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,CREST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,OKOYE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,CHIDUBEM HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,HARMONY HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,APEX HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,ELDORADO MULTISPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,MADONNA HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,SEFTON SPECIALIST HOSPITAL AWKA,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Awka South,CELFLOW SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,AYAMELUM,OGECHUKWU MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Dunukofia,Immaculate heart Hospital and maternity Umudioka,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Dunukofia,IDEAL HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Dunukofia,EDOZIE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ekwusigo,Joint Hospital Ozubulu,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ekwusigo,EVANS HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ekwusigo,HOLY FAMILY HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ekwusigo,ST JUDE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ekwusigo,ACCESS HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,Iyi Enu Mission Hospital Ogidi,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,Immaculate Hearth Hospital Nkpor,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,Immaculate Heart Hospital Abatete,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,St Martins Hospital and Maternity Ugwuagba Obosi,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,MADUEKE MEMORIAL HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,LUKESON ROYAL HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,MULTICARE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,HOSSANA HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,IDEMILI HEALTHCARE,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,OBINWANNE HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,MATER-CHRISTI HOSPITAL NKPOR,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,HEAVENLY GRACE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,UPRIGHT N. MEDICALS NKPOR,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,CROWN HOSPITAL ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,OAKLAND SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,CHIBUIKEM HOSPITAL NKPOR,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,NEW MAYOR HOSPITAL AND FERTILITY LTD,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,AJAEFO OKWUOSA HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,LIFE VALUE ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,ST JOHN HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,"BEX MEMORIAL HOSPITAL, AWADA",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,CHISOM HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,ROYAL SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,PIETA HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili North,DAY SPRING HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,Our Lady of Fatima Hospital Awka Etiti,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,MOON HOSPITAL LTD NNOBI,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,CHUKWUNONSO HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,UZONDU SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,JESUS IS LORD HOSPITAL OBA,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,RELIANCE HOSPITAL OBA,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,MEZIE SPECIALIST HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,"GREENLAND FOUNDATION HOSPITAL, NNOKWA",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,AMARA NURSING HOME,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,ST FRANCIS HOSPITAL AWKA-ETITI,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,EGBUNIKE HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Idemili South,ST FATIMA HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,Our Lady of Lourdes Ihiala,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,St Lukes  Hospital Isieke,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,GOD'S FOUNTAIN OF FAVOUR HOSPITAL SPECIALIST,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,NNEDIASO HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,ST ANTHONY'S MATERNITY IHIALA,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,LIVETH HOSPITAL OKIJA,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,INFANT JESUS HOSPITAL/MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,REX HOSPITAL/MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,EVANS SPECIALIST HOSPITAL OKIJA,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ihiala,VERA CLINIC HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Njikoka,BELUCHUKWU HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Njikoka,KING DAVID HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Njikoka,URBAN HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Njikoka,CRYSTAL HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Njikoka,OKPALA HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Njikoka,BEKE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,Nnewi Diocesan Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,St Felix Catholic Specialist Hospital Umudim,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,Immaculate  heart Hospital Okwuani,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,ST ALPHONSUS CHIKEZIE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,EVER CARE MATERNITY/CLINIC,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,DOUGLAS NKEMDILIM CLINIC,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,CRYSTALS SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,OLIVE HOSPITAL & MAT,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,REDEMPTION SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,"WINNERS CHILDREN SPECIALIST HOSPITAL, ",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,FIRST MAF HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,ST BENEDICT HOSPITAL & MAT,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,CHIMEX HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi North,CHIKEZIE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi South,Diocesan Hospital Amichi,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Nnewi South,Visitation Hospital Osumenyi,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,St Luke's Hospital Diocesan Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,GOODNEWS HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,PATRICIA MEMORIAL HOSPITAL/MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,LUMEN CHRISTI SPECIALIST HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,KINGSKIDD HOSPITAL & WOMEN CENTRE,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,GOD'S MERCY HOSPITAL/MAT ATANI,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,KELECHI MATERNITY/HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,VICTORY HOSPITAL IYIOWA ODEKPE,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,NEWLIFE HOSPITAL/MAT ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Ogbaru,CHUKWU MEMORIAL HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,St Charlse Borromeo Specialist Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,Holy Rosary Specialist Hospital Onitsha,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,RUSHGREEN HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,MIULTICARE HOSPITA LAND WOMEN WELFARE,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,PIONEER HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,VENIK SPECIALIST HOSPITALAND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,ANACHEBE SPECIALIST HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,KANAYO SPECIALIST HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,ALL HALLOWS HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,ST. PATRICK HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha North,MERCY SPECIALIST HOSPITAL AND MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha South,St John's Anglican Hospital Fegge,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha South,EZINNE CHILDREN HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha South,DELTA HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha South,NEW HOPE HOSPITAL & LABORATORIES,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha South,UDECHUKWU MEMORIAL HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha South,MENAX HOSPITAL ONITSHA,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha South,VICTORY CHILDREN HOSPITAL ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Onitsha South,CHRIST THE KING HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Orumba South,KWENAS HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Orumba South,Immaculate hearth Hospital Umunze,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Orumba South,Aguata Diocesan Hospital Umunze,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Orumba South, Trinitias International Hospital Umuchukwu,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Oyi,ISAAC CHIRA HOSPITAL & MATERNITY,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Oyi,CHIBUIKE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Oyi,BEATRICE HOSPITAL,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Anambra,Oyi,Survival Holy Church Hospital Ogbunike,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Bayelsa,Brass,GH BRASS,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Southern Ijaw,GH Amassoma,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Southern Ijaw,CHC EKOWE/ TBL IGBOGENE/NDUTH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Southern Ijaw,PHC Aguobiri,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Southern Ijaw,PHC Okigbene,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Yenagoa,"FMC  Yenegoa,TBL IGBOGENE, NDUTH",IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Yenagoa ,"FMC  Yenegoa,TBL IGBOGENE, NDUTH",IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Ekeremor,"OLW BOMADI,DELTA STATE",IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Ekeremor,CHC Ekeremor,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Kolokuma/ Opokuma,TBL Igbogene,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Kolokuma/ Opokuma,GH Odi,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Kolokuma/ Opokuma,CH Okoloba,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Sagbama,GH Sagbama,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Sagbama,TBL Igbogene/NDUTH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Sagbama,PHC Osoni,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Nembe,CHC Nembe,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Nembe,GH Nembe,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Nembe,PHC Otumama,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Ogbia,FMC OTUOKE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Ogbia,Emeyal 1,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Bayelsa,Ogbia,PHC Otueke,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Abi,Eja Memorial Hospital Itigidi,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Akamkpa,PHC ANINGEJE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Akamkpa,GH AKAMKPA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Akpabuyo,PHC IKOT OFFIONG AMBA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Bakassi,PHC IKANG,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Bekwarra,PHC GAKEM,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Biase,COTTAGE HOSPITAL AKPET,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Boki,CHC OKUNDE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Cal. Municipal,PHC BIG-QUA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Cal.South,PHC EKPO ABASI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Etung,CHC BENDEGHE EKIEM,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Etung,MPHC EFFRAYA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Ikom,H/C EDOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Obanliku,PHC UTANGA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Obubra,TBL HOSPITALMBEMBE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Obudu,GH OBUDU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Obudu,SACRED HEART HOSPITAL OBUDU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Odukpani,PHC ODUKPANI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Odukpani,CHC OKONYONG,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Ogoja,GH OGOJA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Yala,LUTHERAN HOSPITAL YAHE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Yala,PHC OBA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Yakurr,PHC EKORI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Yakurr,PHC NKO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Cross River,Abi,Eja Memorial Hospital Itigidi,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Akamkpa,PHC ANINGEJE,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Akamkpa,GH AKAMKPA,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Akpabuyo,PHC IKOT OFFIONG AMBA,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Bakassi,PHC IKANG,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Bekwarra,PHC GAKEM,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Biase,COTTAGE HOSPITAL AKPET,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Boki,CHC OKUNDE,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Cal. Municipal,PHC BIG-QUA,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Cal.South,PHC EKPO ABASI,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Etung,CHC BENDEGHE EKIEM,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Etung,MPHC EFFRAYA,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Ikom,H/C EDOR,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Obanliku,PHC UTANGA,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Obubra,TBL HOSPITALMBEMBE,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,obudu,GH OBUDU,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,obudu,SACRED HEART HOSPITAL OBUDU,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Odukpani,PHC ODUKPANI,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Odukpani,CHC OKONYONG,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Ogoja,GH OGOJA,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,yala,LUTHERAN HOSPITAL YAHE,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,yala,PHC OBA,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Yakurr,PHC EKORI,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Cross River,Yakurr,PHC NKO,Cross River Public sputum sample shipment template.xlsx,,,not_found
+Delta state,ANIOCHA NORTH,GENERAL HOSPITAL ISSELE-UKU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA NORTH,GENERAL HOSPITAL ONICHA-OLONA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA NORTH,PHC ONICHA UGBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA NORTH,PHC UBULUBU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA NORTH,PHC IDUMUJE UNOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA SOUTH,GENERAL HOSPITAL OGWASHI-UKU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA SOUTH,PHC UBULU-UKU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA SOUTH,PHC EJEMEN-ANIOGOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA SOUTH,PHC UBULU-OKITI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ANIOCHA SOUTH,GENERAL HOSPITAL ISHEAGU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,GENERAL HOSPITAL BOMADI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC OGBEINAMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC OGO-EZE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC KPAKIAMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,OUR LADY OF THE WATERS BOMADY,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC EKAMETAGBENE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC OKOLOBA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC OGODOBIRI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC AKUGBENE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC ESANMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BOMADI,PHC OGBEINAMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,GENERAL HOSPITAL BURUTU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,GOVERNMENT HOSPITAL OJOBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC AYAKOROMO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC TORUGBENE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,ISLAND CLINIC & MATERNITY OGULAGHA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,GOVERNMENT HOSPITAL FORCADOS,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,GOVERNMENT HOSPITAL KIAGBODO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC OKPOKUNOU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC OKRIKA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC EGODOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC ODIMODI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC TAMIGBE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC OGBOGBAGBENE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC OBOTEBE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC SOKEBOLOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC GBEKEBOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC ENEKOROGHA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC TUOMO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,BURUTU,PHC OBORO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE EAST,TBL REFERRAL CENTRE EKU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE EAST,PHC OKPARA INLAND,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE EAST,GOVERNMENT HOSPITAL ABRAKA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE EAST,COTTAGE HOSPITAL ERHOIKE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE EAST,CH ERHOIKE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE EAST,GOVERNMENT HOSPITAL ISIOKOLO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE EAST,GOVERNMENT BAPTIST HOSPITAL EKU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE WEST,GENERAL HOSPITAL OGHARA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE WEST,PHC JESSE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE WEST,GOVERNMENT HOSPITAL MOSOGAR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE WEST,PHC EDJEMUONYAVWE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE WEST,PHC JESSE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ETHIOPE WEST,GH OGHARA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA NORTH EAST,GENERAL HOSPITAL OWA-OYIBU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA NORTH EAST,GENERAL HOSPITAL UMUNEDE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA NORTH EAST,GENERAL HOSPITAL OWA-ALERO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA NORTH EAST,PHC BOJI-BOJI OWA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA NORTH EAST,GH UMUNEDE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA NORTH EAST,OWA ALERO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA NORTH EAST,PHC OWA-OYIBU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,CENTRAL HOSPITAL AGBOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,"DOTS CLINIC, SCHOOL OF NURSING AGBOR",IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,MODEL PHC CENTRE AGBOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,GENERAL HOSPITAL ABAVO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,SECHO SPECIALIST HOSPITAL AGBOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,MAY NURSING HOME,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,BC OMODON MEMORIAL HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,OSEDE MEDICAL SERVICES,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,NKEONYE CLINIC AGBOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,IKA SOUTH ,GOD'S GRACE CLINIC EKUKU-AGBOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO NORTH,GENERAL HOSPITAL OZORO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO NORTH,GENERAL HOSPITAL OWHELOGBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO NORTH,GH OFAGBE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO NORTH,PHC ARHADE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO NORTH,GENERAL HOSPITAL OFAGBE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO NORTH,EKIUGBO-IYEDE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO NORTH,EKIUGBO-IYEDE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO NORTH,GH OFAGBE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,CENTRAL HOSPITAL OLEH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,COTTAGE HOSPITAL UZERE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,GH OLOMORO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC UMEH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,GOVERNMENT HOSPITAL OLOMORO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,GOVERNMENT HOSPITAL AVIARA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC IDHEZE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,GENERAL HOSPITAL ASHAKA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC ABBOH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC OSSISSA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC OKPAI OLUCHI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC IBREDE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC ABALLA-UNO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC IBEDENI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC INYI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC ISELEGU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,ISOKO SOUTH,PHC ONYAH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,NDOKWA WEST,CENTRAL HOSPITAL KWALE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,NDOKWA WEST,BREMA HOSPITAL KWALE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,NDOKWA WEST,PHC OGUME,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,NDOKWA WEST,PHC UTAGBA-UNO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,NDOKWA WEST,PHC Ndemili,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,NDOKWA WEST,PHC ABBI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OKPE,GENERAL HOSPITAL OREROKPE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OKPE,PHC OKUABUDE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OKPE,PHC OVIRI OKPE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OKPE,PHC OSUBI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OKPE,PHC OKUOKOKO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OKPE,PHC IWHRIYEN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OKPE,PHC EGBORODE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OKPE,PHC JEDDO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI NORTH,GOVERNMENT HOSPITAL IBUSA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI NORTH,GOVERNMENT HOSPITAL AKWUKWU-IGBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI NORTH,CHC ILLAH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI NORTH,PHC OKPANAM,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI NORTH,GH AKWUKWO IGBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI NORTH,PHC UKALA-OKPUNOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,FMC ASABA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,GENERAL HOSPITAL OKWE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,PHC AKWEBULU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,MODEL PHC ASABA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,ASABA SPECIALIST HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,PHC OKO ANALA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,DIVINE CARE HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,ICON CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,COMFORT KONSULT & SURGERIES,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,UPCHRIST CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,DUVEES HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,OSHIMILI SOUTH,PHC ANWAI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,GENERAL HOSPITAL PATANI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,PHC AGOLOMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,BULU-ANGIAMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,PHC ABARI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,PHC ADOBU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,PHC ODORUBU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,PHC TORU-ANGIAMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,PHC UDUOPHORI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,PATANI,PHC BULU-APELEBIRI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,SAPELE,CENTRAL HOSPITAL SAPELE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,SAPELE,PHC AMUKPE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,SAPELE,PHC GANA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,SAPELE,URBAN PHC SAPELE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,SAPELE,PHC UGBORHEN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,SAPELE,PHC OKU OVU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UDU,PHC ALADJA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UDU,PHC ORHUWHORUN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UDU,PHC OGHIOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UDU,PHC UBOGO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UDU,GH OTOR UDU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UDU,PHC OLERI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UDU,PHC OPETE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,CENTRAL HOSPITAL UGHELLI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,URBAN PHC UGHELLI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,PHC UWHERU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,PHC AGBARHA-OTOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,PHC EVWRENI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,PHC OROGUN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,PHC ERUEMUKOHWARIEN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,PHC OFUOMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,GENERAL HOSPITAL AGBARHO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,PHC IWHREKPOKPOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,ST STEPHEN'S MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,TRINITY HOSPITAL UGHELLI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,TAMA MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,UFUOMA CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,UFOR HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI NORTH,PHC OTOGOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC OKWAGBE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC OPHORIGBALA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,GENERAL HOSPITAL OTU-JEREMI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC OKPARE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC EGBAREGOLOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC OFRUKAMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC OLOTA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC USIEFRUN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC EFURUN-OTOR,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC OTOKUTU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC EGBO-IDEH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,FLOWAS CLINIC IWHREKAN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UGHELLI SOUTH,PHC EWU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UKWUANI,GENERAL HOSPITAL OBIARUKU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UKWUANI,URBAN PHC OBIARUKU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UKWUANI,PHC EBEDEI-UNO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UKWUANI,PHC AMAI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UKWUANI,GOVERNMENT HOSPITAL UMUTU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UVWIE,NAVY HOSPITAL EFFURUN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UVWIE,GENERAL HOSPITAL EKPAN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UVWIE,PHC EKPAN 2 (NIGERCAT),IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UVWIE,BLUE BELL HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UVWIE,JAH ROPHEKA HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UVWIE,3-H HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UVWIE,REGAL HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,UVWIE,RHARTEZ HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI NORTH,GENERAL HOSPITAL KOKO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI NORTH,PHC OPUAMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI NORTH,PHC OGHAYE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI NORTH,PHC AJAGBODUDU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI NORTH,PHC ABIGBORODO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,CENTRAL HOSPITAL WARRI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,PHC PESSU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,PHC EBOH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,ST GEORGES HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,FIRST RANK HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,SHEPHERD SPECIALIST HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,MEHSCOPE HOSPITAL & FERTILITY CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,MASCAP HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,PHC UBEJI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,PHC OGUNU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,PHC ODE-ITSEKIRI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,PHC AJAMIMOGHA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,PHC UGBOUWANGWE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH,PHC EKUREDE-URHOBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC OGBE-IJOH,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC DEGHELE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC ISABA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC OPOROZA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC OGIDIGBEN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC UGBORODO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC OKERENKOKO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC BATEREN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC MADAGHO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC AKPAKPA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC AGOGBORO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC AZAMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC AJUDAIBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta state,WARRI SOUTH WEST,PHC BENEKRUKRU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Delta,Ika North East,Anioma Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ika North East,Concept Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ika South,Alice Smooth Memorial Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ika South,Goodwill Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ika South,Living Spring Specialist Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ika South East,"God's Grace Nursing home, Boji Boji",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ika South,Gods Grace,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ika North East,St. Elizabeth Catholic Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ika North East,Catholic Maternity Hospital Boji Boji Owa,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Isoko North,Best -link Hospital ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Isoko North,Victory Clinic ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Isoko North,His Glory Medical Centre,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ndokwa East,Nuel hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ndokwa East,St Jude maternity home,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ndokwa West,Donak hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ndokwa West,Brema hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ndokwa West,Gabson Family hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ndokwa West,St Michael,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Isoko North,St. Mary's Catholic Hospital Ozoro,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ndokwa West,Catholic Hospital Abbi,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,New Life Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,Obule Medical Centre,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,Deola Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,Divine Care Clinic and Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,"James Clinic, Amukpe Sapele",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,"Okparavero Hopital,  Sapele",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,Get Well Hospital Sapele,Delta and Anambra Sample Shipment Mapping.xlsx,,,General Hospital Ohafia
+Delta,Sapele,Treasurehold Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,Great Major Clinic and Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,City Clinic and Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,Lana Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Sapele,St. Elizabeth Catholic Hospital Sapele,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Isoko South,Oweh Memorial Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Isoko South,Kings view specialist hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli North,St Nicholas Clinic and Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli North,Celian Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli North,Divine Mission medical center,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli North,Elohor Clinic Agbarho,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli South,Aghogho Nursing Centre And Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli South,Flowas Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli South,Galeo,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Patani,"Raco Nursing Home, Odorubu",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Patani,"Home of Peace, Clinic. Uduophori",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli North,Vikoga Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli North,Fredi Care,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ughelli North,Calvary Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Udu,Get Divine Mercy Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Udu,Royal clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Udu,Heartland Medical Center,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Udu,"Lonia Clinic, Udu",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Lily Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Udu,Caleb ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Udu,Dsc Clinic ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Victory Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Ebony Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Sage Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Kings Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Island Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Limelight Clinic/hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Galiway Skane hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Vicah Clinic/hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Vertimon Clinic/hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Bryant Hospital ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Victory Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Ebony Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Sage Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Kings Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Island Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Limelight Clinic/hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Galiway Skane hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Vicah Clinic/hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Vertimon Clinic/hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Bryant Hospital ,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,St. Andrew's Hospital warri,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Assumption Catholic Hospital warri,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Warri South,Salem Clinic and Maternity Warri,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Aniocha North,Ajulu Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Aniocha North,Goodnews hospital and maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Aniocha North,Glory To God Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Aniocha South,Mother of Mercy hospital and Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Aniocha South,Banos hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Aniocha South,St. Theresa's Hospital Isele-Uku,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili North,The Ark Medical Center,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili North,Group Christain Medical Centre,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili North,Holy Cross Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,El-Comfort,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,St Rebecca hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,St Lukes hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,Maduemezie Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,Good Samaritan Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,Temple Clinic Asaba,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,"Afolabi Hospital, Asaba",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,"Kanayo Hospital, Asaba",Delta and Anambra Sample Shipment Mapping.xlsx,,,General Hospital Ohafia
+Delta,Oshimili South,Comfort Consult Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Oshimili South,St. Joseph Hospital Asaba,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ukwuani,Dominion Care Medical Centre,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ukwuani,Tonia Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ukwuani,Trinity Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ukwuani,ST Philomena Nursing and Maternity Home,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ukwuani,Catholic hospital Obiaruku,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ukwuani,Catholic hospital Obiaruku,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Humanity hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Westend hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Dayspring Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Winners Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,B.U Clinics & Hospital Ltd.,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"Winrose Clinic Enerhen, Effurun",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"Good News hospital, Ekpan",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"Abiyuwa Clinic, Effurun",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"The Ark Clinic, Effurun",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"3-H Clinic, Effurun",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"Winlove Clinic, Effurun",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Capitol Hill Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Cleve Hill Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"Bendel Clinic, Enerhen, Effurun",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Sunrise Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Concord Nursing and Maternity Home,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"Group Christian Medical, Centre, Effurun",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Sunrise Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,Concord Nursing and Maternity Home,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Uvwie,"Group Christian Medical, Centre, Effurun",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Bomadi,Amazing Grace Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Bomadi,Our Saviour hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Bomadi,Our Lady of Waters PHC Bomadi,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Burutu,Island Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Burutu,New Foundation Clinic,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ethiope East,Acumen Hospital & Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ethiope East,Divine Peace Clinic & Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ethiope East,Alpars Hosp and Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ethiope East,St. Francis Catholic Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ethiope West,Avila Clinic & Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ethiope West,Maranatha Clinic and Maternity,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ethiope West,Health is Wealth,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Ethiope West,Our lady of Nigeria Catholic Hospital,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Okpe,Grace At Work Nursing & Maternity Home,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Okpe,"BMS Hospital, Osubi",Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Okpe,Shammar Med. Cen Oku Otomewo,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Okpe,Jotal,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Okpe,God Reigns Clinic & Maternity Jeddo,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Okpe,DAAS HospitalUghoton,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+Delta,Okpe,Okporuariefe Joseph Healing Home,Delta and Anambra Sample Shipment Mapping.xlsx,,,not_found
+FCT,Abaji,ABAJI GENERAL HOSPITAL ,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Abaji,AYAURA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,National hospital Abuja,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,NIRPD Idu,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,DEFENCE  HEADQUARTERS ABUJA(DHQ),LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,Garki Private Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,Wuse Gen. Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,Maitama District Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,Apo Resettlement PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,KABUSA PHC ,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,ASOKORO DISTRICT HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,Nyanya General Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,General Hospital Ohafia
+FCT,AMAC,KARSHI GENERAL HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,Kuchingoro PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,DSS MEDICAL CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Bwari,KUBWA GENERAL HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Bwari,Bwari General Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,General Hospital Ohafia
+FCT,Bwari,SHERE PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,AMAC,Mpape PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Bwari,Kubwa General Hopsital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,General Hospital Ohafia
+FCT,Bwari,Dutse-Alhaji PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,gwagwalada,GWAGWALADA TOWNSHIP CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,gwagwalada,ZUBA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,gwagwalada,GWAKO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,gwagwalada,DOBI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Kuje,KUJE PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Kuje,DAFARA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Kuje,GENERAL HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Kwali,BASIC HEALTH CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Kwali,"FAMILY SUPPORT PHC, JANGOJI",LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+FCT,Kwali,SHEDA HEALTH POST,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx,,,not_found
+Rivers State,Abua_Odual,HUB 1: AYAMA MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Abua_Odual,HUB 2: ANYU MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ahoada East,HUB 1: MPHCC AHOADA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ahoada East,HUB 2: IHUGBOGO MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ahoada East,HUB 3:Okporomini Health Centre,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ahoada West,HUB 1: UBETA MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ahoada West,HUB 2: MPHC AKINIMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ahoada West,HUB 3: MPHC OKOGBE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Akuku Toru,HUB 1:  ABONNEMA MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Akuku Toru,HUB 1:  MPHC KULA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Andoni,HUB 1: MPHC UNYEADA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Andoni,HUB 2: MPHC UNDEADA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Andoni,HUB 3: MPHC IKURU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Andoni,HUB 4: PHC IBOTIREM,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Asari Toru,HUB 1: BMHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Bonny,HUB 1: M.H.C BONNY,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Bonny,HUB 2: Greens,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Bonny,HUB 3: BANIGO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Bonny,HUB 4: MPHC PETERSIDE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Degema,HUB 1: MPHC USOKUN,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Degema,HUB 2: MPHC BILLE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Degema,HUB 3: TOMBIA MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Eleme,HUB 1: MPHC AKPAJO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Eleme,HUB 2: MPHC EBUBU ,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Emohua,HUB 1: PHC NDELE,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Emohua,HUB 2: MPHC OGBAKIRI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Etche,HUB 1: ULAKWO MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Etche,"HUB 2: Gen Hosp, Okomoko",IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Etche,HUB 1:KPOR MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Gokana,HUB 1:KPOR MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Gokana,HUB 2: TERABOR GEN. HOSP.,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ikwere,HUB 1: ZH ISIOKPO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ikwere,HUB 2: OMAGWA H/C,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Khana,HUB 1: PHC BORI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Khana,HUB 2: WIIYAAKARA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Obio-Akpo,HUB 1: MPHC RUMUODOMAYA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Obio-Akpo,HUB 2: MPHC RUMUEME,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Obio-Akpo,HUB 3: RUMUKRUSHI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ogba,HUB 1:  MPHC OBRIKOM,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ogba,HUB 2: OKWUZI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ogba,HUB 3: MPHC NDONI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ogba,HUB 4: MPHC EREMA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ogu,HUB 1: MPHC OGU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ogu,HUB 2: BHC BOLO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Ogu,HUB 3: OPUAMA H/C,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Okrika,HUB 1: IBAKA MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Okrika,HUB 2: ISAKA H/C,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Okrika,HUB 3: OKOCHIRI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Omuma,HUB 1: PHC EBERI,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Opobo_Nkoro,HUB 1: CHC OPOBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Opobo_Nkoro,HUB 2: H/C NKORO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Oyigbo,HUB 1: CHC OYIGBO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Oyigbo,HUB 2: MPHC OBEAKPU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Oyigbo,HUB 3:ODUA H/F,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Portharcourt,HUB 1: MGBUDUKWU MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Portharcourt,HUB 2: ABULOMA MPHC,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Tai,HUB 1: PHC  BUNU,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Tai,HUB 2: MPHC NONWA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Tai,HUB 3: MPHC KOROKORO,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Rivers State,Tai,HUB4: MPHC KIRA,IAR TB SAMPLE MAPPING AND TARRIFF,,,not_found
+Abia, Umuahia North,FMC Umuahia,SEZ Mapping of LGAs for Sample Shipment_Updated,,,FMC Umuahia
+Abia,Umuahia North,"Abia Specialist Hosp. & Diagnostic Center, Amachara Umuahia",SEZ Mapping of LGAs for Sample Shipment_Updated,,,"Abia Specialist Hosp. & Diagnostic Center, Amachara Umuahia"
+Abia,Aba South,"Abia State University Teaching Hospital, Aba",SEZ Mapping of LGAs for Sample Shipment_Updated,,,"Abia State University Teaching Hospital, Aba"
+Abia,Aba North,Seventh Day Adventist Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated,,,Seventh Day Adventist Hospital
+Abia,Ohafia,General Hospital Ohafia,SEZ Mapping of LGAs for Sample Shipment_Updated,,,General Hospital Ohafia
+Abia,Bende,NKECHI COLWELL HOSPITAL TB REFFERRAL HOSPIATL UZUAKOLI,SEZ Mapping of LGAs for Sample Shipment_Updated,,,NKECHI COLWELL HOSPITAL TB REFFERRAL HOSPIATL UZUAKOLI
+Abia,Obingwa,GLOBAL HEALTH LABORATORIES,SEZ Mapping of LGAs for Sample Shipment_Updated,,,GLOBAL HEALTH LABORATORIES
+Abia,Osisioma,LIVING WORD MISSION HOSPITAL ABBA,SEZ Mapping of LGAs for Sample Shipment_Updated,,,LIVING WORD MISSION HOSPITAL ABBA
+Ebonyi, Ebonyi,St Patrick Hospital Abakaliki (Mile 4),SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Ebonyi, Abakaliki,FETHA 1 ,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Ebonyi, Ohaozara,"Mater Miscericordiae Hospital, Afikpo",SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Ebonyi, Ohaozara,"Presbyterian Joint Hospital, Uburu",SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Ebonyi,Ohaukwu,General Hospital Ezzangbo,SEZ Mapping of LGAs for Sample Shipment_Updated,,,General Hospital Ohafia
+Ebonyi," Ebonyi
+Ezza North
+Ishielu, Ohaukwu",Ebonyi State DRTB Treatment Centre Mile Four Abakaliki,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Ebonyi,"Ezza South, Ikwo, Izzi",GH ONUEKE TB LAB-NIGERIA,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Ebonyi,"Ebonyi
+Abakaliki",Touch Diagnostica,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Enugu East,"Ntasiobi Specialist Hospital, Enugu East",SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu, Igbo –Eze North,ENUGU EZIKE GENERAL HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Awgu,UNIVERSITY OF NIGERIA TEACHING HOSPITAL (UNTH),SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu," Nsukka
+Uzo-Uwani",Bishop Shanahan Hospital Nsukka,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Enugu North,ESUTH Teaching Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Enugu East,"82 DIV Nigeria Army Hospital, Enugu",SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Enugu South,Eastern Nigeria Medical Centre,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Nkanu West,AGBANI GENERAL HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Isi-Uzo,Ikem General Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated,,,General Hospital Ohafia
+Enugu,Oji –river,DISTRICT HOSPITAL OJI-RIVER,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu, Nsukka,DAUGHTERS OF DIVINE LOVE ,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Udi,Udi General Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated,,,General Hospital Ohafia
+Enugu,Enugu East,Annunciation Specialist Hospital Enugu,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Enugu,Udenu,LONA LABORATORIES,SEZ Mapping of LGAs for Sample Shipment_Updated,,,GLOBAL HEALTH LABORATORIES
+Enugu,Enugu South,"NIGER FOUNDATION HOSPITAL (replaced OUR LADY HELP OF THE SICK, ADANI) ",SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo, Orlu,IMSUTH,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo,"Owerri Municipal
+Mbatoli",FMC Owerri,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo, Owerri West,Imo State Specialist Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo,Isiala -Mbano,Mbano Joint Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo, Orlu,"St. Damians Hospital, Orlu",SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo,Owerri West,34 BMC Owerri,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo, Owerri North,"Holy Rosary Hospital, Emekuku",SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo,Okigwe,"General Hospital, Okigwe",SEZ Mapping of LGAs for Sample Shipment_Updated,,,General Hospital Ohafia
+Imo,Oru East/ ORU WEST,General Hospital Awo-Omamma,SEZ Mapping of LGAs for Sample Shipment_Updated,,,General Hospital Ohafia
+Imo,Ahiazu/Mbaise,General Hospital Aboh Mbaise,SEZ Mapping of LGAs for Sample Shipment_Updated,,,General Hospital Ohafia
+Imo,Uruala,IMMACULATE HOSPITAL URUALA,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo,"Ohaji, Oguta",GH OHAJI EGBEMA,SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
+Imo,Owerri municipal,"EVERIGHT  DIAGNOSTIC LABORATORY, OWERRI",SEZ Mapping of LGAs for Sample Shipment_Updated,,,not_found
