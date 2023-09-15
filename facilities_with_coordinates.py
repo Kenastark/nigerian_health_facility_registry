@@ -1,10 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-import duckdb
 
 all_data = []
-for i in range(1,9):
+for i in range(1,2):
     # URL of the web page containing the HTML table to scrap
 
     #URL for when entries per page is set = 5000
@@ -55,6 +54,6 @@ df = pd.DataFrame(all_data)
 # df.to_excel("./bystate222.xlsx",sheet_name="Hospital list", index=False)
 
 # export dataframe to a CSV file format
-df.to_csv("./HFR_with_coordinates_test.csv", index=False)
-
+#df.to_csv("./HFR_with_coordinates_test.csv", index=False)
+df.to_csv("./test.csv", index=False)
 

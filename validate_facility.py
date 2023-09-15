@@ -13,11 +13,15 @@ for name, state in zip(df_hub['facility_name'], df_hub['state']):
     filtered_master = df_master[df_master['state'] == state]
     
     if not filtered_master.empty:
+
+        # Drop rows with NaN values in the 'facility_name' column
+        filtered_master = filtered_master.dropna(subset=['facility_name'])
+
         if name in filtered_master['facility_name'].values:
             corrected_names.append(name)
 
         else: #looking for best match
-            best_match = difflib.get_close_matches(name,filtered_master["facility_name"],n=1,cutoff=0.75) #from 0.6 below the matching becomes less accurate
+            best_match = difflib.get_close_matches(name,filtered_master['facility_name'],n=1,cutoff=0.65) #from 0.6 below the matching becomes less accurate
             #from 0.65 it matches any "General Hospital" to "General Hospital Ohafia"
             # at 0.7 it still matches any hospital that has the "Hospital and Maternity" to "Ogechukwu hospital and Maternity"
             # at 0.8 it matches a few(3) to "General Hospital Ohafia"
@@ -33,5 +37,5 @@ for name, state in zip(df_hub['facility_name'], df_hub['state']):
 df_hub['corrected_facility_name'] = corrected_names
 
 # Save the updated DataFrame to a new CSV file
-df_hub.to_csv('./updated_dataset.csv', index=False)
+df_hub.to_csv("./ikenna_validated_sites.csv", index=False)
 

@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 all_data = []
-for i in range(1,9):
+for i in range(1,2):
     # URL of the web page containing the HTML table to scrap
 
     #URL for when entries per page is set = 5000
@@ -33,8 +33,7 @@ for i in range(1,9):
     headers = []
     for th in table.find_all('th'):
         headers.append(th.text.strip().replace(" ","_").lower())
-    headers.append("longitude")
-    headers.append("latitude")
+    headers.extend(['longitude', 'latitude', 'physical_location', 'postal_address', 'hiv_capable', 'hours_of_operation'])
 
     # Loop over each row in the table body and store the data in a list of dictionaries
     data = []
@@ -46,9 +45,28 @@ for i in range(1,9):
             if button and button.get('data-longitude') and button.get('data-latitude'):
                 longitude = button.get('data-longitude')
                 latitude = button.get('data-latitude')
+                physical_location = button.get('data-physical_location')
+                postal_address = button.get('data-postal_address')
+                hours_of_operation = button.get('data-operational_hours')
+
+                # Extract "hiv_capable" from the <div id="specialservice"> element
+                special_service = td.find('div', {'id': 'specialservice'})
+                hiv_capable = ""
+                if special_service:
+                    hiv_span = special_service.find('span', {'class': 'label label-default'}, text="HIV/ AIDS Services")
+                    if hiv_span:
+                        hiv_capable = "Yes"
+                    else:
+                        hiv_capable = "No"
+                        
                 row["longitude"] = longitude
                 row["latitude"] = latitude
+                row["physical_location"] = physical_location
+                row["postal_address"] = postal_address
+                row["hours_of_operation"] = hours_of_operation
+                row["hiv_capable"] = hiv_capable
             row[headers[i]] = td.text.strip() 
+        
             
         if row:
             data.append(row)
@@ -64,4 +82,4 @@ df = pd.DataFrame(all_data)
 # df.to_excel("./bystate222.xlsx",sheet_name="Hospital list", index=False)
 
 # export dataframe to a CSV file format
-df.to_csv("./HFR_with_coordinates_test.csv", index=False)
+df.to_csv("./additional_header_4.csv", index=False)

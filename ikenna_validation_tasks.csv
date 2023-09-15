@@ -1,0 +1,1293 @@
+﻿id,state,lga,facility_name,Data source
+1,Ebonyi,Ebonyi/Ezza North,St. Patrick's Hosp. Mile 4,IAR TB SAMPLE MAPPING AND TARRIFF
+2,Ebonyi,Ebonyi/Ezza North,Felix Hospital,IAR TB SAMPLE MAPPING AND TARRIFF
+3,Ebonyi,Ebonyi/Ezza North,Ugbodo H/C,IAR TB SAMPLE MAPPING AND TARRIFF
+4,Ebonyi,Ebonyi/Ezza North,Amurt Uloenwu,IAR TB SAMPLE MAPPING AND TARRIFF
+5,Ebonyi,Ebonyi/Ezza North,Amurt Ohagoledo,IAR TB SAMPLE MAPPING AND TARRIFF
+6,Ebonyi,Ebonyi/Ezza North,SUM Oguzoronweya,IAR TB SAMPLE MAPPING AND TARRIFF
+7,Ebonyi,Ebonyi/Ezza North,SUM Ekirigwe,IAR TB SAMPLE MAPPING AND TARRIFF
+8,Ebonyi,Ebonyi/Ezza North,Diabetic Clinic Mile 50,IAR TB SAMPLE MAPPING AND TARRIFF
+9,Ebonyi,Ebonyi/Ezza North,Ndi-Ugo Dots clinic,IAR TB SAMPLE MAPPING AND TARRIFF
+10,Ebonyi,Ebonyi/Ezza North,Edukwegbu DOTS Clinic,IAR TB SAMPLE MAPPING AND TARRIFF
+11,Ebonyi,Ebonyi/Ezza North,Chidubem Health Clinic,IAR TB SAMPLE MAPPING AND TARRIFF
+12,Ebonyi,Ebonyi/Ezza North,MCH Umuoghara,IAR TB SAMPLE MAPPING AND TARRIFF
+13,Ebonyi,Ebonyi/Ezza North,Oshiegbe H/C,IAR TB SAMPLE MAPPING AND TARRIFF
+14,Ebonyi,Ebonyi/Ezza North,Oriuzor H/C,IAR TB SAMPLE MAPPING AND TARRIFF
+15,Ebonyi,Ebonyi/Ezza North,Ebiaji H/C,IAR TB SAMPLE MAPPING AND TARRIFF
+16,Ebonyi,Ebonyi/Ezza North,Staff Clinic Ebiaji,IAR TB SAMPLE MAPPING AND TARRIFF
+17,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,AE-FUTHA,IAR TB SAMPLE MAPPING AND TARRIFF
+18,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Mercy Hospital,IAR TB SAMPLE MAPPING AND TARRIFF
+19,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Junico Lab./Clinic,IAR TB SAMPLE MAPPING AND TARRIFF
+20,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Waste Gate Lab./ Clinic,IAR TB SAMPLE MAPPING AND TARRIFF
+21,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,St. Theresa Hospital,IAR TB SAMPLE MAPPING AND TARRIFF
+22,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Nwanwu H/C,IAR TB SAMPLE MAPPING AND TARRIFF
+23,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Onuebonyi MDG,IAR TB SAMPLE MAPPING AND TARRIFF
+24,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,St. Agatha Hosp. & Maternity,IAR TB SAMPLE MAPPING AND TARRIFF
+25,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Chidindu Hospital & Maternity,IAR TB SAMPLE MAPPING AND TARRIFF
+26,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Military Cantonment,IAR TB SAMPLE MAPPING AND TARRIFF
+27,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,MPH Nkwegu,IAR TB SAMPLE MAPPING AND TARRIFF
+28,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,New Timber Shade H/C,IAR TB SAMPLE MAPPING AND TARRIFF
+29,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Cottage Hospital Agubia,IAR TB SAMPLE MAPPING AND TARRIFF
+30,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Gen. Hosp. Ikwo,IAR TB SAMPLE MAPPING AND TARRIFF
+31,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Divine Relief Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+32,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Orona H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+33,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Jesus Health Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+34,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Sacred Heart Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+35,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Divine Aproval Clinic Ugwueke,Delta and Anambra Sample Shipment Mapping.xlsx
+36,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Onueke GH,Delta and Anambra Sample Shipment Mapping.xlsx
+37,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,MCH ONUEKE,Delta and Anambra Sample Shipment Mapping.xlsx
+38,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Ekewtekwe H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+39,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Angel Raphael Mission Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+40,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Batsida Hospital,Delta and Anambra Sample Shipment Mapping.xlsx
+41,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,St. Vincent Annex Hosp. Amudo,Delta and Anambra Sample Shipment Mapping.xlsx
+42,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Gen. Hospital Iboko,Delta and Anambra Sample Shipment Mapping.xlsx
+43,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,SUM Iboko,Delta and Anambra Sample Shipment Mapping.xlsx
+44,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Shalom Cottage Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+45,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,RHS Onuenyim,Delta and Anambra Sample Shipment Mapping.xlsx
+46,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,SUM Izziogo,Delta and Anambra Sample Shipment Mapping.xlsx
+47,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,PHC,Delta and Anambra Sample Shipment Mapping.xlsx
+48,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Izziogo,Delta and Anambra Sample Shipment Mapping.xlsx
+49,Ebonyi,Abakaliki/Ikwo/Ezza South/Izzi,Onyx H/ Clinic.,Delta and Anambra Sample Shipment Mapping.xlsx
+50,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Excellent Hope Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+51,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Standard Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+52,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Eberechukwu Health Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+53,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,EBSUCGH,Delta and Anambra Sample Shipment Mapping.xlsx
+54,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Cottahe Hosp. Okposi,Delta and Anambra Sample Shipment Mapping.xlsx
+55,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Okposi Gen. Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+56,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Mater Hosp. Afikpo,Delta and Anambra Sample Shipment Mapping.xlsx
+57,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,MCH Afikpo,Delta and Anambra Sample Shipment Mapping.xlsx
+58,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Gen. Hosp. Itim-ukwu,Delta and Anambra Sample Shipment Mapping.xlsx
+59,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Amachara H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+60,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Amangbala H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+61,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,ROMEC Hosp. & Maternity,Delta and Anambra Sample Shipment Mapping.xlsx
+62,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Afikpo Medical Centre,Delta and Anambra Sample Shipment Mapping.xlsx
+63,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Ozizza H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+64,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Imamma H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+65,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Ndibe,Delta and Anambra Sample Shipment Mapping.xlsx
+66,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Owutu Gen. Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+67,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Etiti Edda Model PHC,Delta and Anambra Sample Shipment Mapping.xlsx
+68,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Ekoli H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+69,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Nguzu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+70,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Ndi-Okpo MDG,Delta and Anambra Sample Shipment Mapping.xlsx
+71,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Ebunwana H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+72,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Ebunwana MPHC,Delta and Anambra Sample Shipment Mapping.xlsx
+73,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Amoso Amaetiti H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+74,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Itim MDG,Delta and Anambra Sample Shipment Mapping.xlsx
+75,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Ogbu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+76,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Etiti H/P,Delta and Anambra Sample Shipment Mapping.xlsx
+77,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Amosonta H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+78,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Comp. Health Centre Oso,Delta and Anambra Sample Shipment Mapping.xlsx
+79,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+80,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,His Grace Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+81,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Akaeze Basic H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+82,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Akaeze-ukwu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+83,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Ishiagu GH,Delta and Anambra Sample Shipment Mapping.xlsx
+84,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Onuwell H/C Ogidi,Delta and Anambra Sample Shipment Mapping.xlsx
+85,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Chidima H/Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+86,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Afikpo Road H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+87,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Mgbede H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+88,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Obulor H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+89,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Maranta Health Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+90,Ebonyi,Ohaozara/Onicha/Afikpo North/Afikpo South/Ivo,Iyioji H/C.,Delta and Anambra Sample Shipment Mapping.xlsx
+91,Ebonyi,Ohaozara/Onicha/Ivo,Excellent Hope Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+92,Ebonyi,Ohaozara/Onicha/Ivo,Standard Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+93,Ebonyi,Ohaozara/Onicha/Ivo,Eberechukwu Health Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+94,Ebonyi,Ohaozara/Onicha/Ivo,EBSUCGH,Delta and Anambra Sample Shipment Mapping.xlsx
+95,Ebonyi,Ohaozara/Onicha/Ivo,Cottahe Hosp. Okposi,Delta and Anambra Sample Shipment Mapping.xlsx
+96,Ebonyi,Ohaozara/Onicha/Ivo,Okposi Gen. Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+97,Ebonyi,Ohaozara/Onicha/Ivo,Onicha GH,Delta and Anambra Sample Shipment Mapping.xlsx
+98,Ebonyi,Ohaozara/Onicha/Ivo,Onicha Health Centre,Delta and Anambra Sample Shipment Mapping.xlsx
+99,Ebonyi,Ohaozara/Onicha/Ivo,Our Savior Health Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+100,Ebonyi,Ohaozara/Onicha/Ivo,Okpoma H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+101,Ebonyi,Ohaozara/Onicha/Ivo,Isu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+102,Ebonyi,Ohaozara/Onicha/Ivo,Akawu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+103,Ebonyi,Ohaozara/Onicha/Ivo,Isu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+104,Ebonyi,Ohaozara/Onicha/Ivo,Mgbalukwu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+105,Ebonyi,Ohaozara/Onicha/Ivo,Mgbaleze H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+106,Ebonyi,Ohaozara/Onicha/Ivo,Rapha Medical,Delta and Anambra Sample Shipment Mapping.xlsx
+107,Ebonyi,Ohaozara/Onicha/Ivo,Akaeze Basic H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+108,Ebonyi,Ohaozara/Onicha/Ivo,Akaeze-ukwu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+109,Ebonyi,Ohaozara/Onicha/Ivo,Ishiagu GH,Delta and Anambra Sample Shipment Mapping.xlsx
+110,Ebonyi,Ohaozara/Onicha/Ivo,Onuwell H/C Ogidi,Delta and Anambra Sample Shipment Mapping.xlsx
+111,Ebonyi,Ohaozara/Onicha/Ivo,Chidima H/Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+112,Ebonyi,Ohaozara/Onicha/Ivo,Afikpo Road H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+113,Ebonyi,Ohaozara/Onicha/Ivo,Mgbede H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+114,Ebonyi,Ohaozara/Onicha/Ivo,Obulor H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+115,Ebonyi,Ohaozara/Onicha/Ivo,Maranta Health Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+116,Ebonyi,Ohaozara/Onicha/Ivo,Iyioji H/C.,Delta and Anambra Sample Shipment Mapping.xlsx
+117,Ebonyi,Ohaozara/Onicha/Ivo,Sudanist Comm. Rehabilitation Care,Delta and Anambra Sample Shipment Mapping.xlsx
+118,Ebonyi,Ohaozara/Onicha/Ivo,SUM Effium,Delta and Anambra Sample Shipment Mapping.xlsx
+119,Ebonyi,Ohaozara/Onicha/Ivo,Ngbo Court Health Care Centre,Delta and Anambra Sample Shipment Mapping.xlsx
+120,Ebonyi,Ohaozara/Onicha/Ivo,Little Seed Hospital & Maternity,Delta and Anambra Sample Shipment Mapping.xlsx
+121,Ebonyi,Ohaozara/Onicha/Ivo,,Delta and Anambra Sample Shipment Mapping.xlsx
+122,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,St. Patrick's Hosp. Mile 4,Delta and Anambra Sample Shipment Mapping.xlsx
+123,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Felix Hospital,Delta and Anambra Sample Shipment Mapping.xlsx
+124,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Ugbodo H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+125,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Amurt Uloenwu,Delta and Anambra Sample Shipment Mapping.xlsx
+126,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Amurt Ohagoledo,Delta and Anambra Sample Shipment Mapping.xlsx
+127,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,SUM Oguzoronweya,Delta and Anambra Sample Shipment Mapping.xlsx
+128,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,SUM Ekirigwe,Delta and Anambra Sample Shipment Mapping.xlsx
+129,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Diabetic Clinic Mile 50,Delta and Anambra Sample Shipment Mapping.xlsx
+130,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Ndi-Ugo Dots clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+131,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Edukwegbu DOTS Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+132,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Chidubem Health Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+133,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,MCH Umuoghara,Delta and Anambra Sample Shipment Mapping.xlsx
+134,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Oshiegbe H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+135,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Oriuzor H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+136,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Ebiaji H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+137,Ebonyi,Ebonyi/Ezza north/ishielu/ohaukwu,Staff Clinic Ebiaji,Delta and Anambra Sample Shipment Mapping.xlsx
+138,Ebonyi,Ohaukwu,Sudanist Comm. Rehabilitation Care,Delta and Anambra Sample Shipment Mapping.xlsx
+139,Ebonyi,Ohaukwu,SUM Effium,Delta and Anambra Sample Shipment Mapping.xlsx
+140,Ebonyi,Ohaukwu,Ngbo Court Health Care Centre,Delta and Anambra Sample Shipment Mapping.xlsx
+141,Ebonyi,Ohaukwu,Little Seed Hospital & Maternity,Delta and Anambra Sample Shipment Mapping.xlsx
+142,Ebonyi,Ohaukwu,GH Agba,Delta and Anambra Sample Shipment Mapping.xlsx
+143,Ebonyi,Ohaukwu,Okpoto Health Centre,Delta and Anambra Sample Shipment Mapping.xlsx
+144,Ebonyi,Ohaukwu,Ntezi Health Centre,Delta and Anambra Sample Shipment Mapping.xlsx
+145,Ebonyi,Ohaukwu,Maria Ines Hospital,Delta and Anambra Sample Shipment Mapping.xlsx
+146,Ebonyi,Ohaukwu,Teriterian Mission Hospital,Delta and Anambra Sample Shipment Mapping.xlsx
+147,Ebonyi,Ohaukwu,Eguhuo H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+148,Ebonyi,Ohaukwu,Eguotu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+149,Ebonyi,Ohaukwu,Amangwu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+150,Ebonyi,Ohaukwu,,Delta and Anambra Sample Shipment Mapping.xlsx
+151,Ebonyi,Ezza South/Ikwo/Izzi,Cottage Hospital Agubia,Delta and Anambra Sample Shipment Mapping.xlsx
+152,Ebonyi,Ezza South/Ikwo/Izzi,Gen. Hosp. Ikwo,Delta and Anambra Sample Shipment Mapping.xlsx
+153,Ebonyi,Ezza South/Ikwo/Izzi,Divine Relief Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+154,Ebonyi,Ezza South/Ikwo/Izzi,Orona H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+155,Ebonyi,Ezza South/Ikwo/Izzi,Jesus Health Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+156,Ebonyi,Ezza South/Ikwo/Izzi,Sacred Heart Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+157,Ebonyi,Ezza South/Ikwo/Izzi,Divine Aproval Clinic Ugwueke,Delta and Anambra Sample Shipment Mapping.xlsx
+158,Ebonyi,Ezza South/Ikwo/Izzi,Onueke GH,Delta and Anambra Sample Shipment Mapping.xlsx
+159,Ebonyi,Ezza South/Ikwo/Izzi,MCH ONUEKE,Delta and Anambra Sample Shipment Mapping.xlsx
+160,Ebonyi,Ezza South/Ikwo/Izzi,Ekewtekwe H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+161,Ebonyi,Ezza South/Ikwo/Izzi,Angel Raphael Mission Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+162,Ebonyi,Ezza South/Ikwo/Izzi,Batsida Hospital,Delta and Anambra Sample Shipment Mapping.xlsx
+163,Ebonyi,Ezza South/Ikwo/Izzi,St. Vincent Annex Hosp. Amudo,Delta and Anambra Sample Shipment Mapping.xlsx
+164,Ebonyi,Ezza South/Ikwo/Izzi,Gen. Hospital Iboko,Delta and Anambra Sample Shipment Mapping.xlsx
+165,Ebonyi,Ezza South/Ikwo/Izzi,SUM Iboko,Delta and Anambra Sample Shipment Mapping.xlsx
+166,Ebonyi,Ezza South/Ikwo/Izzi,Shalom Cottage Hosp.,Delta and Anambra Sample Shipment Mapping.xlsx
+167,Ebonyi,Ezza South/Ikwo/Izzi,RHS Onuenyim,Delta and Anambra Sample Shipment Mapping.xlsx
+168,Ebonyi,Ezza South/Ikwo/Izzi,SUM Izziogo,Delta and Anambra Sample Shipment Mapping.xlsx
+169,Ebonyi,Ezza South/Ikwo/Izzi,PHC,Delta and Anambra Sample Shipment Mapping.xlsx
+170,Ebonyi,Ezza South/Ikwo/Izzi,Izziogo,Delta and Anambra Sample Shipment Mapping.xlsx
+171,Ebonyi,Ezza South/Ikwo/Izzi,Onyx H/ Clinic.,Delta and Anambra Sample Shipment Mapping.xlsx
+172,Ebonyi,Ezza South/Ikwo/Izzi,AE-FUTHA,Delta and Anambra Sample Shipment Mapping.xlsx
+173,Ebonyi,Ezza South/Ikwo/Izzi,Mercy Hospital,Delta and Anambra Sample Shipment Mapping.xlsx
+174,Ebonyi,Ezza South/Ikwo/Izzi,Junico Lab./Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+175,Ebonyi,Ezza South/Ikwo/Izzi,Waste Gate Lab./ Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+176,Ebonyi,Ezza South/Ikwo/Izzi,St. Theresa Hospital,Delta and Anambra Sample Shipment Mapping.xlsx
+177,Ebonyi,Ezza South/Ikwo/Izzi,Nwanwu H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+178,Ebonyi,Ezza South/Ikwo/Izzi,Onuebonyi MDG,Delta and Anambra Sample Shipment Mapping.xlsx
+179,Ebonyi,Ezza South/Ikwo/Izzi,St. Agatha Hosp. & Maternity,Delta and Anambra Sample Shipment Mapping.xlsx
+180,Ebonyi,Ezza South/Ikwo/Izzi,Chidindu Hospital & Maternity,Delta and Anambra Sample Shipment Mapping.xlsx
+181,Ebonyi,Ezza South/Ikwo/Izzi,Military Cantonment,Delta and Anambra Sample Shipment Mapping.xlsx
+182,Ebonyi,Ezza South/Ikwo/Izzi,MPH Nkwegu,Delta and Anambra Sample Shipment Mapping.xlsx
+183,Ebonyi,Ezza South/Ikwo/Izzi,New Timber Shade H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+184,Ebonyi,Ezza South/Ikwo/Izzi,St. Patrick's Hosp. Mile 4,Delta and Anambra Sample Shipment Mapping.xlsx
+185,Ebonyi,Ezza South/Ikwo/Izzi,Felix Hospital,Delta and Anambra Sample Shipment Mapping.xlsx
+186,Ebonyi,Ezza South/Ikwo/Izzi,Ugbodo H/C,Delta and Anambra Sample Shipment Mapping.xlsx
+187,Ebonyi,Ezza South/Ikwo/Izzi,Amurt Uloenwu,Delta and Anambra Sample Shipment Mapping.xlsx
+188,Ebonyi,Ezza South/Ikwo/Izzi,Amurt Ohagoledo,Delta and Anambra Sample Shipment Mapping.xlsx
+189,Ebonyi,Ezza South/Ikwo/Izzi,SUM Oguzoronweya,Delta and Anambra Sample Shipment Mapping.xlsx
+190,Ebonyi,Ezza South/Ikwo/Izzi,SUM Ekirigwe,Delta and Anambra Sample Shipment Mapping.xlsx
+191,Ebonyi,Ezza South/Ikwo/Izzi,Diabetic Clinic Mile 50,Delta and Anambra Sample Shipment Mapping.xlsx
+192,Ebonyi,Ezza South/Ikwo/Izzi,Ndi-Ugo Dots clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+193,Ebonyi,Ezza South/Ikwo/Izzi,Edukwegbu DOTS Clinic,Delta and Anambra Sample Shipment Mapping.xlsx
+194,Ebonyi,Ezza South/Ikwo/Izzi,Chidubem Health Clinic,IAR TB SAMPLE MAPPING AND TARRIFF
+195,Enugu,Enugu East/Ezeagu,"""Ntasiobi Specialist Hospital",IAR TB SAMPLE MAPPING AND TARRIFF
+196,Enugu,Enugu East/Ezeagu,"Enugu East""",IAR TB SAMPLE MAPPING AND TARRIFF
+197,Enugu,Enugu East/Ezeagu,"""AGBA UMANA H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+198,Enugu,Enugu East/Ezeagu,"""AGUOBU OWA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+199,Enugu,Enugu East/Ezeagu,"""AGUOBU UMUMBA""",IAR TB SAMPLE MAPPING AND TARRIFF
+200,Enugu,Enugu East/Ezeagu,"""AWHA IMEZI HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+201,Enugu,Enugu East/Ezeagu,"""AWHA NGIAGU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+202,Enugu,Enugu East/Ezeagu,"""EZINNE HOSPITAL AND MATERNITY HOME OBINOFIA NDI UNO""",IAR TB SAMPLE MAPPING AND TARRIFF
+203,Enugu,Enugu East/Ezeagu,"""GOOD SHEPHERD HOSPITAL AMASIODO OGHE""",IAR TB SAMPLE MAPPING AND TARRIFF
+204,Enugu,Enugu East/Ezeagu,"""IMMA IMEZI OWA""",IAR TB SAMPLE MAPPING AND TARRIFF
+205,Enugu,Enugu East/Ezeagu,"""MGBAGBU OWA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+206,Enugu,Enugu East/Ezeagu,"""NNE NKE OKWUKWE HOSPITALAFOR OGHE""",IAR TB SAMPLE MAPPING AND TARRIFF
+207,Enugu,Enugu East/Ezeagu,"""NNENKE EBERE HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+208,Enugu,Enugu East/Ezeagu,"""NWADUME SPECIALIST HOSPITAL MGBAGBUOWA""",IAR TB SAMPLE MAPPING AND TARRIFF
+209,Enugu,Enugu East/Ezeagu,"""OBELEAGU UMANA""",IAR TB SAMPLE MAPPING AND TARRIFF
+210,Enugu,Enugu East/Ezeagu,"""OBINIFIA NDIAGU""",IAR TB SAMPLE MAPPING AND TARRIFF
+211,Enugu,Enugu East/Ezeagu,"""OBINOFIA NDIUNO""",IAR TB SAMPLE MAPPING AND TARRIFF
+212,Enugu,Enugu East/Ezeagu,"""OGWOFIA OWA""",IAR TB SAMPLE MAPPING AND TARRIFF
+213,Enugu,Enugu East/Ezeagu,"""OKPUDO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+214,Enugu,Enugu East/Ezeagu,"""OKPUEZE UMUMBA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+215,Enugu,Enugu East/Ezeagu,"""OLO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+216,Enugu,Enugu East/Ezeagu,"""OMEGA HOSPITAL AFOR OGHE""",IAR TB SAMPLE MAPPING AND TARRIFF
+217,Enugu,Enugu East/Ezeagu,"""ST CLARA HOSPITAL UMANA NDIAGU""",IAR TB SAMPLE MAPPING AND TARRIFF
+218,Enugu,Enugu East/Ezeagu,"""UMANA NDIUNO HC """,IAR TB SAMPLE MAPPING AND TARRIFF
+219,Enugu,Enugu East/Ezeagu,"""UMUMBA NDIUNO H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+220,Enugu,Enugu East/Ezeagu,"""AKAMA OGHE H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+221,Enugu,Enugu East/Ezeagu,"""ABUNUZU H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+222,Enugu,Enugu East/Ezeagu,"""OYOFO H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+223,Enugu,Enugu East/Ezeagu,"""UMUAJIIMEZI OWA H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+224,Enugu,Igbo–Eze North/IgboEze South,"""AGUIBEJE H/C """,IAR TB SAMPLE MAPPING AND TARRIFF
+225,Enugu,Igbo–Eze North/IgboEze South,"""AMUBE H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+226,Enugu,Igbo–Eze North/IgboEze South,"""CHINEME MATERNITY HOME""",IAR TB SAMPLE MAPPING AND TARRIFF
+227,Enugu,Igbo–Eze North/IgboEze South,"""CHISOM HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+228,Enugu,Igbo–Eze North/IgboEze South,"""CWC""",IAR TB SAMPLE MAPPING AND TARRIFF
+229,Enugu,Igbo–Eze North/IgboEze South,"""DHEE/ GENERAL HOSPITAL ENUGU EZIKE""",IAR TB SAMPLE MAPPING AND TARRIFF
+230,Enugu,Igbo–Eze North/IgboEze South,"""DIVINITY HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+231,Enugu,Igbo–Eze North/IgboEze South,"""IKPAMODO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+232,Enugu,Igbo–Eze North/IgboEze South,"""ISIUGWU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+233,Enugu,Igbo–Eze North/IgboEze South,"""NKPAMTE H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+234,Enugu,Igbo–Eze North/IgboEze South,"""NKPO""",IAR TB SAMPLE MAPPING AND TARRIFF
+235,Enugu,Igbo–Eze North/IgboEze South,"""ODUGU MEMORIAL HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+236,Enugu,Igbo–Eze North/IgboEze South,"""OKATA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+237,Enugu,Igbo–Eze North/IgboEze South,"""OLIDO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+238,Enugu,Igbo–Eze North/IgboEze South,"""ONITSHA E/E H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+239,Enugu,Igbo–Eze North/IgboEze South,"""SMH""",Cross River Public sputum sample shipment template.xlsx
+240,Enugu,Igbo–Eze North/IgboEze South,"""UCHECHUKWU CLINIC AND MATERNITY""",Cross River Public sputum sample shipment template.xlsx
+241,Enugu,Igbo–Eze North/IgboEze South,"""UMUIDA H/C """,Cross River Public sputum sample shipment template.xlsx
+242,Enugu,Igbo–Eze North/IgboEze South,"""UDA HEALTH CENTRE""",Cross River Public sputum sample shipment template.xlsx
+243,Enugu,Igbo–Eze North/IgboEze South,"""UGBAIKE HEALTH CENTRE""",Cross River Public sputum sample shipment template.xlsx
+244,Enugu,Igbo–Eze North/IgboEze South,"""Umuida H/C""",Cross River Public sputum sample shipment template.xlsx
+245,Enugu,Igbo–Eze North/IgboEze South,"""Iufu H/C""",Cross River Public sputum sample shipment template.xlsx
+246,Enugu,Igbo–Eze North/IgboEze South,"""Aji H/C""",Cross River Public sputum sample shipment template.xlsx
+247,Enugu,Igbo–Eze North/IgboEze South,"""Amufie H/C""",Cross River Public sputum sample shipment template.xlsx
+248,Enugu,Igbo–Eze North/IgboEze South,"""Umuama H/C""",Cross River Public sputum sample shipment template.xlsx
+249,Enugu,Igbo–Eze North/IgboEze South,"""Igbelle H/C""",Cross River Public sputum sample shipment template.xlsx
+250,Enugu,Igbo–Eze North/IgboEze South,"""Igogoro H/C""",Cross River Public sputum sample shipment template.xlsx
+251,Enugu,Igbo–Eze North/IgboEze South,"""Umuopu H/C """,Cross River Public sputum sample shipment template.xlsx
+252,Enugu,Igbo–Eze North/IgboEze South,"""Owereeze H/C""",Cross River Public sputum sample shipment template.xlsx
+253,Enugu,Igbo–Eze North/IgboEze South,"""ETTA H/C""",Cross River Public sputum sample shipment template.xlsx
+254,Enugu,Igbo–Eze North/IgboEze South,"""ISIUGWU H/C""",Cross River Public sputum sample shipment template.xlsx
+255,Enugu,Igbo–Eze North/IgboEze South,"""OKPO H/C""",Cross River Public sputum sample shipment template.xlsx
+256,Enugu,Igbo–Eze North/IgboEze South,"""AMACHELLA H/C""",Cross River Public sputum sample shipment template.xlsx
+257,Enugu,Igbo–Eze North/IgboEze South,"""IKPUIGA H/C""",Cross River Public sputum sample shipment template.xlsx
+258,Enugu,Igbo–Eze North/IgboEze South,"""AGU IHEAKPU AWKA H/C""",Cross River Public sputum sample shipment template.xlsx
+259,Enugu,Igbo–Eze North/IgboEze South,"""CHUKWUEMEKA HOSP OVOKO""",Cross River Public sputum sample shipment template.xlsx
+260,Enugu,Igbo–Eze North/IgboEze South,"""GRACELAND HOSP. IBAGWA""",Cross River Public sputum sample shipment template.xlsx
+261,Enugu,Igbo–Eze North/IgboEze South,"""IBAGWA HC""",Cross River Public sputum sample shipment template.xlsx
+262,Enugu,Igbo–Eze North/IgboEze South,"""IHEAKPU AGU HC""",Cross River Public sputum sample shipment template.xlsx
+263,Enugu,Igbo–Eze North/IgboEze South,"""IHEAKPU AWKA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+264,Enugu,Igbo–Eze North/IgboEze South,"""IHEAKPU UNO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+265,Enugu,Igbo–Eze North/IgboEze South,"""OVOKO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+266,Enugu,Igbo–Eze North/IgboEze South,"""ST. JOHN'S HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+267,Enugu,Igbo–Eze North/IgboEze South,"""ST. RAPH'S HOSP. IBAGWA""",IAR TB SAMPLE MAPPING AND TARRIFF
+268,Enugu,Igbo–Eze North/IgboEze South,"""SUNRISE HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+269,Enugu,Igbo–Eze North/IgboEze South,"""Iheaka Health Centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+270,Enugu,Igbo–Eze North/IgboEze South,"""Itchi Agu Health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+271,Enugu,Igbo–Eze North/IgboEze South,"""Ihuowerre Health Centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+272,Enugu,Igbo–Eze North/IgboEze South,"""Modern Primary Health Care Ovoko""",IAR TB SAMPLE MAPPING AND TARRIFF
+273,Enugu,Igbo–Eze North/IgboEze South,"""Unadu Health Centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+274,Enugu,Awgu,"""DISTRICT HOSPITAL AWGU""",IAR TB SAMPLE MAPPING AND TARRIFF
+275,Enugu,Awgu,"""UNTH """,IAR TB SAMPLE MAPPING AND TARRIFF
+276,Enugu,Awgu,"""ITUKU HEALTH CENTER""",IAR TB SAMPLE MAPPING AND TARRIFF
+277,Enugu,Awgu,"""AWONO HEALTH CENTER""",IAR TB SAMPLE MAPPING AND TARRIFF
+278,Enugu,Awgu,""" Ogugu Health Center""",IAR TB SAMPLE MAPPING AND TARRIFF
+279,Enugu,Awgu,"""Ihemelunma HEALTH CENTER""",IAR TB SAMPLE MAPPING AND TARRIFF
+280,Enugu,Nsukka/UzoUwani,"""AKULUE MEMORIAL HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+281,Enugu,Nsukka/UzoUwani,"""ALL SAINT HOSP.""",IAR TB SAMPLE MAPPING AND TARRIFF
+282,Enugu,Nsukka/UzoUwani,"""BSH NSK""",IAR TB SAMPLE MAPPING AND TARRIFF
+283,Enugu,Nsukka/UzoUwani,"""DIVINE MERCY HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+284,Enugu,Nsukka/UzoUwani,"""FFM HOSP""",IAR TB SAMPLE MAPPING AND TARRIFF
+285,Enugu,Nsukka/UzoUwani,"""GENERAL HOSP. NSK/ DH NSK""",IAR TB SAMPLE MAPPING AND TARRIFF
+286,Enugu,Nsukka/UzoUwani,"""KAETOCHUKWU HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+287,Enugu,Nsukka/UzoUwani,"""MICHAEL OBAYI MEMORIAL HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+288,Enugu,Nsukka/UzoUwani,"""MT.ARAPHAT HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+289,Enugu,Nsukka/UzoUwani,"""NSK MC""",IAR TB SAMPLE MAPPING AND TARRIFF
+290,Enugu,Nsukka/UzoUwani,"""NSUKKA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+291,Enugu,Nsukka/UzoUwani,"""PRISONS""",IAR TB SAMPLE MAPPING AND TARRIFF
+292,Enugu,Nsukka/UzoUwani,"""ROYAL CROSS HOSPITAL """,IAR TB SAMPLE MAPPING AND TARRIFF
+293,Enugu,Nsukka/UzoUwani,"""ST. ANTHONY HOSP.""",IAR TB SAMPLE MAPPING AND TARRIFF
+294,Enugu,Nsukka/UzoUwani,"""UNTH COMPREHENSIVE HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+295,Enugu,Nsukka/UzoUwani,"""OPI HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+296,Enugu,Nsukka/UzoUwani,"""NRU HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+297,Enugu,Nsukka/UzoUwani,"""IHE HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+298,Enugu,Nsukka/UzoUwani,"""EDE-ENU HEALTH""",IAR TB SAMPLE MAPPING AND TARRIFF
+299,Enugu,Nsukka/UzoUwani,"""ADANI HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+300,Enugu,Nsukka/UzoUwani,"""AKA-ODA HEALTH POST""",IAR TB SAMPLE MAPPING AND TARRIFF
+301,Enugu,Nsukka/UzoUwani,"""AKAUTARA ODA H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+302,Enugu,Nsukka/UzoUwani,"""EZIORA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+303,Enugu,Nsukka/UzoUwani,"""IGGA HEALTH POST """,IAR TB SAMPLE MAPPING AND TARRIFF
+304,Enugu,Nsukka/UzoUwani,"""IGWE ABATA MHM""",IAR TB SAMPLE MAPPING AND TARRIFF
+305,Enugu,Nsukka/UzoUwani,"""NKPOLOGU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+306,Enugu,Nsukka/UzoUwani,"""NROBO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+307,Enugu,Nsukka/UzoUwani,"""OLHSH ADANI""",IAR TB SAMPLE MAPPING AND TARRIFF
+308,Enugu,Nsukka/UzoUwani,"""OPANDA HP""",IAR TB SAMPLE MAPPING AND TARRIFF
+309,Enugu,Nsukka/UzoUwani,"""SAME J HOSPITAL ADANI""",IAR TB SAMPLE MAPPING AND TARRIFF
+310,Enugu,Nsukka/UzoUwani,"""ST. ANTHONY HOSP""",IAR TB SAMPLE MAPPING AND TARRIFF
+311,Enugu,Nsukka/UzoUwani,"""UKAABI NIMBO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+312,Enugu,Nsukka/UzoUwani,"""UKPATA HP""",IAR TB SAMPLE MAPPING AND TARRIFF
+313,Enugu,Nsukka/UzoUwani,"""UMULUOKPA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+314,Enugu,Nsukka/UzoUwani,"""UVURU ODA HP""",IAR TB SAMPLE MAPPING AND TARRIFF
+315,Enugu,Nsukka/UzoUwani,"""UVURU UGWU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+316,Enugu,Nsukka/UzoUwani,"""ABBI HEALTH CENTER""",IAR TB SAMPLE MAPPING AND TARRIFF
+317,Enugu,Nsukka/UzoUwani,"""OGBA HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+318,Enugu,Nsukka/UzoUwani,"""MODEL PRIMARY HEALTH CENTER UGBENE""",IAR TB SAMPLE MAPPING AND TARRIFF
+319,Enugu,Nsukka/UzoUwani,"""OJJOR HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+320,Enugu,Nsukka/UzoUwani,"""OGBOSO HEALTH POST""",IAR TB SAMPLE MAPPING AND TARRIFF
+321,Enugu,Enugu North,CHEST UNIT,IAR TB SAMPLE MAPPING AND TARRIFF
+322,Enugu,Enugu North,"""COAL CAMP MEDICAL CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+323,Enugu,Enugu North,"""COLLIERY HOSP""",IAR TB SAMPLE MAPPING AND TARRIFF
+324,Enugu,Enugu North,"""HILL TOP""",IAR TB SAMPLE MAPPING AND TARRIFF
+325,Enugu,Enugu North,"""LIFE VALLEY HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+326,Enugu,Enugu North,"""MAXICARE CLINIC""",IAR TB SAMPLE MAPPING AND TARRIFF
+327,Enugu,Enugu North,"""MOCSH""",IAR TB SAMPLE MAPPING AND TARRIFF
+328,Enugu,Enugu North,"""NEW HEALTH OF THE SICK HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+329,Enugu,Enugu North,"""NEW HEAVEN H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+330,Enugu,Enugu North,"""OGBETE HC COAL CAMP ENUGU""",IAR TB SAMPLE MAPPING AND TARRIFF
+331,Enugu,Enugu North,"""ESUT TEACHING HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+332,Enugu,Enugu North,"""POLY CLINIC""",IAR TB SAMPLE MAPPING AND TARRIFF
+333,Enugu,Enugu North,""" Little Long Africa Hospital Independence Layout""",IAR TB SAMPLE MAPPING AND TARRIFF
+334,Enugu,Enugu North,"""PRISONS""",IAR TB SAMPLE MAPPING AND TARRIFF
+335,Enugu,Enugu North,"""REGIONS HOSP.""",IAR TB SAMPLE MAPPING AND TARRIFF
+336,Enugu,Enugu North,"""ST. MARYS""",IAR TB SAMPLE MAPPING AND TARRIFF
+337,Enugu,Enugu North,"""ST. PATRICKS HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+338,Enugu,Enugu North,"""UGWU AARON HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+339,Enugu,Enugu North,"""OGUI NEW LAYOUT HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+340,Enugu,Enugu North,"""ASATA HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+341,Enugu,Enugu North,"""OGBETE HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+342,Enugu,Enugu North,"""RAILWAY HOSPITAL RAIL""",IAR TB SAMPLE MAPPING AND TARRIFF
+343,Enugu,Enugu North,"""Enugu North health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+344,Enugu,Enugu East,"""82 DIV ARMY HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+345,Enugu,Enugu East,"""NATIONAL ORTHOPEDIC HOSPITAL ENUGU""",IAR TB SAMPLE MAPPING AND TARRIFF
+346,Enugu,Enugu East,"""ABAKPA HEALTH CENTER""",IAR TB SAMPLE MAPPING AND TARRIFF
+347,Enugu,Enugu East,"""JULIUS MEMORIAL HOSPITAL ABAKPA""",IAR TB SAMPLE MAPPING AND TARRIFF
+348,Enugu,Enugu East,"""SAVE A LIFE HOSPITAL """,IAR TB SAMPLE MAPPING AND TARRIFF
+349,Enugu,Enugu East,"""CHIGOZIE HOSP """,IAR TB SAMPLE MAPPING AND TARRIFF
+350,Enugu,Enugu East,"""CHUKWUASOKAM HOSPITAL AND MATERNITY """,IAR TB SAMPLE MAPPING AND TARRIFF
+351,Enugu,Enugu East,"""HIS GRACE MEDICAL CENTRE """,IAR TB SAMPLE MAPPING AND TARRIFF
+352,Enugu,Enugu East,"""IJI-NIKE COTTAGE HOSP """,IAR TB SAMPLE MAPPING AND TARRIFF
+353,Enugu,Enugu East,"""ST MARY'S HOSP """,IAR TB SAMPLE MAPPING AND TARRIFF
+354,Enugu,Enugu East,"""ST. THERESA """,IAR TB SAMPLE MAPPING AND TARRIFF
+355,Enugu,Enugu East,"""ST.BRIDGET SPECIALIST HOSPITAL EMENE """,IAR TB SAMPLE MAPPING AND TARRIFF
+356,Enugu,Enugu East,"""ONUOGBA H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+357,Enugu,Enugu East,"""Ibeagwa Nike H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+358,Enugu,Enugu East,"""UGWOGO H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+359,Enugu,Enugu East,"""UMUCHIGBO H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+360,Enugu,Enugu East,"""FED. HOUSING H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+361,Enugu,Enugu East,"""UGBO OWA H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+362,Enugu,Enugu East,"""UGWUOMA H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+363,Enugu,Enugu East,"""OBODO H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+364,Enugu,Enugu South,103 BN,IAR TB SAMPLE MAPPING AND TARRIFF
+365,Enugu,Enugu South,"""AHC""",IAR TB SAMPLE MAPPING AND TARRIFF
+366,Enugu,Enugu South,"""ALMOND HOSP""",IAR TB SAMPLE MAPPING AND TARRIFF
+367,Enugu,Enugu South,"""BALM OF GILEAD""",IAR TB SAMPLE MAPPING AND TARRIFF
+368,Enugu,Enugu South,"""CIMAC HOSP""",IAR TB SAMPLE MAPPING AND TARRIFF
+369,Enugu,Enugu South,"""EKE UGWUAJI""",IAR TB SAMPLE MAPPING AND TARRIFF
+370,Enugu,Enugu South,"""ENMC""",IAR TB SAMPLE MAPPING AND TARRIFF
+371,Enugu,Enugu South,"""MERKIN HOSP""",IAR TB SAMPLE MAPPING AND TARRIFF
+372,Enugu,Enugu South,"""TGSSH""",IAR TB SAMPLE MAPPING AND TARRIFF
+373,Enugu,Enugu South,"""TRUE VINE CLINIC""",IAR TB SAMPLE MAPPING AND TARRIFF
+374,Enugu,Enugu South,"""UGH""",IAR TB SAMPLE MAPPING AND TARRIFF
+375,Enugu,Enugu South,"""UNIQUE CLINIC""",IAR TB SAMPLE MAPPING AND TARRIFF
+376,Enugu,Enugu South,"""WESTLY HOSP""",IAR TB SAMPLE MAPPING AND TARRIFF
+377,Enugu,Enugu South,"""UWANI H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+378,Enugu,Enugu South,"""OBEAGU MAIN H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+379,Enugu,Enugu South,"""MOPO3 CLINIC""",IAR TB SAMPLE MAPPING AND TARRIFF
+380,Enugu,Enugu South,"""OBEAGU / AMAECHI HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+381,Enugu,Enugu South,"""IKIRIKE H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+382,Enugu,Nkanu West/Nkanu East,"""AGBANI GENERAL HOSP./ DH AGBANI""",IAR TB SAMPLE MAPPING AND TARRIFF
+383,Enugu,Nkanu West/Nkanu East,"""AGBANI HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+384,Enugu,Nkanu West/Nkanu East,"""AKEGBE UGWU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+385,Enugu,Nkanu West/Nkanu East,"""ALPHA MEDICAL CLINIC AGBANI""",IAR TB SAMPLE MAPPING AND TARRIFF
+386,Enugu,Nkanu West/Nkanu East,"""AMOUGWU OBUOFIA""",IAR TB SAMPLE MAPPING AND TARRIFF
+387,Enugu,Nkanu West/Nkanu East,"""ARUIKE NDIORIA AK""",IAR TB SAMPLE MAPPING AND TARRIFF
+388,Enugu,Nkanu West/Nkanu East,"""KING DAVID""",IAR TB SAMPLE MAPPING AND TARRIFF
+389,Enugu,Nkanu West/Nkanu East,"""MODEL PHC OZALLA""",IAR TB SAMPLE MAPPING AND TARRIFF
+390,Enugu,Nkanu West/Nkanu East,"""NDIAGU OBUNO AKPUGO H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+391,Enugu,Nkanu West/Nkanu East,"""ORIENT HOSP.""",IAR TB SAMPLE MAPPING AND TARRIFF
+392,Enugu,Nkanu West/Nkanu East,"""OZALLA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+393,Enugu,Nkanu West/Nkanu East,"""ST. MICHAELS AKPUGO""",IAR TB SAMPLE MAPPING AND TARRIFF
+394,Enugu,Nkanu West/Nkanu East,"""OBINAGU UWANI AKPUGO HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+395,Enugu,Nkanu West/Nkanu East,"""AMODU HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+396,Enugu,Nkanu West/Nkanu East,"""O'EJI NDIUNO HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+397,Enugu,Nkanu West/Nkanu East,"""NDIUNO UWANI AKPUGO""",IAR TB SAMPLE MAPPING AND TARRIFF
+398,Enugu,Nkanu West/Nkanu East,"""AMURI H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+399,Enugu,Nkanu West/Nkanu East,"""AMURRI H/C 2""",IAR TB SAMPLE MAPPING AND TARRIFF
+400,Enugu,Nkanu West/Nkanu East,"""OBEAGU H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+401,Enugu,Nkanu West/Nkanu East,"""OBE H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+402,Enugu,Nkanu West/Nkanu East,"""AMAFOR UGBAOKA""",IAR TB SAMPLE MAPPING AND TARRIFF
+403,Enugu,Nkanu West/Nkanu East,"""AMECHIDODO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+404,Enugu,Nkanu West/Nkanu East,"""CHAMPION LIFE HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+405,Enugu,Nkanu West/Nkanu East,"""COMM. HC / GOV. HEALTH CENTRE MBULU OWO""",IAR TB SAMPLE MAPPING AND TARRIFF
+406,Enugu,Nkanu West/Nkanu East,"""ENUOGU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+407,Enugu,Nkanu West/Nkanu East,"""IDUME HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+408,Enugu,Nkanu West/Nkanu East,"""IHUOKPARA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+409,Enugu,Nkanu West/Nkanu East,"""MBURUBU""",IAR TB SAMPLE MAPPING AND TARRIFF
+410,Enugu,Nkanu West/Nkanu East,"""MODEL HC ONICHAGU""",IAR TB SAMPLE MAPPING AND TARRIFF
+411,Enugu,Nkanu West/Nkanu East,"""MODEL PHC AMAGUNZE""",IAR TB SAMPLE MAPPING AND TARRIFF
+412,Enugu,Nkanu West/Nkanu East,"""NARA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+413,Enugu,Nkanu West/Nkanu East,"""NEW DENSSA HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+414,Enugu,Nkanu West/Nkanu East,"""NKEREFFI HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+415,Enugu,Nkanu West/Nkanu East,"""NOMEH HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+416,Enugu,Nkanu West/Nkanu East,"""ORUKU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+417,Enugu,Nkanu West/Nkanu East,"""OVUORIE UGBAWKA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+418,Enugu,Nkanu West/Nkanu East,"""OWACHI H/POST""",IAR TB SAMPLE MAPPING AND TARRIFF
+419,Enugu,Nkanu West/Nkanu East,"""OWO HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+420,Enugu,Nkanu West/Nkanu East,"""UBAHU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+421,Enugu,Nkanu West/Nkanu East,"""UHUONA H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+422,Enugu,Nkanu West/Nkanu East,"""UMUOGBU HP""",IAR TB SAMPLE MAPPING AND TARRIFF
+423,Enugu,Nkanu West/Nkanu East,"""IDUME H/CENTRE",IAR TB SAMPLE MAPPING AND TARRIFF
+424,Enugu,Nkanu West/Nkanu East,"AMANKANU""",IAR TB SAMPLE MAPPING AND TARRIFF
+425,Enugu,Nkanu West/Nkanu East,"""HEALTH POST UMUNOVO ANIYI AMAGUNZE""",IAR TB SAMPLE MAPPING AND TARRIFF
+426,Enugu,Nkanu West/Nkanu East,"""HEALTH CENTRE NDIAGU AMAGUNZE""",IAR TB SAMPLE MAPPING AND TARRIFF
+427,Enugu,Nkanu West/Nkanu East,"""ISUOGBO NARA HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+428,Enugu,Isi Uzo,"""AGUMEDE HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+429,Enugu,Isi Uzo,"""CHRIST THE KING HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+430,Enugu,Isi Uzo,"""DH /GENERAL HOSP. IKEM""",IAR TB SAMPLE MAPPING AND TARRIFF
+431,Enugu,Isi Uzo,"""IKPAKARA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+432,Enugu,Isi Uzo,"""MGBUJI HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+433,Enugu,Isi Uzo,"""MODEL CLINIC/ HOSP.""",IAR TB SAMPLE MAPPING AND TARRIFF
+434,Enugu,Isi Uzo,"""NEKE HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+435,Enugu,Isi Uzo,"""OGBUZOR HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+436,Enugu,Isi Uzo,"""OZO(EMENA) HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+437,Enugu,Isi Uzo,"""SOMKENECHUKWU HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+438,Enugu,Isi Uzo,"""ST. ANTHONY""",IAR TB SAMPLE MAPPING AND TARRIFF
+439,Enugu,Isi Uzo,"""ST. MARK'S HOSPITAL EHA AMUFU""",IAR TB SAMPLE MAPPING AND TARRIFF
+440,Enugu,Isi Uzo,"""ST. MONICA""",IAR TB SAMPLE MAPPING AND TARRIFF
+441,Enugu,Isi Uzo,"""UMUEZIBOKE/ UMUEZE OGBU HEALTH CENTER""",IAR TB SAMPLE MAPPING AND TARRIFF
+442,Enugu,Isi Uzo,"""Ihenyi Agarama Health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+443,Enugu,Isi Uzo,"""Onueme Neke health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+444,Enugu,Isi Uzo,"""Mbu Akpoti H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+445,Enugu,Isi Uzo,"""Eha-Amufu health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+446,Enugu,Isi Uzo,"""Egerumu health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+447,Enugu,Isi Uzo,"""Cottage hospital Eha-Amufu""",IAR TB SAMPLE MAPPING AND TARRIFF
+448,Enugu,Isi Uzo,"""Ape health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+449,Enugu,Isi Uzo,"""Ikem Health Center""",IAR TB SAMPLE MAPPING AND TARRIFF
+450,Enugu,Isi Uzo,"""ABOR HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+451,Enugu,Isi Uzo,"""Ebia Ikem Health Centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+452,Enugu,Oji-River,"""A.J.H.""",IAR TB SAMPLE MAPPING AND TARRIFF
+453,Enugu,Oji-River,"""AGBADALA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+454,Enugu,Oji-River,"""AGUABOSI H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+455,Enugu,Oji-River,"""AHANI/AMAETITE H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+456,Enugu,Oji-River,"""ALUM INYI H/C""",IAR TB SAMPLE MAPPING AND TARRIFF
+457,Enugu,Oji-River,"""AMAGU HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+458,Enugu,Oji-River,"""AWLAW""",IAR TB SAMPLE MAPPING AND TARRIFF
+459,Enugu,Oji-River,"""BASIC HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+460,Enugu,Oji-River,"""BISHOP MORRIS WALKER HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+461,Enugu,Oji-River,"""CHINWENDU HOSPITAL AND MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+462,Enugu,Oji-River,"""DIVINE CLINIC""",IAR TB SAMPLE MAPPING AND TARRIFF
+463,Enugu,Oji-River,"""FAITH HOSPITAL""",IAR TB SAMPLE MAPPING AND TARRIFF
+464,Enugu,Oji-River,"""GEN. HOSP.""",IAR TB SAMPLE MAPPING AND TARRIFF
+465,Enugu,Oji-River,"""INYI HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+466,Enugu,Oji-River,"""IZUNDU H/M""",IAR TB SAMPLE MAPPING AND TARRIFF
+467,Enugu,Oji-River,"""OJIDE HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+468,Enugu,Oji-River,"""OUR FAITH CLINIC""",IAR TB SAMPLE MAPPING AND TARRIFF
+469,Enugu,Oji-River,"""PRISONS""",IAR TB SAMPLE MAPPING AND TARRIFF
+470,Enugu,Oji-River,"""ST THERESA'S PARISH CLINIC /MATERNITY""",IAR TB SAMPLE MAPPING AND TARRIFF
+471,Enugu,Oji-River,"""UGWUOBA HC""",IAR TB SAMPLE MAPPING AND TARRIFF
+472,Enugu,Oji-River,"""UMUOKPALA""",IAR TB SAMPLE MAPPING AND TARRIFF
+473,Enugu,Oji-River,"""Enugu agu-achi health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+474,Enugu,Oji-River,"""Umuelebeope health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+475,Enugu,Oji-River,"""Agbaladi health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+476,Enugu,Oji-River,"""Enugwu/Nkpolokolo health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+477,Enugu,Oji-River,"""Umuonwu health centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+478,Enugu,Oji-River,"""Cottage hospital Isikwe""",IAR TB SAMPLE MAPPING AND TARRIFF
+479,Enugu,Oji-River,"""Umuori Health Centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+480,Enugu,Oji-River,"""Ohaechem Health Centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+481,Enugu,Oji-River,"""Abor - Abor Health Centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+482,Enugu,Oji-River,"""Akpugoeze Health Centre""",IAR TB SAMPLE MAPPING AND TARRIFF
+483,Enugu,Nsukka/IgboEtiti,DAUGHTERS OF DIVINE LOVE,IAR TB SAMPLE MAPPING AND TARRIFF
+484,Enugu,Nsukka/IgboEtiti,"""ACHARA OHODO""",IAR TB SAMPLE MAPPING AND TARRIFF
+485,Enugu,Nsukka/IgboEtiti,"""AGU UMUWKO""",IAR TB SAMPLE MAPPING AND TARRIFF
+486,Enugu,Nsukka/IgboEtiti,"""AKU HEALTH CENTRE""",IAR TB SAMPLE MAPPING AND TARRIFF
+487,Enugu,Nsukka/IgboEtiti,"""AKUTARA OHODO HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+488,Enugu,Nsukka/IgboEtiti,"""AMANEFI""",Delta and Anambra Sample Shipment Mapping.xlsx
+489,Enugu,Nsukka/IgboEtiti,"""AMOGWU""",Delta and Anambra Sample Shipment Mapping.xlsx
+490,Enugu,Nsukka/IgboEtiti,"""ANENECHUKWU HOSPITAL""",Delta and Anambra Sample Shipment Mapping.xlsx
+491,Enugu,Nsukka/IgboEtiti,"""ATTAH MEMORIAL HOSPITAL""",Delta and Anambra Sample Shipment Mapping.xlsx
+492,Enugu,Nsukka/IgboEtiti,"""COTTAGE HOSP. AKU""",Delta and Anambra Sample Shipment Mapping.xlsx
+493,Enugu,Nsukka/IgboEtiti,"""COTTAGE HOSP. OGBEDE""",Delta and Anambra Sample Shipment Mapping.xlsx
+494,Enugu,Nsukka/IgboEtiti,"""DIEWA OHEMUJE""",Delta and Anambra Sample Shipment Mapping.xlsx
+495,Enugu,Nsukka/IgboEtiti,"""DIOGBE""",Delta and Anambra Sample Shipment Mapping.xlsx
+496,Enugu,Nsukka/IgboEtiti,"""EKWEGBE HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+497,Enugu,Nsukka/IgboEtiti,"""ELECHI MEDICAL CLINIC",Delta and Anambra Sample Shipment Mapping.xlsx
+498,Enugu,Nsukka/IgboEtiti,"UGBEDE UKEHE""",Delta and Anambra Sample Shipment Mapping.xlsx
+499,Enugu,Nsukka/IgboEtiti,"""EZEMOBI HOSPITAL""",Delta and Anambra Sample Shipment Mapping.xlsx
+500,Enugu,Nsukka/IgboEtiti,"""EZIUKEHE PHC""",Delta and Anambra Sample Shipment Mapping.xlsx
+501,Enugu,Nsukka/IgboEtiti,"""GORAD""",Delta and Anambra Sample Shipment Mapping.xlsx
+502,Enugu,Nsukka/IgboEtiti,"""IKOLO""",Delta and Anambra Sample Shipment Mapping.xlsx
+503,Enugu,Nsukka/IgboEtiti,"""LITTLE BROTHERS HOSPITAL",Delta and Anambra Sample Shipment Mapping.xlsx
+504,Enugu,Nsukka/IgboEtiti,"AMEGU- UWELU""",Delta and Anambra Sample Shipment Mapping.xlsx
+505,Enugu,Nsukka/IgboEtiti,"""MKPURUADADA HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+506,Enugu,Nsukka/IgboEtiti,"""MPHC AMOBOKWA",Delta and Anambra Sample Shipment Mapping.xlsx
+507,Enugu,Nsukka/IgboEtiti,"AKU""",Delta and Anambra Sample Shipment Mapping.xlsx
+508,Enugu,Nsukka/IgboEtiti,"""NUA """,Delta and Anambra Sample Shipment Mapping.xlsx
+509,Enugu,Nsukka/IgboEtiti,"""OBEAGU OWORO HP""",Delta and Anambra Sample Shipment Mapping.xlsx
+510,Enugu,Nsukka/IgboEtiti,"""OCHIMA""",Delta and Anambra Sample Shipment Mapping.xlsx
+511,Enugu,Nsukka/IgboEtiti,"""ODUMA""",Delta and Anambra Sample Shipment Mapping.xlsx
+512,Enugu,Nsukka/IgboEtiti,"""OGBEDE""",Delta and Anambra Sample Shipment Mapping.xlsx
+513,Enugu,Nsukka/IgboEtiti,"""OHODO""",Delta and Anambra Sample Shipment Mapping.xlsx
+514,Enugu,Nsukka/IgboEtiti,"""ONYOHOR""",Delta and Anambra Sample Shipment Mapping.xlsx
+515,Enugu,Nsukka/IgboEtiti,"""ORDA HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+516,Enugu,Nsukka/IgboEtiti,"""OSHIGO""",Delta and Anambra Sample Shipment Mapping.xlsx
+517,Enugu,Nsukka/IgboEtiti,"""OZALLA PHC""",Delta and Anambra Sample Shipment Mapping.xlsx
+518,Enugu,Nsukka/IgboEtiti,"""SPHMC""",Delta and Anambra Sample Shipment Mapping.xlsx
+519,Enugu,Nsukka/IgboEtiti,"""UDUEME""",Delta and Anambra Sample Shipment Mapping.xlsx
+520,Enugu,Nsukka/IgboEtiti,"""UKOPI HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+521,Enugu,Nsukka/IgboEtiti,"""UMUALEKE""",Delta and Anambra Sample Shipment Mapping.xlsx
+522,Enugu,Nsukka/IgboEtiti,"""UMUIFO H/C""",Delta and Anambra Sample Shipment Mapping.xlsx
+523,Enugu,Nsukka/IgboEtiti,"""UMUNKO""",Delta and Anambra Sample Shipment Mapping.xlsx
+524,Enugu,Nsukka/IgboEtiti,"""UMUNNA""",Delta and Anambra Sample Shipment Mapping.xlsx
+525,Enugu,Nsukka/IgboEtiti,"""UMUOFIAGU""",Delta and Anambra Sample Shipment Mapping.xlsx
+526,Enugu,Nsukka/IgboEtiti,"""ZIM-USO HOSP """,Delta and Anambra Sample Shipment Mapping.xlsx
+527,Enugu,Nsukka/IgboEtiti,"""Ugwuna Orda Health Centre Igboetiti""",Delta and Anambra Sample Shipment Mapping.xlsx
+528,Enugu,Nsukka/IgboEtiti,"""Owerre Ohodo Health Center""",Delta and Anambra Sample Shipment Mapping.xlsx
+529,Enugu,Nsukka/IgboEtiti,"""Uwelle Amakofia Health Center""",Delta and Anambra Sample Shipment Mapping.xlsx
+530,Enugu,Nsukka/IgboEtiti,"""Ikolo health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+531,Enugu,Nsukka/IgboEtiti,"""Amauwani health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+532,Enugu,Udi,"""ABOR HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+533,Enugu,Udi,"""AMANKWO EKE HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+534,Enugu,Udi,"""AMOKWE HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+535,Enugu,Udi,"""ARK OF LIFE MEDICAL CENTRE NGWO",Delta and Anambra Sample Shipment Mapping.xlsx
+536,Enugu,Udi,"""CHIKA HOSPITAL AND MATERNITY AMOKWE""",Delta and Anambra Sample Shipment Mapping.xlsx
+537,Enugu,Udi,"""DIVINE MEDICAL CENTER""",Delta and Anambra Sample Shipment Mapping.xlsx
+538,Enugu,Udi,"""EBE HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+539,Enugu,Udi,"""HOSSANA HOSP. NSUDE""",Delta and Anambra Sample Shipment Mapping.xlsx
+540,Enugu,Udi,"""IKEDIMKPA HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+541,Enugu,Udi,"""MOUNT ZION MEDICAL CENTRE""",Delta and Anambra Sample Shipment Mapping.xlsx
+542,Enugu,Udi,"""NACHI HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+543,Enugu,Udi,"""NGWO ASAA""",Delta and Anambra Sample Shipment Mapping.xlsx
+544,Enugu,Udi,"""NGWO UNO HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+545,Enugu,Udi,"""NSUDE HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+546,Enugu,Udi,"""OSMC""",Delta and Anambra Sample Shipment Mapping.xlsx
+547,Enugu,Udi,"""UDI DISTRICT HOSPITAL""",Delta and Anambra Sample Shipment Mapping.xlsx
+548,Enugu,Udi,"""UKAMAKA COTT HOSP""",Delta and Anambra Sample Shipment Mapping.xlsx
+549,Enugu,Udi,"""UMUAGA HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+550,Enugu,Udi,"""UMULUMGBE HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+551,Enugu,Udi,"""UNITY HOSP""",Delta and Anambra Sample Shipment Mapping.xlsx
+552,Enugu,Udi,"""VICTORIA HOSP""",Delta and Anambra Sample Shipment Mapping.xlsx
+553,Enugu,Udi,"""Umuabi health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+554,Enugu,Udi,"""Agbudu health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+555,Enugu,Udi,"""Obioma health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+556,Enugu,Udi,"""Obinagu health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+557,Enugu,Udi,"""Okpatu health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+558,Enugu,Enugu East/Aninri,"""Annunciation Specialist Hospital Enugu""",Delta and Anambra Sample Shipment Mapping.xlsx
+559,Enugu,Enugu East/Aninri,"""AGBOECHALA HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+560,Enugu,Enugu East/Aninri,"""AMAEKE HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+561,Enugu,Enugu East/Aninri,"""CHINONSO """,Delta and Anambra Sample Shipment Mapping.xlsx
+562,Enugu,Enugu East/Aninri,"""DIVINE MERCY CLINIC & MATERNITY """,Delta and Anambra Sample Shipment Mapping.xlsx
+563,Enugu,Enugu East/Aninri,"""EAGLES HOSPITAL & MATERNITY """,Delta and Anambra Sample Shipment Mapping.xlsx
+564,Enugu,Enugu East/Aninri,"""EKOLI """,Delta and Anambra Sample Shipment Mapping.xlsx
+565,Enugu,Enugu East/Aninri,"""EMAVIK / ST. PETERS """,Delta and Anambra Sample Shipment Mapping.xlsx
+566,Enugu,Enugu East/Aninri,"""EMMANUEL HOSPITAL OHOFIA ODUMA """,Delta and Anambra Sample Shipment Mapping.xlsx
+567,Enugu,Enugu East/Aninri,"""EMUDO """,Delta and Anambra Sample Shipment Mapping.xlsx
+568,Enugu,Enugu East/Aninri,"""EZINATO """,Delta and Anambra Sample Shipment Mapping.xlsx
+569,Enugu,Enugu East/Aninri,"""MPU CHC """,Delta and Anambra Sample Shipment Mapping.xlsx
+570,Enugu,Enugu East/Aninri,"""MPU HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+571,Enugu,Enugu East/Aninri,"""NDEABOH HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+572,Enugu,Enugu East/Aninri,"""NDUMEZE """,Delta and Anambra Sample Shipment Mapping.xlsx
+573,Enugu,Enugu East/Aninri,"""NENWE COTTAGE """,Delta and Anambra Sample Shipment Mapping.xlsx
+574,Enugu,Enugu East/Aninri,"""NENWE HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+575,Enugu,Enugu East/Aninri,"""NENWE PHC """,Delta and Anambra Sample Shipment Mapping.xlsx
+576,Enugu,Enugu East/Aninri,"""OBEAGU HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+577,Enugu,Enugu East/Aninri,"""ODUMA ACHARA """,Delta and Anambra Sample Shipment Mapping.xlsx
+578,Enugu,Enugu East/Aninri,"""ODUMA BASIC """,Delta and Anambra Sample Shipment Mapping.xlsx
+579,Enugu,Enugu East/Aninri,"""OKPANKU HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+580,Enugu,Enugu East/Aninri,"""ST LUKE'S HOSPITAL ODUMA """,Delta and Anambra Sample Shipment Mapping.xlsx
+581,Enugu,Enugu East/Aninri,"""UHUEZE HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+582,Enugu,Enugu East/Aninri,"""ZION HOSPITAL & MAT NENWE """,Delta and Anambra Sample Shipment Mapping.xlsx
+583,Enugu,Enugu East/Aninri,"""Okpanku cottage hospital""",Delta and Anambra Sample Shipment Mapping.xlsx
+584,Enugu,Enugu East/Aninri,"""Enugu-Nato health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+585,Enugu,Enugu East/Aninri,"""Oduma cottage hospital""",Delta and Anambra Sample Shipment Mapping.xlsx
+586,Enugu,Enugu East/Aninri,"""Agbada health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+587,Enugu,Enugu East/Aninri,"""Amokwe health centre""",Delta and Anambra Sample Shipment Mapping.xlsx
+588,Enugu,Udenu,IMILIKE ANI HEALTH CENTRE,Delta and Anambra Sample Shipment Mapping.xlsx
+589,Enugu,Udenu,"""AMALLA HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+590,Enugu,Udenu,"""MACUS M/HOSP.""",Delta and Anambra Sample Shipment Mapping.xlsx
+591,Enugu,Udenu,"""OBOLLO AFOR HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+592,Enugu,Udenu,"""OBOLLO ISI ELU HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+593,Enugu,Udenu,"""OGBODU ABA HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+594,Enugu,Udenu,"""ORBA HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+595,Enugu,Udenu,"""PASCAL EUNICE SPECIALIST HOSPITAL""",Delta and Anambra Sample Shipment Mapping.xlsx
+596,Enugu,Udenu,"""PRINCE EZE HOSPITAL OBOLLO AFOR""",Delta and Anambra Sample Shipment Mapping.xlsx
+597,Enugu,Udenu,"""ST. BRIDGET HOSPITAL MEMORIAL HOSPITAL""",Delta and Anambra Sample Shipment Mapping.xlsx
+598,Enugu,Udenu,"""ST. THERESA HOSP.""",Delta and Anambra Sample Shipment Mapping.xlsx
+599,Enugu,Udenu,"""SUMMIT HOSPITAL OBOLLO AFOR""",Delta and Anambra Sample Shipment Mapping.xlsx
+600,Enugu,Udenu,"""UMUHODO HC""",Delta and Anambra Sample Shipment Mapping.xlsx
+601,Enugu,Udenu,"""IGUGU HEALTH CENTRE""",Delta and Anambra Sample Shipment Mapping.xlsx
+602,Enugu,Udenu,"""AMALLA ORBA HEALTH CENTRE""",Delta and Anambra Sample Shipment Mapping.xlsx
+603,Enugu,Udenu,"""BASIC HEALTH CENTRE OBOLLO ETITI""",Delta and Anambra Sample Shipment Mapping.xlsx
+604,Enugu,Udenu,"""OZARA EZIMO H/CENTRE""",Delta and Anambra Sample Shipment Mapping.xlsx
+605,Enugu,Udenu,"""OBOLLO EKE HEALTH CENTRE""",Delta and Anambra Sample Shipment Mapping.xlsx
+606,Enugu,Udenu,"""ALGON HEALTH CENTRE ORBA""",Delta and Anambra Sample Shipment Mapping.xlsx
+607,Enugu,Udenu,"""IMILIKE ELU HEALTH CENTRE""",Delta and Anambra Sample Shipment Mapping.xlsx
+608,Enugu,Udenu,"""IHEAKPU OBOLLO HEALTH CENTRE""",Delta and Anambra Sample Shipment Mapping.xlsx
+609,Enugu,Udenu,"""UMUNDU HEALTH CENTRE""",Delta and Anambra Sample Shipment Mapping.xlsx
+610,Enugu,Enugu South,"""Niger Foundation Hospital",Delta and Anambra Sample Shipment Mapping.xlsx
+611,Enugu,Enugu South,"""AGBOGUGU """,Delta and Anambra Sample Shipment Mapping.xlsx
+612,Enugu,Enugu South,"""BEACON HOSPITAL """,Delta and Anambra Sample Shipment Mapping.xlsx
+613,Enugu,Enugu South,"""EAGLE HOSPITAL AWGU """,Delta and Anambra Sample Shipment Mapping.xlsx
+614,Enugu,Enugu South,"""EKPUNOTU """,Delta and Anambra Sample Shipment Mapping.xlsx
+615,Enugu,Enugu South,"""JIDEOFOR HOSPITAL AWGU """,Delta and Anambra Sample Shipment Mapping.xlsx
+616,Enugu,Enugu South,"""MAYO HOSPITAL AWGU (ONUORA OFFORMATA) """,Delta and Anambra Sample Shipment Mapping.xlsx
+617,Enugu,Enugu South,"""MCH """,Delta and Anambra Sample Shipment Mapping.xlsx
+618,Enugu,Enugu South,"""MMAKU """,Delta and Anambra Sample Shipment Mapping.xlsx
+619,Enugu,Enugu South,"""MOTHER OF MERCY IHE """,Delta and Anambra Sample Shipment Mapping.xlsx
+620,Enugu,Enugu South,"""ONOLI HC """,Delta and Anambra Sample Shipment Mapping.xlsx
+621,Enugu,Enugu South,"""OWELLI COURT """,Delta and Anambra Sample Shipment Mapping.xlsx
+622,Enugu,Enugu South,"""ST ANTHONY'S HOSPITAL MGBOWO """,Delta and Anambra Sample Shipment Mapping.xlsx
+623,Enugu,Enugu South,"""ST.ANN'S HOSPITAL """,Delta and Anambra Sample Shipment Mapping.xlsx
+624,Enugu,Enugu South,"""UGWULESI H/C """,Delta and Anambra Sample Shipment Mapping.xlsx
+625,Enugu,Enugu South,"""Ngene-Ugbo H/C""",Delta and Anambra Sample Shipment Mapping.xlsx
+626,Enugu,Enugu South,"""UGBO H/C""",Delta and Anambra Sample Shipment Mapping.xlsx
+627,Enugu,Enugu South,"""NDIAGU OGBOLI H/C""",Delta and Anambra Sample Shipment Mapping.xlsx
+628,Enugu,Enugu South,"""OBEAGU H/C""",LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+629,Enugu,Enugu South,"""MGBOWO H/C""",LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+630,Enugu,Enugu South,"""Ugwueme H/C""",LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+631,Enugu,Enugu South,"""Awgunta H/C""",LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+632,Enugu,Enugu South,"""NENWENTA H/C""",LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+633,FCT,ABAJI,YABA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+634,FCT,ABAJI,Naharati PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+635,FCT,ABAJI,Lowcost PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+636,FCT,ABAJI,NEW TOWNSHIP CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+637,FCT,ABAJI,NUKU PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+638,FCT,ABAJI,MAWOGI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+639,FCT,ABAJI,NANDA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+640,FCT,ABAJI,M.C.H PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+641,FCT,ABAJI,Gwarinpa Gen. Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+642,FCT,ABAJI,Mabushi PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+643,FCT,ABAJI,FMC JABI,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+644,FCT,ABAJI,EFAB MEDICAL CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+645,FCT,ABAJI,Jiwa PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+646,FCT,ABAJI,Gwagwa PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+647,FCT,ABAJI,FAITH MEDIPLEX KARMO,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+648,FCT,ABAJI,Cream Medics Clinic & Mat. Gwagwa,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+649,FCT,AMAC,KARMO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+650,FCT,AMAC,ACCESS HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+651,FCT,AMAC,CROWN HOSP.,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+652,FCT,AMAC,State House Med. Center,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+653,FCT,AMAC,LUNGI BARRACKS HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+654,FCT,AMAC,MAMBILA BARRACK HOSP,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+655,FCT,AMAC,Customs Clinic,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+656,FCT,AMAC,Garki PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+657,FCT,AMAC,POLICE CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+658,FCT,AMAC,CBN CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+659,FCT,AMAC,RUZ MEDICAL CNTRE GARKI,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+660,FCT,AMAC,ATLAS MEDICAL CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+661,FCT,AMAC,AMANA MEDICAL CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+662,FCT,AMAC,GEM OF HOPE MEDICAL CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+663,FCT,AMAC,AIDS HEALTHCARE FOUNDATION CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+664,FCT,AMAC,KING’S CARE HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+665,FCT,AMAC,CITY HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+666,FCT,AMAC,SAUKI PRIVATE HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+667,FCT,AMAC,JAHI I PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+668,FCT,AMAC,DR HASSAN HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+669,FCT,AMAC,INTERNATIONAL ORGANIZATION FOR MIGRATION,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+670,FCT,AMAC,DUTSE GARKI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+671,FCT,AMAC,WARU PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+672,FCT,AMAC,pigba med. center apo,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+673,FCT,AMAC,BURUM PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+674,FCT,AMAC,SHERETI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+675,FCT,AMAC,FAMILY CARE MULTI CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+676,FCT,AMAC,GBADALAPE PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+677,FCT,AMAC,Saffron Hospital LTD,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+678,FCT,AMAC,FREEDOM SCAN MEDICAL CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+679,FCT,AMAC,NORTHLAND MEDICAL CENTER NYANYA,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+680,FCT,AMAC,PAN-RAF HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+681,FCT,AMAC,KARU PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+682,FCT,AMAC,Jikwoyi PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+683,FCT,AMAC,Kurudu PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+684,FCT,AMAC,Jikwoyi Medical Center,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+685,FCT,AMAC,CORNELIAN MATERNITY AND RURAL HEALTH CARE CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+686,FCT,AMAC,RAPHA HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+687,FCT,AMAC,CORNELIAN JUBILEE HOSPT. JIKWOYI,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+688,FCT,AMAC,ECWA COMP. MEDICAL CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+689,FCT,AMAC,GIDA MANGORO CPHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+690,FCT,AMAC,OROZO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+691,FCT,AMAC,PHC-karshi,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+692,FCT,AMAC,Medical Missionary OF Mary,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+693,FCT,AMAC,Bethel Clinic & Maternity,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+694,FCT,AMAC,PAAFAG HOSP.,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+695,FCT,AMAC,GOSA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+696,FCT,AMAC,PHC PYAKASSA,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+697,FCT,AMAC,MASSAN CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+698,FCT,AMAC,NAF BASE 108 CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+699,FCT,AMAC,Gui PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+700,FCT,AMAC,Neumed Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+701,FCT,AMAC,PIWOYI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+702,FCT,AMAC,BASSAN JIWA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+703,FCT,AMAC,ALEITA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+704,FCT,AMAC,LUGBE PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+705,FCT,AMAC,KETTI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+706,FCT,AMAC,KPEYGYI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+707,FCT,AMAC,KAGINI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+708,FCT,AMAC,OUR LADY OF FATIMA,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+709,FCT,AMAC,SUMIT HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+710,FCT,AMAC,KOGO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+711,FCT,AMAC,USHAFA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+712,FCT,AMAC,LAURA HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+713,FCT,AMAC,BWARI MEDICAL CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+714,FCT,AMAC,JIGO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+715,FCT,AMAC,GABA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+716,FCT,AMAC,BARANGONI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+717,FCT,AMAC,SABON GARI PHC BWARI,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+718,FCT,BWARI,BWARI TOWN CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+719,FCT,BWARI,KAWU PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+720,FCT,BWARI,SHERE PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+721,FCT,BWARI,PHC DURUMI,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+722,FCT,BWARI,KATAMPE 11 PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+723,FCT,BWARI,OMEGA CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+724,FCT,BWARI,St. Vincent Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+725,FCT,BWARI,Dei-Dei PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+726,FCT,BWARI,Owner Occupier Model PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+727,FCT,BWARI,Muslim Community Hospital,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+728,FCT,BWARI,Express Hospital Kubuwa,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+729,FCT,BWARI,BYAZHIN PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+730,FCT,BWARI,POLICE HOSPITAL DEI-DEI,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+731,FCT,BWARI,GRACE OF GOD HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+732,FCT,BWARI,DOMINIONCLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+733,FCT,BWARI,GOODNESS LAND CLINIC DEI-DEI,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+734,FCT,BWARI,MODERN HEALTH HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+735,FCT,BWARI,DAWAKI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+736,FCT,BWARI,DUTSE MAKARANTA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+737,FCT,BWARI,COMMUNITY HOSPITAL AND DIAGNOSTIC CENTRE,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+738,FCT,BWARI,DAGIRI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+739,FCT,BWARI,JERAB HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+740,FCT,BWARI,KUTUNKU PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+741,FCT,BWARI,GWAGWALADA CLINIC/ MATERNITY,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+742,FCT,BWARI,KUTUNKU ALHERI CLINIC& MATERNITY,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+743,FCT,BWARI,DUKPA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+744,FCT,BWARI,LIVING STREAM SPECIALIST,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+745,FCT,BWARI,ANG. DODO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+746,FCT,BWARI,TUNGA MAJE PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+747,FCT,BWARI,YIMI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+748,FCT,BWARI,IKWA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+749,FCT,BWARI,MINAT HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+750,FCT,BWARI,CHITUMU PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+751,FCT,BWARI,ANAGADA PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+752,FCT,BWARI,GIRI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+753,FCT,BWARI,Joefag Alheri Clinic & Maternity,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+754,FCT,BWARI,PAIKO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+755,FCT,BWARI,WUMI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+756,FCT,BWARI,TSAUNI CLINIC DOBI,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+757,FCT,BWARI,IBWA I PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+758,FCT,BWARI,PABEYI PHC DOBI WARD,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+759,FCT,BWARI,KUJE PRISON,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+760,FCT,BWARI,ILA UNIVERSAL HOSPITAL,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+761,FCT,BWARI,LANTO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+762,FCT,BWARI,ALISON CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+763,FCT,BWARI,GADE CLINIC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+764,FCT,BWARI,PEGI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+765,FCT,BWARI,KUCHIAKO PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+766,FCT,BWARI,Buzunkure Primary Health Centre (Abuja @30),LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+767,FCT,BWARI,PEGI PHC,LIST OF DOT SITES IN THE FCT AND  THEIR MAPPED GENEXPERT SITES.xlsx
+768,FCT,BWARI,GUDUN KARIYA PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+769,FCT,BWARI,Kasada Primary Health Centre,IAR TB SAMPLE MAPPING AND TARRIFF
+770,FCT,BWARI,Gwargwada Primary Health Centre,IAR TB SAMPLE MAPPING AND TARRIFF
+771,FCT,BWARI,CHIBIRI PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+772,FCT,BWARI,CHUKUKU PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+773,FCT,BWARI,SABO PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+774,FCT,BWARI,KWAKU PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+775,FCT,BWARI,KABIMANGORO PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+776,FCT,BWARI,GAUBE CHC,IAR TB SAMPLE MAPPING AND TARRIFF
+777,FCT,BWARI,TUPACHI PHC KUJE,IAR TB SAMPLE MAPPING AND TARRIFF
+778,FCT,GWAGWALADA,KIYI PHC KUJE,IAR TB SAMPLE MAPPING AND TARRIFF
+779,FCT,GWAGWALADA,RUBOCHI PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+780,FCT,GWAGWALADA,RHEMA HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+781,FCT,GWAGWALADA,Alheri Clinic Yangoji,IAR TB SAMPLE MAPPING AND TARRIFF
+782,FCT,GWAGWALADA,DAFA PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+783,FCT,GWAGWALADA,WAKO PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+784,FCT,GWAGWALADA,ASHARA PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+785,FCT,GWAGWALADA,PHC KWAITA SABO,IAR TB SAMPLE MAPPING AND TARRIFF
+786,FCT,GWAGWALADA,KILANKWA 1PHC,IAR TB SAMPLE MAPPING AND TARRIFF
+787,FCT,GWAGWALADA,DABI BAKO CHC,IAR TB SAMPLE MAPPING AND TARRIFF
+788,Edo,AKOKO EDO,ALAFIA SPECIALIST CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF
+789,Edo,AKOKO EDO,IFEJOLA SPECIALIST HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+790,Edo,AKOKO EDO,AFRICAN REDEMPTION CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF
+791,Edo,AKOKO EDO,POLY CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF
+792,Edo,AKOKO EDO,SHALOM CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF
+793,Edo,AKOKO EDO,MADONNA HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+794,Edo,AKOKO EDO,PROGRESS HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+795,Edo,EGOR,MOUNT GILEAD HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+796,Edo,EGOR,EVANGEL MODEL HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+797,Edo,EGOR,ISE CLINIC AND MATERNITY,IAR TB SAMPLE MAPPING AND TARRIFF
+798,Edo,EGOR,ECHOES HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+799,Edo,EGOR,BAMBY HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+800,Edo,EGOR,MEGA CLINIC AND MATERNITY,IAR TB SAMPLE MAPPING AND TARRIFF
+801,Edo,EGOR,ITUA MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+802,Edo,EGOR,DIVINE NURSING AND MAT. HOME,IAR TB SAMPLE MAPPING AND TARRIFF
+803,Edo,EGOR,NEWSONG MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+804,Edo,EGOR,DIVINE NURSING AND MATERNITY,IAR TB SAMPLE MAPPING AND TARRIFF
+805,Edo,EGOR,GOD'S VICTORY HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+806,Edo,EGOR,IYARE CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF
+807,Edo,EGOR,EBONY MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+808,Edo,EGOR,REDEEM MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+809,Edo,EGOR,GREENLAND NURSING AND MATERNITY,IAR TB SAMPLE MAPPING AND TARRIFF
+810,Edo,EGOR,GAMA MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+811,Edo,EGOR,ST. ANTHONY CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF
+812,Edo,ESAN CENTRAL,ST. RAPHAEL HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+813,Edo,ESAN CENTRAL,GOD'SWILL MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+814,Edo,ESAN CENTRAL,ALL SAINTS MEDICAL HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+815,Edo,ESAN CENTRAL,DIVINE CLINIIC AND MATERNITY,IAR TB SAMPLE MAPPING AND TARRIFF
+816,Edo,ESAN NORTH EAST,ST. CAMILUS MEDICAL CENTRE EWU,IAR TB SAMPLE MAPPING AND TARRIFF
+817,Edo,ESAN NORTH EAST,ODIAGBE MEMORIAL HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+818,Edo,ESAN NORTH EAST,ST. CAMILLUS HOSPITAL,IAR TB SAMPLE MAPPING AND TARRIFF
+819,Edo,ESAN NORTH EAST,ORIAIFO MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+820,Edo,ESAN NORTH EAST,MOTHER THERESA MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+821,Edo,ESAN NORTH EAST,UDEGBE MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+822,Edo,ESAN NORTH EAST,DOMINION MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+823,Edo,ESAN NORTH EAST,MAXWELL MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+824,Edo,ESAN NORTH EAST,AMAFOH MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+825,Edo,ESAN NORTH EAST,HIS GRACE MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+826,Edo,ESAN SOUTH EAST,MOUNTZION CLINIC,IAR TB SAMPLE MAPPING AND TARRIFF
+827,Edo,ESAN SOUTH EAST,OGBEIDE MEDICAL CENTRE,IAR TB SAMPLE MAPPING AND TARRIFF
+828,Edo,ESAN SOUTH EAST,SHILOH CLINIC AND MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+829,Edo,ESAN SOUTH EAST,JC AJEKHAWE MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+830,Edo,ESAN SOUTH EAST,SURU MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+831,Edo,ESAN SOUTH EAST,DR. UGBO CLINIC,SEZ Mapping of LGAs for Sample Shipment_Updated
+832,Edo,ESAN WEST,FAITHDOME MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+833,Edo,ESAN WEST,EGUAVON MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+834,Edo,ESAN WEST,OSEMUDIAMEN MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+835,Edo,ESAN WEST,OFURE CLINIC AND MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+836,Edo,ESAN WEST,ESEOHE MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+837,Edo,ESAN WEST,GLORYLAND HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+838,Edo,ESAN WEST,ST. GABRIEL MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+839,Edo,ETSAKO EAST,SLOW=J CLINIC/MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+840,Edo,ETSAKO EAST,"FAVOUR HEALTH CARE, OKPELLA",SEZ Mapping of LGAs for Sample Shipment_Updated
+841,Edo,ETSAKO EAST,SANCTA MARIA MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+842,Edo,ETSAKO EAST,OKPELLA CLINIC/MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+843,Edo,ETSAKO EAST,OKPELLA NURSING/MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+844,Edo,ETSAKO EAST,BODE MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+845,Edo,ETSAKO WEST,HOPE CLINIC AND MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+846,Edo,ETSAKO WEST,FAVOUR HEALTH CARE,SEZ Mapping of LGAs for Sample Shipment_Updated
+847,Edo,ETSAKO WEST,UNIQUE GLOBAL HEALTHCARE,SEZ Mapping of LGAs for Sample Shipment_Updated
+848,Edo,ETSAKO WEST,DIMMAS MEDICAL CENTER,SEZ Mapping of LGAs for Sample Shipment_Updated
+849,Edo,ETSAKO WEST,SANCTA MARIA CATHOLIC HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+850,Edo,ETSAKO WEST,NEW GRACELAND MEDICAL CENTER,SEZ Mapping of LGAs for Sample Shipment_Updated
+851,Edo,ETSAKO WEST,AKEMEKHAI MEDICAL CENTER,SEZ Mapping of LGAs for Sample Shipment_Updated
+852,Edo,ETSAKO WEST,OSENI FAMILY HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+853,Edo,ETSAKO WEST,MOMODU CLINIC,SEZ Mapping of LGAs for Sample Shipment_Updated
+854,Edo,ETSAKO WEST,MG SPECIALIST HOISPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+855,Edo,IGUEBEN,ZION HERITAGE HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+856,Edo,IGUEBEN,BETHEL FAMILY CLINIC,SEZ Mapping of LGAs for Sample Shipment_Updated
+857,Edo,IGUEBEN,FABIAN MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+858,Edo,IGUEBEN,SHEPHERD ROYAL MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+859,Edo,IKPOBA OKHA,ENOMA MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+860,Edo,IKPOBA OKHA,OVBIOISE HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+861,Edo,IKPOBA OKHA,IRELE IFIJEH HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+862,Edo,IKPOBA OKHA,TONA HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+863,Edo,IKPOBA OKHA,DE NEW LIFE HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+864,Edo,IKPOBA OKHA,OUR MEDICAL CLINIC,SEZ Mapping of LGAs for Sample Shipment_Updated
+865,Edo,IKPOBA OKHA,AKUGBE MEDICAL CENTER,SEZ Mapping of LGAs for Sample Shipment_Updated
+866,Edo,IKPOBA OKHA,NOEL SPECIALIST CLINIC,SEZ Mapping of LGAs for Sample Shipment_Updated
+867,Edo,IKPOBA OKHA,ISDA HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+868,Edo,IKPOBA OKHA,ST DAVIDS MEMORIAL NURSING & MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+869,Edo,IKPOBA OKHA,BETHESDA CLINIC,SEZ Mapping of LGAs for Sample Shipment_Updated
+870,Edo,OREDO,BETHEL FAITH MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+871,Edo,OREDO,CHRIST MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+872,Edo,OREDO,SAFE HAVEN,SEZ Mapping of LGAs for Sample Shipment_Updated
+873,Edo,OREDO,D'ROCK HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+874,Edo,OREDO,BENIN MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+875,Edo,OREDO,MODIC HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+876,Edo,OREDO,OWEN HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+877,Edo,OREDO,HOPE HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+878,Edo,OREDO,GIFT HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+879,Edo,OREDO,FELAMO HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+880,Edo,OREDO,LIOLA HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+881,Edo,OREDO,SUYI MEDICAL HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+882,Edo,OREDO,FAITH MEDIPLEX,SEZ Mapping of LGAs for Sample Shipment_Updated
+883,Edo,OREDO,REDEEMED CHRISTIAN HOSP,SEZ Mapping of LGAs for Sample Shipment_Updated
+884,Edo,OREDO,ST. MATHIAS ANGLICAN HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+885,Edo,OREDO,AYOLINK HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+886,Edo,OREDO,CITY OF GOD HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+887,Edo,ORHIONMWON,DEKINS FIRST TRINITY MED. CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+888,Edo,ORHIONMWON,AIGBEGUN CLINIC,SEZ Mapping of LGAs for Sample Shipment_Updated
+889,Edo,ORHIONMWON,MOUNT ZION CLINIC IGBANKE,SEZ Mapping of LGAs for Sample Shipment_Updated
+890,Edo,ORHIONMWON,UMOGUNNOGHAN COMMUNITY HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+891,Edo,ORHIONMWON,EVBOESI CLINIC,SEZ Mapping of LGAs for Sample Shipment_Updated
+892,Edo,OVIA NORTH EAST,IGBINEDON UNI. TEAC. HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+893,Edo,OVIA NORTH EAST,ST. BLAISE PLUS MEDICAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+894,Edo,OVIA NORTH EAST,LIFE MODEL MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+895,Edo,OVIA NORTH EAST,SAVING GRACE HOSPITAL LTD,SEZ Mapping of LGAs for Sample Shipment_Updated
+896,Edo,OVIA NORTH EAST,RESTORE MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+897,Edo,OVIA SOUTH WEST,FREMASE NURSING HOME,SEZ Mapping of LGAs for Sample Shipment_Updated
+898,Edo,OVIA SOUTH WEST,JOGOM PRO LIFE MED CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+899,Edo,OWAN EAST,MERCY FAMILY HOSPITAL AFUZE,SEZ Mapping of LGAs for Sample Shipment_Updated
+900,Edo,OWAN EAST,MERCY FAMILY HOSPITAL OTUO,SEZ Mapping of LGAs for Sample Shipment_Updated
+901,Edo,OWAN EAST,NWANI MEDICAL CENTER,SEZ Mapping of LGAs for Sample Shipment_Updated
+902,Edo,OWAN EAST,JOHN HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+903,Edo,OWAN WEST,GODSWILL LYDIA HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+904,Edo,OWAN WEST,JOE ALUFOKHAI MEDICAL HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+905,Edo,OWAN WEST,ANNOITED CLINIC AND MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+906,Edo,UHUNMWODE,GABLE END SPECIALIST HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+907,Edo,UHUNMWODE,WELL HAVEN SPECIALIST HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+908,Edo,UHUNMWODE,ENOFE MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+909,Edo,UHUNMWODE,VALUE HAVEN ACCESS CARE,SEZ Mapping of LGAs for Sample Shipment_Updated
+910,Edo,UHUNMWODE,GRACE TRINITY HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+911,Edo,UHUNMWODE,OZEIGBE MATERNITY HOME,SEZ Mapping of LGAs for Sample Shipment_Updated
+912,Edo,UHUNMWODE,ARK OF GRACE MATERNITY,SEZ Mapping of LGAs for Sample Shipment_Updated
+913,Edo,UHUNMWODE,PAR EXCELLENCE HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+914,Edo,UHUNMWODE,MARY IMMACULATE HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+915,Edo,ETSAKO WEST,FATE MEDICAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+916,Edo,ETSAKO WEST,AMAZING GRACE HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+917,Edo,ETSAKO WEST,"RAY OF HOPE, HOSPITAL",SEZ Mapping of LGAs for Sample Shipment_Updated
+918,Edo,ESAN CENTRAL,ORERO NURSING AND MAT,SEZ Mapping of LGAs for Sample Shipment_Updated
+919,Edo,ESAN CENTRAL,WHITE HOUSE HOSP,SEZ Mapping of LGAs for Sample Shipment_Updated
+920,Edo,ESAN CENTRAL,ATUAGBO PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+921,Edo,ESAN CENTRAL,ODIAGBE MEMORIAL HOSPITAL,SEZ Mapping of LGAs for Sample Shipment_Updated
+922,Edo,ESAN CENTRAL,EWU PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+923,Edo,ESAN NORTH EAST,CENTRAL HOSPITAL UROMI,SEZ Mapping of LGAs for Sample Shipment_Updated
+924,Edo,ESAN SOUTH EAST,GENERAL HOSPITAL UBIAJA,SEZ Mapping of LGAs for Sample Shipment_Updated
+925,Edo,ESAN SOUTH EAST,ORIA PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+926,Edo,ESAN WEST,GH IRUEKPEN,SEZ Mapping of LGAs for Sample Shipment_Updated
+927,Edo,ESAN WEST,GH EKPOMA,SEZ Mapping of LGAs for Sample Shipment_Updated
+928,Edo,ESAN WEST,CENTRAL PHC UKPENU,SEZ Mapping of LGAs for Sample Shipment_Updated
+929,Edo,ESAN WEST,PHC EGORO NAOKA,SEZ Mapping of LGAs for Sample Shipment_Updated
+930,Edo,ETSAKO EAST,GH AGANEBODE,SEZ Mapping of LGAs for Sample Shipment_Updated
+931,Edo,ETSAKO EAST,PHC BODE,SEZ Mapping of LGAs for Sample Shipment_Updated
+932,Edo,ETSAKO EAST,PHC IVIAN,SEZ Mapping of LGAs for Sample Shipment_Updated
+933,Edo,ETSAKO EAST,PHC IMIEGBA,SEZ Mapping of LGAs for Sample Shipment_Updated
+934,Edo,IGUEBEN,PHC IGUEBEN,SEZ Mapping of LGAs for Sample Shipment_Updated
+935,Edo,IGUEBEN,UGUN PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+936,Edo,IKPOBA OKHA,UGBEKUN PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+937,Edo,IKPOBA OKHA,IDOGBO PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+938,Edo,IKPOBA OKHA,EGBA PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+939,Edo,IKPOBA OKHA,OLOGBO PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+940,Edo,IKPOBA OKHA,IWOGBAN PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+941,Edo,IKPOBA OKHA,AMUFI PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+942,Edo,IKPOBA OKHA,OGBESON PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+943,Edo,IKPOBA OKHA,EVBOMODU PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+944,Edo,OREDO,0REDO PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+945,Edo,OREDO,NEW BENIN PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+946,Edo,OREDO,ARUOGBA PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+947,Edo,OREDO,BENIN CUSTODIAN CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+948,Edo,OREDO,OKO CORRECTIONAL CENTRE,SEZ Mapping of LGAs for Sample Shipment_Updated
+949,Edo,ORHIONMWON,SPECIALIST HOSP. OSSIOMO,SEZ Mapping of LGAs for Sample Shipment_Updated
+950,Edo,ORHIONMWON,PHC ABUDU,SEZ Mapping of LGAs for Sample Shipment_Updated
+951,Edo,ORHIONMWON,PHC OBAGIE,SEZ Mapping of LGAs for Sample Shipment_Updated
+952,Edo,OVIA NORTH EAST,OKADA PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+953,Edo,OVIA SOUTH WEST,GEN. HOSP. IGUOBAZUWA,SEZ Mapping of LGAs for Sample Shipment_Updated
+954,Edo,OVIA SOUTH WEST,ORAL COMPREHENSIVE HC.,SEZ Mapping of LGAs for Sample Shipment_Updated
+955,Edo,OVIA SOUTH WEST,UGBOGIN PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+956,Edo,OVIA SOUTH WEST,AMAZA PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+957,Edo,OVIA SOUTH WEST,AJAKURAMA,SEZ Mapping of LGAs for Sample Shipment_Updated
+958,Edo,OVIA SOUTH WEST,OFUWEGBE PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+959,Edo,OWAN WEST,PHC SABO,SEZ Mapping of LGAs for Sample Shipment_Updated
+960,Edo,OWAN WEST,OAH PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+961,Edo,UHUNMWODE,EYAEN PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+962,Edo,UHUNMWODE,UGHA PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+963,Edo,UHUNMWODE,IDUMWUNGHA PHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+964,Ekiti,ADO-EKITI,Agoaduloju,SEZ Mapping of LGAs for Sample Shipment_Updated
+965,Ekiti,ADO-EKITI,Bch Iwaji,SEZ Mapping of LGAs for Sample Shipment_Updated
+966,Ekiti,ADO-EKITI,Bhc Agoaduloju,SEZ Mapping of LGAs for Sample Shipment_Updated
+967,Ekiti,ADO-EKITI,Bhc Emirin,SEZ Mapping of LGAs for Sample Shipment_Updated
+968,Ekiti,ADO-EKITI,Bhc Ilamuo,SEZ Mapping of LGAs for Sample Shipment_Updated
+969,Ekiti,ADO-EKITI,Bhc Irona,SEZ Mapping of LGAs for Sample Shipment_Updated
+970,Ekiti,ADO-EKITI,Bhc Okeoniyo,SEZ Mapping of LGAs for Sample Shipment_Updated
+971,Ekiti,ADO-EKITI,Bh Moferere,SEZ Mapping of LGAs for Sample Shipment_Updated
+972,Ekiti,ADO-EKITI,Chc Odo Ado,SEZ Mapping of LGAs for Sample Shipment_Updated
+973,Ekiti,ADO-EKITI,Chc Okeila,SEZ Mapping of LGAs for Sample Shipment_Updated
+974,Ekiti,ADO-EKITI,Chc Okesa,SEZ Mapping of LGAs for Sample Shipment_Updated
+975,Ekiti,ADO-EKITI,Chc Okeyinmi,SEZ Mapping of LGAs for Sample Shipment_Updated
+976,Ekiti,ADO-EKITI,Ekiti State Uni. Health Centre,SEZ Mapping of LGAs for Sample Shipment_Updated
+977,Ekiti,ADO-EKITI,Eksuth,SEZ Mapping of LGAs for Sample Shipment_Updated
+978,Ekiti,ADO-EKITI,Erinfun,SEZ Mapping of LGAs for Sample Shipment_Updated
+979,Ekiti,ADO-EKITI,Federal Medical Centre Ado,SEZ Mapping of LGAs for Sample Shipment_Updated
+980,Ekiti,ADO-EKITI,Fed Poly Ado,SEZ Mapping of LGAs for Sample Shipment_Updated
+981,Ekiti,ADO-EKITI,General Hospital Efon,SEZ Mapping of LGAs for Sample Shipment_Updated
+982,Ekiti,ADO-EKITI,Housing Health Centre,SEZ Mapping of LGAs for Sample Shipment_Updated
+983,Ekiti,ADO-EKITI,Idofin Health Centre,SEZ Mapping of LGAs for Sample Shipment_Updated
+984,Ekiti,ADO-EKITI,Nigerian Prison,SEZ Mapping of LGAs for Sample Shipment_Updated
+985,Ekiti,ADO-EKITI,Oba Adejuyigbe Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated
+986,Ekiti,ADO-EKITI,Odo,SEZ Mapping of LGAs for Sample Shipment_Updated
+987,Ekiti,ADO-EKITI,Police Cottage Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated
+988,Ekiti,ADO-EKITI,Temidire,SEZ Mapping of LGAs for Sample Shipment_Updated
+989,Ekiti,EFON,Bch Iwaji,SEZ Mapping of LGAs for Sample Shipment_Updated
+990,Ekiti,EFON,Bhc Alajo,SEZ Mapping of LGAs for Sample Shipment_Updated
+991,Ekiti,EFON,Bhc Alanaka,SEZ Mapping of LGAs for Sample Shipment_Updated
+992,Ekiti,EFON,Bhc Alanaka Efon,SEZ Mapping of LGAs for Sample Shipment_Updated
+993,Ekiti,EFON,Bhc Araromi,SEZ Mapping of LGAs for Sample Shipment_Updated
+994,Ekiti,EFON,Bhc Igbo Olofin,SEZ Mapping of LGAs for Sample Shipment_Updated
+995,Ekiti,EFON,Bhc Iloja Efon,SEZ Mapping of LGAs for Sample Shipment_Updated
+996,Ekiti,EFON,Bhc Iloro Efon,SEZ Mapping of LGAs for Sample Shipment_Updated
+997,Ekiti,EFON,Bhc Ilugbeku,SEZ Mapping of LGAs for Sample Shipment_Updated
+998,Ekiti,EFON,Bhc Isaja,SEZ Mapping of LGAs for Sample Shipment_Updated
+999,Ekiti,EFON,Bhc Isaja Efon,SEZ Mapping of LGAs for Sample Shipment_Updated
+1000,Ekiti,EFON,Bhc Ita Ido,SEZ Mapping of LGAs for Sample Shipment_Updated
+1001,Ekiti,EFON,Bhc Itawure,SEZ Mapping of LGAs for Sample Shipment_Updated
+1002,Ekiti,EFON,Bhc Oloja,SEZ Mapping of LGAs for Sample Shipment_Updated
+1003,Ekiti,EFON,Chc Erekesan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1004,Ekiti,EFON,General Hospital Efon,SEZ Mapping of LGAs for Sample Shipment_Updated
+1005,Ekiti,EFON,Obake Bhc,SEZ Mapping of LGAs for Sample Shipment_Updated
+1006,Ekiti,EFON,Subeb Model Clinic,SEZ Mapping of LGAs for Sample Shipment_Updated
+1007,Ekiti,EKITI EAST,Bhc Araromi Ugboesi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1008,Ekiti,EKITI EAST,Bhc Eda Ile,SEZ Mapping of LGAs for Sample Shipment_Updated
+1009,Ekiti,EKITI EAST,"BHC Ijero, Omuo",SEZ Mapping of LGAs for Sample Shipment_Updated
+1010,Ekiti,EKITI EAST,BHC Ikun/Araromi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1011,Ekiti,EKITI EAST,BHC Ilasa,SEZ Mapping of LGAs for Sample Shipment_Updated
+1012,Ekiti,EKITI EAST,BHC Iludofin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1013,Ekiti,EKITI EAST,BHC Isaya Kota,SEZ Mapping of LGAs for Sample Shipment_Updated
+1014,Ekiti,EKITI EAST,BHC Isinbode,SEZ Mapping of LGAs for Sample Shipment_Updated
+1015,Ekiti,EKITI EAST,BHC Iworo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1016,Ekiti,EKITI EAST,BHC Omuo Oke,SEZ Mapping of LGAs for Sample Shipment_Updated
+1017,Ekiti,EKITI EAST,CHC Ilisa,SEZ Mapping of LGAs for Sample Shipment_Updated
+1018,Ekiti,EKITI EAST,CHC Kota,SEZ Mapping of LGAs for Sample Shipment_Updated
+1019,Ekiti,EKITI EAST,CHC Kota 2,SEZ Mapping of LGAs for Sample Shipment_Updated
+1020,Ekiti,EKITI EAST,CHC Omuo Oke,SEZ Mapping of LGAs for Sample Shipment_Updated
+1021,Ekiti,EKITI EAST,General Hospital Omuo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1022,Ekiti,EKITI EAST,Model Ilasa,SEZ Mapping of LGAs for Sample Shipment_Updated
+1023,Ekiti,EKITI SOUTH/WEST,Staff Clinic Omuo Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1024,Ekiti,EKITI SOUTH/WEST,Algon C.H.C Ilawe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1025,Ekiti,EKITI SOUTH/WEST,BHC Aaye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1026,Ekiti,EKITI SOUTH/WEST,BHC Ifakin Ogotun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1027,Ekiti,EKITI SOUTH/WEST,BHC Igbaraodo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1028,Ekiti,EKITI SOUTH/WEST,BHC Ilawe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1029,Ekiti,EKITI SOUTH/WEST,BHC Ilodo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1030,Ekiti,EKITI SOUTH/WEST,BHC Oke Emo Ilawe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1031,Ekiti,EKITI SOUTH/WEST,CHC Adin Ilawe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1032,Ekiti,EKITI SOUTH/WEST,CHC Adun Ilawe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1033,Ekiti,EKITI SOUTH/WEST,C.H.C Igbara Odo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1034,Ekiti,EKITI SOUTH/WEST,CHC Ilawe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1035,Ekiti,EKITI SOUTH/WEST,CHC Okemi Ogotun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1036,Ekiti,EKITI SOUTH/WEST,General Hospital Ilawe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1037,Ekiti,EKITI SOUTH/WEST,Model Igbaraodo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1038,Ekiti,EKITI SOUTH/WEST,Model PHC Igbara Odo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1039,Ekiti,EKITI WEST,Adebayo Medical Clinic,SEZ Mapping of LGAs for Sample Shipment_Updated
+1040,Ekiti,EKITI WEST,BHC Ajebamidele,SEZ Mapping of LGAs for Sample Shipment_Updated
+1041,Ekiti,EKITI WEST,BHC Alele Aramoko,SEZ Mapping of LGAs for Sample Shipment_Updated
+1042,Ekiti,EKITI WEST,BHC Erio,SEZ Mapping of LGAs for Sample Shipment_Updated
+1043,Ekiti,EKITI WEST,BHC Ikogosi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1044,Ekiti,EKITI WEST,BHC Ile Ona,SEZ Mapping of LGAs for Sample Shipment_Updated
+1045,Ekiti,EKITI WEST,BHC Ipole Iloro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1046,Ekiti,EKITI WEST,BHC Okemesi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1047,Ekiti,EKITI WEST,BHC Oke Oja Aramoko,SEZ Mapping of LGAs for Sample Shipment_Updated
+1048,Ekiti,EKITI WEST,CHC Erijiyan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1049,Ekiti,EKITI WEST,CHC Ido-Ile,SEZ Mapping of LGAs for Sample Shipment_Updated
+1050,Ekiti,EKITI WEST,CHC Ikogosi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1051,Ekiti,EKITI WEST,CHC Iwaro Aramoko,SEZ Mapping of LGAs for Sample Shipment_Updated
+1052,Ekiti,EKITI WEST,CHC Iwaro Aramoko Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1053,Ekiti,EKITI WEST,General Hospital Aramoko,SEZ Mapping of LGAs for Sample Shipment_Updated
+1054,Ekiti,EKITI WEST,General Hospital Okemesi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1055,Ekiti,EKITI WEST,God'S Gift Medical Centre,SEZ Mapping of LGAs for Sample Shipment_Updated
+1056,Ekiti,EKITI WEST,Health Post. Kajola Aramoko,SEZ Mapping of LGAs for Sample Shipment_Updated
+1057,Ekiti,EMURE,Model Health Centre Erijiyan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1058,Ekiti,EMURE,BHC Ajibamidele,SEZ Mapping of LGAs for Sample Shipment_Updated
+1059,Ekiti,EMURE,BHC Alapoto,SEZ Mapping of LGAs for Sample Shipment_Updated
+1060,Ekiti,EMURE,BHC Anaye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1061,Ekiti,EMURE,BHC Eporo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1062,Ekiti,EMURE,BHC Ibeji Shitu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1063,Ekiti,EMURE,BHC Idamodu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1064,Ekiti,EMURE,BHC Odo Emure,SEZ Mapping of LGAs for Sample Shipment_Updated
+1065,Ekiti,EMURE,BHC Ogbontioro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1066,Ekiti,EMURE,BHC Oge,SEZ Mapping of LGAs for Sample Shipment_Updated
+1067,Ekiti,EMURE,BHC Okesari,SEZ Mapping of LGAs for Sample Shipment_Updated
+1068,Ekiti,EMURE,BHC Owode,SEZ Mapping of LGAs for Sample Shipment_Updated
+1069,Ekiti,EMURE,BHC Sasere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1070,Ekiti,EMURE,CHC Oke Emure,SEZ Mapping of LGAs for Sample Shipment_Updated
+1071,Ekiti,EMURE,Child Welfare Clinic,SEZ Mapping of LGAs for Sample Shipment_Updated
+1072,Ekiti,EMURE,General Hospital Emure,SEZ Mapping of LGAs for Sample Shipment_Updated
+1073,Ekiti,EMURE,Gh Emure,SEZ Mapping of LGAs for Sample Shipment_Updated
+1074,Ekiti,GBONYIN,Model Health Centre Ariyasi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1075,Ekiti,GBONYIN,BHC Agbado Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1076,Ekiti,GBONYIN,BHC Aisegba,SEZ Mapping of LGAs for Sample Shipment_Updated
+1077,Ekiti,GBONYIN,BHC Ajebamidele Iluomoba Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1078,Ekiti,GBONYIN,BHC Bolorunduro Aisegba-Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1079,Ekiti,GBONYIN,BHC Egbe Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1080,Ekiti,GBONYIN,BHC Ijan Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1081,Ekiti,GBONYIN,BHC Iluomoba Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1082,Ekiti,GBONYIN,BHC Ilupeju Ijan Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1083,Ekiti,GBONYIN,BHC Imesi Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1084,Ekiti,GBONYIN,BHC Ipole Agbado Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1085,Ekiti,GBONYIN,BHC Iro Ayeteju Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1086,Ekiti,GBONYIN,BHC Iro Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1087,Ekiti,GBONYIN,BHC Ode Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1088,Ekiti,GBONYIN,CHC Agbado,SEZ Mapping of LGAs for Sample Shipment_Updated
+1089,Ekiti,GBONYIN,CHC Aisegba Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1090,Ekiti,GBONYIN,CHC Ijan Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1091,Ekiti,GBONYIN,CHC Ode,SEZ Mapping of LGAs for Sample Shipment_Updated
+1092,Ekiti,GBONYIN,General Hospital Ijan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1093,Ekiti,GBONYIN,General Hospital Ode,SEZ Mapping of LGAs for Sample Shipment_Updated
+1094,Ekiti,GBONYIN,General Hospital Ode Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1095,Ekiti,GBONYIN,Model Ijan Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1096,Ekiti,GBONYIN,Model Ode Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1097,Ekiti,GBONYIN,PHC Aisegba,SEZ Mapping of LGAs for Sample Shipment_Updated
+1098,Ekiti,GBONYIN,PHC Egbe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1099,Ekiti,GBONYIN,PHC Ijan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1100,Ekiti,IDO/OSI,PHC Ilupeju - Ijan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1101,Ekiti,IDO/OSI,BHC Ifaki,SEZ Mapping of LGAs for Sample Shipment_Updated
+1102,Ekiti,IDO/OSI,BHC Ifishin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1103,Ekiti,IDO/OSI,BHC Ifisin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1104,Ekiti,IDO/OSI,BHC Igbole,SEZ Mapping of LGAs for Sample Shipment_Updated
+1105,Ekiti,IDO/OSI,BHC Ilogbo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1106,Ekiti,IDO/OSI,BHC Ora,SEZ Mapping of LGAs for Sample Shipment_Updated
+1107,Ekiti,IDO/OSI,BHC Orin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1108,Ekiti,IDO/OSI,BHC Osi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1109,Ekiti,IDO/OSI,BHC Usi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1110,Ekiti,IDO/OSI,CHC Aaye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1111,Ekiti,IDO/OSI,CHC Ayetoro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1112,Ekiti,IDO/OSI,CHC Ido,SEZ Mapping of LGAs for Sample Shipment_Updated
+1113,Ekiti,IDO/OSI,CHC Ifaki,SEZ Mapping of LGAs for Sample Shipment_Updated
+1114,Ekiti,IDO/OSI,CHC Igbole,SEZ Mapping of LGAs for Sample Shipment_Updated
+1115,Ekiti,IDO/OSI,CHC Ilogbo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1116,Ekiti,IDO/OSI,CHC Osi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1117,Ekiti,IDO/OSI,CHC Usi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1118,Ekiti,IDO/OSI,Fmc Ido-Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1119,Ekiti,IDO/OSI,General Hospital Ifaki,SEZ Mapping of LGAs for Sample Shipment_Updated
+1120,Ekiti,IDO/OSI,Health Center Ido,SEZ Mapping of LGAs for Sample Shipment_Updated
+1121,Ekiti,IJERO,Model Hosp. Ayetoro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1122,Ekiti,IJERO,Ajeje Farm,SEZ Mapping of LGAs for Sample Shipment_Updated
+1123,Ekiti,IJERO,B H C Ara,SEZ Mapping of LGAs for Sample Shipment_Updated
+1124,Ekiti,IJERO,B H C Epe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1125,Ekiti,IJERO,BHC Ijero,SEZ Mapping of LGAs for Sample Shipment_Updated
+1126,Ekiti,IJERO,BHC Ikoro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1127,Ekiti,IJERO,BHC Iloro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1128,Ekiti,IJERO,BHC Ilukuno,SEZ Mapping of LGAs for Sample Shipment_Updated
+1129,Ekiti,IJERO,BHC Ipoti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1130,Ekiti,IJERO,BHC Ipoti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1131,Ekiti,IJERO,BHC Iroko,SEZ Mapping of LGAs for Sample Shipment_Updated
+1132,Ekiti,IJERO,BHC Isalu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1133,Ekiti,IJERO,BHC Ode Oye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1134,Ekiti,IJERO,BHC Odo Ese,SEZ Mapping of LGAs for Sample Shipment_Updated
+1135,Ekiti,IJERO,BHC Odo-Oye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1136,Ekiti,IJERO,BHC Oju Oro Ijero,SEZ Mapping of LGAs for Sample Shipment_Updated
+1137,Ekiti,IJERO,BHC Okeoro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1138,Ekiti,IJERO,B H C Temidire,SEZ Mapping of LGAs for Sample Shipment_Updated
+1139,Ekiti,IJERO,CHC Ara,SEZ Mapping of LGAs for Sample Shipment_Updated
+1140,Ekiti,IJERO,CHC Ayegunle,SEZ Mapping of LGAs for Sample Shipment_Updated
+1141,Ekiti,IJERO,CHC Ikoro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1142,Ekiti,IJERO,CHC Odo Ese Ijero,SEZ Mapping of LGAs for Sample Shipment_Updated
+1143,Ekiti,IJERO,CHC Odo Oye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1144,Ekiti,IJERO,General Hospital Ijero,SEZ Mapping of LGAs for Sample Shipment_Updated
+1145,Ekiti,IJERO,Model Health Center Ijunrin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1146,Ekiti,IJERO,Odo Ese CHC,SEZ Mapping of LGAs for Sample Shipment_Updated
+1147,Ekiti,IJERO,Olusegun Clinic,SEZ Mapping of LGAs for Sample Shipment_Updated
+1148,Ekiti,IJERO,Saloro Farm,SEZ Mapping of LGAs for Sample Shipment_Updated
+1149,Ekiti,IKERE,Ssh Ijero,SEZ Mapping of LGAs for Sample Shipment_Updated
+1150,Ekiti,IKERE,BHC Agbado Oyo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1151,Ekiti,IKERE,BHC Are Araromi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1152,Ekiti,IKERE,BHC Atiba,SEZ Mapping of LGAs for Sample Shipment_Updated
+1153,Ekiti,IKERE,BHC Fagbohun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1154,Ekiti,IKERE,BHC Idemo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1155,Ekiti,IKERE,BHC Ikoyi,SEZ Mapping of LGAs for Sample Shipment_Updated
+1156,Ekiti,IKERE,BHC Ilupeju,SEZ Mapping of LGAs for Sample Shipment_Updated
+1157,Ekiti,IKERE,BHC Ilutuntun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1158,Ekiti,IKERE,BHC Odo Ise,SEZ Mapping of LGAs for Sample Shipment_Updated
+1159,Ekiti,IKERE,BHC Odo Oro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1160,Ekiti,IKERE,BHC Ogbonjana Ikere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1161,Ekiti,IKERE,BHC Okekere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1162,Ekiti,IKERE,BHC Oke Opa,SEZ Mapping of LGAs for Sample Shipment_Updated
+1163,Ekiti,IKERE,BHC Oke Osun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1164,Ekiti,IKERE,BHC Okereku Ikere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1165,Ekiti,IKERE,BHC Ugele,SEZ Mapping of LGAs for Sample Shipment_Updated
+1166,Ekiti,IKERE,C.H.C Afao Ikere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1167,Ekiti,IKERE,CHC Afo-Ikere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1168,Ekiti,IKERE,College Of Education Ikere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1169,Ekiti,IKERE,Lga Staff Clinic,SEZ Mapping of LGAs for Sample Shipment_Updated
+1170,Ekiti,IKOLE,Ssh Ikere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1171,Ekiti,IKOLE,Ademolawe Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated
+1172,Ekiti,IKOLE,BHC Ara,SEZ Mapping of LGAs for Sample Shipment_Updated
+1173,Ekiti,IKOLE,BHC Asin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1174,Ekiti,IKOLE,BHC Ayebode,SEZ Mapping of LGAs for Sample Shipment_Updated
+1175,Ekiti,IKOLE,BHC Esun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1176,Ekiti,IKOLE,BHC Ijesa Isu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1177,Ekiti,IKOLE,BHC Ilowo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1178,Ekiti,IKOLE,BHC Ipao,SEZ Mapping of LGAs for Sample Shipment_Updated
+1179,Ekiti,IKOLE,BHC Ipare,SEZ Mapping of LGAs for Sample Shipment_Updated
+1180,Ekiti,IKOLE,BHC Irele,SEZ Mapping of LGAs for Sample Shipment_Updated
+1181,Ekiti,IKOLE,BHC Isaba,SEZ Mapping of LGAs for Sample Shipment_Updated
+1182,Ekiti,IKOLE,BHC Itapaji,SEZ Mapping of LGAs for Sample Shipment_Updated
+1183,Ekiti,IKOLE,BHC Iyemero,SEZ Mapping of LGAs for Sample Shipment_Updated
+1184,Ekiti,IKOLE,BHC Odo Oro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1185,Ekiti,IKOLE,BHC Oke Ayedun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1186,Ekiti,IKOLE,BHC Oke Orin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1187,Ekiti,IKOLE,BHC Ootunja,SEZ Mapping of LGAs for Sample Shipment_Updated
+1188,Ekiti,IKOLE,BHC Temidire,SEZ Mapping of LGAs for Sample Shipment_Updated
+1189,Ekiti,IKOLE,BHC Usin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1190,Ekiti,IKOLE,CHC Asin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1191,Ekiti,IKOLE,CHC Ayedun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1192,Ekiti,IKOLE,CHC Jiringho,SEZ Mapping of LGAs for Sample Shipment_Updated
+1193,Ekiti,IKOLE,CHC Odo Ayedun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1194,Ekiti,IKOLE,Fuoye Clinic,SEZ Mapping of LGAs for Sample Shipment_Updated
+1195,Ekiti,IKOLE,Health Centre Market Ikole,SEZ Mapping of LGAs for Sample Shipment_Updated
+1196,Ekiti,IKOLE,Living Well Hospital,SEZ Mapping of LGAs for Sample Shipment_Updated
+1197,Ekiti,IKOLE,Methodist CHC Ikole,SEZ Mapping of LGAs for Sample Shipment_Updated
+1198,Ekiti,IKOLE,Mhc Oke Ako,SEZ Mapping of LGAs for Sample Shipment_Updated
+1199,Ekiti,IKOLE,MPHC Oke Ako,SEZ Mapping of LGAs for Sample Shipment_Updated
+1200,Ekiti,IKOLE,Ssh Ikole,SEZ Mapping of LGAs for Sample Shipment_Updated
+1201,Ekiti,ILEJEMEJE,State Hospital Ikole,SEZ Mapping of LGAs for Sample Shipment_Updated
+1202,Ekiti,ILEJEMEJE,BHC Eda,SEZ Mapping of LGAs for Sample Shipment_Updated
+1203,Ekiti,ILEJEMEJE,BHC Ewu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1204,Ekiti,ILEJEMEJE,BHC Ijesamodu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1205,Ekiti,ILEJEMEJE,BHC Ipere,SEZ Mapping of LGAs for Sample Shipment_Updated
+1206,Ekiti,ILEJEMEJE,BHC Obada,SEZ Mapping of LGAs for Sample Shipment_Updated
+1207,Ekiti,ILEJEMEJE,CHC Iludun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1208,Ekiti,ILEJEMEJE,CHC Iye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1209,Ekiti,ILEJEMEJE,General Hospital Iye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1210,Ekiti,ILEJEMEJE,Model Eda,SEZ Mapping of LGAs for Sample Shipment_Updated
+1211,Ekiti,ILEJEMEJE,Model Ewu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1212,Ekiti,ILEJEMEJE,Model Iludun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1213,Ekiti,IREPODUN / IFELODUN,Model Iye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1214,Ekiti,IREPODUN / IFELODUN,BHC Afao,SEZ Mapping of LGAs for Sample Shipment_Updated
+1215,Ekiti,IREPODUN / IFELODUN,BHC Are,SEZ Mapping of LGAs for Sample Shipment_Updated
+1216,Ekiti,IREPODUN / IFELODUN,BHC Awo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1217,Ekiti,IREPODUN / IFELODUN,BHC Esure Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1218,Ekiti,IREPODUN / IFELODUN,BHC Eyio,SEZ Mapping of LGAs for Sample Shipment_Updated
+1219,Ekiti,IREPODUN / IFELODUN,BHC Eyio Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1220,Ekiti,IREPODUN / IFELODUN,BHC Igbemo Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1221,Ekiti,IREPODUN / IFELODUN,BHC Igede Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1222,Ekiti,IREPODUN / IFELODUN,BHC Ilamoye Igede,SEZ Mapping of LGAs for Sample Shipment_Updated
+1223,Ekiti,IREPODUN / IFELODUN,BHC Iropora,SEZ Mapping of LGAs for Sample Shipment_Updated
+1224,Ekiti,IREPODUN / IFELODUN,BHC Iworoko,SEZ Mapping of LGAs for Sample Shipment_Updated
+1225,Ekiti,IREPODUN / IFELODUN,BHC Iyin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1226,Ekiti,IREPODUN / IFELODUN,BHC Oketoro Iyin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1227,Ekiti,IREPODUN / IFELODUN,CHC Igbemo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1228,Ekiti,IREPODUN / IFELODUN,CHC Igede,SEZ Mapping of LGAs for Sample Shipment_Updated
+1229,Ekiti,ISE/ORUN,General Hospital Iyin Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1230,Ekiti,ISE/ORUN,BHC Ajebamidele,SEZ Mapping of LGAs for Sample Shipment_Updated
+1231,Ekiti,ISE/ORUN,BHC Ifofin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1232,Ekiti,ISE/ORUN,BHC Kajola,SEZ Mapping of LGAs for Sample Shipment_Updated
+1233,Ekiti,ISE/ORUN,BHC Model,SEZ Mapping of LGAs for Sample Shipment_Updated
+1234,Ekiti,ISE/ORUN,BHC Obada,SEZ Mapping of LGAs for Sample Shipment_Updated
+1235,Ekiti,ISE/ORUN,BHC Odo Ise 1,SEZ Mapping of LGAs for Sample Shipment_Updated
+1236,Ekiti,ISE/ORUN,BHC Odole,SEZ Mapping of LGAs for Sample Shipment_Updated
+1237,Ekiti,ISE/ORUN,BHC Ogbese,SEZ Mapping of LGAs for Sample Shipment_Updated
+1238,Ekiti,ISE/ORUN,BHC Okeoniyo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1239,Ekiti,ISE/ORUN,BHC Oraye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1240,Ekiti,ISE/ORUN,BHC Oraye 1,SEZ Mapping of LGAs for Sample Shipment_Updated
+1241,Ekiti,ISE/ORUN,BHC Orun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1242,Ekiti,ISE/ORUN,BHC Orun Ii,SEZ Mapping of LGAs for Sample Shipment_Updated
+1243,Ekiti,ISE/ORUN,BHC Temidire,SEZ Mapping of LGAs for Sample Shipment_Updated
+1244,Ekiti,ISE/ORUN,CHC Afolu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1245,Ekiti,ISE/ORUN,CHC Okeyard Ise,SEZ Mapping of LGAs for Sample Shipment_Updated
+1246,Ekiti,ISE/ORUN,Federal Teaching Hospital Ise Ekiti Annex,SEZ Mapping of LGAs for Sample Shipment_Updated
+1247,Ekiti,MOBA,General Hospital Ise,SEZ Mapping of LGAs for Sample Shipment_Updated
+1248,Ekiti,MOBA,BHC Aaye Oja,SEZ Mapping of LGAs for Sample Shipment_Updated
+1249,Ekiti,MOBA,BHC Epe,SEZ Mapping of LGAs for Sample Shipment_Updated
+1250,Ekiti,MOBA,BHC Ikosun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1251,Ekiti,MOBA,BHC Ikun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1252,Ekiti,MOBA,BHC Ira,SEZ Mapping of LGAs for Sample Shipment_Updated
+1253,Ekiti,MOBA,BHC Iro,SEZ Mapping of LGAs for Sample Shipment_Updated
+1254,Ekiti,MOBA,BHC Isaoye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1255,Ekiti,MOBA,BHC Osan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1256,Ekiti,MOBA,BHC Osun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1257,Ekiti,MOBA,BHC Otun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1258,Ekiti,MOBA,CHC Erinmope,SEZ Mapping of LGAs for Sample Shipment_Updated
+1259,Ekiti,MOBA,CHC Igogo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1260,Ekiti,MOBA,CHC Otun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1261,Ekiti,MOBA,General Hospital Otun,SEZ Mapping of LGAs for Sample Shipment_Updated
+1262,Ekiti,OYE,Model Igogo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1263,Ekiti,OYE,B H C Ayede,SEZ Mapping of LGAs for Sample Shipment_Updated
+1264,Ekiti,OYE,B H C Ayegbaju,SEZ Mapping of LGAs for Sample Shipment_Updated
+1265,Ekiti,OYE,BHC Ijelu Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1266,Ekiti,OYE,B H C Ilafon,SEZ Mapping of LGAs for Sample Shipment_Updated
+1267,Ekiti,OYE,BHC Ilupeju,SEZ Mapping of LGAs for Sample Shipment_Updated
+1268,Ekiti,OYE,BHC Imojo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1269,Ekiti,OYE,BHC Ire,SEZ Mapping of LGAs for Sample Shipment_Updated
+1270,Ekiti,OYE,BHC Isan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1271,Ekiti,OYE,BHC Itaji,SEZ Mapping of LGAs for Sample Shipment_Updated
+1272,Ekiti,OYE,BHC Itapa,SEZ Mapping of LGAs for Sample Shipment_Updated
+1273,Ekiti,OYE,B H C Lmojo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1274,Ekiti,OYE,BHC Oke,SEZ Mapping of LGAs for Sample Shipment_Updated
+1275,Ekiti,OYE,BHC Oloje,SEZ Mapping of LGAs for Sample Shipment_Updated
+1276,Ekiti,OYE,BHC Omu,SEZ Mapping of LGAs for Sample Shipment_Updated
+1277,Ekiti,OYE,B H C Omu Odo,SEZ Mapping of LGAs for Sample Shipment_Updated
+1278,Ekiti,OYE,BHC Orisunmibare,SEZ Mapping of LGAs for Sample Shipment_Updated
+1279,Ekiti,OYE,BHC Osin,SEZ Mapping of LGAs for Sample Shipment_Updated
+1280,Ekiti,OYE,B H C Oye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1281,Ekiti,OYE,CHC Ayede,SEZ Mapping of LGAs for Sample Shipment_Updated
+1282,Ekiti,OYE,CHC Ayegbaju,SEZ Mapping of LGAs for Sample Shipment_Updated
+1283,Ekiti,OYE,CHC Isan,SEZ Mapping of LGAs for Sample Shipment_Updated
+1284,Ekiti,OYE,C H C Oye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1285,Ekiti,OYE,General Hospital Ayede,SEZ Mapping of LGAs for Sample Shipment_Updated
+1286,Ekiti,OYE,General Hospital Itapa,SEZ Mapping of LGAs for Sample Shipment_Updated
+1287,Ekiti,OYE,General Hospital Oye,SEZ Mapping of LGAs for Sample Shipment_Updated
+1288,Ekiti,OYE,Jtd Ire Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1289,Ekiti,OYE,Model Health Centre Ilupeju,SEZ Mapping of LGAs for Sample Shipment_Updated
+1290,Ekiti,OYE,Model Health Centre Ilupeju Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
+1291,Ekiti,OYE,Model Ilupeju,SEZ Mapping of LGAs for Sample Shipment_Updated
+1292,Ekiti,OYE,Model Ire Ekiti,SEZ Mapping of LGAs for Sample Shipment_Updated
