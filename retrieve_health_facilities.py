@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 all_data = []
-for i in range(1,2):
+for i in range(1,9):
     # URL of the web page containing the HTML table to scrap
 
     #URL for when entries per page is set = 5000
