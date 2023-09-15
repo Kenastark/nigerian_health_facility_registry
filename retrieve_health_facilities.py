@@ -49,15 +49,13 @@ for i in range(1,2):
                 postal_address = button.get('data-postal_address')
                 hours_of_operation = button.get('data-operational_hours')
 
-                # Extract "hiv_capable" from the <div id="specialservice"> element
-                special_service = td.find('div', {'id': 'specialservice'})
+                # Search for "HIV/ AIDS Services" label within the td element
                 hiv_capable = ""
-                if special_service:
-                    hiv_span = special_service.find('span', {'class': 'label label-default'}, text="HIV/ AIDS Services")
-                    if hiv_span:
+                hiv_label = td.find('span', {'class': 'label label-default'}, string="HIV/ AIDS Services")
+                if hiv_label:
                         hiv_capable = "Yes"
-                    else:
-                        hiv_capable = "No"
+                else:
+                        hiv_capable = "Yes"
                         
                 row["longitude"] = longitude
                 row["latitude"] = latitude
@@ -82,4 +80,4 @@ df = pd.DataFrame(all_data)
 # df.to_excel("./bystate222.xlsx",sheet_name="Hospital list", index=False)
 
 # export dataframe to a CSV file format
-df.to_csv("./additional_header_4.csv", index=False)
+df.to_csv("./HFR_additional_headers.csv", index=False)
