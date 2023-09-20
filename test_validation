@@ -1,0 +1,70 @@
+import pandas as pd
+from fuzzywuzzy import fuzz, process
+import re  # Import the re module for string preprocessing
+
+# Read the master DataFrame
+df_master = pd.read_csv("HFR_with_coordinates.csv")
+
+# Read the hub DataFrame
+df_hub = pd.read_csv("ngozi_dataset.csv")
+
+
+# Define a function for string preprocessing
+def preprocess_string(s):
+    # Remove special characters and convert to lowercase
+    s = re.sub(r'[^\w\s]', '', s.lower())
+    return s
+
+# Create a function to find the best match using fuzzywuzzy
+def find_best_match(name, candidates):
+    # Preprocess the input name
+    name = preprocess_string(name)
+
+    # Filter out NaN values from the candidate names and preprocess them
+    clean_candidates = [preprocess_string(str(candidate)) for candidate in candidates if pd.notnull(candidate)]
+
+    # Use process.extractOne with preprocessed data
+    best_match = process.extractOne(name, clean_candidates, scorer=fuzz.token_sort_ratio)
+
+    # Check if the match has a score above a certain threshold (e.g., 80)
+    # below 60 it becomes inaccurate
+    # > 80 it matches very few
+    # 70 is optimum
+    if best_match[1] >= 70:
+        return best_match[0]
+    else:
+        return ""
+
+# Create an empty list to store the corrected facility names
+corrected_names = []
+
+# Iterate through the hub DataFrame
+for name, state in zip(df_hub['facility_name'], df_hub['state']):
+    # Filter the master DataFrame by state
+    filtered_master = df_master[df_master['state'] == state]
+
+    if not filtered_master.empty:
+        # Drop rows with NaN values in the 'facility_name' column
+        filtered_master = filtered_master.dropna(subset=['facility_name'])
+
+        # Get a list of candidate facility names in the same state
+        candidate_names = filtered_master['facility_name'].tolist()
+
+        # Find the best match using fuzzywuzzy
+        best_match = find_best_match(name, candidate_names)
+        
+        corrected_names.append(best_match)
+    else:
+        corrected_names.append("")
+
+# Add the corrected names to a new column in the original DataFrame
+df_hub['corrected_facility_name'] = corrected_names
+
+# Append a new column "validated_state" based on the condition
+df_hub['validated_state'] = df_hub.apply(
+    lambda row: row['state'] if row['corrected_facility_name'] == "" else None, 
+    axis=1
+)
+
+# Save the updated DataFrame to a new CSV file
+df_hub.to_csv("./ngozi_validated_sites.csv", index=False)

@@ -1,0 +1,1692 @@
+id,state,lga,facility_name,corrected_facility_name,validated_state
+1,Katsina,BAKORI,CHC BAKORI,bakori clinic,
+2,Katsina,BAKORI,PHC TSIGA,,Katsina
+3,Katsina,BAKORI,PHC JARGABA,,Katsina
+4,Katsina,BAKORI,PHC GUGA,,Katsina
+5,Katsina,BAKORI,PHC KAKUMI,kkudi mchc,
+6,Katsina,BAKORI,HC 'YANKWANI,yandaka phc,
+7,Katsina,BAKORI,HC DUTSEN REME,,Katsina
+8,Katsina,BAKORI,HC NABUKKA,nabuka clinic,
+9,Katsina,BAKORI,HC MARABAR DANJA,marabar danja health clinic,
+10,Katsina,BAKORI,HC SHUWAKI,,Katsina
+11,Katsina,BAKORI,BAKORI CLINIC,bakori clinic,
+12,Katsina,BAKORI,AFUWA CLINIC,afuwa clinic,
+13,Katsina,BAKORI,A'ISHATU MEMORIAL CLINIC,aisha memorial clinic,
+14,Katsina,BAKORI,HC MAKURDI,kurami hc,
+15,Katsina,BAKORI,HC LAYIN KUKA,,Katsina
+16,Katsina,BAKORI,HC LAYIN RAMA,,Katsina
+17,Katsina,BAKORI,DOMINION CLINIC TSIGA,,Katsina
+18,Katsina,BAKORI,JSA CLINIC,sura clinic,
+19,Katsina,BAKORI,HC ADAKO,,Katsina
+20,Katsina,BAKORI,HC DANGANA,,Katsina
+21,Katsina,BAKORI,HC YANSHUNI,,Katsina
+22,Katsina,BAKORI,HC SARKIN BAKA,,Katsina
+23,Katsina,BAKORI,HC LAYIN KUKA,,Katsina
+24,Katsina,BAKORI,HC GIDAN BAKORI,bakori clinic,
+25,Katsina,BAKORI,HC RUWAN KUDI,,Katsina
+26,Katsina,BAKORI,HC TAMARKE,,Katsina
+27,Katsina,BAKORI,HC LAYIN LIMAN,,Katsina
+28,Katsina,BAKORI,HC BARDE,,Katsina
+29,Katsina,BATAGARAWA,NOFIC BABBAR RUGA,,Katsina
+30,Katsina,BATAGARAWA,CHC BATAGARAWA,,Katsina
+31,Katsina,BATAGARAWA,GARSH HOSPITAL,,Katsina
+32,Katsina,BATAGARAWA,PHC AJIWA,,Katsina
+33,Katsina,BATAGARAWA,MCHC BAKIYAWA,,Katsina
+34,Katsina,BATAGARAWA,MCHC DANDAGORO,,Katsina
+35,Katsina,BATAGARAWA,HC ALALE,,Katsina
+36,Katsina,BATAGARAWA,MCHC KAYAUKI,kkudi mchc,
+37,Katsina,BATAGARAWA,HC MAILALLE,,Katsina
+38,Katsina,BATAGARAWA,MCHC DABAIBAYAWA,,Katsina
+39,Katsina,BATAGARAWA,MCHC BARAWA,mchc bauranya,
+40,Katsina,BATAGARAWA,PHC JINO,,Katsina
+41,Katsina,BATAGARAWA,MCHC TSANNI,mchc tsagem,
+42,Katsina,BATAGARAWA,MCHC YARGAMJI,,Katsina
+43,Katsina,BATAGARAWA,MCHC SHAGUMBA,mchc tsagem,
+44,Katsina,BATSARI,GH BATSARI,,Katsina
+45,Katsina,BATSARI,MCHC BATSARI,mchc kwatta,
+46,Katsina,BATSARI,CHC WAGINI,,Katsina
+47,Katsina,BATSARI,HC DANKAR,,Katsina
+48,Katsina,BATSARI,HC MALLAMAWA,,Katsina
+49,Katsina,BATSARI,PHC KARARE,,Katsina
+50,Katsina,BATSARI,HC K/TORO,,Katsina
+51,Katsina,BATSARI,HC DANGEZA,,Katsina
+52,Katsina,BATSARI,HC WATANGADIYA,watangadiya hf,
+53,Katsina,BATSARI,HC SHIRGI,,Katsina
+54,Katsina,BATSARI,PHC RUMAH,phc ruma,
+55,Katsina,BATSARI,MCHC MADADDABAI,,Katsina
+56,Katsina,BATSARI,HC NAHUTA,,Katsina
+57,Katsina,BATSARI,HC KOKIYA,,Katsina
+58,Katsina,BATSARI,HC MAIDURINYA,,Katsina
+59,Katsina,BATSARI,HC KURMIYAL,kurami hc,
+60,Katsina,BATSARI,HC DAGURAWA,,Katsina
+61,Katsina,BATSARI,PHC KANDAWA,,Katsina
+62,Katsina,BATSARI,HC DADIN KOWA,,Katsina
+63,Katsina,BATSARI,MCH TSABAU,,Katsina
+64,Katsina,BATSARI,HC TSUGUNNI,,Katsina
+65,Katsina,BATSARI,HC DUBA,,Katsina
+66,Katsina,BAURE,GH Baure,,Katsina
+67,Katsina,BAURE,CHC Babban Mutum,,Katsina
+68,Katsina,BAURE,MCH Yanduna,,Katsina
+69,Katsina,BAURE,MPHC Garki,,Katsina
+70,Katsina,BAURE,MCH HUI,kkudi mchc,
+71,Katsina,BAURE,PHC maibara,,Katsina
+72,Katsina,BAURE,PHC Tumfushi,,Katsina
+73,Katsina,BAURE,MPHC,,Katsina
+74,Katsina,BAURE,PHC Achakwale,,Katsina
+75,Katsina,BAURE,HC Kokiya,,Katsina
+76,Katsina,BAURE,Daurawa HC,mchc bauranya,
+77,Katsina,BAURE,HC NAHUTA,,Katsina
+78,Katsina,BAURE,HC SHIRGI,,Katsina
+79,Katsina,BAURE,HC MAIDORIYA,,Katsina
+80,Katsina,BAURE,PHC Maibara,,Katsina
+81,Katsina,BAURE,MCHC Unguwar Isa,unguwar a soda hc,
+82,Katsina,BAURE,HC UNG RAI,,Katsina
+83,Katsina,BAURE,HC MAZARE,,Katsina
+84,Katsina,BAURE,PHC UNGUWAR ISA,unguwar a soda hc,
+85,Katsina,BINDAWA,CHC BINDAWA,,Katsina
+86,Katsina,BINDAWA,MPHC TAMA,phc ruma,
+87,Katsina,BINDAWA,PHC DORO,,Katsina
+88,Katsina,BINDAWA,MDGS SHIBDAWA,,Katsina
+89,Katsina,BINDAWA,MPHC DALLAJE,,Katsina
+90,Katsina,BINDAWA,MPHC YANGORA,yandaka phc,
+91,Katsina,BINDAWA,MCHC KAMRI,kkudi mchc,
+92,Katsina,BINDAWA,MCHC JIBAWA,mawashi mchc,
+93,Katsina,BINDAWA,HC K/JUGO,,Katsina
+94,Katsina,BINDAWA,HC FARU,,Katsina
+95,Katsina,CHARANCHI,CHC CHARANCHI,,Katsina
+96,Katsina,CHARANCHI,PHC RADDA,phc ruma,
+97,Katsina,CHARANCHI,PHC TSAKATSA,,Katsina
+98,Katsina,CHARANCHI,MPHC BANYE,mchc bauranya,
+99,Katsina,CHARANCHI,PHC MAJENWAYYA WAYYA,,Katsina
+100,Katsina,CHARANCHI,MPHC GANUWA,,Katsina
+101,Katsina,CHARANCHI,MCHC CHARANC,mchc bauranya,
+102,Katsina,CHARANCHI,PHC KADANYA,,Katsina
+103,Katsina,CHARANCHI,PHC YARMALAMAI,,Katsina
+104,Katsina,CHARANCHI,PHC BAGGA,,Katsina
+105,Katsina,CHARANCHI,CHARANCHI MATERNITY CLINIC,basma clinic and maternity charanchi,
+106,Katsina,CHARANCHI,PHC KURAYE,,Katsina
+107,Katsina,CHARANCHI,PHC SALGORIYO,,Katsina
+108,Katsina,CHARANCHI,MPHC DOKA,,Katsina
+109,Katsina,CHARANCHI,PHC KODA,,Katsina
+110,Katsina,CHARANCHI,MCHC Gwanza,mchc kwatta,
+111,Katsina,CHARANCHI,R/Baushe Dispensary,sobashi dispensary,
+112,Katsina,CHARANCHI,MCHC Giremawa,mawashi mchc,
+113,Katsina,CHARANCHI,MCH Gaiwa,,Katsina
+114,Katsina,CHARANCHI,MCH DANMARKE,,Katsina
+115,Katsina,CHARANCHI,HC BA’AWA,,Katsina
+116,Katsina,CHARANCHI,MCHC GANUWA,mawashi mchc,
+117,Katsina,CHARANCHI,BASMA CLINIC,amana clinic,
+118,Katsina,CHARANCHI,HC MAJEN WAYYA,,Katsina
+119,Katsina,CHARANCHI,HC YANUKU,yandaka phc,
+120,Katsina,DANDUME,Phc Dandume,,Katsina
+121,Katsina,DANDUME,Chc Dandume,,Katsina
+122,Katsina,DANDUME,Phc Mahuta,,Katsina
+123,Katsina,DANDUME,Phc Magaji Wando,,Katsina
+124,Katsina,DANDUME,Phc Tumburkai,,Katsina
+125,Katsina,DANDUME,Phc Dantankari,,Katsina
+126,Katsina,DANDUME,MDG Layin Kadanya,,Katsina
+127,Katsina,DANDUME,Ung.Alkasim H/Clinic,nabuka clinic,
+128,Katsina,DANDUME,Ung.Allah Nanan H/Clinic,dangana health clinic,
+129,Katsina,DANDUME,Dugun Sambo H/clinic,,Katsina
+130,Katsina,DANDUME,Dandarau H/Clinic,albarka clinic,
+131,Katsina,DANDUME,Jiruwa,,Katsina
+132,Katsina,DANDUME,HC Hayin Mujiya,,Katsina
+133,Katsina,DANDUME,HC Dansoda,,Katsina
+134,Katsina,DANDUME,U/Bango HC,,Katsina
+135,Katsina,DANDUME,HC MAIGWAMA,,Katsina
+136,Katsina,DANDUME,HC DANSODA,,Katsina
+137,Katsina,DANDUME,HC UNGUWAR WAZIRI,unguwar waziri health clinic,
+138,Katsina,DANJA,CHC DANJA,,Katsina
+139,Katsina,DANJA,PHC DABAI,,Katsina
+140,Katsina,DANJA,PHC KAHUTU,,Katsina
+141,Katsina,DANJA,PHC NAHUCE,,Katsina
+142,Katsina,DANJA,MCHC KOKAMI,kkudi mchc,
+143,Katsina,DANJA,IHSAN HOSPITAL,ihsan hospital danja,
+144,Katsina,DANJA,PHC JIBA,,Katsina
+145,Katsina,DANJA,HC BARMO,,Katsina
+146,Katsina,DANJA,HC RAFIN GORA,,Katsina
+147,Katsina,DANJA,PHC TANDAMA,yandaka phc,
+148,Katsina,DANJA,FAMILY SUPPORT CLINIC,family support clinic,
+149,Katsina,DANJA,MDG'S B/RAFI,,Katsina
+150,Katsina,DANJA,MDG'S HURGU,,Katsina
+151,Katsina,DANJA,HC UNGUWAR BALARABE,unguwar balarabe health clinic,
+152,Katsina,DANJA,HC MAJEMA,,Katsina
+153,Katsina,DANJA,HC ZAGE ZAGI,,Katsina
+154,Katsina,DANJA,HC KAROFI,,Katsina
+155,Katsina,DANJA,HC DAURAKU,,Katsina
+156,Katsina,DANJA,HC UNGUWAR MADAKI,unguwar maikawo hc,
+157,Katsina,DANJA,HC R/GORA,,Katsina
+158,Katsina,DANJA,HC BUZAYE,,Katsina
+159,Katsina,DANJA,HC CHEDIYA,,Katsina
+160,Katsina,DANJA,HC SABUWAR KASUWA,sabuwar kasuwa health clinic,
+161,Katsina,DANJA,HC GIDAN GARBA,,Katsina
+162,Katsina,DANJA,HC UNGUWAR JAJA,unguwar maikawo hc,
+163,Katsina,DANJA,HC TASHAR GERO,,Katsina
+164,Katsina,DANJA,HC TAFIDA,,Katsina
+165,Katsina,DANMUSA,GH Danmusa,,Katsina
+166,Katsina,DANMUSA,CHC Yantumaki,,Katsina
+167,Katsina,DANMUSA,MPHC Mara Zamfarawa,,Katsina
+168,Katsina,DANMUSA,MPHC Mara Katsinawa,,Katsina
+169,Katsina,DANMUSA,MPHC Dan Ali,,Katsina
+170,Katsina,DANMUSA,MPHC Tashar Kadanya,,Katsina
+171,Katsina,DANMUSA,MPHC Gobirawa,,Katsina
+172,Katsina,DANMUSA,MPHC Dandire,,Katsina
+173,Katsina,DANMUSA,MPHC Maidabino,,Katsina
+174,Katsina,DANMUSA,Tashar mai Alewa H/C,,Katsina
+175,Katsina,DANMUSA,MPHC Dan Alkima,,Katsina
+176,Katsina,DANMUSA,HC Barebari,,Katsina
+177,Katsina,DANMUSA,Falele HC,,Katsina
+178,Katsina,DANMUSA,Tashar Icce HC,,Katsina
+179,Katsina,DANMUSA,PHC DAN MUSA,,Katsina
+180,Katsina,DANMUSA,MPHC TASHAR KADANYA,,Katsina
+181,Katsina,DAURA,G. H. DAURA,,Katsina
+182,Katsina,DAURA,URBAN HEALTH CLINIC,urban health clinic,
+183,Katsina,DAURA,MCH BARAJI,mchc bauranya,
+184,Katsina,DAURA,MCH KANTI,mchc kwatta,
+185,Katsina,DAURA,CHC DAURA,,Katsina
+186,Katsina,DAURA,BAWO CLINIC,bawo clinic,
+187,Katsina,DAURA,USMANIYYA CLINIC DAURA,daura mobile clinic,
+188,Katsina,DAURA,MCH GURJIYA,,Katsina
+189,Katsina,DAURA,MCH HINDATU,,Katsina
+190,Katsina,DAURA,MCH KALGO,,Katsina
+191,Katsina,DAURA,FAMILY SUPPORT CLINIC,family support clinic,
+192,Katsina,DAURA,MCH KURNEJI,,Katsina
+193,Katsina,DAURA,MCH MADOBI,,Katsina
+194,Katsina,DAURA,MCH SHARAWA,,Katsina
+195,Katsina,DAURA,MCH DANNAKOLA,,Katsina
+196,Katsina,DAURA,PHC SUDUJE,,Katsina
+197,Katsina,DAURA,PHC MAZOJI,,Katsina
+198,Katsina,DAURA,Gara HC,,Katsina
+199,Katsina,DAURA,HC Kurneji,kurami hc,
+200,Katsina,DAURA,HC RAHAMAWA,,Katsina
+201,Katsina,DAURA,HC AREWA,,Katsina
+202,Katsina,DAURA,HC SHARAWA,,Katsina
+203,Katsina,DAURA,HC Yalde,,Katsina
+204,Katsina,DAURA,HC DANKUDU,,Katsina
+205,Katsina,DAURA,Airforce base clinic,airport clinic,
+206,Katsina,DUTSI,CHC DUTSI,,Katsina
+207,Katsina,DUTSI,MCHC MINAWA,,Katsina
+208,Katsina,DUTSI,MPHC SOBASHI,,Katsina
+209,Katsina,DUTSI,MPHC KAYAWA,,Katsina
+210,Katsina,DUTSI,MPHC SHARGALLE,,Katsina
+211,Katsina,DUTSI,HC DANKUDU,,Katsina
+212,Katsina,DUTSI,MCHC DAN'AUNAI,,Katsina
+213,Katsina,DUTSI,MCHC YAMEL,yarrumma mchc,
+214,Katsina,DUTSI,HC YELDE,,Katsina
+215,Katsina,DUTSI,HC GIGINYA,,Katsina
+216,Katsina,DUTSI,MCHC DUTSI,kkudi mchc,
+217,Katsina,DUTSI,HC BAGGA,,Katsina
+218,Katsina,DUTSI,HC NASARAWA,,Katsina
+219,Katsina,DUTSI,MCHC KARANDA,mchc bauranya,
+220,Katsina,DUTSI,HC KAREWA,,Katsina
+221,Katsina,DUTSI,HC BEGUWA,,Katsina
+222,Katsina,DUTSI,HC BIRKIN SADE,,Katsina
+223,Katsina,DUTSI,MPHC TASHAR WALI,,Katsina
+224,Katsina,DUTSI,MPHC GUGURYA,,Katsina
+225,Katsina,DUTSI,HC BALARE,,Katsina
+226,Katsina,DUTSINMA,GH DUTSINMA,,Katsina
+227,Katsina,DUTSINMA,PHC TURARE,,Katsina
+228,Katsina,DUTSINMA,MCHC MAKERA,mawashi mchc,
+229,Katsina,DUTSINMA,CHC DUTSINMA,,Katsina
+230,Katsina,DUTSINMA,HC RAYI,kurami hc,
+231,Katsina,DUTSINMA,PHC SHEMA,phc ruma,
+232,Katsina,DUTSIN-MA,PHC KAROFI,,Katsina
+233,Katsina,DUTSIN-MA,FUDUMA CLINIC,sura clinic,
+234,Katsina,DUTSIN-MA,PRISON SERVICE DUTSINA,,Katsina
+235,Katsina,DUTSIN-MA,HC TSAWATSAWA,,Katsina
+236,Katsina,DUTSIN-MA,MDG GARHI,,Katsina
+237,Katsina,DUTSIN-MA,HC KWANTAMAWA,,Katsina
+238,Katsina,DUTSIN-MA,MDG MAITSANI,,Katsina
+239,Katsina,DUTSIN-MA,MDG DAGE LAWAL,,Katsina
+240,Katsina,DUTSIN-MA,HC GARANGAMAWA,,Katsina
+241,Katsina,DUTSIN-MA,PHC KUKI,,Katsina
+242,Katsina,DUTSIN-MA,MEDICAL DIAGNOSTIC CENTRE,khamec medical centre,
+243,Katsina,DUTSIN-MA,DUTSINMA MEDICAL CENTRE,dutsinma medical clinic,
+244,Katsina,DUTSIN-MA,ALLIENCE CLINIC,alheri clinic,
+245,Katsina,DUTSIN-MA,AS DIAGNOSTIC CENTRE D/MA,,Katsina
+246,Katsina,DUTSIN-MA,PHC 'YAR-RUMA,phc ruma,
+247,Katsina,DUTSIN-MA,HC KAGARA,,Katsina
+248,Katsina,DUTSIN-MA,ISAH KAITA CLINIC,kwaina health clinic,
+249,Katsina,FASKARI,CHC FASKARI,,Katsina
+250,Katsina,FASKARI,PHC 'YANKARA,yandaka phc,
+251,Katsina,FASKARI,MPHC MAIGORA,,Katsina
+252,Katsina,FASKARI,MPHC SHEME,,Katsina
+253,Katsina,FASKARI,MPHC RUWAN GODIYA,,Katsina
+254,Katsina,FASKARI,MPHC DAUDAWA,,Katsina
+255,Katsina,FASKARI,MPHC TAFOKI,,Katsina
+256,Katsina,FASKARI,HC UNGUWAR DOKA,unguwar a soda hc,
+257,Katsina,FASKARI,HC SABON LAYI,,Katsina
+258,Katsina,FASKARI,HC BILBIS,,Katsina
+259,Katsina,FASKARI,HC 'YARMALAMAI,,Katsina
+260,Katsina,FASKARI,HC DAN AJI,,Katsina
+261,Katsina,FASKARI,HC BAKARYA,mchc bauranya,
+262,Katsina,FASKARI,HC KADISAU,,Katsina
+263,Katsina,FASKARI,HC UNGUWAR BAKWAI,unguwar bakwai health clinic,
+264,Katsina,FASKARI,HC KAGANA,,Katsina
+265,Katsina,FASKARI,HC KWAI,kurami hc,
+266,Katsina,FASKARI,HC GOBIRAWA,,Katsina
+267,Katsina,FASKARI,HC DAN BA'U,mchc bauranya,
+268,Katsina,FASKARI,HC UNGUWAR GAGO,unguwar a soda hc,
+269,Katsina,FASKARI,HC KUKA SHIDDA,,Katsina
+270,Katsina,FUNTUA,GH FUNTUA,,Katsina
+271,Katsina,FUNTUA,CHC FUNTUA,,Katsina
+272,Katsina,FUNTUA,CCHC MASKA,,Katsina
+273,Katsina,FUNTUA,MPHC DUKKE,,Katsina
+274,Katsina,FUNTUA,PHC MAIGAMJI,,Katsina
+275,Katsina,FUNTUA,PHC GOYA,,Katsina
+276,Katsina,FUNTUA,PHC TUDUN IYA,,Katsina
+277,Katsina,FUNTUA,PHC TUDUN WADA,,Katsina
+278,Katsina,FUNTUA,HF BCGA,,Katsina
+279,Katsina,FUNTUA,HF BAGARI,,Katsina
+280,Katsina,FUNTUA,HF JABIRI,,Katsina
+281,Katsina,FUNTUA,HF KWATANGIRI,watangadiya hf,
+282,Katsina,FUNTUA,HF KWANGWAI,watangadiya hf,
+283,Katsina,FUNTUA,HF ZAMFARAWA,,Katsina
+284,Katsina,FUNTUA,FUNTUA PRISON,,Katsina
+285,Katsina,FUNTUA,NEW FUNTUA CLINIC,new funtua clinic,
+286,Katsina,FUNTUA,BISTICT CLINIC,,Katsina
+287,Katsina,FUNTUA,KWAMEC CLINIC,gaskia medical  clinic,
+288,Katsina,FUNTUA,DR MA'ARUF CLINIC,,Katsina
+289,Katsina,FUNTUA,NAKOWA CLINIC,nabuka clinic,
+290,Katsina,Funtua,HIMMA CLINIC,jibia clinic,
+291,Katsina,FUNTUA,SAUKI CLINIC,sauki clinic,
+292,Katsina,FUNTUA,HF UNGUWAR DAUDU,unguwar daudu health post,
+293,Katsina,FUNTUA,HF UNGUWAR MAI LAYA,unguwar maikawo hc,
+294,Katsina,FUNTUA,HF UNGUWAR MODA,unguwar a soda hc,
+295,Katsina,FUNTUA,MU'AZU MUFTAHU MEM CLINIC MASKA,maazu muftahu memorial clinic,
+296,Katsina,FUNTUA,IWC DOTS,,Katsina
+297,Katsina,FUNTUA,HF UNGUWAR DAN DADA,,Katsina
+298,Katsina,FUNTUA,HF UNGUWAR TOFA,unguwar a soda hc,
+299,Katsina,FUNTUA,HF RAFIN DUNYA,,Katsina
+300,Katsina,FUNTUA,HF DANKAWO,,Katsina
+301,Katsina,FUNTUA,HF KWANA GUGA,,Katsina
+302,Katsina,FUNTUA,HF BARE BARI,,Katsina
+303,Katsina,FUNTUA,HF DAN FILI,,Katsina
+304,Katsina,INGAWA,GH INGAWA,,Katsina
+305,Katsina,INGAWA,CHC 'YANDOMA,yandaka phc,
+306,Katsina,INGAWA,MCHC LADAN,mchc bauranya,
+307,Katsina,INGAWA,PHC DAUNAKA,,Katsina
+308,Katsina,INGAWA,PHC DARA,,Katsina
+309,Katsina,INGAWA,MCHC KURFEJI,kkudi mchc,
+310,Katsina,INGAWA,MCHC GANJUWA,,Katsina
+311,Katsina,INGAWA,MCHC MANOMAWA,mawashi mchc,
+312,Katsina,INGAWA,HC DAN ASHITAN,,Katsina
+313,Katsina,INGAWA,HC KANDAWA,yandaka phc,
+314,Katsina,INGAWA,HC JOBE,,Katsina
+315,Katsina,INGAWA,MCHC YAYA,yarrumma mchc,
+316,Katsina,INGAWA,FAMILY SUPPORT CLINIC INGAWA,family support clinic,
+317,Katsina,INGAWA,HC YAKURUTU,,Katsina
+318,Katsina,INGAWA,HC AMALAWA,,Katsina
+319,Katsina,INGAWA,MCHC KARKARKU,kkudi mchc,
+320,Katsina,INGAWA,HC BARE RUWA,,Katsina
+321,Katsina,INGAWA,HC DUKUMA,,Katsina
+322,Katsina,INGAWA,MCHC TUNAS,,Katsina
+323,Katsina,INGAWA,HC DAMTSI,,Katsina
+324,Katsina,INGAWA,HC KANDARE,,Katsina
+325,Katsina,JIBIYA,PHC Shimfida,,Katsina
+326,Katsina,JIBIYA,PHC 'Yangayya,yandaka phc,
+327,Katsina,JIBIYA,PHC Gangara,,Katsina
+328,Katsina,JIBIYA,GH JIBIYA,,Katsina
+329,Katsina,JIBIYA,CHC MAGAMA,,Katsina
+330,Katsina,JIBIYA,MPHC GURBIN BOURE,,Katsina
+331,Katsina,JIBIYA,PHC DADDARA,,Katsina
+332,Katsina,JIBIYA,JIBIYA BABBA HC,,Katsina
+333,Katsina,JIBIYA,PHC GANGARA,,Katsina
+334,Katsina,JIBIYA,TUDUN WADA HC,,Katsina
+335,Katsina,JIBIYA,JIBIYA MEDICAL CLINIC,gaskia medical  clinic,
+336,Katsina,JIBIYA,HC KOKAR BABANGIDA,kukar babangida health post,
+337,Katsina,JIBIYA,HC JIBIYAR MAJE,,Katsina
+338,Katsina,JIBIYA,HC YAR MALLAMAWA,,Katsina
+339,Katsina,KAFUR,CHC KAFUR,,Katsina
+340,Katsina,KAFUR,PHC DANKANJIBA,,Katsina
+341,Katsina,KAFUR,MCHC YARIBORI,,Katsina
+342,Katsina,KAFUR,HC RUGOJI,,Katsina
+343,Katsina,KAFUR,MCHC SABUWAR KASA,,Katsina
+344,Katsina,KAFUR,PHC DUTSEN KURA,,Katsina
+345,Katsina,KAFUR,HC 'YARTALATA,,Katsina
+346,Katsina,KAFUR,PHC MAHUTA,,Katsina
+347,Katsina,KAFUR,HC KANYA,,Katsina
+348,Katsina,KAFUR,HC MALAMAWA,,Katsina
+349,Katsina,KAFUR,HC GOZAKI,,Katsina
+350,Katsina,KAFUR,HC MASARI,,Katsina
+351,Katsina,KAFUR,MPHC MASARI,mawashi mchc,
+352,Katsina,KAFUR,HC UNGUWAR SHUKAU,unguwar a soda hc,
+353,Katsina,KAFUR,HC DANKWATTA,mchc kwatta,
+354,Katsina,KAFUR,HC BARAKAI,mchc bauranya,
+355,Katsina,KAFUR,HC KAGARA,,Katsina
+356,Katsina,KAFUR,HC KURMI,kurami hc,
+357,Katsina,KAFUR,HC KURINGAFA,,Katsina
+358,Katsina,KAFUR,HC HUGUMA,phc ruma,
+359,Katsina,KAFUR,MCHC DANTURE,,Katsina
+360,Katsina,KAFUR,HC BARI,,Katsina
+361,Katsina,KAFUR,HC DAN RII,,Katsina
+362,Katsina,KAFUR,HC SHEKA,,Katsina
+363,Katsina,KAFUR,HC SABON BIRNI,,Katsina
+364,Katsina,KAFUR,HC DAYAWA,,Katsina
+365,Katsina,KAFUR,HC YAR TSAMIYA,,Katsina
+366,Katsina,KAITA,CHC KAITA,,Katsina
+367,Katsina,KAITA,MDGS DUTSEN SAFE,,Katsina
+368,Katsina,KAITA,MPHC 'YANDAKI,yandaka phc,
+369,Katsina,KAITA,MDGS DANKABA,,Katsina
+370,Katsina,KAITA,PHC DANKAMA,,Katsina
+371,Katsina,KAITA,HC KABOBI,,Katsina
+372,Katsina,KAITA,MCHC KAGADAMA,,Katsina
+373,Katsina,KAITA,HC GARU,,Katsina
+374,Katsina,KAITA,MCH MATSAI,mawashi mchc,
+375,Katsina,KAITA,MDGS SABON BIRNI,,Katsina
+376,Katsina,KAITA,MDGS DANKUNAMA,,Katsina
+377,Katsina,KAITA,HC GANDE,,Katsina
+378,Katsina,KAITA,HC BA'AWA,,Katsina
+379,Katsina,KAITA,PHC ABDALLAWA,,Katsina
+380,Katsina,KAITA,HC JANKYARMA,,Katsina
+381,Katsina,KAITA,MDGS GIRKA,,Katsina
+382,Katsina,KAITA,MCH 'YANHOHO,,Katsina
+383,Katsina,KAITA,HC GAFIYA,,Katsina
+384,Katsina,KAITA,HC ZABAKAU,,Katsina
+385,Katsina,KAITA,HC GABA GADI,,Katsina
+386,Katsina,KAITA,HC ALLEMI,,Katsina
+387,Katsina,KAITA,HC DANTUDU,,Katsina
+388,Katsina,KANKARA,PHC kankara,,Katsina
+389,Katsina,KANKARA,GH kankara,,Katsina
+390,Katsina,KANKARA,PHC Tudu,,Katsina
+391,Katsina,KANKARA,PHC yHCTsamiya,,Katsina
+392,Katsina,KANKARA,PHC ketate,,Katsina
+393,Katsina,KANKARA,PHC GUNDAWA,,Katsina
+394,Katsina,KANKARA,PHC ZANGO,,Katsina
+395,Katsina,KANKARA,SABON LAYI Health Clinic,sabon layi health clinic,
+396,Katsina,KANKARA,MCHC BURDUGAU,,Katsina
+397,Katsina,KANKARA,PHC MABAI,,Katsina
+398,Katsina,KANKARA,PHC YARGOJE,,Katsina
+399,Katsina,KANKARA,GIDAN ZAKI HEALTH CLINIC,gidan zaki health clinic,
+400,Katsina,KANKARA,PHC PAUWA,,Katsina
+401,Katsina,KANKARA,DASABAU HEALTH CLINIC,daba health clinic,
+402,Katsina,KANKARA,KUKA SHEKA PHC,,Katsina
+403,Katsina,KANKARA,DANMARKE PHC,,Katsina
+404,Katsina,KANKARA,DANMARABU HEALTH CLINIC,danmarabu health clinic,
+405,Katsina,KANKARA,GATAKAWA HEALTH CLINIC,gatakawa health clinic,
+406,Katsina,KANKARA,MASHIGI HEALTH CLINIC,mashigi health clinic,
+407,Katsina,KANKARA,GURBI HEALTH CLINIC,gurbi health clinic,
+408,Katsina,KANKARA,HF Katoge,katoge hf,
+409,Katsina,KANKARA,HF Mashigi,,Katsina
+410,Katsina,KANKARA,HC Danmarabu,,Katsina
+411,Katsina,KANKARA,HC DANKALGO,,Katsina
+412,Katsina,KANKARA,HC KATSINAWA,,Katsina
+413,Katsina,KANKARA,HC MARABAR GURBI,marabar gurbi health clinic,
+414,Katsina,KANKARA,ANOUR CLINIC,bakori clinic,
+415,Katsina,KANKARA,NASARA CLINIC,nasiha clinic,
+416,Katsina,KANKIA,GH KANKIA,,Katsina
+417,Katsina,KANKIA,CHC RIMAYE,,Katsina
+418,Katsina,KANKIA,PHC KAFIN SOLI,,Katsina
+419,Katsina,KANKIA,PHC GYAZA,,Katsina
+420,Katsina,KANKIA,PHC MAGAM,,Katsina
+421,Katsina,KANKIA,PHC DANNAYAKI,,Katsina
+422,Katsina,KANKIA,PHC TSAH,,Katsina
+423,Katsina,KANKIA,PHC DANDORO,,Katsina
+424,Katsina,KANKIA,PHC GALADIMA,,Katsina
+425,Katsina,KANKIA,MCHC KAFINDANGI,,Katsina
+426,Katsina,KANKIA,HC YARGAJEM,,Katsina
+427,Katsina,KANKIA,HC KIRKINI,,Katsina
+428,Katsina,KANKIA,HC TAURARIN DOKA,taurarin doka health clinic,
+429,Katsina,KANKIA,HC TUDUN WULLI,,Katsina
+430,Katsina,KANKIA,HC TASHAR GAMJI,,Katsina
+431,Katsina,KANKIA,HC MACHINJIN,,Katsina
+432,Katsina,KANKIA,HC NASARAWA 'S',nasarawa health post,
+433,Katsina,KANKIA,HC SUKUNTUNI,,Katsina
+434,Katsina,KANKIA,HC SAGAWA,,Katsina
+435,Katsina,KATSINA,FMC KATSINA,,Katsina
+436,Katsina,KATSINA,GH KATSINA,,Katsina
+437,Katsina,KATSINA,CHC KOFAR KAURA,,Katsina
+438,Katsina,KATSINA,MCHC KOFAR SAURI,,Katsina
+439,Katsina,KATSINA,MCHC KOFAR MARUSA,,Katsina
+440,Katsina,KATSINA,PRISON SERVICE HOSPITAL,,Katsina
+441,Katsina,KATSINA,SAUKI CLINIC,sauki clinic,
+442,Katsina,KATSINA,SURA CLINIC,sura clinic,
+443,Katsina,KATSINA,MCHC SHINKAFI,,Katsina
+444,Katsina,KATSINA,MCHC DANNABASO,,Katsina
+445,Katsina,KATSINA,MCHC KOFAR GUGA,,Katsina
+446,Katsina,KATSINA,MCHC SABUWAR UNGUWA,sabuwar unguwa health clinic,
+447,Katsina,KATSINA,MCHC ABATTOIR,,Katsina
+448,Katsina,KATSINA,MCHC KWADO,mchc kwatta,
+449,Katsina,KATSINA,MCHC TURAI YAR'ADUA,,Katsina
+450,Katsina,KATSINA,MCHC MASANAWA,mawashi mchc,
+451,Katsina,KATSINA,MCHC RAFIN DADI,,Katsina
+452,Katsina,KATSINA,MCHC KUKAR GESA,,Katsina
+453,Katsina,KATSINA,MCHC TUDUN 'YANLIHIDDA,tudun yanlihidda health clinic,
+454,Katsina,KATSINA,MCHC MAKERA,mawashi mchc,
+455,Katsina,KATSINA,MCHC MODOJI,,Katsina
+456,Katsina,KATSINA,MCHC KOFAR YANDAKA,,Katsina
+457,Katsina,KATSINA,MCHC MAMMAN DEE,,Katsina
+458,Katsina,KATSINA,POLICE CLINIC,police clinic,
+459,Katsina,KATSINA,NOOR CLINIC,okomos clinic,
+460,Katsina,KATSINA,GRA SPECIALIST CLINIC,gora health clinic,
+461,Katsina,KATSINA,AMANA CLINIC,amana clinic,
+462,Katsina,KATSINA,ANFANI CLINIC,afuwa clinic,
+463,Katsina,KATSINA,OKMOS CLINIC,okomos clinic,
+464,Katsina,KATSINA,AJS CLINIC,asfau clinic,
+465,Katsina,KATSINA,HERITAGE CLINIC,magoje health clinic,
+466,Katsina,KATSINA,LABMINA CLINIC,jibia clinic,
+467,Katsina,KATSINA,ALLAH BAMU LAFIYA CLINIC,allah bamu lafia clinic,
+468,Katsina,KATSINA,ALHERI CLINIC,alheri clinic,
+469,Katsina,KATSINA,NEW MILLENIUM CLINIC,new millenium clinic,
+470,Katsina,KATSINA,M&M CLINIC,okomos clinic,
+471,Katsina,KATSINA,MCHC TAYOYI,,Katsina
+472,Katsina,KATSINA,HC SABUWAR UNGUWAR DAY,unguwar a soda hc,
+473,Katsina,KATSINA,SPLENDID DIAGNOSTIC CENTRE,,Katsina
+474,Katsina,KATSINA,IKON ALLAH CLINIC,allah bamu lafia clinic,
+475,Katsina,KURFI,GH KURFI,kurami hc,
+476,Katsina,KURFI,CHC KURFI,kurami hc,
+477,Katsina,KURFI,MPHC KAWARE,,Katsina
+478,Katsina,KURFI,MPHC BARKIYA,mchc bauranya,
+479,Katsina,KURFI,MPHC WURMA,phc ruma,
+480,Katsina,KURFI,HC TAMAWA,,Katsina
+481,Katsina,KURFI,HC TAMU,,Katsina
+482,Katsina,KURFI,HC FARIN DUTSI,,Katsina
+483,Katsina,KURFI,HC SABON GARIN RAWAYAU,sabon gari rawayau health clinic,
+484,Katsina,KURFI,MPHC BIRCHI,,Katsina
+485,Katsina,KURFI,MPHC TSAURI,,Katsina
+486,Katsina,KURFI,MPHC RAWAYAU,,Katsina
+487,Katsina,KURFI,HC LAMBO,,Katsina
+488,Katsina,KURFI,MPHC KAGUWA,,Katsina
+489,Katsina,KURFI,SALAM CLINIC,salam clinic  kurfi,
+490,Katsina,KURFI,HC GWARZO,,Katsina
+491,Katsina,KURFI,HC YARLIYA'U,,Katsina
+492,Katsina,KURFI,HC ALKARYA,,Katsina
+493,Katsina,KURFI,HC SAUYAWA,,Katsina
+494,Katsina,KURFI,HC FADUMAWA,,Katsina
+495,Katsina,KURFI,HC KATOGE,katoge hf,
+496,Katsina,KURFI,HC TASHAR BARA'U,,Katsina
+497,Katsina,KURFI,HC BABBADAWA,,Katsina
+498,Katsina,KURFI,HC 'YARMAIGA,,Katsina
+499,Katsina,KURFI,HC 'YAR UNGUWA,,Katsina
+500,Katsina,KURFI,HC 'YARBARZA,,Katsina
+501,Katsina,KURFI,HC BAIGA,,Katsina
+502,Katsina,KURFI,HC MUJI,,Katsina
+503,Katsina,KURFI,HC AGAMA LAFIYA,,Katsina
+504,Katsina,KURFI,HC CHIKAWA,,Katsina
+505,Katsina,KURFI,HC YARMARKE,,Katsina
+506,Katsina,KURFI,HC KOFAR AREWA,,Katsina
+507,Katsina,KURFI,HC BAHARAWA,,Katsina
+508,Katsina,KURFI,HC YAMMALGA,,Katsina
+509,Katsina,KURFI,HC KAREWA,,Katsina
+510,Katsina,KUSADA,HC TUKUNTAWA,,Katsina
+511,Katsina,KUSADA,CHC KUSADA,,Katsina
+512,Katsina,KUSADA,PHC YASHE,,Katsina
+513,Katsina,KUSADA,MCHC KOFA,mchc kwatta,
+514,Katsina,KUSADA,MPHC DUDUNNI,,Katsina
+515,Katsina,KUSADA,MCH MAWASHI,mawashi mchc,
+516,Katsina,KUSADA,MDGS RINJI,,Katsina
+517,Katsina,KUSADA,HC TUTTUKE,,Katsina
+518,Katsina,KUSADA,MCH BAURANYA,mchc bauranya,
+519,Katsina,KUSADA,HC Makadawa,,Katsina
+520,Katsina,KUSADA,MCHC Bauranya,mchc bauranya,
+521,Katsina,KUSADA,TSANNA HC,,Katsina
+522,Katsina,KUSADA,BOKOSIRE,,Katsina
+523,Katsina,MAIADUA,CHC MAI'ADUA,,Katsina
+524,Katsina,MAIADUA,MPHC KONGOLOM,,Katsina
+525,Katsina,MAIADUA,BORDAR HOSPITAL,,Katsina
+526,Katsina,MAIADUA,MCHC BUMBUM,,Katsina
+527,Katsina,MAIADUA,HC DAGURA,,Katsina
+528,Katsina,MAI'ADUA,MCH DOGON HAWA,,Katsina
+529,Katsina,MAI'ADUA,MCH TSABU,mchc tsagem,
+530,Katsina,MAI'ADUA,HC WAZOBIA,,Katsina
+531,Katsina,MAI'ADUA,HC MULUDU,,Katsina
+532,Katsina,MAI'ADUA,MCH DAN YASHE,,Katsina
+533,Katsina,MAI'ADUA,MCH KOZA,,Katsina
+534,Katsina,MAI'ADUA,HC JASSAI,,Katsina
+535,Katsina,MAI'ADUA,HC KWADAGE,,Katsina
+536,Katsina,MAI'ADUA,HC BUDUMA,,Katsina
+537,Katsina,MAI'ADUA,HC DAN KINDI,,Katsina
+538,Katsina,MAI'ADUA,MCH JIRDEDE,,Katsina
+539,Katsina,MAI'ADUA,HC TUGA,,Katsina
+540,Katsina,MAI'ADUA,MCH SHARTA,,Katsina
+541,Katsina,MAI'ADUA,HC SHEKEL,,Katsina
+542,Katsina,MAI'ADUA,HC KOKUTUKO,,Katsina
+543,Katsina,MAI'ADUA,HC INSHA RUWA,,Katsina
+544,Katsina,MAI'ADUA,HC LABE,,Katsina
+545,Katsina,MAI'ADUA,MCHC MISRA,,Katsina
+546,Katsina,MAI'ADUA,HC MAIDARIYA,,Katsina
+547,Katsina,MAI'ADUA,HC MAIGARI,,Katsina
+548,Katsina,MAI'ADUA,MCH GOJOGOJO,,Katsina
+549,Katsina,MALUMFASHI,General Hospital,general hospital mani,
+550,Katsina,MALUMFASHI,C.H.C Malumfashi,,Katsina
+551,Katsina,MALUMFASHI,MCH Malumfashi,mawashi mchc,
+552,Katsina,MALUMFASHI,P.H.C Dayi,,Katsina
+553,Katsina,MALUMFASHI,M.C.H.C Dansarai,,Katsina
+554,Katsina,MALUMFASHI,P.H.C Karfi,,Katsina
+555,Katsina,MALUMFASHI,Marabar Kankara H.C,,Katsina
+556,Katsina,MALUMFASHI,P.H.C Gorar Hanya,,Katsina
+557,Katsina,MALUMFASHI,P.H.C G/Dansarai,,Katsina
+558,Katsina,MALUMFASHI,P.H.C Makaurachi,,Katsina
+559,Katsina,MALUMFASHI,MDGS Badawa,,Katsina
+560,Katsina,MALUMFASHI,P.H.C Ruwan Sanyi,,Katsina
+561,Katsina,MALUMFASHI,Danbilago H/Clinic,bawo clinic,
+562,Katsina,MALUMFASHI,Gandun Karfi H/Clinic,,Katsina
+563,Katsina,MALUMFASHI,Burdugau H/Clinic,health clinic burdugau,
+564,Katsina,MALUMFASHI,Borindawa H/Clinic,bakori clinic,
+565,Katsina,MALUMFASHI,MCH Gangara,,Katsina
+566,Katsina,MALUMFASHI,MCHC Gora,,Katsina
+567,Katsina,MALUMFASHI,PHC Badawa,,Katsina
+568,Katsina,MALUMFASHI,HC UNGUWAR ALI,unguwar a soda hc,
+569,Katsina,MALUMFASHI,DAWN MEDICAL CENTRE M/FASHI,dan mayaki health centre,
+570,Katsina,MALUMFASHI,MALAM BALA HEALTH CLINIC,bala usman health clinic,
+571,Katsina,MALUMFASHI,DR FALA CLINIC M/FASHI,mashigi health clinic,
+572,Katsina,MALUMFASHI,ALBARKA CLINIC,albarka clinic,
+573,Katsina,MALUMFASHI,M/FASHI CENTRAL CLINIC,ingawa central health clinic,
+574,Katsina,MALUMFASHI,ECWA CLINIC,ecwa health clinic,
+575,Katsina,MALUMFASHI,DR LABO CLINIC,k dara clinic,
+576,Katsina,MANI,GH MANI,,Katsina
+577,Katsina,MANI,CHC JANI,,Katsina
+578,Katsina,MANI,PHC MUDURU,,Katsina
+579,Katsina,MANI,PHC MANI,,Katsina
+580,Katsina,MANI,PHC DUWAN,,Katsina
+581,Katsina,MANI,HC SHEME,,Katsina
+582,Katsina,MANI,MCH MAGAMI,mawashi mchc,
+583,Katsina,MANI,HC BARYAWA,mchc bauranya,
+584,Katsina,MANI,MCH KWATTA,mchc kwatta,
+585,Katsina,MANI,PHC BUJAWA,,Katsina
+586,Katsina,MANI,PHC TSAGEM,mchc tsagem,
+587,Katsina,MANI,MCH RANDAWA,,Katsina
+588,Katsina,MANI,HC JIDDA,,Katsina
+589,Katsina,MANI,HC BARNAWA,mchc bauranya,
+590,Katsina,MANI,SALAM MATERNITY CLINIC,salama maternity 2 clinic,
+591,Katsina,MANI,HC KWANGWAMA,,Katsina
+592,Katsina,MANI,HC CHAKARANBI,,Katsina
+593,Katsina,MANI,HC SAMBAWA,,Katsina
+594,Katsina,MANI,HC ANIYAWA,,Katsina
+595,Katsina,MANI,HC SHA'ISKAWA,,Katsina
+596,Katsina,MANI,HC KURNA,kurami hc,
+597,Katsina,MANI,MCH HAMCHETA,,Katsina
+598,Katsina,MANI,HC MARKE,,Katsina
+599,Katsina,MANI,MDG MAKAU,,Katsina
+600,Katsina,MANI,HC GEWAYAU,,Katsina
+601,Katsina,MANI,HC DAMAWA,daminawa,
+602,Katsina,MANI,HC NASARAWA,,Katsina
+603,Katsina,MANI,MCH FILIN KWALLO,,Katsina
+604,Katsina,MANI,HC BAGIWA,,Katsina
+605,Katsina,MANI,HC KUKOKI,,Katsina
+606,Katsina,MANI,HC GUNKI,,Katsina
+607,Katsina,MANI,MCH TAKUSHEYI,,Katsina
+608,Katsina,MANI,HC DURU,,Katsina
+609,Katsina,MANI,MCH ALIYABA,,Katsina
+610,Katsina,MANI,MCH JANI,,Katsina
+611,Katsina,MANI,HC BINONI,,Katsina
+612,Katsina,MANI,HC YARCHAKARANDE,,Katsina
+613,Katsina,MANI,HC KWALKODAU,,Katsina
+614,Katsina,MANI,HC BAKANKARA,,Katsina
+615,Katsina,MANI,HC GABI,,Katsina
+616,Katsina,MANI,HC TAIKI,,Katsina
+617,Katsina,MANI,MCH DOGARAWA,,Katsina
+618,Katsina,MANI,HC GANDA,,Katsina
+619,Katsina,MANI,HC BADOLE,,Katsina
+620,Katsina,MASHI,CHC MASHI,,Katsina
+621,Katsina,MASHI,PHC BIRNIN KUKA,,Katsina
+622,Katsina,MASHI,PHC RANDA,yandaka phc,
+623,Katsina,MASHI,MCH DOKA,,Katsina
+624,Katsina,MASHI,MCH SONKAYA,,Katsina
+625,Katsina,MASHI,MCH GALLU,,Katsina
+626,Katsina,MASHI,MCHC DOGURU,,Katsina
+627,Katsina,MASHI,MCH MARKE,,Katsina
+628,Katsina,MASHI,MCH KASANKI,,Katsina
+629,Katsina,MASHI,MCH MAJIGIRI,,Katsina
+630,Katsina,MASHI,MCHC TAMILO,mchc tsagem,
+631,Katsina,MASHI,HC AGALA,,Katsina
+632,Katsina,MASHI,HC JANA,,Katsina
+633,Katsina,MASHI,HC TSAMIYAR LALU,,Katsina
+634,Katsina,MASHI,HC BULA,,Katsina
+635,Katsina,MASHI,HC YARDADDO,,Katsina
+636,Katsina,MASHI,HC KILAFO,,Katsina
+637,Katsina,MASHI,HC GARO,,Katsina
+638,Katsina,MASHI,HC GANAFIGAU,,Katsina
+639,Katsina,MASHI,MCHC YARRIGA,yarrumma mchc,
+640,Katsina,MASHI,HC TAGURA,,Katsina
+641,Katsina,MASHI,HC GUMA,,Katsina
+642,Katsina,MASHI,HC DANLAKO,,Katsina
+643,Katsina,MASHI,HC BAGAWA,,Katsina
+644,Katsina,MASHI,HC ISHE-SHE,,Katsina
+645,Katsina,MASHI,HC MURAYE,,Katsina
+646,Katsina,MASHI,HC TORANKE,,Katsina
+647,Katsina,MATAZU,CHC MATAZU,,Katsina
+648,Katsina,MATAZU,MPHC SAYAYA,,Katsina
+649,Katsina,MATAZU,MPH MAZOJI,,Katsina
+650,Katsina,MATAZU,MPHC GWARJO,,Katsina
+651,Katsina,MATAZU,MPHC PAPU,,Katsina
+652,Katsina,MATAZU,MPHC RINJIN IDI,,Katsina
+653,Katsina,MATAZU,MPHC KARADUWA,,Katsina
+654,Katsina,MATAZU,HC BAKANE,,Katsina
+655,Katsina,MATAZU,MPHC KOGARI,,Katsina
+656,Katsina,MATAZU,HC GINCHAWA,,Katsina
+657,Katsina,MATAZU,HC UNGUWAR SARKA,unguwar maikawo hc,
+658,Katsina,MATAZU,HC JUMAWA,phc ruma,
+659,Katsina,MATAZU,HC JINFAR NAWALA,,Katsina
+660,Katsina,MATAZU,HC TSAKKUWA,,Katsina
+661,Katsina,MATAZU,HC GALAWAI,,Katsina
+662,Katsina,MATAZU,HC KAWARI,,Katsina
+663,Katsina,MATAZU,MCHC DISSI,kkudi mchc,
+664,Katsina,MATAZU,HC DANBANGA,,Katsina
+665,Katsina,MATAZU,HC DABAWA,,Katsina
+666,Katsina,MATAZU,HC GIDAN ALHAJI LAWAL,gidan alh lawal health clinic,
+667,Katsina,MATAZU,HC YARKINYI,,Katsina
+668,Katsina,MATAZU,HC N/YAMU,,Katsina
+669,Katsina,MUSAWA,GH musawa,,Katsina
+670,Katsina,MUSAWA,phc dangani,,Katsina
+671,Katsina,MUSAWA,chc jikamshi,,Katsina
+672,Katsina,MUSAWA,PHC TUGE,,Katsina
+673,Katsina,MUSAWA,PHC MANGAFI,,Katsina
+674,Katsina,MUSAWA,PHC GARU,,Katsina
+675,Katsina,MUSAWA,PHC KURKUJAN,,Katsina
+676,Katsina,MUSAWA,Santar Ringi,,Katsina
+677,Katsina,MUSAWA,HC Turawa,,Katsina
+678,Katsina,MUSAWA,HC Turawa,,Katsina
+679,Katsina,MUSAWA,Santar Ringi,,Katsina
+680,Katsina,MUSAWA,HC GIDAN LOMO,,Katsina
+681,Katsina,MUSAWA,HC KANKWANA,,Katsina
+682,Katsina,MUSAWA,HC FARINDUTSE,,Katsina
+683,Katsina,RIMI,HC Masabo,,Katsina
+684,Katsina,RIMI,HC 'Yar Mudi,,Katsina
+685,Katsina,RIMI,HC RIMAWA,phc ruma,
+686,Katsina,RIMI,HC KARARE,,Katsina
+687,Katsina,RIMI,PHC ALARAINI,,Katsina
+688,Katsina,RIMI,GH RIMI,,Katsina
+689,Katsina,RIMI,CHC Abukur,,Katsina
+690,Katsina,RIMI,Mchc Makurda,kkudi mchc,
+691,Katsina,RIMI,Family Support Health Clinic Rimi,family support clinic,
+692,Katsina,RIMI,Phc Iyatawa,,Katsina
+693,Katsina,RIMI,PHC TSAGERO,mchc tsagem,
+694,Katsina,RIMI,phc kanya,,Katsina
+695,Katsina,RIMI,MCHC EKA,mchc kwatta,
+696,Katsina,RIMI,PHC YARNABANYE,yandaka phc,
+697,Katsina,RIMI,phc maje,,Katsina
+698,Katsina,SABUWA,PHC SAYAU,,Katsina
+699,Katsina,SABUWA,PHC GAMJI,,Katsina
+700,Katsina,SABUWA,CHC SABUWA,,Katsina
+701,Katsina,SABUWA,HC GAZARI,,Katsina
+702,Katsina,SABUWA,HC TAURA,kurami hc,
+703,Katsina,SABUWA,HC MAICHAKI,,Katsina
+704,Katsina,SABUWA,HC BARKISHI,,Katsina
+705,Katsina,SABUWA,HC YARKAKA,yandaka phc,
+706,Katsina,SABUWA,HC INONO,,Katsina
+707,Katsina,SABUWA,HC JIGO,,Katsina
+708,Katsina,SABUWA,HC NAKABA,yandaka phc,
+709,Katsina,SABUWA,HC UNGUWAR SARKI,unguwar a soda hc,
+710,Katsina,SABUWA,MARYAM HUMAIRA CLINIC,maryam humaira clinic,
+711,Katsina,SABUWA,HC MAIKASUWA,unguwar maikawo hc,
+712,Katsina,SABUWA,HC MAIGAYYA,,Katsina
+713,Katsina,SABUWA,HC UNGUWAR SANI,unguwar a soda hc,
+714,Katsina,SABUWA,MPHC MACHIKA,,Katsina
+715,Katsina,SABUWA,HC AWALA,gawon mala mchc,
+716,Katsina,SABUWA,HC UNGUWAR ISAU,unguwar a soda hc,
+717,Katsina,SABUWA,PHC DAMARI,,Katsina
+718,Katsina,SABUWA,HASKE CLINIC,sauki clinic,
+719,Katsina,Sabuwa,HC 'YARLAGWADA,,Katsina
+720,Katsina,Sabuwa,PHC DUGU MU'AZU,,Katsina
+721,Katsina,Sabuwa,HC ALBASU,,Katsina
+722,Katsina,Sabuwa,HC HAYIN YABO,,Katsina
+723,Katsina,Sabuwa,HC R/IWA,,Katsina
+724,Katsina,Sabuwa,HC KANAWA,yandaka phc,
+725,Katsina,Sabuwa,HC YADI,,Katsina
+726,Katsina,Sabuwa,HC YARKINDA,yandaka phc,
+727,Katsina,Sabuwa,HC MAIGANGUMA,unguwar maikawo hc,
+728,Katsina,Sabuwa,HC KINDO,,Katsina
+729,Katsina,Sabuwa,HC MARAKE,,Katsina
+730,Katsina,Sabuwa,HC MAIBAKKO,,Katsina
+731,Katsina,Sabuwa,HC MAZARE,,Katsina
+732,Katsina,Sabuwa,HC UNGUWAR BAKO,unguwar a soda hc,
+733,Katsina,Sabuwa,HC BANDAGA,,Katsina
+734,Katsina,SAFANA,Maikada HC,,Katsina
+735,Katsina,SAFANA,HC Mammado,,Katsina
+736,Katsina,SAFANA,HC Makanwaci,,Katsina
+737,Katsina,SAFANA,MFHC YARLILO,,Katsina
+738,Katsina,SAFANA,HC DOGARAWA,,Katsina
+739,Katsina,SAFANA,CHC SAFANA,,Katsina
+740,Katsina,SAFANA,MPHC RUNKA,phc ruma,
+741,Katsina,SAFANA,MPHC BABBAN DUHU,,Katsina
+742,Katsina,SAFANA,MPHC YARLILO,,Katsina
+743,Katsina,SAFANA,PHC KUKAR SAMU,,Katsina
+744,Katsina,SAFANA,PHC ZAKKA,yandaka phc,
+745,Katsina,SAFANA,PHC GORA,,Katsina
+746,Katsina,SAFANA,MDG CLINIC BAURE,baure health clinic,
+747,Katsina,SAFANA,MCHC TSASKIYA,,Katsina
+748,Katsina,SAFANA,H.C BARE -BARI,,Katsina
+749,Katsina,SAFANA,H.C KUNAMAWA,kurami hc,
+750,Katsina,SAFANA,HC LIZAMAWA,,Katsina
+751,Katsina,SANDAMU,CHC SANDAMU,,Katsina
+752,Katsina,SANDAMU,MPHC R/TSAMIYA,,Katsina
+753,Katsina,SANDAMU,MCH FAGO,,Katsina
+754,Katsina,SANDAMU,MCH KATSAYAL,mchc kwatta,
+755,Katsina,SANDAMU,MCH KWASARAWA,,Katsina
+756,Katsina,SANDAMU,MCH KARKARKU,,Katsina
+757,Katsina,SANDAMU,MCH RUWA DUTS,,Katsina
+758,Katsina,SANDAMU,HC YAKAWADA,,Katsina
+759,Katsina,SANDAMU,HC S/GARI,,Katsina
+760,Katsina,SANDAMU,MCH ZUGAI,,Katsina
+761,Katsina,SANDAMU,HC JIBA,,Katsina
+762,Katsina,SANDAMU,HC MAJIYAWA,,Katsina
+763,Katsina,SANDAMU,MCH RUMA,yarrumma mchc,
+764,Katsina,SANDAMU,HC Jarkuka,,Katsina
+765,Katsina,SANDAMU,HC YARMANUWA,,Katsina
+766,Katsina,SANDAMU,MCH DANGAU,,Katsina
+767,Katsina,SANDAMU,MCH MAYE,,Katsina
+768,Katsina,ZANGO,CHC ZANGO,,Katsina
+769,Katsina,ZANGO,MPHC ZANGO,,Katsina
+770,Katsina,ZANGO,HC DAWAN MALAN,,Katsina
+771,Katsina,ZANGO,MPHC 'YARDAJE,yandaka phc,
+772,Katsina,ZANGO,MCH DARGAGE,,Katsina
+773,Katsina,ZANGO,MCH SARA,,Katsina
+774,Katsina,ZANGO,MPHC UNGUWAR DUMA,unguwar a soda hc,
+775,Katsina,ZANGO,HC BARAGE,,Katsina
+776,Katsina,ZANGO,MPHC KAWARIN KUDI,,Katsina
+777,Katsina,ZANGO,MPHC GARNI,,Katsina
+778,Katsina,ZANGO,MCH KANDA,mchc kwatta,
+779,Katsina,ZANGO,MPHC GAMBA,,Katsina
+780,Katsina,ZANGO,PHC ROGOGO,,Katsina
+781,Katsina,ZANGO,HC FIWUNI,,Katsina
+782,Katsina,ZANGO,HC GIDILA,,Katsina
+783,Katsina,ZANGO,HC DAN'ALI,,Katsina
+784,Katsina,ZANGO,HC BUGAJE,,Katsina
+785,Katsina,ZANGO,HC MADAKA,yandaka phc,
+786,Katsina,ZANGO,HC MAKIYA,,Katsina
+787,Katsina,ZANGO,HC BADAKE,,Katsina
+788,Katsina,ZANGO,HC FANTEKA,,Katsina
+789,Katsina,ZANGO,HC KUTUTTURE,,Katsina
+790,Katsina,ZANGO,HC YAKASARA,,Katsina
+791,Katsina,ZANGO,HC WALAWA,,Katsina
+792,Katsina,ZANGO,HC DASHA,,Katsina
+793,Kebbi,Aliero LGA,Dan galadima 1,,Kebbi
+794,Kebbi,Aliero LGA,Dan warai,,Kebbi
+795,Kebbi,Aliero LGA,Dakala,,Kebbi
+796,Kebbi,Aliero LGA,Gumbin dari,,Kebbi
+797,Kebbi,Aliero LGA,Kashin zama,,Kebbi
+798,Kebbi,Aliero LGA,Jiga birni,,Kebbi
+799,Kebbi,Aliero LGA,Jiga kambarori,,Kebbi
+800,Kebbi,Aliero LGA,Jiga sala,,Kebbi
+801,Kebbi,Aliero LGA,Gumbulu,,Kebbi
+802,Kebbi,Aliero LGA,General hospital aliero,aleiro general hospital,
+803,Kebbi,Aliero LGA,Gangije,,Kebbi
+804,Kebbi,Aliero LGA,Dorawai,,Kebbi
+805,Kebbi,Aliero LGA,Mallamawa,,Kebbi
+806,Kebbi,Aliero LGA,Unguwar Amadu,,Kebbi
+807,Kebbi,Aliero LGA,Unguwar Basharu,unguwar basharu health post,
+808,Kebbi,Aliero LGA,Unguwar galadima,,Kebbi
+809,Kebbi,Aliero LGA,Rafin bauna,,Kebbi
+810,Kebbi,Aliero LGA,Marmaro,,Kebbi
+811,Kebbi,Aliero LGA,Kali,,Kebbi
+812,Kebbi,Aliero LGA,Sadam,,Kebbi
+813,Kebbi,Aliero LGA,State university clinic,university health clinic,
+814,Kebbi,Aliero LGA,Sabiyel,,Kebbi
+815,Kebbi,Arewa LGA,Bachaka PHC,,Kebbi
+816,Kebbi,Arewa LGA,Sakkwabe Disp.,,Kebbi
+817,Kebbi,Arewa LGA,Bingel,,Kebbi
+818,Kebbi,Arewa LGA,Gamuzza Disp.,,Kebbi
+819,Kebbi,Arewa LGA,Daura Disp.,,Kebbi
+820,Kebbi,Arewa LGA,Shuda Disp.,,Kebbi
+821,Kebbi,Arewa LGA,Gwarmai Disp.,,Kebbi
+822,Kebbi,Arewa LGA,Jarkuka Disp.,,Kebbi
+823,Kebbi,Arewa LGA,Bui PHC,,Kebbi
+824,Kebbi,Arewa LGA,Maje Kuka Disp.,,Kebbi
+825,Kebbi,Arewa LGA,Mamunu Disp.,,Kebbi
+826,Kebbi,Arewa LGA,Tago Disp.,,Kebbi
+827,Kebbi,Arewa LGA,T/Tsoho Disp.,,Kebbi
+828,Kebbi,Arewa LGA,Dangwangora Disp.,,Kebbi
+829,Kebbi,Arewa LGA,Gigani Disp.,,Kebbi
+830,Kebbi,Arewa LGA,Hakimawa Disp.,,Kebbi
+831,Kebbi,Arewa LGA,Bagga Disp.,,Kebbi
+832,Kebbi,Arewa LGA,Chibike Muza Disp.,,Kebbi
+833,Kebbi,Arewa LGA,MDGs Dogon Daji,,Kebbi
+834,Kebbi,Arewa LGA,Marake Disp.,,Kebbi
+835,Kebbi,Arewa LGA,Kohobi Disp.,,Kebbi
+836,Kebbi,Arewa LGA,Unguwar Muza,,Kebbi
+837,Kebbi,Arewa LGA,Fawangu Disp.,,Kebbi
+838,Kebbi,Arewa LGA,Chibike Illela Disp.,,Kebbi
+839,Kebbi,Arewa LGA,Falde Disp.,,Kebbi
+840,Kebbi,Arewa LGA,Shalwai Disp.,,Kebbi
+841,Kebbi,Arewa LGA,Dalijan Disp.,,Kebbi
+842,Kebbi,Arewa LGA,Feske Tudu Disp.,,Kebbi
+843,Kebbi,Arewa LGA,Feske Babba Disp.,,Kebbi
+844,Kebbi,Arewa LGA,Ganza Disp.,,Kebbi
+845,Kebbi,Arewa LGA,Jaffeji Disp.,,Kebbi
+846,Kebbi,Arewa LGA,Kwalaye Zabarmawa Disp.,kwalaye zabarmawa health post,
+847,Kebbi,Arewa LGA,Amagoro MDG,,Kebbi
+848,Kebbi,Arewa LGA,Tubowa Disp.,,Kebbi
+849,Kebbi,Arewa LGA,Gorin Dikko MDG.,,Kebbi
+850,Kebbi,Arewa LGA,Sabaru Disp.,sabaru dispensary,
+851,Kebbi,Arewa LGA,Landari Disp,,Kebbi
+852,Kebbi,Arewa LGA,Zamawa,,Kebbi
+853,Kebbi,Arewa LGA,Rafintsaka PHC,,Kebbi
+854,Kebbi,Arewa LGA,Gumundai Disp.,,Kebbi
+855,Kebbi,Arewa LGA,Kunchin Baba Disp.,,Kebbi
+856,Kebbi,Arewa LGA,Goron Ango Disp.,,Kebbi
+857,Kebbi,Arewa LGA,Gumki Disp.,,Kebbi
+858,Kebbi,Arewa LGA,Gorun mauri Disp.,,Kebbi
+859,Kebbi,Arewa LGA,Kunduda,,Kebbi
+860,Kebbi,Arewa LGA,Dumbugaje Disp,,Kebbi
+861,Kebbi,Arewa LGA,General Hosp Kangiwa,general hospital kangiwa,
+862,Kebbi,Arewa LGA,Kangiwa Town Disp.,,Kebbi
+863,Kebbi,Arewa LGA,Kwalaye Arewa Disp,,Kebbi
+864,Kebbi,Arewa LGA,Karen Malan Disp.,,Kebbi
+865,Kebbi,Arewa LGA,Baraya Babba,,Kebbi
+866,Kebbi,Arewa LGA,Kangiwa MCH,,Kebbi
+867,Kebbi,Arewa LGA,Karen Jantullu NPHDA,,Kebbi
+868,Kebbi,Arewa LGA,Laima Disp.,,Kebbi
+869,Kebbi,Arewa LGA,Madamfara Disp.,,Kebbi
+870,Kebbi,Arewa LGA,Tsamiya Disp.,,Kebbi
+871,Kebbi,Arewa LGA,Kukoki Disp.,,Kebbi
+872,Kebbi,Arewa LGA,Hudusu Disp.,,Kebbi
+873,Kebbi,Arewa LGA,Rimau Disp.,,Kebbi
+874,Kebbi,Arewa LGA,Sarka Disp.,,Kebbi
+875,Kebbi,Arewa LGA,Bagiza Disp.,,Kebbi
+876,Kebbi,Arewa LGA,Kwakware Disp.,,Kebbi
+877,Kebbi,Arewa LGA,Zagabu Disp.,,Kebbi
+878,Kebbi,Arewa LGA,Gorun Labbo Disp.,,Kebbi
+879,Kebbi,Arewa LGA,Dutsin fakara Disp,,Kebbi
+880,Kebbi,Arewa LGA,Yeldu PHC,,Kebbi
+881,Kebbi,Arewa LGA,Matankari Disp.,,Kebbi
+882,Kebbi,Arewa LGA,Maikali Disp.,,Kebbi
+883,Kebbi,Arewa LGA,Gandu Wala Disp.,,Kebbi
+884,Kebbi,Arewa LGA,GANDU WALA DISP,,Kebbi
+885,Kebbi,Argungu LGA,MDG Alwasa,,Kebbi
+886,Kebbi,Argungu LGA,MCH Gotomo,,Kebbi
+887,Kebbi,Argungu LGA,Dabire H/F,,Kebbi
+888,Kebbi,Argungu LGA,Tungar Rafi H/F,tungar rafi health post,
+889,Kebbi,Argungu LGA,Tungar Marina H/F,,Kebbi
+890,Kebbi,Argungu LGA,Umara H/F,,Kebbi
+891,Kebbi,Argungu LGA,Gwabare H/F,,Kebbi
+892,Kebbi,Argungu LGA,MPHC Felande,,Kebbi
+893,Kebbi,Argungu LGA,MDG Unguwar Malam Hassan,unguwar hassan health post,
+894,Kebbi,Argungu LGA,Tungar Noma H/F,,Kebbi
+895,Kebbi,Argungu LGA,Tungar Maidawa H/F,,Kebbi
+896,Kebbi,Argungu LGA,Jada H/F,,Kebbi
+897,Kebbi,Argungu LGA,Argungu town Dispensary,,Kebbi
+898,Kebbi,Argungu LGA,PHC Gulma,,Kebbi
+899,Kebbi,Argungu LGA,Gulma Town Dispensary,gubba dispensary,
+900,Kebbi,Argungu LGA,Fakon Sarki H/F,,Kebbi
+901,Kebbi,Argungu LGA,MDGs Wali,,Kebbi
+902,Kebbi,Argungu LGA,Bela H/F,,Kebbi
+903,Kebbi,Argungu LGA,Tungar Alkasun H/F,,Kebbi
+904,Kebbi,Argungu LGA,Gijiya H/F,,Kebbi
+905,Kebbi,Argungu LGA,Kamfani H/F,,Kebbi
+906,Kebbi,Argungu LGA,Sabongarin Kanta H/F,,Kebbi
+907,Kebbi,Argungu LGA,MCH Argungu,,Kebbi
+908,Kebbi,Argungu LGA,G.R.A. H/F,,Kebbi
+909,Kebbi,Argungu LGA,NRC H/F,,Kebbi
+910,Kebbi,Argungu LGA,CHC Argungu,,Kebbi
+911,Kebbi,Argungu LGA,Gen. Hospital Argungu,argungu general hospital,
+912,Kebbi,Argungu LGA,Gaskiya Clinic,,Kebbi
+913,Kebbi,Argungu LGA,MDG Lailaba,,Kebbi
+914,Kebbi,Argungu LGA,Natsini H/F,,Kebbi
+915,Kebbi,Argungu LGA,Baguni H/F,,Kebbi
+916,Kebbi,Argungu LGA,MDGs Sauwa,,Kebbi
+917,Kebbi,Argungu LGA,Kaura Sani H/F,,Kebbi
+918,Kebbi,Argungu LGA,Birnin Lafiya H/F,,Kebbi
+919,Kebbi,Argungu LGA,Dalatu H/F,,Kebbi
+920,Kebbi,Argungu LGA,Bangola H/F,,Kebbi
+921,Kebbi,Argungu LGA,Kukadu H/F,,Kebbi
+922,Kebbi,Argungu LGA,MPHC Tungar Zazzagawa,,Kebbi
+923,Kebbi,Argungu LGA,Zazzagawa Rumbuki H/F,,Kebbi
+924,Kebbi,Argungu LGA,Tungulawa H/F,,Kebbi
+925,Kebbi,Argungu LGA,Sarkawa H/F,,Kebbi
+926,Kebbi,Argungu LGA,Fakkai H/F,,Kebbi
+927,Kebbi,Argungu LGA,Unguwar Shayau H/F,,Kebbi
+928,Kebbi,Argungu LGA,Raya H/F,,Kebbi
+929,Kebbi,Augie LGA,Gen Hospital Augie,augie general hospital,
+930,Kebbi,Augie LGA,PHC Augie,,Kebbi
+931,Kebbi,Augie LGA,PHC Bagaye,,Kebbi
+932,Kebbi,Augie LGA,PHC Gidan Dabi,,Kebbi
+933,Kebbi,Augie LGA,PHC Yola,,Kebbi
+934,Kebbi,Augie LGA,PHC Mera,,Kebbi
+935,Kebbi,Augie LGA,PHC Dundaye,,Kebbi
+936,Kebbi,Augie LGA,PHC Illela,,Kebbi
+937,Kebbi,Augie LGA,PHC Kwaido,,Kebbi
+938,Kebbi,Augie LGA,PHC Zagie,,Kebbi
+939,Kebbi,Augie LGA,PHC Tungar Rafi,,Kebbi
+940,Kebbi,Augie LGA,PHC Matankari,,Kebbi
+941,Kebbi,Augie LGA,PHC Garu,,Kebbi
+942,Kebbi,Augie LGA,PHC Shafa zane,,Kebbi
+943,Kebbi,Augie LGA,PHC Bagura,,Kebbi
+944,Kebbi,Augie LGA,PHC Dankal,,Kebbi
+945,Kebbi,Augie LGA,PHC Dikke,,Kebbi
+946,Kebbi,Augie LGA,PHC Birnin Tudu,,Kebbi
+947,Kebbi,Augie LGA,PHC Gudale,,Kebbi
+948,Kebbi,Augie LGA,PHC Bayawa,,Kebbi
+949,Kebbi,Augie LGA,PHC Fadi Sonka,,Kebbi
+950,Kebbi,Augie LGA,PHC Awade,,Kebbi
+951,Kebbi,Augie LGA,PHC Farin Dutse,,Kebbi
+952,Kebbi,Augie LGA,PHC Shafarma,,Kebbi
+953,Kebbi,Augie LGA,PHC Lugga,,Kebbi
+954,Kebbi,Augie LGA,PHC Bangarawa,,Kebbi
+955,Kebbi,Augie LGA,PHC GidanKoni,,Kebbi
+956,Kebbi,Augie LGA,PHC Jabaka,,Kebbi
+957,Kebbi,Augie LGA,PHC Kwarkwari,,Kebbi
+958,Kebbi,Augie LGA,PHC Dafashi,,Kebbi
+959,Kebbi,Augie LGA,PHC Sabla,,Kebbi
+960,Kebbi,Augie LGA,PHC Borai,,Kebbi
+961,Kebbi,Augie LGA,MCH Augie,,Kebbi
+962,Kebbi,Augie LGA,PHC Gidan Agoda,,Kebbi
+963,Kebbi,Augie LGA,PHC Tiggi,,Kebbi
+964,Kebbi,Augie LGA,PHC Bubuche,,Kebbi
+965,Kebbi,Bagudo LGA,G.H BAGUDO,,Kebbi
+966,Kebbi,Bagudo LGA,M.C.H,,Kebbi
+967,Kebbi,Bagudo LGA,P.H.C TUGA,,Kebbi
+968,Kebbi,Bagudo LGA,HEALTH POST,owa health post,
+969,Kebbi,Bagudo LGA,P.H.C,,Kebbi
+970,Kebbi,Bagudo LGA,HEALTH POST,owa health post,
+971,Kebbi,Bagudo LGA,P.H.C KENDE,,Kebbi
+972,Kebbi,Bagudo LGA,LANI H/POST,,Kebbi
+973,Kebbi,Bagudo LGA,KUMBOBO H/POST,,Kebbi
+974,Kebbi,Bagudo LGA,P.H.C MAITAMBARI,,Kebbi
+975,Kebbi,Bagudo LGA,SHARABI H/POST,sharabi health post,
+976,Kebbi,Bagudo LGA,MAIDAHINI H/POST,,Kebbi
+977,Kebbi,Bagudo LGA,KWANGUWAI H/POST,,Kebbi
+978,Kebbi,Bagudo LGA,GARIN SHANGA H/POST,garin shanga health post,
+979,Kebbi,Bagudo LGA,P.H.C ZAGGA,,Kebbi
+980,Kebbi,Bagudo LGA,P.H.C KWASARA,,Kebbi
+981,Kebbi,Bagudo LGA,MADO H/POST,,Kebbi
+982,Kebbi,Bagudo LGA,P.H.C KALIEL,,Kebbi
+983,Kebbi,Bagudo LGA,BAHINDI H/POST,bahindi health post,
+984,Kebbi,Bagudo LGA,BAKKI DOMA H/POST,bokki doma health post,
+985,Kebbi,Bagudo LGA,P.H.C LAFAGU,,Kebbi
+986,Kebbi,Bagudo LGA,GANTEN FADAMA H/POST,genten fadama health post,
+987,Kebbi,Bagudo LGA,GANTEN TUDU H/POST,ganten tudu health post,
+988,Kebbi,Bagudo LGA,TUNGAN LAWAL H/POST,sabowar tunga  health post,
+989,Kebbi,Bagudo LGA,G.H KAOJE,,Kebbi
+990,Kebbi,Bagudo LGA,P.H.C GWAMBA,,Kebbi
+991,Kebbi,Bagudo LGA,RAHA H/POST,,Kebbi
+992,Kebbi,Bagudo LGA,GENDANE H.POST,gyendane health post,
+993,Kebbi,Bagudo LGA,YAMUSA H.POST,yamusa health post,
+994,Kebbi,Bagudo LGA,BUYA H.POST,buya health post,
+995,Kebbi,Bagudo LGA,DARANNA H.POST,daranna health post,
+996,Kebbi,Bagudo LGA,BAKIN RUWA H.POST,bakin ruwa health post,
+997,Kebbi,Bagudo LGA,MAJE H.POST,,Kebbi
+998,Kebbi,Bagudo LGA,TUNGAN FATA H.POST,tungan fata health post,
+999,Kebbi,Bagudo LGA,KAUDU H.POST,,Kebbi
+1000,Kebbi,Bagudo LGA,P.H.C TSAMIYA,,Kebbi
+1001,Kebbi,Bagudo LGA,BANI H.POST,bani health post,
+1002,Kebbi,Bagudo LGA,GIDAN ZANA H.POST,gidan zana health post,
+1003,Kebbi,Bagudo LGA,SAMBE H.POST,sambe health post,
+1004,Kebbi,Bagudo LGA,SANJE H.POST,sanji health post,
+1005,Kebbi,Bagudo LGA,TAFKIN SIMINTI H.POST,tafkin sumunti health post,
+1006,Kebbi,Bagudo LGA,SABON GARIN GANDU H.POST,sabon gari health post,
+1007,Kebbi,Bagudo LGA,GENERAL HOSPITAL ILLO,illo general hospital,
+1008,Kebbi,Bagudo LGA,P.H.C ILLO,,Kebbi
+1009,Kebbi,Bagudo LGA,SABON GARI H.POST,sabon gari health post,
+1010,Kebbi,Bagudo LGA,KALI H.POST,,Kebbi
+1011,Kebbi,Bagudo LGA,KANGIWA H.POST,,Kebbi
+1012,Kebbi,Bagudo LGA,BULA LANGU H.POST,,Kebbi
+1013,Kebbi,Bagudo LGA,P.H.C LOLO,,Kebbi
+1014,Kebbi,Bagudo LGA,P.H.C KASATI,,Kebbi
+1015,Kebbi,Bagudo LGA,GIRIS H.POST,,Kebbi
+1016,Kebbi,Bagudo LGA,GESHARO H.POST,geshero health post,
+1017,Kebbi,Bagudo LGA,TUNDI H.POST,tondi health post,
+1018,Kebbi,Bagudo LGA,TUNGAN BAGE H.POST,tungar bage health post,
+1019,Kebbi,Birnin Kebbi LGA,Sir yahaya Memorial Hospital,birnin kebbi sir yahaya memorial general hospital,
+1020,Kebbi,Birnin Kebbi LGA,Federal Medical Center,birnin kebbi federal medical centre,
+1021,Kebbi,Birnin Kebbi LGA,General Hospital Zauro,yauri general hospital,
+1022,Kebbi,Birnin Kebbi LGA,OHC Ambursa,,Kebbi
+1023,Kebbi,Birnin Kebbi LGA,PHC Asarara,,Kebbi
+1024,Kebbi,Birnin Kebbi LGA,PHC Gulumbe,,Kebbi
+1025,Kebbi,Birnin Kebbi LGA,PHC Kardi,,Kebbi
+1026,Kebbi,Birnin Kebbi LGA,Garin Aeawa Dispensary,damana health dispensary,
+1027,Kebbi,Birnin Kebbi LGA,Yamama Dispensary,sabaru dispensary,
+1028,Kebbi,Birnin Kebbi LGA,Danyeku dispensary,,Kebbi
+1029,Kebbi,Birnin Kebbi LGA,Wasada dispensary,sabaru dispensary,
+1030,Kebbi,Birnin Kebbi LGA,Matankari PHC,,Kebbi
+1031,Kebbi,Birnin Kebbi LGA,Nufawa Dispensary,gubba dispensary,
+1032,Kebbi,Birnin Kebbi LGA,Ujariyo dispensary,gubba dispensary,
+1033,Kebbi,Birnin Kebbi LGA,Tsamiyya dispensary,sabaru dispensary,
+1034,Kebbi,Birnin Kebbi LGA,Asarara gulume dispensary,,Kebbi
+1035,Kebbi,Birnin Kebbi LGA,Dagere Dispensary,,Kebbi
+1036,Kebbi,Birnin Kebbi LGA,PHC makera,,Kebbi
+1037,Kebbi,Birnin Kebbi LGA,PHC maurida,,Kebbi
+1038,Kebbi,Birnin Kebbi LGA,PHC Gawassu,,Kebbi
+1039,Kebbi,Birnin Kebbi LGA,PHC Alabani,,Kebbi
+1040,Kebbi,Birnin Kebbi LGA,PHC karyo,,Kebbi
+1041,Kebbi,Birnin Kebbi LGA,PHC Babban Dutsi,babban dutsi health post,
+1042,Kebbi,Birnin Kebbi LGA,Akwara dispensary,,Kebbi
+1043,Kebbi,Birnin Kebbi LGA,Unguwar Mijin Nana PHC,unguwar mijin nana health post,
+1044,Kebbi,Birnin Kebbi LGA,PHC Kola,,Kebbi
+1045,Kebbi,Birnin Kebbi LGA,Wuro Maliki Dispensary,kumbobo dispensary,
+1046,Kebbi,Birnin Kebbi LGA,Harasawa Dispensary,sabaru dispensary,
+1047,Kebbi,Birnin Kebbi LGA,Bami mai ruwa Dispensary,,Kebbi
+1048,Kebbi,Birnin Kebbi LGA,Lagga Dispensary,gubba dispensary,
+1049,Kebbi,Birnin Kebbi LGA,Unguwar Kayi Dispensary,gubba dispensary,
+1050,Kebbi,Birnin Kebbi LGA,Gargariyo Dispensary,sabaru dispensary,
+1051,Kebbi,Birnin Kebbi LGA,Janzomo Dispenasry,,Kebbi
+1052,Kebbi,Birnin Kebbi LGA,MCH B/kebbi,,Kebbi
+1053,Kebbi,Birnin Kebbi LGA,BHSC Takalau,,Kebbi
+1054,Kebbi,Birnin Kebbi LGA,ILLelar Yari PHC,,Kebbi
+1055,Kebbi,Birnin Kebbi LGA,Makeran Gandu Dispesary,,Kebbi
+1056,Kebbi,Birnin Kebbi LGA,Badariya MCH,,Kebbi
+1057,Kebbi,Birnin Kebbi LGA,Bayan Tasha Dispensary,damana health dispensary,
+1058,Kebbi,Birnin Kebbi LGA,Damana Dispensary,damana health dispensary,
+1059,Kebbi,Birnin Kebbi LGA,MCH Gwadan gwaji,,Kebbi
+1060,Kebbi,Birnin Kebbi LGA,Tarasa Dispensary,sabaru dispensary,
+1061,Kebbi,Birnin Kebbi LGA,Gama Gira Disp.,,Kebbi
+1062,Kebbi,Birnin Kebbi LGA,Junju Dispensary,gubba dispensary,
+1063,Kebbi,Birnin Kebbi LGA,Dan bage Dispensary,,Kebbi
+1064,Kebbi,Birnin Kebbi LGA,Unguwar Alun madi Dispensary,,Kebbi
+1065,Kebbi,Birnin Kebbi LGA,Shagari quarters,shagari quarters health post,
+1066,Kebbi,Birnin Kebbi LGA,PHC kawara,,Kebbi
+1067,Kebbi,Birnin Kebbi LGA,Randali PHC,,Kebbi
+1068,Kebbi,Birnin Kebbi LGA,PHC Zauro,,Kebbi
+1069,Kebbi,Birnin Kebbi LGA,MRS Dukku Barracks,,Kebbi
+1070,Kebbi,Birnin Kebbi LGA,Police Clinic,,Kebbi
+1071,Kebbi,Birnin Kebbi LGA,Prison Clinic,gra olisamo clinic,
+1072,Kebbi,Birnin Kebbi LGA,DDG,,Kebbi
+1073,Kebbi,Birnin Kebbi LGA,GODIYA HOSPITAL,rikoto godiya hospital,
+1074,Kebbi,Birnin Kebbi LGA,EQUITY HOSPITAL,equity hospital limited,
+1075,Kebbi,Birnin Kebbi LGA,EH HOSPITAL,,Kebbi
+1076,Kebbi,Birnin Kebbi LGA,ABOSON HOSPITAL,,Kebbi
+1077,Kebbi,Birnin Kebbi LGA,MAYO FOUNDATION,,Kebbi
+1078,Kebbi,Birnin Kebbi LGA,TAIMAKO HOSPITAL,,Kebbi
+1079,Kebbi,Birnin Kebbi LGA,ALFA CLINIC,alheri clinic,
+1080,Kebbi,Birnin Kebbi LGA,AKOKO CLINIC,,Kebbi
+1081,Kebbi,Bunza LGA,General Hospital Bunza,bunza general hospital,
+1082,Kebbi,Bunza LGA,PHC Bunza,,Kebbi
+1083,Kebbi,Bunza LGA,Wabbaku Dispensary,sabaru dispensary,
+1084,Kebbi,Bunza LGA,MCH Bunza,,Kebbi
+1085,Kebbi,Bunza LGA,Balu Dispensary,,Kebbi
+1086,Kebbi,Bunza LGA,Geru Dispensary,gubba dispensary,
+1087,Kebbi,Bunza LGA,Sabon Gari Jika Dispensary,,Kebbi
+1088,Kebbi,Bunza LGA,MPHC Raha,,Kebbi
+1089,Kebbi,Bunza LGA,MDG Masteri,,Kebbi
+1090,Kebbi,Bunza LGA,Tungar Lele Dispensary,,Kebbi
+1091,Kebbi,Bunza LGA,Sabe Dispensary,sabaru dispensary,
+1092,Kebbi,Bunza LGA,MDG Maidahini,,Kebbi
+1093,Kebbi,Bunza LGA,Garadi Dispensary,gubba dispensary,
+1094,Kebbi,Bunza LGA,MDG Salawi,,Kebbi
+1095,Kebbi,Bunza LGA,PHC Zogirma,,Kebbi
+1096,Kebbi,Bunza LGA,Tsamiya Dispensary,sabaru dispensary,
+1097,Kebbi,Bunza LGA,PHC Tilli,,Kebbi
+1098,Kebbi,Bunza LGA,MDG Tilli,,Kebbi
+1099,Kebbi,Bunza LGA,Tozo Dispensary,kumbobo dispensary,
+1100,Kebbi,Bunza LGA,Hilema Dispensery,,Kebbi
+1101,Kebbi,Bunza LGA,Afaja Dispensary,damana health dispensary,
+1102,Kebbi,Bunza LGA,Sabon Gari Tungar Dispensary,sabaru dispensary,
+1103,Kebbi,Bunza LGA,Kanzanna Dispensary,sabaru dispensary,
+1104,Kebbi,Bunza LGA,MDG Tungar,,Kebbi
+1105,Kebbi,Bunza LGA,Kahibile Dispensary,sabaru dispensary,
+1106,Kebbi,Bunza LGA,MDG Sabon Birnin,,Kebbi
+1107,Kebbi,Bunza LGA,Loko Dispensary,kumbobo dispensary,
+1108,Kebbi,Bunza LGA,Shakadu Dispensary,sabaru dispensary,
+1109,Kebbi,Bunza LGA,Garafita Dispensary,gubba dispensary,
+1110,Kebbi,Bunza LGA,PHC Gwade,,Kebbi
+1111,Kebbi,Bunza LGA,Damana Dispensary,damana health dispensary,
+1112,Kebbi,Bunza LGA,Bachaka Dispensary,,Kebbi
+1113,Kebbi,Bunza LGA,Bangalasa Dispensary,,Kebbi
+1114,Kebbi,Bunza LGA,Owa Dispensary,gubba dispensary,
+1115,Kebbi,Bunza LGA,Gulmare Dispensary,gubba dispensary,
+1116,Kebbi,Dandi LGA,BANIZUMBU PHC,,Kebbi
+1117,Kebbi,Dandi LGA,WASALI H/CLINIC,,Kebbi
+1118,Kebbi,Dandi LGA,BUMA PHC,,Kebbi
+1119,Kebbi,Dandi LGA,GAMANA H/POST,gamana health post,
+1120,Kebbi,Dandi LGA,TUNGARRAFI H/P,,Kebbi
+1121,Kebbi,Dandi LGA,DOLEKAINA PHC,,Kebbi
+1122,Kebbi,Dandi LGA,TUNGARSULE H/C,,Kebbi
+1123,Kebbi,Dandi LGA,FANA PHC,,Kebbi
+1124,Kebbi,Dandi LGA,ISSAKAINA H/P0ST,,Kebbi
+1125,Kebbi,Dandi LGA,TUNGAR KAKA H/P,tungar kaka health post,
+1126,Kebbi,Dandi LGA,MAIDAJI H/POST,,Kebbi
+1127,Kebbi,Dandi LGA,GEZA PHC,,Kebbi
+1128,Kebbi,Dandi LGA,BELINZUMABI H/P,,Kebbi
+1129,Kebbi,Dandi LGA,GEN_HOSP_KAMBA,,Kebbi
+1130,Kebbi,Dandi LGA,KAMBA MCH,,Kebbi
+1131,Kebbi,Dandi LGA,GORUNBAJIDA PHC,,Kebbi
+1132,Kebbi,Dandi LGA,ANNUR CLINIC,alheri clinic,
+1133,Kebbi,Dandi LGA,TAIMAKO CLINIC,kamba  taimako clinic,
+1134,Kebbi,Dandi LGA,YEMCO CLINIC,yelwa clinic,
+1135,Kebbi,Dandi LGA,KWAKKWABA PHC,,Kebbi
+1136,Kebbi,Dandi LGA,KYANGAKWAI PHC,,Kebbi
+1137,Kebbi,Dandi LGA,FINGILLA H/CLINIC,,Kebbi
+1138,Kebbi,Dandi LGA,GORUNYAMMA H/P,,Kebbi
+1139,Kebbi,Dandi LGA,MAIGWAZA PHC,,Kebbi
+1140,Kebbi,Dandi LGA,TUNGARMAIZUMA PHC,,Kebbi
+1141,Kebbi,Dandi LGA,RIJIYARMAIKABA PHC,,Kebbi
+1142,Kebbi,Dandi LGA,SHIKO PHC,,Kebbi
+1143,Kebbi,Dank Wasagu,PHC ayu 225,,Kebbi
+1144,Kebbi,Dank Wasagu,PHC bena 225,,Kebbi
+1145,Kebbi,Dank Wasagu,PHC Danumaru 225,,Kebbi
+1146,Kebbi,Dank Wasagu,PHC wasagu 225,,Kebbi
+1147,Kebbi,Dank Wasagu,PHCkanya 225,,Kebbi
+1148,Kebbi,Dank Wasagu,PHC Ribah 225,,Kebbi
+1149,Kebbi,Dank Wasagu,PHC wadako 225,,Kebbi
+1150,Kebbi,Dank Wasagu,phc koliko 225,,Kebbi
+1151,Kebbi,Dank Wasagu,mch Ribah 225,,Kebbi
+1152,Kebbi,Dank Wasagu,PHC Dikenge 225,,Kebbi
+1153,Kebbi,Dank Wasagu,PHC kele 225,,Kebbi
+1154,Kebbi,Dank Wasagu,PHC danko,,Kebbi
+1155,Kebbi,Dank Wasagu,G.H.Ribah,,Kebbi
+1156,Kebbi,Dank Wasagu,G.H.wasagu,,Kebbi
+1157,Kebbi,Dank Wasagu,G.H.Bena,,Kebbi
+1158,Kebbi,Dank Wasagu,Nasara medical clinic Ribah,nasara medical clinic,
+1159,Kebbi,Dank Wasagu,PHC malekachi,,Kebbi
+1160,Kebbi,Dank Wasagu,PHC sakawa,,Kebbi
+1161,Kebbi,Dank Wasagu,PHC unguwar kibiya,,Kebbi
+1162,Kebbi,Dank Wasagu,Bankami H/P,,Kebbi
+1163,Kebbi,Dank Wasagu,PHC malekachin Bena,,Kebbi
+1164,Kebbi,Dank Wasagu,PHC tudun wada,,Kebbi
+1165,Kebbi,Dank Wasagu,PHC mai rairai,,Kebbi
+1166,Kebbi,Dank Wasagu,Dan mutari H/P,,Kebbi
+1167,Kebbi,Dank Wasagu,Ramuna H/P,,Kebbi
+1168,Kebbi,Dank Wasagu,PHC tumburku,,Kebbi
+1169,Kebbi,Dank Wasagu,"PHC yar,maitaba",,Kebbi
+1170,Kebbi,Dank Wasagu,PHC maga,,Kebbi
+1171,Kebbi,Dank Wasagu,PHCmasama,,Kebbi
+1172,Kebbi,Dank Wasagu,PHC kaksafi,,Kebbi
+1173,Kebbi,Dank Wasagu,PHC tungan Bizo,,Kebbi
+1174,Kebbi,Dank Wasagu,PHC Bajida,,Kebbi
+1175,Kebbi,Dank Wasagu,PHC Dipindu,,Kebbi
+1176,Kebbi,Dank Wasagu,PHC kango,,Kebbi
+1177,Kebbi,Dank Wasagu,PHC Biki,,Kebbi
+1178,Kebbi,Dank Wasagu,PHC kuntomo,,Kebbi
+1179,Kebbi,Dank Wasagu,PHC Romna,,Kebbi
+1180,Kebbi,Dank Wasagu,chikanwa H/P,,Kebbi
+1181,Kebbi,Dank Wasagu,seme H/P,,Kebbi
+1182,Kebbi,Dank Wasagu,kyabu H/P,,Kebbi
+1183,Kebbi,Dank Wasagu,Dutsin kwana H/P,,Kebbi
+1184,Kebbi,Dank Wasagu,Ditan H/P,,Kebbi
+1185,Kebbi,Dank Wasagu,GDSS Ribah H/P,,Kebbi
+1186,Kebbi,Dank Wasagu,GGSC Ribah H/P,,Kebbi
+1187,Kebbi,Dank Wasagu,PHC machika,,Kebbi
+1188,Kebbi,Dank Wasagu,magami H/P,,Kebbi
+1189,Kebbi,Dank Wasagu,makofa H/P,,Kebbi
+1190,Kebbi,Dank Wasagu,masallachi H/P,,Kebbi
+1191,Kebbi,Dank Wasagu,Ribah H/P,,Kebbi
+1192,Kebbi,Dank Wasagu,sabon Dam H/P,,Kebbi
+1193,Kebbi,Dank Wasagu,sem dungu H/P,,Kebbi
+1194,Kebbi,Dank Wasagu,"yar,Ali H/P",,Kebbi
+1195,Kebbi,Dank Wasagu,Dankade H/P,,Kebbi
+1196,Kebbi,Fakai LGA,Bajida phc,,Kebbi
+1197,Kebbi,Fakai LGA,Kukum,,Kebbi
+1198,Kebbi,Fakai LGA,Boko,,Kebbi
+1199,Kebbi,Fakai LGA,Maikabi,,Kebbi
+1200,Kebbi,Fakai LGA,Bangu,,Kebbi
+1201,Kebbi,Fakai LGA,Garin Isah,,Kebbi
+1202,Kebbi,Fakai LGA,Garin Tudu,,Kebbi
+1203,Kebbi,Fakai LGA,Noma Kawo,,Kebbi
+1204,Kebbi,Fakai LGA,Mai Garaya,,Kebbi
+1205,Kebbi,Fakai LGA,Matseri,,Kebbi
+1206,Kebbi,Fakai LGA,Uchiri,,Kebbi
+1207,Kebbi,Fakai LGA,Rugun,,Kebbi
+1208,Kebbi,Fakai LGA,Buk,,Kebbi
+1209,Kebbi,Fakai LGA,Tungan yawo,,Kebbi
+1210,Kebbi,Fakai LGA,Fakai,,Kebbi
+1211,Kebbi,Fakai LGA,Kuka,,Kebbi
+1212,Kebbi,Fakai LGA,Mai damisa,,Kebbi
+1213,Kebbi,Fakai LGA,Kulbin kuka,,Kebbi
+1214,Kebbi,Fakai LGA,Sabon gari,,Kebbi
+1215,Kebbi,Fakai LGA,Mai jahula,,Kebbi
+1216,Kebbi,Fakai LGA,Chidawa,,Kebbi
+1217,Kebbi,Fakai LGA,Audu Iri,,Kebbi
+1218,Kebbi,Fakai LGA,Kangi,,Kebbi
+1219,Kebbi,Fakai LGA,Asarara,,Kebbi
+1220,Kebbi,Fakai LGA,Goberaje,,Kebbi
+1221,Kebbi,Fakai LGA,m.p.h.c mahuta,,Kebbi
+1222,Kebbi,Fakai LGA,g.g.s.s mahuta,,Kebbi
+1223,Kebbi,Fakai LGA,Tunga kura,,Kebbi
+1224,Kebbi,Fakai LGA,General Hospitol Mahuta,mahuta general hospital,
+1225,Kebbi,Fakai LGA,Mai kende,,Kebbi
+1226,Kebbi,Fakai LGA,Garin Auwal,,Kebbi
+1227,Kebbi,Fakai LGA,Bulu,,Kebbi
+1228,Kebbi,Fakai LGA,Ba’are,,Kebbi
+1229,Kebbi,Fakai LGA,Marafa phc,,Kebbi
+1230,Kebbi,Fakai LGA,Dan Indo,,Kebbi
+1231,Kebbi,Fakai LGA,Kirgi,,Kebbi
+1232,Kebbi,Fakai LGA,Peni peni,,Kebbi
+1233,Kebbi,Fakai LGA,Yoko,,Kebbi
+1234,Kebbi,Fakai LGA,Chikau,,Kebbi
+1235,Kebbi,Fakai LGA,Anai,,Kebbi
+1236,Kebbi,Fakai LGA,Farin Ruwa,,Kebbi
+1237,Kebbi,Fakai LGA,Digogo,,Kebbi
+1238,Kebbi,Gwandu LGA,DANJEMA,,Kebbi
+1239,Kebbi,Gwandu LGA,CHEBARU,,Kebbi
+1240,Kebbi,Gwandu LGA,MAGU,,Kebbi
+1241,Kebbi,Gwandu LGA,ANDORE,,Kebbi
+1242,Kebbi,Gwandu LGA,WARARAI GAJI,,Kebbi
+1243,Kebbi,Gwandu LGA,BADA,,Kebbi
+1244,Kebbi,Gwandu LGA,GANDATOBI,,Kebbi
+1245,Kebbi,Gwandu LGA,MAMMAWA,,Kebbi
+1246,Kebbi,Gwandu LGA,DALIJAN,,Kebbi
+1247,Kebbi,Gwandu LGA,GWABARE,,Kebbi
+1248,Kebbi,Gwandu LGA,GWABARE SAKKI,,Kebbi
+1249,Kebbi,Gwandu LGA,NUFAWA,,Kebbi
+1250,Kebbi,Gwandu LGA,WARARAI ZORAMAWA,,Kebbi
+1251,Kebbi,Gwandu LGA,BANDU SULE,,Kebbi
+1252,Kebbi,Gwandu LGA,BARAMA,,Kebbi
+1253,Kebbi,Gwandu LGA,YOLA BIRNI,,Kebbi
+1254,Kebbi,Gwandu LGA,DODORU,,Kebbi
+1255,Kebbi,Gwandu LGA,GARKOMODO,,Kebbi
+1256,Kebbi,Gwandu LGA,YOLA MAIKORAMA,,Kebbi
+1257,Kebbi,Gwandu LGA,UNGUWAR BAWA,,Kebbi
+1258,Kebbi,Gwandu LGA,GWANDU,,Kebbi
+1259,Kebbi,Gwandu LGA,GWANDU,,Kebbi
+1260,Kebbi,Gwandu LGA,ADARAWA,,Kebbi
+1261,Kebbi,Gwandu LGA,TARE,,Kebbi
+1262,Kebbi,Gwandu LGA,GULMARE,,Kebbi
+1263,Kebbi,Gwandu LGA,MADADI,,Kebbi
+1264,Kebbi,Gwandu LGA,YOLA MAMAIYA,,Kebbi
+1265,Kebbi,Gwandu LGA,GUTTA BIRNI,,Kebbi
+1266,Kebbi,Gwandu LGA,ILLELA,,Kebbi
+1267,Kebbi,Gwandu LGA,KAMBAZA,,Kebbi
+1268,Kebbi,Gwandu LGA,KAMBAZA FULANI,,Kebbi
+1269,Kebbi,Gwandu LGA,KAMBAZA,,Kebbi
+1270,Kebbi,Gwandu LGA,TAKARI,,Kebbi
+1271,Kebbi,Gwandu LGA,GORA KWACCIDO,,Kebbi
+1272,Kebbi,Gwandu LGA,MALISA,,Kebbi
+1273,Kebbi,Gwandu LGA,DABAGI,,Kebbi
+1274,Kebbi,Gwandu LGA,GORA SULLUBAWA,,Kebbi
+1275,Kebbi,Gwandu LGA,MARUDA,,Kebbi
+1276,Kebbi,Gwandu LGA,KURYA,,Kebbi
+1277,Kebbi,Gwandu LGA,NAMAN GOMA,,Kebbi
+1278,Kebbi,Gwandu LGA,GUMBAI,,Kebbi
+1279,Kebbi,Gwandu LGA,RUGGAR DAWA,,Kebbi
+1280,Kebbi,Gwandu LGA,MASAMA,,Kebbi
+1281,Kebbi,Gwandu LGA,KWASGARA,,Kebbi
+1282,Kebbi,Jega LGA,Aisha buhari Gen hosp. Jega,aisha muhammadu buhari general hospital,
+1283,Kebbi,Jega LGA,Bara H/Facility,,Kebbi
+1284,Kebbi,Jega LGA,PHC Agwada,,Kebbi
+1285,Kebbi,Jega LGA,PHC Kyarmi,,Kebbi
+1286,Kebbi,Jega LGA,PHC Alelu,,Kebbi
+1287,Kebbi,Jega LGA,PHC Kimba,,Kebbi
+1288,Kebbi,Jega LGA,PHC Jandutsi,,Kebbi
+1289,Kebbi,Jega LGA,PHC Marnar Ginga,,Kebbi
+1290,Kebbi,Jega LGA,PHc tudun Wada,,Kebbi
+1291,Kebbi,Jega LGA,PHC Dangamaji,,Kebbi
+1292,Kebbi,Jega LGA,PHC Dumbegu,,Kebbi
+1293,Kebbi,Jega LGA,PHC Birnin Yari,,Kebbi
+1294,Kebbi,Jega LGA,Kofar laka B/yari H/F,,Kebbi
+1295,Kebbi,Jega LGA,Tsirairai H/F,,Kebbi
+1296,Kebbi,Jega LGA,PHC Basaura,,Kebbi
+1297,Kebbi,Jega LGA,Gomozon Jega,,Kebbi
+1298,Kebbi,Jega LGA,Unguwar danmaimuna H/F,unguwar danmaimuna health post,
+1299,Kebbi,Jega LGA,Unguwar Garji H/F,unguwar garji health post,
+1300,Kebbi,Jega LGA,Gehuru H/F,,Kebbi
+1301,Kebbi,Jega LGA,Attagara H/P (Out post),,Kebbi
+1302,Kebbi,Jega LGA,Langido H/F (Out post),,Kebbi
+1303,Kebbi,Jega LGA,Unguwar Madi H/F,,Kebbi
+1304,Kebbi,Jega LGA,Akalawa H/F,,Kebbi
+1305,Kebbi,Jega LGA,Dudduke H/F,,Kebbi
+1306,Kebbi,Jega LGA,Gindi H/F,,Kebbi
+1307,Kebbi,Jega LGA,Nasarawa H/F,,Kebbi
+1308,Kebbi,Jega LGA,G.R.A. H/F,,Kebbi
+1309,Kebbi,Jega LGA,Galbi H/F,,Kebbi
+1310,Kebbi,Jega LGA,Unguwar Raziku H/F,ungwar raziku health post,
+1311,Kebbi,Jega LGA,Kulunkoji H/F,,Kebbi
+1312,Kebbi,Jega LGA,Town Council H/F,,Kebbi
+1313,Kebbi,Jega LGA,Tungar Zabarmawa H/F,,Kebbi
+1314,Kebbi,Jega LGA,Geza H/F,,Kebbi
+1315,Kebbi,Jega LGA,Kuitane H/F,,Kebbi
+1316,Kebbi,Jega LGA,Ingarje H/F,,Kebbi
+1317,Kebbi,Jega LGA,Mahuta H/F,,Kebbi
+1318,Kebbi,Jega LGA,Birnin Malam H/F,,Kebbi
+1319,Kebbi,Jega LGA,Katanga H/F,,Kebbi
+1320,Kebbi,Jega LGA,Fagada Babba H/F,,Kebbi
+1321,Kebbi,Jega LGA,Fagada Karama H/F,,Kebbi
+1322,Kebbi,Jega LGA,Jadadi H/F (out post),jadadi health post,
+1323,Kebbi,Jega LGA,Illela Galbi H/F (out post),galbi health post,
+1324,Kebbi,Jega LGA,Fauziya Clinic,fauziyatu health clinic,
+1325,Kebbi,Jega LGA,Alistijaba Clinic,alistijaba health clinic,
+1326,Kebbi,Kalgo LGA,lg,,Kebbi
+1327,Kebbi,Kalgo LGA,P.H.C Gayi,,Kebbi
+1328,Kebbi,Kalgo LGA,P.H.C Yanga,,Kebbi
+1329,Kebbi,Kalgo LGA,P.H.C Tunga Noma,,Kebbi
+1330,Kebbi,Kalgo LGA,P.H.C Diggi,,Kebbi
+1331,Kebbi,Kalgo LGA,P.H.C Etene,,Kebbi
+1332,Kebbi,Kalgo LGA,P.H.C Keta,,Kebbi
+1333,Kebbi,Kalgo LGA,P.H.C Gangare,,Kebbi
+1334,Kebbi,Kalgo LGA,P.H.C Hirishi,,Kebbi
+1335,Kebbi,Kalgo LGA,P.H.C Magarza,,Kebbi
+1336,Kebbi,Kalgo LGA,P.H.C Biri,,Kebbi
+1337,Kebbi,Kalgo LGA,P.H.C Badariya,,Kebbi
+1338,Kebbi,Kalgo LGA,MCH Kalgo,,Kebbi
+1339,Kebbi,Kalgo LGA,P.H.C Amanawa,,Kebbi
+1340,Kebbi,Kalgo LGA,P.H.C Unguwar Jeji,,Kebbi
+1341,Kebbi,Kalgo LGA,P.H.C Unguwar Dikko,,Kebbi
+1342,Kebbi,Kalgo LGA,P.H.C Kukah,,Kebbi
+1343,Kebbi,Kalgo LGA,P.H.C Kokani,,Kebbi
+1344,Kebbi,Kalgo LGA,P.H.C Galaru,,Kebbi
+1345,Kebbi,Kalgo LGA,P.H.C Unguwar Tuji,,Kebbi
+1346,Kebbi,Kalgo LGA,P.H.C Sabana,,Kebbi
+1347,Kebbi,Kalgo LGA,P.H.C Mutubari,,Kebbi
+1348,Kebbi,Kalgo LGA,P.H.C Banganna,,Kebbi
+1349,Kebbi,Kalgo LGA,P.H.C Nayelwa,,Kebbi
+1350,Kebbi,Kalgo LGA,P.H.C Sandare,,Kebbi
+1351,Kebbi,Kalgo LGA,P.H.C Kutukullu,,Kebbi
+1352,Kebbi,Kalgo LGA,P.H.C Unguwar Maiyaki,,Kebbi
+1353,Kebbi,Kalgo LGA,P.H.C Unguwar Rafi,,Kebbi
+1354,Kebbi,Kalgo LGA,P.H.C Kwakware,,Kebbi
+1355,Kebbi,Kalgo LGA,P.H.C Mandinka,,Kebbi
+1356,Kebbi,Kalgo LGA,P.H.C Wurogauri,,Kebbi
+1357,Kebbi,Kalgo LGA,P.H.C Zuguru,,Kebbi
+1358,Kebbi,Kalgo LGA,P.H.C Unguwar Kwalle,,Kebbi
+1359,Kebbi,Kalgo LGA,P.H.C Nasarawa,,Kebbi
+1360,Kebbi,Koko Besse LGA,GH KOKO,,Kebbi
+1361,Kebbi,Koko Besse LGA,PCH ZARIA,,Kebbi
+1362,Kebbi,Koko Besse LGA,PHC T/MAGAJI,,Kebbi
+1363,Kebbi,Koko Besse LGA,KOKO CLINIC,koko health clinic,
+1364,Kebbi,Koko Besse LGA,NANA CLINIC,nakowa clinic ltd,
+1365,Kebbi,Koko Besse LGA,MCH KOKO,,Kebbi
+1366,Kebbi,Koko Besse LGA,KOKO TOWN DIPS,,Kebbi
+1367,Kebbi,Koko Besse LGA,MDG DANDASHE,,Kebbi
+1368,Kebbi,Koko Besse LGA,PHC T/DODO,,Kebbi
+1369,Kebbi,Koko Besse LGA,PHC GWADABAWA,,Kebbi
+1370,Kebbi,Koko Besse LGA,PHC JADADI,,Kebbi
+1371,Kebbi,Koko Besse LGA,PHC DAN NIKE,,Kebbi
+1372,Kebbi,Koko Besse LGA,PHC LANI,,Kebbi
+1373,Kebbi,Koko Besse LGA,PHC MANYANTAFUKKA,,Kebbi
+1374,Kebbi,Koko Besse LGA,PHC SHIBA,,Kebbi
+1375,Kebbi,Koko Besse LGA,PHC DADA,,Kebbi
+1376,Kebbi,Koko Besse LGA,PHC ALELU,,Kebbi
+1377,Kebbi,Koko Besse LGA,MDG T/ILLO,,Kebbi
+1378,Kebbi,Koko Besse LGA,PHC K/DAMBA,,Kebbi
+1379,Kebbi,Koko Besse LGA,PHC BAKOSHI,,Kebbi
+1380,Kebbi,Koko Besse LGA,PHC MAKWARI,,Kebbi
+1381,Kebbi,Koko Besse LGA,PHC HIRINI,,Kebbi
+1382,Kebbi,Koko Besse LGA,PHC MADCCI,,Kebbi
+1383,Kebbi,Koko Besse LGA,PHC SAKKA,,Kebbi
+1384,Kebbi,Koko Besse LGA,PHC DUTSIN MARI,,Kebbi
+1385,Kebbi,Koko Besse LGA,HEALTH POST T/OJO,tozo health post,
+1386,Kebbi,Koko Besse LGA,PHC DULMERU,,Kebbi
+1387,Kebbi,Koko Besse LGA,PHC BUMA,,Kebbi
+1388,Kebbi,Koko Besse LGA,PHC SAMANAJI,,Kebbi
+1389,Kebbi,Koko Besse LGA,PHC BESSE,,Kebbi
+1390,Kebbi,Koko Besse LGA,PHC T/BUDE,,Kebbi
+1391,Kebbi,Koko Besse LGA,PHC TAKWARE,,Kebbi
+1392,Kebbi,Koko Besse LGA,PHC RAFIN ALH.,,Kebbi
+1393,Kebbi,Maiyama LGA,Gen Hospital Maiyama,maiyama general hospital,
+1394,Kebbi,Maiyama LGA,MCH Maiyama,,Kebbi
+1395,Kebbi,Maiyama LGA,Sauki Clinic Maiyama,sauki clinic maiyama,
+1396,Kebbi,Maiyama LGA,PHC Giwatazo,,Kebbi
+1397,Kebbi,Maiyama LGA,PHC Kurya,,Kebbi
+1398,Kebbi,Maiyama LGA,PHC Zara Birni,,Kebbi
+1399,Kebbi,Maiyama LGA,MDGs Gidiga,,Kebbi
+1400,Kebbi,Maiyama LGA,PHC Rafin Tofa,,Kebbi
+1401,Kebbi,Maiyama LGA,PHC Mungadi,,Kebbi
+1402,Kebbi,Maiyama LGA,PHC Gamjeji,,Kebbi
+1403,Kebbi,Maiyama LGA,PHC Gumbin Kure,,Kebbi
+1404,Kebbi,Maiyama LGA,MDGs Sambawa,,Kebbi
+1405,Kebbi,Maiyama LGA,PHC Mayalo,,Kebbi
+1406,Kebbi,Maiyama LGA,PHC Rafin na Gindi,,Kebbi
+1407,Kebbi,Maiyama LGA,PHC Dan Tawaye,,Kebbi
+1408,Kebbi,Maiyama LGA,PHC Sabon Sara,,Kebbi
+1409,Kebbi,Maiyama LGA,PHC Karaye,,Kebbi
+1410,Kebbi,Maiyama LGA,PHC Botoron Gadi,,Kebbi
+1411,Kebbi,Maiyama LGA,PHC Andarai,,Kebbi
+1412,Kebbi,Maiyama LGA,MDGs Aida,,Kebbi
+1413,Kebbi,Maiyama LGA,PHC Dayen Gari,,Kebbi
+1414,Kebbi,Maiyama LGA,PHC Danwa,,Kebbi
+1415,Kebbi,Maiyama LGA,PHC Liba,,Kebbi
+1416,Kebbi,Maiyama LGA,Rayuwa Clinic Liba,rayuwa clinic liba,
+1417,Kebbi,Maiyama LGA,PHC Dadin Kowa,,Kebbi
+1418,Kebbi,Maiyama LGA,PHC Zugun Liba,,Kebbi
+1419,Kebbi,Maiyama LGA,PHC Kuka Kogo,,Kebbi
+1420,Kebbi,Maiyama LGA,PHC Kwatalo,,Kebbi
+1421,Kebbi,Maiyama LGA,PHC Kurun Kudu,,Kebbi
+1422,Kebbi,Maiyama LGA,PHC Saran Dosa,,Kebbi
+1423,Kebbi,Maiyama LGA,MDGs Dogon Daji,,Kebbi
+1424,Kebbi,Maiyama LGA,PHC Acikaratu,,Kebbi
+1425,Kebbi,Maiyama LGA,PHC Sabon Garin Bulkwai,,Kebbi
+1426,Kebbi,Maiyama LGA,PHC Gumba,,Kebbi
+1427,Kebbi,Maiyama LGA,PHC Jargaba,,Kebbi
+1428,Kebbi,Maiyama LGA,PHC Kawara,,Kebbi
+1429,Kebbi,Maiyama LGA,PHC Kamba,,Kebbi
+1430,Kebbi,Maiyama LGA,PHC Kuberi,,Kebbi
+1431,Kebbi,Maiyama LGA,PHC Nikki,,Kebbi
+1432,Kebbi,Maiyama LGA,PHC Rafin Guzuma,,Kebbi
+1433,Kebbi,Ngaski LGA,PHC B/ Yauri,,Kebbi
+1434,Kebbi,Ngaski LGA,Health post kwaliyo,kali health post,
+1435,Kebbi,Ngaski LGA,Health post tungani,tungwani health post,
+1436,Kebbi,Ngaski LGA,Health post T / Kolo,koko town health post,
+1437,Kebbi,Ngaski LGA,Health post laka,lagga health post,
+1438,Kebbi,Ngaski LGA,Health post T /uwar yara,tungan uwan yara health post,
+1439,Kebbi,Ngaski LGA,Health post marraba,maraa health post,
+1440,Kebbi,Ngaski LGA,Health post rikwafe,rikofe health post,
+1441,Kebbi,Ngaski LGA,Health post gwarzo,gwarzo health post,
+1442,Kebbi,Ngaski LGA,PHCt makirin,,Kebbi
+1443,Kebbi,Ngaski LGA,Health post gafara,gafara health post,
+1444,Kebbi,Ngaski LGA,Health post masamale,masamale health post,
+1445,Kebbi,Ngaski LGA,PHC gidan kwano,,Kebbi
+1446,Kebbi,Ngaski LGA,Health post maraa,maraa health post,
+1447,Kebbi,Ngaski LGA,Health post wawa,raya health post,
+1448,Kebbi,Ngaski LGA,Health post takakume,takakume health post,
+1449,Kebbi,Ngaski LGA,Health post raishe,raishe healthpost,
+1450,Kebbi,Ngaski LGA,Health post ntade,ntade heath post,
+1451,Kebbi,Ngaski LGA,PHC lopa,,Kebbi
+1452,Kebbi,Ngaski LGA,PHC kambuwa,,Kebbi
+1453,Kebbi,Ngaski LGA,Health post kimo,kamzo health post,
+1454,Kebbi,Ngaski LGA,Health post danmaraye,danmaraya health post,
+1455,Kebbi,Ngaski LGA,Health post maikaho,makaho health post,
+1456,Kebbi,Ngaski LGA,Health post Sakaba,sabaka health post,
+1457,Kebbi,Ngaski LGA,Health post cipamini,chupamini health post,
+1458,Kebbi,Ngaski LGA,Health post g/tagwaye,gigane health post,
+1459,Kebbi,Ngaski LGA,Health post ulaira,slabi health post,
+1460,Kebbi,Ngaski LGA,Health post guguwa,gurwo health post,
+1461,Kebbi,Ngaski LGA,MCH warra,,Kebbi
+1462,Kebbi,Ngaski LGA,"Town disp, warra",,Kebbi
+1463,Kebbi,Ngaski LGA,GH warra,,Kebbi
+1464,Kebbi,Ngaski LGA,PHC utono,,Kebbi
+1465,Kebbi,Ngaski LGA,Health post gungun hoge,gungu hoge health post,
+1466,Kebbi,Ngaski LGA,Health post kashejiki,kahibile health post,
+1467,Kebbi,Ngaski LGA,PHC libata,,Kebbi
+1468,Kebbi,Ngaski LGA,Health post lokon uba,lokon uba health post,
+1469,Kebbi,Ngaski LGA,Health post kabirba,kabirba health post,
+1470,Kebbi,Ngaski LGA,Health post kocoro,kochoro health post,
+1471,Kebbi,Ngaski LGA,Health post tungan idi,tungan idi health post,
+1472,Kebbi,Ngaski LGA,PHC ngaski,,Kebbi
+1473,Kebbi,Ngaski LGA,PHC makurdi,,Kebbi
+1474,Kebbi,Ngaski LGA,Health post kayala,kayala health post,
+1475,Kebbi,Ngaski LGA,Health post nasarawa,nasarawa health post,
+1476,Kebbi,Ngaski LGA,Health post maikoso,mado health post,
+1477,Kebbi,Ngaski LGA,Health post kinkya,kinkya health post,
+1478,Kebbi,sakaba LGA,PHC MAGANDA,,Kebbi
+1479,Kebbi,sakaba LGA,PHC PANPAMA,,Kebbi
+1480,Kebbi,sakaba LGA,PHC MAEE,,Kebbi
+1481,Kebbi,sakaba LGA,HF MAHUTA,,Kebbi
+1482,Kebbi,sakaba LGA,HF KURMIN HODO,,Kebbi
+1483,Kebbi,sakaba LGA,HF TUNGAN GWAMNA,tungan  gwamna health post,
+1484,Kebbi,sakaba LGA,HF EKERADE,,Kebbi
+1485,Kebbi,sakaba LGA,HF UNGUWAN KILO,,Kebbi
+1486,Kebbi,sakaba LGA,PHC DANKOLO,,Kebbi
+1487,Kebbi,sakaba LGA,PHC DAURA,,Kebbi
+1488,Kebbi,sakaba LGA,HF AGALI,,Kebbi
+1489,Kebbi,sakaba LGA,UNGUWAR WADE,,Kebbi
+1490,Kebbi,sakaba LGA,UNGUWAR SAKABA,,Kebbi
+1491,Kebbi,sakaba LGA,PHC DOKAR HAUSAWA,,Kebbi
+1492,Kebbi,sakaba LGA,PHC TUNGAR SHIBO,,Kebbi
+1493,Kebbi,sakaba LGA,TUNGAR BAURE,,Kebbi
+1494,Kebbi,sakaba LGA,HF UNUWAR MARAFA,,Kebbi
+1495,Kebbi,sakaba LGA,HF MADU,,Kebbi
+1496,Kebbi,sakaba LGA,HF TUNGAR BERE,,Kebbi
+1497,Kebbi,sakaba LGA,GEN HOSPITAL DIRIN-DAJI,dakingari general hospital,
+1498,Kebbi,sakaba LGA,PHC FADA,,Kebbi
+1499,Kebbi,sakaba LGA,PHC GELWASA,,Kebbi
+1500,Kebbi,sakaba LGA,PHC TUDUN WADA,,Kebbi
+1501,Kebbi,sakaba LGA,HF UNGUWAR RINA,,Kebbi
+1502,Kebbi,sakaba LGA,HF UNGUWAN NABITE,unguwan  nabite health post,
+1503,Kebbi,sakaba LGA,HF UNGUWAN YAMMA,,Kebbi
+1504,Kebbi,sakaba LGA,HF WANA DOHORO,wana dohoro health post,
+1505,Kebbi,sakaba LGA,PHC JANBIRNI,,Kebbi
+1506,Kebbi,sakaba LGA,PHC LARABA,,Kebbi
+1507,Kebbi,sakaba LGA,HF GWANJA,,Kebbi
+1508,Kebbi,sakaba LGA,HF SAGANGA,,Kebbi
+1509,Kebbi,sakaba LGA,HF UNGUWAN KURE,,Kebbi
+1510,Kebbi,sakaba LGA,HF GIDAN ISA,,Kebbi
+1511,Kebbi,sakaba LGA,PHC MAKUKU,,Kebbi
+1512,Kebbi,sakaba LGA,PHC DOKA KAMBARI,,Kebbi
+1513,Kebbi,sakaba LGA,HF IKOBI,,Kebbi
+1514,Kebbi,sakaba LGA,HF BABIRA,,Kebbi
+1515,Kebbi,sakaba LGA,HF JIGAWA,,Kebbi
+1516,Kebbi,sakaba LGA,PHC MAZAMAZA,,Kebbi
+1517,Kebbi,sakaba LGA,PHC SKOKA,,Kebbi
+1518,Kebbi,sakaba LGA,PHC KAGETA,,Kebbi
+1519,Kebbi,sakaba LGA,HF RAFIN GORA,,Kebbi
+1520,Kebbi,sakaba LGA,HF DUNHU,,Kebbi
+1521,Kebbi,sakaba LGA,PHC SAKABA,,Kebbi
+1522,Kebbi,sakaba LGA,PHC MAZARKO,,Kebbi
+1523,Kebbi,sakaba LGA,HF MADI,,Kebbi
+1524,Kebbi,sakaba LGA,HF UNGUWAN ZAURE,unguwan zaure health post,
+1525,Kebbi,sakaba LGA,HF TIKAWA,,Kebbi
+1526,Kebbi,sakaba LGA,HF KADANHO,,Kebbi
+1527,Kebbi,sakaba LGA,MCH DIRIN DAJI,,Kebbi
+1528,Kebbi,sakaba LGA,IKO RADE PHC,,Kebbi
+1529,Kebbi,sakaba LGA,DUTSIN BIRI PHC,,Kebbi
+1530,Kebbi,Shanga LGA,GH Shanga,,Kebbi
+1531,Kebbi,Shanga LGA,PHC yarbesse,,Kebbi
+1532,Kebbi,Shanga LGA,PHC Raha,,Kebbi
+1533,Kebbi,Shanga LGA,PHC Dugutsoho,,Kebbi
+1534,Kebbi,Shanga LGA,PHC Saminaka,,Kebbi
+1535,Kebbi,Shanga LGA,Health post kubai,kubai health post,
+1536,Kebbi,Shanga LGA,Health post ganwo,ganwo health post,
+1537,Kebbi,Shanga LGA,PHC T/ giwa,,Kebbi
+1538,Kebbi,Shanga LGA,Health post T/ noma,owa health post,
+1539,Kebbi,Shanga LGA,Health post Keri,keri health post,
+1540,Kebbi,Shanga LGA,Health post waiwayi,shalwai  health post,
+1541,Kebbi,Shanga LGA,Health post R/ kirya,kurya health post,
+1542,Kebbi,Shanga LGA,PHC T / tara,,Kebbi
+1543,Kebbi,Shanga LGA,PHC Atuwo,,Kebbi
+1544,Kebbi,Shanga LGA,Health post kyastu,kyastu health post,
+1545,Kebbi,Shanga LGA,Health post sawashi,sawashi health post,
+1546,Kebbi,Shanga LGA,PHC G / Masa,,Kebbi
+1547,Kebbi,Shanga LGA,Health post golongo,golongo health post,
+1548,Kebbi,Shanga LGA,Health post B / turu,bakin turu health post,
+1549,Kebbi,Shanga LGA,Health post wadata,wadata health post,
+1550,Kebbi,Shanga LGA,PHC Sakace,,Kebbi
+1551,Kebbi,Shanga LGA,Health post Toro,toro health post,
+1552,Kebbi,Shanga LGA,PHC gebbe,,Kebbi
+1553,Kebbi,Shanga LGA,Health post binuwa,binuwa health post,
+1554,Kebbi,Shanga LGA,Health post bukunji,bukunji health post,
+1555,Kebbi,Shanga LGA,Health post kalkami,kali health post,
+1556,Kebbi,Shanga LGA,Health post T / tudu,rumu health  post,
+1557,Kebbi,Shanga LGA,Health post T / ketare,keri health post,
+1558,Kebbi,Shanga LGA,PHC kawara,,Kebbi
+1559,Kebbi,Shanga LGA,Health post sargu,sargo health post,
+1560,Kebbi,Shanga LGA,Health post Hundeji,hundeji health post,
+1561,Kebbi,Shanga LGA,Health post kwanji,kali health post,
+1562,Kebbi,Shanga LGA,Health post d/ gari,garadi health post,
+1563,Kebbi,Shanga LGA,Health post nasarawa,nasarawa health post,
+1564,Kebbi,Shanga LGA,Health post T / Fari,ahuri health post,
+1565,Kebbi,Shanga LGA,Health post makera,maraa health post,
+1566,Kebbi,Shanga LGA,PHC T / faila,,Kebbi
+1567,Kebbi,Shanga LGA,Health post T / hantsi,bani health post,
+1568,Kebbi,Shanga LGA,Health post T / Maikidi,maikidi health post,
+1569,Kebbi,Shanga LGA,Health post dandije,gangije health post,
+1570,Kebbi,Suru LGA,GH Dakingari,,Kebbi
+1571,Kebbi,Suru LGA,PHC Dakingari,,Kebbi
+1572,Kebbi,Suru LGA,PHC Aljannare,,Kebbi
+1573,Kebbi,Suru LGA,MDGs Barbarejo,,Kebbi
+1574,Kebbi,Suru LGA,PHC Bandam,,Kebbi
+1575,Kebbi,Suru LGA,PHC Bakuwai,,Kebbi
+1576,Kebbi,Suru LGA,PHC Giro,,Kebbi
+1577,Kebbi,Suru LGA,PHC suru,,Kebbi
+1578,Kebbi,Suru LGA,GH Suru,,Kebbi
+1579,Kebbi,Suru LGA,MDGs Shema,,Kebbi
+1580,Kebbi,Suru LGA,PHC Hore,,Kebbi
+1581,Kebbi,Suru LGA,PHC Sangelu,,Kebbi
+1582,Kebbi,Suru LGA,MDGs Bendu,,Kebbi
+1583,Kebbi,Suru LGA,Health Facility Tindifai,,Kebbi
+1584,Kebbi,Suru LGA,Health Post Zakuwa,zagabu health post,
+1585,Kebbi,Suru LGA,Health Facility Gimba sani,,Kebbi
+1586,Kebbi,Suru LGA,Health facility Masama,mahuta birnin malam health facility,
+1587,Kebbi,Suru LGA,Health facility Tungar Arawa,tungan arawa primary health clinic,
+1588,Kebbi,Suru LGA,Health Post Bargaja,bargaja health post,
+1589,Kebbi,Suru LGA,Health Post Fana Sabo,fana sabo health post,
+1590,Kebbi,Suru LGA,Health Facility Tungar Alhaji,tungan alhaji primary health clinic,
+1591,Kebbi,Suru LGA,Health Post Sulguru,sulguru health post,
+1592,Kebbi,Suru LGA,H/Post Tungar Abdulmumuni,tungan mummuni health post,
+1593,Kebbi,Suru LGA,Health facility Dandawa,amanawa health clinic,
+1594,Kebbi,Suru LGA,MDGs Kwaifa,,Kebbi
+1595,Kebbi,Suru LGA,Health facility Gobiraje,gobiraje primary health clinic,
+1596,Kebbi,Suru LGA,Health Facility Fala,dakala health clinic,
+1597,Kebbi,Suru LGA,MDGs Yarma,,Kebbi
+1598,Kebbi,Suru LGA,Health Facility Matankari,matankari primary health  clinic,
+1599,Kebbi,Suru LGA,MDGs Kainiki,,Kebbi
+1600,Kebbi,Suru LGA,MDGs Kwakware,,Kebbi
+1601,Kebbi,Suru LGA,Health facility Kawara,sarkawa health clinic,
+1602,Kebbi,Suru LGA,Health Post Bomare,bore health post,
+1603,Kebbi,Suru LGA,Health Post Katu,katu health post,
+1604,Kebbi,Suru LGA,Health Post Gwafadi,gwafadi health post,
+1605,Kebbi,Suru LGA,Health Post Lafiya,lafiya health post,
+1606,Kebbi,Suru LGA,MDGs Dandane,,Kebbi
+1607,Kebbi,Suru LGA,Health facility Maikwari,maikaho health clinic,
+1608,Kebbi,Suru LGA,Health facility ginga,,Kebbi
+1609,Kebbi,Suru LGA,Health Facility Daniya,,Kebbi
+1610,Kebbi,Yauri LGA,GH Yauri,,Kebbi
+1611,Kebbi,Yauri LGA,PHC Gumbi,,Kebbi
+1612,Kebbi,Yauri LGA,Health post unguwarmakeri,unguwar  yamma health post,
+1613,Kebbi,Yauri LGA,Health post maishagali,maikali health post,
+1614,Kebbi,Yauri LGA,PHC jijima,,Kebbi
+1615,Kebbi,Yauri LGA,MPHC Zamare,,Kebbi
+1616,Kebbi,Yauri LGA,PHC jalbabu,,Kebbi
+1617,Kebbi,Yauri LGA,PHC pisabu,,Kebbi
+1618,Kebbi,Yauri LGA,Health post dandamisa,dandabi health post,
+1619,Kebbi,Yauri LGA,Health post Hinambiro,marmaro health post,
+1620,Kebbi,Yauri LGA,PHC Rukubalo,,Kebbi
+1621,Kebbi,Yauri LGA,PHC yelwa,,Kebbi
+1622,Kebbi,Yauri LGA,PHC unguwarmalamai,,Kebbi
+1623,Kebbi,Yauri LGA,PHC Illela,,Kebbi
+1624,Kebbi,Yauri LGA,Health post T/bindiga,tindifai health post,
+1625,Kebbi,Yauri LGA,PHC T /gada,,Kebbi
+1626,Kebbi,Yauri LGA,PHC Tilo,,Kebbi
+1627,Kebbi,Yauri LGA,Health post hibirabu,kabirba health post,
+1628,Kebbi,Yauri LGA,Health post g/ Sakace,sabaka health post,
+1629,Kebbi,Yauri LGA,PHC Umarukare,,Kebbi
+1630,Kebbi,Yauri LGA,MCH Yauri,,Kebbi
+1631,Kebbi,Yauri LGA,Nakowa clinic,nakowa clinic ltd,
+1632,Kebbi,Yauri LGA,Royal clinic,yelwa clinic,
+1633,Kebbi,Yauri LGA,Prison sercice,,Kebbi
+1634,Kebbi,Yauri LGA,Health post T / tsamiya,tsamiya health post,
+1635,Kebbi,Yauri LGA,Health post bunzawa,bunzawa health post,
+1636,Kebbi,Zuru LGA,Gn. Hospital Zuru,suru general hospital,
+1637,Kebbi,Zuru LGA,Gen. Hospital Senchi,shanga general hospital,
+1638,Kebbi,Zuru LGA,PHC Bedi,,Kebbi
+1639,Kebbi,Zuru LGA,MDG Bedi,,Kebbi
+1640,Kebbi,Zuru LGA,PHC Umma Gamji,,Kebbi
+1641,Kebbi,Zuru LGA,PHC Domo A,,Kebbi
+1642,Kebbi,Zuru LGA,MDG Dabai,,Kebbi
+1643,Kebbi,Zuru LGA,PHC Kezge,,Kebbi
+1644,Kebbi,Zuru LGA,PHC Unguwar Galadima,,Kebbi
+1645,Kebbi,Zuru LGA,PHC Kwando,,Kebbi
+1646,Kebbi,Zuru LGA,PHC Sembelbelu,,Kebbi
+1647,Kebbi,Zuru LGA,PHC Dhege,,Kebbi
+1648,Kebbi,Zuru LGA,PHC Usimo,,Kebbi
+1649,Kebbi,Zuru LGA,PHC Uzugu,,Kebbi
+1650,Kebbi,Zuru LGA,PHC Ukori,,Kebbi
+1651,Kebbi,Zuru LGA,PHC Bandaraga,,Kebbi
+1652,Kebbi,Zuru LGA,PHC Kdimti,,Kebbi
+1653,Kebbi,Zuru LGA,PHC Dogo,,Kebbi
+1654,Kebbi,Zuru LGA,PHC Rikoto,,Kebbi
+1655,Kebbi,Zuru LGA,PHC Kirasa,,Kebbi
+1656,Kebbi,Zuru LGA,MDG Isgogo Juta,,Kebbi
+1657,Kebbi,Zuru LGA,PHC Inkotto,,Kebbi
+1658,Kebbi,Zuru LGA,PHC Jarkasa,,Kebbi
+1659,Kebbi,Zuru LGA,Godiya Hospital,rikoto godiya hospital,
+1660,Kebbi,Zuru LGA,PHC Akamu,,Kebbi
+1661,Kebbi,Zuru LGA,PHC Domo B,,Kebbi
+1662,Kebbi,Zuru LGA,PHC Amanawa,,Kebbi
+1663,Kebbi,Zuru LGA,PHC Gyembelu,,Kebbi
+1664,Kebbi,Zuru LGA,PHC Zegme,,Kebbi
+1665,Kebbi,Zuru LGA,PHC Bioseme,,Kebbi
+1666,Kebbi,Zuru LGA,PHC Senchi,,Kebbi
+1667,Kebbi,Zuru LGA,PHC Gogadi,,Kebbi
+1668,Kebbi,Zuru LGA,PHC Rambo,,Kebbi
+1669,Kebbi,Zuru LGA,MDG Bahago,,Kebbi
+1670,Kebbi,Zuru LGA,PHC Tadurga,,Kebbi
+1671,Kebbi,Zuru LGA,PHC Maikano,,Kebbi
+1672,Kebbi,Zuru LGA,MDG Zodi,,Kebbi
+1673,Kebbi,Zuru LGA,PHC Rafin Hento,,Kebbi
+1674,Kebbi,Zuru LGA,PHC Dangago,,Kebbi
+1675,Kebbi,Zuru LGA,Army Barrack Clinic,birnin kebbi army barracks clinic,
+1676,Kebbi,Zuru LGA,PHC Ukoto,,Kebbi
+1677,Kebbi,Zuru LGA,PHC Dabai,,Kebbi
+1678,Kebbi,Zuru LGA,PHC Magoro,,Kebbi
+1679,Kebbi,Zuru LGA,Haske Domincan,,Kebbi
+1680,Kebbi,Zuru LGA,PHC Zuru,,Kebbi
+1681,State,LGA,Testing Hub Facility,,State
+1682,Kebbi,,sir yahaya memorial hospital B/kebbi,birnin kebbi sir yahaya memorial general hospital,
+1683,Kebbi,,GENERAL HOSPITAL ARGUNGU,argungu general hospital,
+1684,Kebbi,,FEDERAL MEDICAL CENTER BIRNIN KEBBI,birnin kebbi federal medical centre,
+1685,Kebbi,,GH KAMBA,,Kebbi
+1686,Kebbi,,GH RIBAH,,Kebbi
+1687,Kebbi,,GH ZURU,,Kebbi
+1688,Kebbi,,GH ARGUNGU,,Kebbi
+1689,Kebbi,,FMC BIRNIN KEBBI,,Kebbi
+1690,Kebbi,,GH KOKO,,Kebbi
+1691,Kebbi,,GH YAURI,,Kebbi
