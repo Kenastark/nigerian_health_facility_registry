@@ -1,0 +1,317 @@
+id,state,lga,facility_name,corrected_facility_name,validated_state
+1,Ekiti,EKITI SOUTH/WEST,BHC Ilawe,,
+2,Ekiti,EKITI SOUTH/WEST,BHC Ilodo,,
+3,Ekiti,EKITI SOUTH/WEST,BHC Oke Emo Ilawe,,
+4,Ekiti,EKITI SOUTH/WEST,CHC Adin Ilawe,,
+5,Ekiti,EKITI SOUTH/WEST,CHC Adun Ilawe,,
+6,Ekiti,EKITI SOUTH/WEST,C.H.C Igbara Odo,Igbara Odo Basic Health Clinic,Ekiti
+7,Ekiti,EKITI SOUTH/WEST,CHC Ilawe,,
+8,Ekiti,EKITI SOUTH/WEST,CHC Okemi Ogotun,,
+9,Ekiti,EKITI SOUTH/WEST,General Hospital Ilawe,General Hospital Ise,Ekiti
+10,Ekiti,EKITI SOUTH/WEST,Model Igbaraodo,,
+11,Ekiti,EKITI SOUTH/WEST,Model PHC Igbara Odo,,
+12,Ekiti,EKITI WEST,Adebayo Medical Clinic,Adebayo Medical Clinic,Ekiti
+13,Ekiti,EKITI WEST,BHC Ajebamidele,,
+14,Ekiti,EKITI WEST,BHC Alele Aramoko,Chc Aramoko,Ekiti
+15,Ekiti,EKITI WEST,BHC Erio,,
+16,Ekiti,EKITI WEST,BHC Ikogosi,,
+17,Ekiti,EKITI WEST,BHC Ile Ona,,
+18,Ekiti,EKITI WEST,BHC Ipole Iloro,,
+19,Ekiti,EKITI WEST,BHC Okemesi,,
+20,Ekiti,EKITI WEST,BHC Oke Oja Aramoko,,
+21,Ekiti,EKITI WEST,CHC Erijiyan,,
+22,Ekiti,EKITI WEST,CHC Ido-Ile,,
+23,Ekiti,EKITI WEST,CHC Ikogosi,,
+24,Ekiti,EKITI WEST,CHC Iwaro Aramoko,Chc Aramoko,Ekiti
+25,Ekiti,EKITI WEST,CHC Iwaro Aramoko Ekiti,,
+26,Ekiti,EKITI WEST,General Hospital Aramoko,Aramoko General Hospital,Ekiti
+27,Ekiti,EKITI WEST,General Hospital Okemesi,Okemesi General Hospital,Ekiti
+28,Ekiti,EKITI WEST,God'S Gift Medical Centre,St. David Medical Centre,Ekiti
+29,Ekiti,EKITI WEST,Health Post. Kajola Aramoko,Kajola Health Post,Ekiti
+30,Ekiti,EMURE,Model Health Centre Erijiyan,Erinjiyan Model Health Center,Ekiti
+31,Ekiti,EMURE,BHC Ajibamidele,,
+32,Ekiti,EMURE,BHC Alapoto,,
+33,Ekiti,EMURE,BHC Anaye,,
+34,Ekiti,EMURE,BHC Eporo,,
+35,Ekiti,EMURE,BHC Ibeji Shitu,,
+36,Ekiti,EMURE,BHC Idamodu,,
+37,Ekiti,EMURE,BHC Odo Emure,,
+38,Ekiti,EMURE,BHC Ogbontioro,,
+39,Ekiti,EMURE,BHC Oge,,
+40,Ekiti,EMURE,BHC Okesari,,
+41,Ekiti,EMURE,BHC Owode,,
+42,Ekiti,EMURE,BHC Sasere,,
+43,Ekiti,EMURE,CHC Oke Emure,,
+44,Ekiti,EMURE,Child Welfare Clinic,Child Health Welfare Clinic,Ekiti
+45,Ekiti,EMURE,General Hospital Emure,Emure General Hospital,Ekiti
+46,Ekiti,EMURE,Gh Emure,,
+47,Ekiti,GBONYIN,Model Health Centre Ariyasi,Ariyasi Model Health Center,Ekiti
+48,Ekiti,GBONYIN,BHC Agbado Ekiti,,
+49,Ekiti,GBONYIN,BHC Aisegba,,
+50,Ekiti,GBONYIN,BHC Ajebamidele Iluomoba Ekiti,AJEBAMIDELE ILUOMOBA  BASIC HEALTH CENTER,Ekiti
+51,Ekiti,GBONYIN,BHC Bolorunduro Aisegba-Ekiti,Bolorunduro Aisegba Basic Health Center,Ekiti
+52,Ekiti,GBONYIN,BHC Egbe Ekiti,,
+53,Ekiti,GBONYIN,BHC Ijan Ekiti,,
+54,Ekiti,GBONYIN,BHC Iluomoba Ekiti,,
+55,Ekiti,GBONYIN,BHC Ilupeju Ijan Ekiti,,
+56,Ekiti,GBONYIN,BHC Imesi Ekiti,,
+57,Ekiti,GBONYIN,BHC Ipole Agbado Ekiti,,
+58,Ekiti,GBONYIN,BHC Iro Ayeteju Ekiti,,
+59,Ekiti,GBONYIN,BHC Iro Ekiti,,
+60,Ekiti,GBONYIN,BHC Ode Ekiti,,
+61,Ekiti,GBONYIN,CHC Agbado,,
+62,Ekiti,GBONYIN,CHC Aisegba Ekiti,,
+63,Ekiti,GBONYIN,CHC Ijan Ekiti,,
+64,Ekiti,GBONYIN,CHC Ode,,
+65,Ekiti,GBONYIN,General Hospital Ijan,Ijan General Hospital,Ekiti
+66,Ekiti,GBONYIN,General Hospital Ode,ODE GENERAL HOSPITAL,Ekiti
+67,Ekiti,GBONYIN,General Hospital Ode Ekiti,Ilawe Ekiti General Hospital,Ekiti
+68,Ekiti,GBONYIN,Model Ijan Ekiti,,
+69,Ekiti,GBONYIN,Model Ode Ekiti,,
+70,Ekiti,GBONYIN,PHC Aisegba,,
+71,Ekiti,GBONYIN,PHC Egbe,,
+72,Ekiti,GBONYIN,PHC Ijan,,
+73,Ekiti,IDO/OSI,PHC Ilupeju - Ijan,,
+74,Ekiti,IDO/OSI,BHC Ifaki,,
+75,Ekiti,IDO/OSI,BHC Ifishin,,
+76,Ekiti,IDO/OSI,BHC Ifisin,,
+77,Ekiti,IDO/OSI,BHC Igbole,,
+78,Ekiti,IDO/OSI,BHC Ilogbo,,
+79,Ekiti,IDO/OSI,BHC Ora,,
+80,Ekiti,IDO/OSI,BHC Orin,,
+81,Ekiti,IDO/OSI,BHC Osi,,
+82,Ekiti,IDO/OSI,BHC Usi,,
+83,Ekiti,IDO/OSI,CHC Aaye,,
+84,Ekiti,IDO/OSI,CHC Ayetoro,,
+85,Ekiti,IDO/OSI,CHC Ido,,
+86,Ekiti,IDO/OSI,CHC Ifaki,,
+87,Ekiti,IDO/OSI,CHC Igbole,,
+88,Ekiti,IDO/OSI,CHC Ilogbo,,
+89,Ekiti,IDO/OSI,CHC Osi,,
+90,Ekiti,IDO/OSI,CHC Usi,,
+91,Ekiti,IDO/OSI,Fmc Ido-Ekiti,,
+92,Ekiti,IDO/OSI,General Hospital Ifaki,General Hospital Ifaki,Ekiti
+93,Ekiti,IDO/OSI,Health Center Ido,Idemo Health Centre,Ekiti
+94,Ekiti,IJERO,Model Hosp. Ayetoro,,
+95,Ekiti,IJERO,Ajeje Farm,,
+96,Ekiti,IJERO,B H C Ara,,
+97,Ekiti,IJERO,B H C Epe,,
+98,Ekiti,IJERO,BHC Ijero,,
+99,Ekiti,IJERO,BHC Ikoro,,
+100,Ekiti,IJERO,BHC Iloro,,
+101,Ekiti,IJERO,BHC Ilukuno,,
+102,Ekiti,IJERO,BHC Ipoti,,
+103,Ekiti,IJERO,BHC Ipoti,,
+104,Ekiti,IJERO,BHC Iroko,,
+105,Ekiti,IJERO,BHC Isalu,,
+106,Ekiti,IJERO,BHC Ode Oye,,
+107,Ekiti,IJERO,BHC Odo Ese,,
+108,Ekiti,IJERO,BHC Odo-Oye,,
+109,Ekiti,IJERO,BHC Oju Oro Ijero,,
+110,Ekiti,IJERO,BHC Okeoro,,
+111,Ekiti,IJERO,B H C Temidire,,
+112,Ekiti,IJERO,CHC Ara,Chc Aramoko,Ekiti
+113,Ekiti,IJERO,CHC Ayegunle,,
+114,Ekiti,IJERO,CHC Ikoro,,
+115,Ekiti,IJERO,CHC Odo Ese Ijero,,
+116,Ekiti,IJERO,CHC Odo Oye,,
+117,Ekiti,IJERO,General Hospital Ijero,General Hospital Ise,Ekiti
+118,Ekiti,IJERO,Model Health Center Ijunrin,Ire Model Health Centre,Ekiti
+119,Ekiti,IJERO,Odo Ese CHC,,
+120,Ekiti,IJERO,Olusegun Clinic,"Olusegun Clinic, Ijero",Ekiti
+121,Ekiti,IJERO,Saloro Farm,,
+122,Ekiti,IKERE,Ssh Ijero,,
+123,Ekiti,IKERE,BHC Agbado Oyo,,
+124,Ekiti,IKERE,BHC Are Araromi,,
+125,Ekiti,IKERE,BHC Atiba,,
+126,Ekiti,IKERE,BHC Fagbohun,,
+127,Ekiti,IKERE,BHC Idemo,,
+128,Ekiti,IKERE,BHC Ikoyi,,
+129,Ekiti,IKERE,BHC Ilupeju,,
+130,Ekiti,IKERE,BHC Ilutuntun,,
+131,Ekiti,IKERE,BHC Odo Ise,,
+132,Ekiti,IKERE,BHC Odo Oro,,
+133,Ekiti,IKERE,BHC Ogbonjana Ikere,,
+134,Ekiti,IKERE,BHC Okekere,,
+135,Ekiti,IKERE,BHC Oke Opa,,
+136,Ekiti,IKERE,BHC Oke Osun,,
+137,Ekiti,IKERE,BHC Okereku Ikere,,
+138,Ekiti,IKERE,BHC Ugele,,
+139,Ekiti,IKERE,C.H.C Afao Ikere,,
+140,Ekiti,IKERE,CHC Afo-Ikere,,
+141,Ekiti,IKERE,College Of Education Ikere,Ikere College of Education Health Centre,Ekiti
+142,Ekiti,IKERE,Lga Staff Clinic,Oye Staff  Clinic LGA,Ekiti
+143,Ekiti,IKOLE,Ssh Ikere,,
+144,Ekiti,IKOLE,Ademolawe Hospital,Afolabi Hospital,Ekiti
+145,Ekiti,IKOLE,BHC Ara,,
+146,Ekiti,IKOLE,BHC Asin,,
+147,Ekiti,IKOLE,BHC Ayebode,,
+148,Ekiti,IKOLE,BHC Esun,,
+149,Ekiti,IKOLE,BHC Ijesa Isu,,
+150,Ekiti,IKOLE,BHC Ilowo,,
+151,Ekiti,IKOLE,BHC Ipao,,
+152,Ekiti,IKOLE,BHC Ipare,,
+153,Ekiti,IKOLE,BHC Irele,,
+154,Ekiti,IKOLE,BHC Isaba,,
+155,Ekiti,IKOLE,BHC Itapaji,,
+156,Ekiti,IKOLE,BHC Iyemero,,
+157,Ekiti,IKOLE,BHC Odo Oro,,
+158,Ekiti,IKOLE,BHC Oke Ayedun,,
+159,Ekiti,IKOLE,BHC Oke Orin,,
+160,Ekiti,IKOLE,BHC Ootunja,,
+161,Ekiti,IKOLE,BHC Temidire,,
+162,Ekiti,IKOLE,BHC Usin,,
+163,Ekiti,IKOLE,CHC Asin,,
+164,Ekiti,IKOLE,CHC Ayedun,,
+165,Ekiti,IKOLE,CHC Jiringho,,
+166,Ekiti,IKOLE,CHC Odo Ayedun,,
+167,Ekiti,IKOLE,Fuoye Clinic,Tolulope Clinic,Ekiti
+168,Ekiti,IKOLE,Health Centre Market Ikole,Ikole Market  Basic Health Centre,Ekiti
+169,Ekiti,IKOLE,Living Well Hospital,Living well Hospital Asin,Ekiti
+170,Ekiti,IKOLE,Methodist CHC Ikole,,
+171,Ekiti,IKOLE,Mhc Oke Ako,,
+172,Ekiti,IKOLE,MPHC Oke Ako,,
+173,Ekiti,IKOLE,Ssh Ikole,,
+174,Ekiti,ILEJEMEJE,State Hospital Ikole,State Specialist Hospital Ikole,Ekiti
+175,Ekiti,ILEJEMEJE,BHC Eda,,
+176,Ekiti,ILEJEMEJE,BHC Ewu,,
+177,Ekiti,ILEJEMEJE,BHC Ijesamodu,,
+178,Ekiti,ILEJEMEJE,BHC Ipere,,
+179,Ekiti,ILEJEMEJE,BHC Obada,,
+180,Ekiti,ILEJEMEJE,CHC Iludun,,
+181,Ekiti,ILEJEMEJE,CHC Iye,,
+182,Ekiti,ILEJEMEJE,General Hospital Iye,General Hospital Ise,Ekiti
+183,Ekiti,ILEJEMEJE,Model Eda,,
+184,Ekiti,ILEJEMEJE,Model Ewu,,
+185,Ekiti,ILEJEMEJE,Model Iludun,,
+186,Ekiti,IREPODUN / IFELODUN,Model Iye,,
+187,Ekiti,IREPODUN / IFELODUN,BHC Afao,,
+188,Ekiti,IREPODUN / IFELODUN,BHC Are,,
+189,Ekiti,IREPODUN / IFELODUN,BHC Awo,,
+190,Ekiti,IREPODUN / IFELODUN,BHC Esure Ekiti,,
+191,Ekiti,IREPODUN / IFELODUN,BHC Eyio,,
+192,Ekiti,IREPODUN / IFELODUN,BHC Eyio Ekiti,,
+193,Ekiti,IREPODUN / IFELODUN,BHC Igbemo Ekiti,,
+194,Ekiti,IREPODUN / IFELODUN,BHC Igede Ekiti,,
+195,Ekiti,IREPODUN / IFELODUN,BHC Ilamoye Igede,,
+196,Ekiti,IREPODUN / IFELODUN,BHC Iropora,,
+197,Ekiti,IREPODUN / IFELODUN,BHC Iworoko,,
+198,Ekiti,IREPODUN / IFELODUN,BHC Iyin,,
+199,Ekiti,IREPODUN / IFELODUN,BHC Oketoro Iyin,,
+200,Ekiti,IREPODUN / IFELODUN,CHC Igbemo,,
+201,Ekiti,IREPODUN / IFELODUN,CHC Igede,,
+202,Ekiti,ISE/ORUN,General Hospital Iyin Ekiti,Ilawe Ekiti General Hospital,Ekiti
+203,Ekiti,ISE/ORUN,BHC Ajebamidele,,
+204,Ekiti,ISE/ORUN,BHC Ifofin,,
+205,Ekiti,ISE/ORUN,BHC Kajola,,
+206,Ekiti,ISE/ORUN,BHC Model,,
+207,Ekiti,ISE/ORUN,BHC Obada,,
+208,Ekiti,ISE/ORUN,BHC Odo Ise 1,,
+209,Ekiti,ISE/ORUN,BHC Odole,,
+210,Ekiti,ISE/ORUN,BHC Ogbese,,
+211,Ekiti,ISE/ORUN,BHC Okeoniyo,,
+212,Ekiti,ISE/ORUN,BHC Oraye,,
+213,Ekiti,ISE/ORUN,BHC Oraye 1,,
+214,Ekiti,ISE/ORUN,BHC Orun,,
+215,Ekiti,ISE/ORUN,BHC Orun Ii,,
+216,Ekiti,ISE/ORUN,BHC Temidire,,
+217,Ekiti,ISE/ORUN,CHC Afolu,,
+218,Ekiti,ISE/ORUN,CHC Okeyard Ise,,
+219,Ekiti,ISE/ORUN,Federal Teaching Hospital Ise Ekiti Annex,FEDERAL TEACHING HOSPITAL IDO EKITI,Ekiti
+220,Ekiti,MOBA,General Hospital Ise,General Hospital Ise,Ekiti
+221,Ekiti,MOBA,BHC Aaye Oja,,
+222,Ekiti,MOBA,BHC Epe,,
+223,Ekiti,MOBA,BHC Ikosun,,
+224,Ekiti,MOBA,BHC Ikun,,
+225,Ekiti,MOBA,BHC Ira,,
+226,Ekiti,MOBA,BHC Iro,,
+227,Ekiti,MOBA,BHC Isaoye,,
+228,Ekiti,MOBA,BHC Osan,,
+229,Ekiti,MOBA,BHC Osun,,
+230,Ekiti,MOBA,BHC Otun,,
+231,Ekiti,MOBA,CHC Erinmope,,
+232,Ekiti,MOBA,CHC Igogo,,
+233,Ekiti,MOBA,CHC Otun,,
+234,Ekiti,MOBA,General Hospital Otun,General Hospital Otun,Ekiti
+235,Ekiti,OYE,Model Igogo,,
+236,Ekiti,OYE,B H C Ayede,,
+237,Ekiti,OYE,B H C Ayegbaju,,
+238,Ekiti,OYE,BHC Ijelu Ekiti,,
+239,Ekiti,OYE,B H C Ilafon,,
+240,Ekiti,OYE,BHC Ilupeju,,
+241,Ekiti,OYE,BHC Imojo,,
+242,Ekiti,OYE,BHC Ire,,
+243,Ekiti,OYE,BHC Isan,,
+244,Ekiti,OYE,BHC Itaji,,
+245,Ekiti,OYE,BHC Itapa,,
+246,Ekiti,OYE,B H C Lmojo,,
+247,Ekiti,OYE,BHC Oke,,
+248,Ekiti,OYE,BHC Oloje,,
+249,Ekiti,OYE,BHC Omu,,
+250,Ekiti,OYE,B H C Omu Odo,,
+251,Ekiti,OYE,BHC Orisunmibare,,
+252,Ekiti,OYE,BHC Osin,,
+253,Ekiti,OYE,B H C Oye,,
+254,Ekiti,OYE,CHC Ayede,,
+255,Ekiti,OYE,CHC Ayegbaju,,
+256,Ekiti,OYE,CHC Isan,,
+257,Ekiti,OYE,C H C Oye,,
+258,Ekiti,OYE,General Hospital Ayede,Ayede General Hospital,Ekiti
+259,Ekiti,OYE,General Hospital Itapa,Isapa General Hospital,Ekiti
+260,Ekiti,OYE,General Hospital Oye,Oye General Hospital,Ekiti
+261,Ekiti,OYE,Jtd Ire Ekiti,,
+262,Ekiti,OYE,Model Health Centre Ilupeju,Ilupeju Model Health Centre,Ekiti
+263,Ekiti,OYE,Model Health Centre Ilupeju Ekiti,Ilupeju Model Health Centre,Ekiti
+264,Ekiti,OYE,Model Ilupeju,,
+265,Ekiti,OYE,Model Ire Ekiti,,
+266,State,LGA collation hub,Testing Hub Facility,,
+267,Ebonyi,Abakaliki,St Patrick Hospital Abakaliki (Mile 4),ST. Patrick Hospital Mile Four  Abakaliki,Ebonyi
+268,Ebonyi,Abakaliki,FETHA 1,,
+269,Ebonyi,Abakaliki,"Mater Miscericordiae Hospital, Afikpo",Mater Misericordiae Hospital,Ebonyi
+270,Ebonyi,Abakaliki,"Presbyterian Joint Hospital, Uburu",The Presbyterian Hospital Ukawu,Ebonyi
+271,Ebonyi,Abakaliki,Ezzangbo General Hospital,Ezzangbo General Hospital,Ebonyi
+272,Ebonyi,Abakaliki,Ebonyi State DRTB Treatment Centre Abakaliki,,
+273,Ebonyi,Abakaliki,GH ONUEKE TB LAB-NIGERIA,,
+274,Ebonyi,Abakaliki,TOUCH DIAGNOSTICA NIG LTD ABAKALIKI,,
+275,Ebonyi,Abakaliki,Federal Teaching Hospital Abakaliki,"Bethel Hospital, Abakaliki",Ebonyi
+276,Edo,,IGARRA GENERAL HOSP. AKOKO EDO,Igarra General Hospital,Edo
+277,Edo,,"UBTH, BENIN EGOR LG",,
+278,Edo,,"ISTH IRRUA, ESAN CENTRAL",,
+279,Edo,,ST. CAMILLUS HOSP. ESAN NE,,
+280,Edo,,"GENERAL HOSP UBIAJA, ESAN SE",General Hospital Ubiaja,Edo
+281,Edo,,"ESTH, AUCH ETSAKO WEST",,
+282,Edo,,"CENTRAL HOSP. BENIN, OREDO",Central Hospital Benin City,Edo
+283,Edo,,GENERAL HOSP. ABUDU,General Hospital Abudu,Edo
+284,Edo,,"FAITH MEDIPLEX, OREDO",Faith Mediplex,Edo
+285,Edo,,IRUA SPECIALIST HOSPITAL,Sage Specialist Hospital,Edo
+286,Edo,,ST. CAMILLUS CATHOLIC HOSPPITAL,St Camillus Catholic Hospital,Edo
+287,Edo,,EDO STATE UNIVERSITY TEACHING HOSPITAL AUCHI,University of Benin Teaching Hospital,Edo
+288,Edo,,CENTRAL HOSPITAL BENIN AND FAITH MEDIPLEX,Central Hospital Benin City,Edo
+289,Edo,,FAITH MEDIPLEX BENIN AND CENTRAL HOSPITAL BENIN,,
+290,Edo,,GENERAL HOSPITAL ABUDU AND GENERAL HOSPITAL IGBANKE,,
+291,Edo,,UNIVERSITY OF BENIN TEACHING HOSPITAL,University of Benin Teaching Hospital,Edo
+292,Ekiti,,EKSUTH/OBA ADEJUYIGBE GENERAL HOSPITAL,"Oba Adejugbe General Hospital, Ado",Ekiti
+293,Ekiti,,G/H ARAMOKO/OBA ADEJUYIGBE GENERAL HOSPITAL,"Oba Adejugbe General Hospital, Ado",Ekiti
+294,Ekiti,,SSH IKOLE,,
+295,Ekiti,,OBA ADEJUYIGBE GENERAL HOSPITAL / EKSUTH,"Oba Adejugbe General Hospital, Ado",Ekiti
+296,Ekiti,,G/H ARAMOKO,Chc Aramoko,Ekiti
+297,Ekiti,,SSH IKERE,,
+298,Ekiti,,OBA ADEJUYIGBE GENERAL HOSPITAL,"Oba Adejugbe General Hospital, Ado",Ekiti
+299,Ekiti,,FTH IDO,,
+300,Ekiti,,G/H ARAMOKO/ FTH IDO,,
+301,Ekiti,,EKSUTH,,
+302,Enugu,Enugu East,Ntasi Obi Ndi N'Afufu Specialist Hospital,Ntasi Obi Ndi N'Afufu Specialist Hospital,Enugu
+303,Enugu,IGBOEZE- NORTH,Enugu-Ezike District Hospital,Hope Hospital (Enugu East),Enugu
+304,Enugu,Awgu,University of Nigeria Teaching Hospital (Nkanu West),University of Nigeria Teaching Hospital (Nkanu West),Enugu
+305,Enugu,Nsukka,Bishop Shannahan Hospital,Bishop Shannahan Hospital,Enugu
+306,Enugu,Enugu North,Enugu State University Teaching Hospital,University of Nigeria Teaching Hospital ICH (Enugu North),Enugu
+307,Enugu,Enugu East,82 Division Military Hospital,82 Division Military Hospital,Enugu
+308,Enugu,Enugu South,Eastern Nigeria Medical Centre,Eastern Nigeria Medical Centre,Enugu
+309,Enugu,Nkanu West,Agbani District HospitaL,Awgu District Hospital,Enugu
+310,Enugu,Isi Uzo,Ikem District Hospital,Udi District Hospital,Enugu
+311,Enugu,Oji-River,Oji River District Hospital,Udi District Hospital,Enugu
+312,Enugu,Nsukka,Daughters of Divine Love Hospital,Daughters of Divine Love Hospital,Enugu
+313,Enugu,Udi,"Udi General Hospital, Udi","Udi General Hospital, Udi",Enugu
+314,Enugu,Enugu East,Annunciation Specialist Hospital,Annunciation Specialist Hospital,Enugu
+315,Enugu,Udenu,LONA BIOMEDICAL CENTER OBOLLO AFOR,,
+316,Enugu,Enugu South,NIGER FOUNDATION HOSP.,Niger Foundation Hospital,Enugu

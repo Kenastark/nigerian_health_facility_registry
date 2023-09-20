@@ -1,800 +1,800 @@
-id,state,lga,facility_name,corrected_facility_name
-1,Rivers,Abua_Odual,AGADA 1 MPHC,not_found
-2,Rivers,Abua_Odual,AMINIGBOKO CHC,not_found
-3,Rivers,Abua_Odual,EBBOLOM MPHC,not_found
-4,Rivers,Abua_Odual,ANYU MPHC,not_found
-5,Rivers,Abua_Odual,OTAPHA H/C,not_found
-6,Rivers,Abua_Odual,ARUKWO H/F,not_found
-7,Rivers,Abua_Odual,OGONOKOM H/P,not_found
-8,Rivers,Abua_Odual,IYAK H/F,not_found
-9,Rivers,Abua_Odual,EMESU H/C,not_found
-10,Rivers,Abua_Odual,AMINIOINERE H/C,not_found
-11,Rivers,Abua_Odual,OBARANY H/F,not_found
-12,Rivers,Abua_Odual,OKOBOH H/F,not_found
-13,Rivers,Abua_Odual,EMELEGO MPHC,not_found
-14,Rivers,Abua_Odual,ODUA H/F,not_found
-15,Rivers,Abua_Odual,ADIADIA H/C,not_found
-16,Rivers,Abua_Odual,OGBOLOMA H/F,not_found
-17,Rivers,Abua_Odual,EMAGO H/F,not_found
-18,Rivers,Abua_Odual,OKOLOMADE H/C,not_found
-19,Rivers,Abua_Odual,OGBEMA MPHC,not_found
-20,Rivers,Abua_Odual,EMIRIPOKO H/C,not_found
-21,Rivers,Abua_Odual,AMURUTO H/C,not_found
-22,Rivers,Abua_Odual,AKANI H/F,not_found
-23,Rivers,Ahoada East,EDEOHA,not_found
-24,Rivers,Ahoada East,ODIABIDI,not_found
-25,Rivers,Ahoada East,ULA-UPATA,not_found
-26,Rivers,Ahoada East,OCHIAGBA,not_found
-27,Rivers,Ahoada East,PRISONS,not_found
-28,Rivers,Ahoada East,IHUOWO,not_found
-29,Rivers,Ahoada East,OGBELE,not_found
-30,Rivers,Ahoada East,IHUAJE,not_found
-31,Rivers,Ahoada East,OKPOROWO,not_found
-32,Rivers,Ahoada East,ABARIKPO H/C,not_found
-33,Rivers,Ahoada East,ODIEMUDIE H/C,not_found
-34,Rivers,Ahoada East,ULA-EHUDA MPHC,not_found
-35,Rivers,Ahoada East,MPHCC IHUAMA,not_found
-36,Rivers,Ahoada East,OGBO H/C,not_found
-37,Rivers,Ahoada East,IHUABA H/C,not_found
-38,Rivers,Ahoada East,Old Comphensive health center Ahoada,BIARA COMPREHENSIVE HEALTH CENTER
-39,Rivers,Ahoada East,Odiajie MPHC,not_found
-40,Rivers,Ahoada East,POLICE CLINIC,Oliver Clinic
-41,Rivers,Ahoada East,ODIEMEREYIE HC,not_found
-42,Rivers,Ahoada West,MPHC ODIEREKE,not_found
-43,Rivers,Ahoada West,ODAKWU H/F,not_found
-44,Rivers,Ahoada West,ULA UBIE,not_found
-45,Rivers,Ahoada West,EBIRIBA H/F,not_found
-46,Rivers,Ahoada West,UBIO,not_found
-47,Rivers,Ahoada West,UBARAMA H/C,not_found
-48,Rivers,Ahoada West,ODIAKU H/C,not_found
-49,Rivers,Ahoada West,GH JOIN KRAMA,not_found
-50,Rivers,Ahoada West,EDAGBERI,not_found
-51,Rivers,Ahoada West,MBIAMA H/C,not_found
-52,Rivers,Ahoada West,OSHIE H/F,not_found
-53,Rivers,Ahoada West,OKARKI,not_found
-54,Rivers,Ahoada West,MPHC IKODI,not_found
-55,Rivers,Ahoada West,IGOVIA H/F,not_found
-56,Rivers,Ahoada West,IDU H/F,not_found
-57,Rivers,Ahoada West,UKPELIEDE H/F,not_found
-58,Rivers,Ahoada West,AKIOGBOLOGBO HC,Akiogbologbo Health Post
-59,Rivers,Ahoada West,OGBOGOLO H/F,not_found
-60,Rivers,Ahoada West,OGBEDE H/F,not_found
-61,Rivers,Ahoada West,EMESHI H/C,not_found
-62,Rivers,Ahoada West,OYIGBA,not_found
-63,Rivers,Ahoada West,UPATABO H/F,not_found
-64,Rivers,Akuku Toru,OBONOMA,not_found
-65,Rivers,Akuku Toru,MPHC IDAMA,not_found
-66,Rivers,Akuku Toru,MPHC SOKU,not_found
-67,Rivers,Akuku Toru,ELEMUSAGAMA H/C,not_found
-68,Rivers,Akuku Toru,MPHC ABISSA,not_found
-69,Rivers,Akuku Toru,GENERAL HOSPITAL ABONNEMA,Abonnema General Hospital
-70,Rivers,Akuku Toru,MPHC KULA,not_found
-71,Rivers,Andoni,OYOROKOTO,not_found
-72,Rivers,Andoni,ILOTOMBI,not_found
-73,Rivers,Andoni,EGWEDE,not_found
-74,Rivers,Andoni,AGWUTU BOLO,not_found
-75,Rivers,Andoni,UNYAGALA H/C,not_found
-76,Rivers,Andoni,MPHC ISIODUM,not_found
-77,Rivers,Andoni,EGENDEM,not_found
-78,Rivers,Andoni,PHC INYONGORONG,not_found
-79,Rivers,Andoni,ASARAMA,not_found
-80,Rivers,Andoni,IWOMA,not_found
-81,Rivers,Andoni,PHC ASARAMAIJA,not_found
-82,Rivers,Andoni,PHC IKURU,not_found
-83,Rivers,Andoni,PHC EKEDE,not_found
-84,Rivers,Andoni,EGBOMUNG H/C,not_found
-85,Rivers,Andoni,AGBALAMA H/C,not_found
-86,Rivers,Andoni,ASUKAMA,not_found
-87,Rivers,Andoni,EBUKUMA,not_found
-88,Rivers,Andoni,OKOROBOUE-ILE H/C,not_found
-89,Rivers,Andoni,IBOTIREM H/C,not_found
-90,Rivers,Andoni,AJAKAJAK H/C,not_found
-91,Rivers,Andoni,PHC EGBORMUNG,not_found
-92,Rivers,Andoni,PHC ATABI,not_found
-93,Rivers,Andoni,PHC OTUAFUK,not_found
-94,Rivers,Andoni,PHC ORONIJA,not_found
-95,Rivers,Asari Toru,ABALAMA,not_found
-96,Rivers,Asari Toru,MHC IDO,not_found
-97,Rivers,Asari Toru,KRAKRAMA H/C,not_found
-98,Rivers,Asari Toru,GENERAL HOSPITAL BUGUMA,Buguma General Hospital
-99,Rivers,Asari Toru,PHC OPROAMA,not_found
-100,Rivers,Asari Toru,PHC MINAMA,not_found
-101,Rivers,Asari Toru,PHC TEMA,not_found
-102,Rivers,Asari Toru,PHC ANGULAMA,not_found
-103,Rivers,Asari Toru,IFOKO PHC,not_found
-104,Rivers,Asari Toru,ILLELEMA PHC,not_found
-105,Rivers,Asari Toru,SAMA PHC,not_found
-106,Rivers,Asari Toru,OMEKWEAMA PHC,not_found
-107,Rivers,Asari Toru,SANGAMA PHC,not_found
-108,Rivers,Asari Toru,SICK BAY,Sick Bay
-109,Rivers,Bonny,F.H.C FINIMA,not_found
-110,Rivers,Bonny,ABALAMABIE MPHCC,not_found
-111,Rivers,Bonny,Banigo H/C,not_found
-112,Rivers,Bonny,"Health Post, Halliday",Halliday Health Post
-113,Rivers,Bonny,"General Hospital, Bonny",Abonnema General Hospital
-114,Rivers,Bonny,Boony Infant Welfare Clinic,Emohua Infant Welfare Clinic
-115,Rivers,Bonny,Burukiri,not_found
-116,Rivers,Bonny,Oloma,not_found
-117,Rivers,Bonny,Dema Abbey H/C,Dema-Abbey Health Centre
-118,Rivers,Bonny,Mphc Peterside,not_found
-119,Rivers,Degema,CHC DEGEMA,not_found
-120,Rivers,Degema,OBU AMA,not_found
-121,Rivers,Degema,OGURAMA,not_found
-122,Rivers,Degema,USOKUN,not_found
-123,Rivers,Degema,MPHC BILLE,not_found
-124,Rivers,Degema,BUKUMA,not_found
-125,Rivers,Degema,BAKANA H/C,not_found
-126,Rivers,Eleme,MPHC AGBONCHIA,not_found
-127,Rivers,Eleme,ALETO H/POST,not_found
-128,Rivers,Eleme,NCHIA/OGALE HEALTH C,not_found
-129,Rivers,Eleme,"GENERAL HOSPITAL, ELEME",Degema General Hospital
-130,Rivers,Eleme,ALESA H/POST,not_found
-131,Rivers,Eleme,Agbeta Health Post,GBE HEALTH POST
-132,Rivers,Eleme,PHC EKPORO,not_found
-133,Rivers,Eleme,EKARA HEALTH POST,Ekara Health Post
-134,Rivers,Eleme,MPHC ETEO,not_found
-135,Rivers,Eleme,MPHC Onne,not_found
-136,Rivers,Emohua,PHC IBAA,not_found
-137,Rivers,Emohua,CHC OMUDIOGA,not_found
-138,Rivers,Emohua,RUMUAKUNDE HEALTH POST (IWC),Rumuakunde Health Post Iwc
-139,Rivers,Emohua,PHC RUMIEWHOR,not_found
-140,Rivers,Emohua,C.H.C RUMUJI,not_found
-141,Rivers,Emohua,MPHCC EGBEDA,not_found
-142,Rivers,Emohua,MPHCC UBIMINI,not_found
-143,Rivers,Emohua,MPHCC ODUOHA,not_found
-144,Rivers,Emohua,MPHC AKPABU,not_found
-145,Rivers,Emohua,ISIODU H/C,not_found
-146,Rivers,Emohua,ELELE MOBILE CLINIC,Nest Oil Clinic
-147,Rivers,Emohua,INFANT WELRAFE CLINIC,Emohua Infant Welfare Clinic
-148,Rivers,Emohua,OVOGO HEALTH POST,MOGHO HEALTH POST
-149,Rivers,Emohua,OBELLE PHC,not_found
-150,Rivers,Emohua,PHC ELIBBRADA,not_found
-151,Rivers,Emohua,PHC OGBAKIRI,not_found
-152,Rivers,Emohua,PHC Elibrada,not_found
-153,Rivers,Etche,AKWA,not_found
-154,Rivers,Etche,AFARA H/CENTRE,not_found
-155,Rivers,Etche,NIHI,not_found
-156,Rivers,Etche,ODUFOR H/C,not_found
-157,Rivers,Etche,ODAGWA H/POST,not_found
-158,Rivers,Etche,UMUOHIE H/C,not_found
-159,Rivers,Etche,Imeh H/C,not_found
-160,Rivers,Etche,Akpoku health centre,Banigo Health Centre
-161,Rivers,Etche,Egwi H/C,not_found
-162,Rivers,Etche,Abara H/C,not_found
-163,Rivers,Etche,UMUEDE,not_found
-164,Rivers,Etche,AKPOKU H/POST,Akpoku Health Post
-165,Rivers,Etche,CHOKOTA H/CENTRE,Chokocho Health Centre
-166,Rivers,Etche,EGBEKE H/CENTRE,Egbeke Health Centre
-167,Rivers,Etche,IHIE H/CENTRE,Ihie Health Centre
-168,Rivers,Etche,IWC H/CENTRE,Iwc H/Centre
-169,Rivers,Etche,NDASHI H/POST,Ndashi  Health Post
-170,Rivers,Etche,OKORAGU H/CENTRE,Okoroagu Primary Health Centre
-171,Rivers,Etche,OPIRO H/CENTRE,Iwc H/Centre
-172,Rivers,Etche,ORWU/OGIDA H/CENTRE,Iwc H/Centre
-173,Rivers,Etche,UMUOYE PHC,not_found
-174,Rivers,Etche,UMUDELE PHC,not_found
-175,Rivers,Etche,UMUOLA HC,not_found
-176,Rivers,Etche,UMUEDEMBA,not_found
-177,Rivers,Etche,IWC OKOMOKO,not_found
-178,Rivers,Etche,ELELE H/C,not_found
-179,Rivers,Etche,OKEHI,not_found
-180,Rivers,Etche,OZUZU,not_found
-181,Rivers,Etche,UMIEBUM,not_found
-182,Rivers,Etche,UMUATURU H/C,not_found
-183,Rivers,Etche,CHOKOCHO H/C,Chokocho Health Centre
-184,Rivers,Etche,BOMU,not_found
-185,Rivers,Gokana,YEGHE,not_found
-186,Rivers,Gokana,B.DERE,not_found
-187,Rivers,Gokana,BARAKO,not_found
-188,Rivers,Gokana,BODO GEN. HOSP,BODO GENERAL HOSPITAL
-189,Rivers,Gokana,BIARA CHC,not_found
-190,Rivers,Gokana,MPHC K.DERE,not_found
-191,Rivers,Gokana,MPHC MOGHO,not_found
-192,Rivers,Gokana,NWE-OL MPHC,not_found
-193,Rivers,Gokana,MPHC DEEYOR,not_found
-194,Rivers,Gokana,MPHC TERABOR,not_found
-195,Rivers,Gokana,PHC BODO,not_found
-196,Rivers,Gokana,PHC GBE,not_found
-197,Rivers,Ikwere,IGWURUTA H/C,not_found
-198,Rivers,Ikwere,ELELE H/C,not_found
-199,Rivers,Ikwere,APANI H/C,not_found
-200,Rivers,Ikwere,OMERELU H/C,not_found
-201,Rivers,Ikwere,UBIMA H/C,not_found
-202,Rivers,Ikwere,ADANTA H/C,not_found
-203,Rivers,Ikwere,"ARMY HOSP.,ELELE",not_found
-204,Rivers,Ikwere,ALUU,not_found
-205,Rivers,Ikwere,OZUAHA H/C,not_found
-206,Rivers,Ikwere,IPO H/C,not_found
-207,Rivers,Ikwere,OMADEME H/C,not_found
-208,Rivers,Ikwere,OMUANWA H/C,not_found
-209,Rivers,Ikwere,FAAN CLINIC OMAGWA,not_found
-210,Rivers,Ikwere,"IWC, ISIOKPO",not_found
-211,Rivers,Ikwere,"General Hospital, Ubima",Nchia General Hospital
-212,Rivers,Ikwere,CHC IGWURUTA,not_found
-213,Rivers,Ikwere,"COTTAGE HOSP., ALUU",not_found
-214,Rivers,Khana,BEERI,not_found
-215,Rivers,Khana,MPHC BORI,not_found
-216,Rivers,Khana,GEN. HOSP. BORI,not_found
-217,Rivers,Khana,MPHC KWAWA,not_found
-218,Rivers,Khana,KAA H/F,not_found
-219,Rivers,Khana,MPHC LUAWI,not_found
-220,Rivers,Khana,CHC KAANI 2,not_found
-221,Rivers,Khana,CHC KAANI 1,not_found
-222,Rivers,Khana,MPHC LUAWI,not_found
-223,Rivers,Khana,SOGHO H/POST,Zorsogho Health Post
-224,Rivers,Khana,BETEM H/C,not_found
-225,Rivers,Khana,KPONG HP,not_found
-226,Rivers,Khana,BEAKOGORO HP,not_found
-227,Rivers,Khana,LUUWA HP,not_found
-228,Rivers,Khana,TEKA SOGHO PHC,not_found
-229,Rivers,Khana,KABANGHA HP,not_found
-230,Rivers,Khana,GWARA H/F,not_found
-231,Rivers,Khana,MPHC LUUMENE,not_found
-232,Rivers,Khana,MPHC OKWALE,not_found
-233,Rivers,Khana,TAABAA,not_found
-234,Rivers,Khana,MPHC KAANI,not_found
-235,Rivers,Khana,MPHC BANE,not_found
-236,Rivers,Khana,MPHC OPUOKO,not_found
-237,Rivers,Khana,MPHC KPEAN,not_found
-238,Rivers,Khana,YAE HP,not_found
-239,Rivers,Khana,KPAA HP,not_found
-240,Rivers,Khana,MPHC LUEKU,not_found
-241,Rivers,Khana,MPHC LUEBE,not_found
-242,Rivers,Khana,LOORE HP,not_found
-243,Rivers,Khana,LUEKU H/F,not_found
-244,Rivers,Obio-Akpo,MPHC RUKPOKWU,not_found
-245,Rivers,Obio-Akpo,MPHC RUMUEKINI,not_found
-246,Rivers,Obio-Akpo,MPHC ENEKA,not_found
-247,Rivers,Obio-Akpo,"6DIVISION,MED. CENTRE,BORI CAMP",not_found
-248,Rivers,Obio-Akpo,MPHC MGBUOSIMINI,not_found
-249,Rivers,Obio-Akpo,RUMULUMENI MPHC,not_found
-250,Rivers,Obio-Akpo,MPHC RUMUPRIKOM,not_found
-251,Rivers,Obio-Akpo,MPHC OZUOBA,not_found
-252,Rivers,Obio-Akpo,IRIEBE,not_found
-253,Rivers,Obio-Akpo,CHOBA HEALTH POST,Choba Health Post
-254,Rivers,Obio-Akpo,HEALTH POST RUMUDARA,Rumudara Health Post
-255,Rivers,Obio-Akpo,MPHC ELELENWO,not_found
-256,Rivers,Obio-Akpo,MPHC WOJI,not_found
-257,Rivers,Obio-Akpo,NAF MED,not_found
-258,Rivers,Ogba,OBIE,not_found
-259,Rivers,Ogba,OBOR,not_found
-260,Rivers,Ogba,ELIEZA,not_found
-261,Rivers,Ogba,OMOKU,not_found
-262,Rivers,Ogba,PHC IKIRI,not_found
-263,Rivers,Ogba,OBOBURU,not_found
-264,Rivers,Ogba,GENERAL HOSP. OMOKU,General Hospital Omoku
-265,Rivers,Ogba,PHC EGBADA,not_found
-266,Rivers,Ogba,PHC IDU-OGBA,not_found
-267,Rivers,Ogba,AGGAH,not_found
-268,Rivers,Ogba,MGBEDE,not_found
-269,Rivers,Ogba,IBOCHA,not_found
-270,Rivers,Ogba,EKPE-AGGAH,not_found
-271,Rivers,Ogba,PHC OBIYEBE,not_found
-272,Rivers,Ogba,PHC EBOGORO,not_found
-273,Rivers,Ogba,ASSAH ASSAGAH,not_found
-274,Rivers,Ogba,NDONI H/C,not_found
-275,Rivers,Ogba,MPHC AKABUKA,not_found
-276,Rivers,Ogba,OGBEUKWU HEALTH CENTRE,Ozuzu Health Centre
-277,Rivers,Ogba,MODEL PHC ASE ASAGAH,not_found
-278,Rivers,Ogba,OBIE HEALTH CENTRE,Ihie Health Centre
-279,Rivers,Ogba,PHC OKPOSI,not_found
-280,Rivers,Ogba,GH EREMA,not_found
-281,Rivers,Ogba,IDU,not_found
-282,Rivers,Ogba,PHC KRIEGANI,not_found
-283,Rivers,Ogba,MPHC OBAGI,not_found
-284,Rivers,Ogba,PHC AMA,not_found
-285,Rivers,Ogu,IKPO HEALTH CENTRE,Okposi Health Centre
-286,Rivers,Ogu,OPUAMA,not_found
-287,Rivers,Ogu,CHUKU,not_found
-288,Rivers,Ogu,GENERAL HOSP,Ngo General Hospital
-289,Rivers,Ogu,OWUGONO H/C,not_found
-290,Rivers,Ogu,ELE,not_found
-291,Rivers,Ogu,OPUAMA,not_found
-292,Rivers,Okrika,ANYUNGU,not_found
-293,Rivers,Okrika,OGOLOMA,not_found
-294,Rivers,Okrika,OGBOGBO,not_found
-295,Rivers,Okrika,OKUJAGU,not_found
-296,Rivers,Okrika,ISAKA,not_found
-297,Rivers,Okrika,OBA,not_found
-298,Rivers,Okrika,OFIAMINA H/F,not_found
-299,Rivers,Okrika,OGAN,not_found
-300,Rivers,Okrika,KALIO MPHC,not_found
-301,Rivers,Okrika,GEORGE,not_found
-302,Rivers,Okrika,ZH OKRIKA,not_found
-303,Rivers,Omuma,UMUELECHI HEALTH CENTRE,Umuechem Health Centre
-304,Rivers,Omuma,UMUOGBA H/C,not_found
-305,Rivers,Omuma,OBIOHIA H/C,not_found
-306,Rivers,Omuma,OYORO MODEL H/C,not_found
-307,Rivers,Omuma,OFEH H/C,not_found
-308,Rivers,Omuma,OHIM/OYORO H/C,not_found
-309,Rivers,Opobo_Nkoro,QUEEN'S TOWN H/C,not_found
-310,Rivers,Opobo_Nkoro,MPHC EPELLEAMA,not_found
-311,Rivers,Opobo_Nkoro,MPHC KALAIBIAMA,not_found
-312,Rivers,Opobo_Nkoro,MINIMA H/C,not_found
-313,Rivers,Opobo_Nkoro,H/C NKORO,not_found
-314,Rivers,Opobo_Nkoro,MPHC KALAIBIAMA,not_found
-315,Rivers,Oyigbo,MIRIANWANYI H/F,not_found
-316,Rivers,Oyigbo,OBEAKPU MPHC,not_found
-317,Rivers,Oyigbo,UMUSIA MPHC,not_found
-318,Rivers,Oyigbo,POLICE CLINIC,Oliver Clinic
-319,Rivers,Oyigbo,LOCATION H/POST,not_found
-320,Rivers,Oyigbo,UMUAGAI H/F,not_found
-321,Rivers,Oyigbo,OBETE MPHC,not_found
-322,Rivers,Oyigbo,MPHC MARI UHU,not_found
-323,Rivers,Oyigbo,MPHC EGBERU,not_found
-324,Rivers,Oyigbo,ODUAH,not_found
-325,Rivers,Portharcourt,POTTS JOHNSON H/C,not_found
-326,Rivers,Portharcourt,OROGBUM H/C,not_found
-327,Rivers,Portharcourt,PRISONS,not_found
-328,Rivers,Portharcourt,CHURCHILL,not_found
-329,Rivers,Portharcourt,BUNDU AMA H/C,not_found
-330,Rivers,Portharcourt,MILITARY,not_found
-331,Rivers,Portharcourt,NAVY MEDICAL,not_found
-332,Rivers,Portharcourt,RESOURCE CENTRE,not_found
-333,Rivers,Portharcourt,PORT HARCOURT CITY COUNCIL SICKBAY,not_found
-334,Rivers,Portharcourt,OKURU AMA,not_found
-335,Rivers,Portharcourt,AZUBIE,not_found
-336,Rivers,Portharcourt,OZUBOKO,not_found
-337,Rivers,Portharcourt,AMADI AMA,not_found
-338,Rivers,Portharcourt,MINI HC,not_found
-339,Rivers,Portharcourt,ELEKAHIA,not_found
-340,Rivers,Tai,PHC BAN-OGOI,not_found
-341,Rivers,Tai,MPHC KOROMA,not_found
-342,Rivers,Tai,PHC GBAM,not_found
-343,Rivers,Tai,MPHC BARA-ALE,not_found
-344,Rivers,Tai,BOTEM MPHC,not_found
-345,Rivers,Tai,PHC UEKEN,not_found
-346,Rivers,Tai,MPHC KPITE,not_found
-347,Rivers,Tai,PHC BORO-BARA,not_found
-348,Rivers,Tai,GIO PHC,not_found
-349,Rivers,Tai,PHC KPORGHOR,not_found
-350,Sokoto,BINJI,General Hospital Binji,Binji General Hospital
-351,Sokoto,BINJI,Mai kulki dispensary,not_found
-352,Sokoto,BINJI,Bunkari Dispensary,not_found
-353,Sokoto,BINJI,PHC Inname,not_found
-354,Sokoto,BINJI,Dalijan Dispensary,not_found
-355,Sokoto,BINJI,PHC Samama,not_found
-356,Sokoto,BINJI,Kura Dispensary,not_found
-357,Sokoto,BINJI,Kalgo,not_found
-358,Sokoto,BINJI,Jamli Dispensary,not_found
-359,Sokoto,BINJI,PHC Dabaga,not_found
-360,Sokoto,Bodinga,General Hospital Bodinga,Bodinga General Hospital
-361,Sokoto,Bodinga,PHC Danchadi,not_found
-362,Sokoto,Bodinga,PHC Dingyadi,not_found
-363,Sokoto,Bodinga,PHC SIfawa,not_found
-364,Sokoto,Bodinga,PHC Bagalawa,not_found
-365,Sokoto,Bodinga,Badau Dispensary,not_found
-366,Sokoto,Bodinga,Dan Ajiwa Dispensary,not_found
-367,Sokoto,Bodinga,Bagarawa Dispensary,not_found
-368,Sokoto,Bodinga,Kauranmiyo Dispensary,not_found
-369,Sokoto,Bodinga,Kaura Tsara Dispensary,not_found
-370,Sokoto,Bodinga,Fatima Yahaya Hospital,Sifawa Fatima Yahayya
-371,Sokoto,Bodinga,PHC Wumumu,not_found
-372,Sokoto,Bodinga,PHC Raha,not_found
-373,Sokoto,Bodinga,PHC Darhela,not_found
-374,Sokoto,Bodinga,PHC Dabaga,not_found
-375,Sokoto,Dange Shuni,General Hospital Amanawa,Gada General Hospital
-376,Sokoto,Dange Shuni,Wababe Dispensary,not_found
-377,Sokoto,Dange Shuni,NPHC Dange Shuni,not_found
-378,Sokoto,Dange Shuni,Upgraded Shuni,not_found
-379,Sokoto,Dange Shuni,Army Hospital,Godiya Hospital
-380,Sokoto,Dange Shuni,Fajaldu Dispensary,not_found
-381,Sokoto,Dange Shuni,PHC Rakina,not_found
-382,Sokoto,Dange Shuni,Tsafanade Dispensary,not_found
-383,Sokoto,Dange Shuni,PHC Duka maje,not_found
-384,Sokoto,Dange Shuni,PHC Kadassaka,not_found
-385,Sokoto,Dange Shuni,Tuntunbe dispensary,not_found
-386,Sokoto,Dange Shuni,Tsafe dispensary,not_found
-387,Sokoto,Dange Shuni,PHC Rudu,not_found
-388,Sokoto,Gada,General Hospital Gada,Gada General Hospital
-389,Sokoto,Gada,G/Hashimu Dispensary,not_found
-390,Sokoto,Gada,PHC Kaffe,not_found
-391,Sokoto,Gada,Kaddi Dispensary,not_found
-392,Sokoto,Gada,Bigal Dispensary,not_found
-393,Sokoto,Gada,Kiliya Dispensary,not_found
-394,Sokoto,Gada,PHC Wauru,not_found
-395,Sokoto,Gada,Kiri Dispensary,not_found
-396,Sokoto,Gada,PHC Ila,not_found
-397,Sokoto,Gada,Holai Dispensary,not_found
-398,Sokoto,Gada,Gidan Gyado Dispensary,not_found
-399,Sokoto,Gada,Gilbadi Dispensary,not_found
-400,Sokoto,Gada,Gadabo Dispensary,not_found
-401,Sokoto,Gada,PHC Alamaddo,not_found
-402,Sokoto,Gada,PHC Kadadi,not_found
-403,Sokoto,Gada,PHC Duhuwa,not_found
-404,Sokoto,Gada,PHC Tajaye,not_found
-405,Sokoto,Gada,PHC Tsururu,not_found
-406,Sokoto,Gada,Sagera Disp,not_found
-407,Sokoto,Goronyo,Genaral Hospital Goronyo,Goronyo General Hospital
-408,Sokoto,Goronyo,PHC Yarimawa,not_found
-409,Sokoto,Goronyo,PHC Birjingo,not_found
-410,Sokoto,Goronyo,PHC Dantasakko,not_found
-411,Sokoto,Goronyo,Gamifa kawara,not_found
-412,Sokoto,Goronyo,PHC Zamace,not_found
-413,Sokoto,Goronyo,Fadarawa Dispensary,not_found
-414,Sokoto,Goronyo,Giyawa dispensary,not_found
-415,Sokoto,Goronyo,Boyakai Dispensary,not_found
-416,Sokoto,Goronyo,PHC Kojiyo,not_found
-417,Sokoto,Goronyo,PHC Kubutta,not_found
-418,Sokoto,Goronyo,Takakume Disp.,not_found
-419,Sokoto,Goronyo,PHC Illela Huda,not_found
-420,Sokoto,Goronyo,PHC Yamikuba,not_found
-421,Sokoto,Gudu,PHC Gudu,not_found
-422,Sokoto,Gudu,PHC Karfen Sarki,not_found
-423,Sokoto,Gudu,PHC Bachaka,not_found
-424,Sokoto,Gudu,PHC Kurdulla,not_found
-425,Sokoto,Gudu,Gh Balle,not_found
-426,Sokoto,Gudu,PHC Balle,not_found
-427,Sokoto,Gudu,PMV Muzalifa,not_found
-428,Sokoto,Gudu,Kandeza Dispensary,not_found
-429,Sokoto,Gudu,Makuya dispensary,not_found
-430,Sokoto,Gudu,PHC Marake,not_found
-431,Sokoto,Gudu,PHC Bunge,not_found
-432,Sokoto,Gudu,GH Gudu,not_found
-433,Sokoto,Gwadabawa,General Hospital Gwadabawa,Gwadabawa General Hospital
-434,Sokoto,Gwadabawa,PHC Chimmola,not_found
-435,Sokoto,Gwadabawa,PHC Salame,not_found
-436,Sokoto,Gwadabawa,Mammande Dispensary,not_found
-437,Sokoto,Gwadabawa,Mamman Suka Dispensary,not_found
-438,Sokoto,Gwadabawa,PHC Gigane,not_found
-439,Sokoto,Gwadabawa,Chancha Dispensary,not_found
-440,Sokoto,Gwadabawa,PHC Asara,not_found
-441,Sokoto,Gwadabawa,PHC Marian,not_found
-442,Sokoto,Gwadabawa,PHC Tukura,not_found
-443,Sokoto,Gwadabawa,PHC Atakwanyo,not_found
-444,Sokoto,Gwadabawa,PMV Karanci,not_found
-445,Sokoto,Gwadabawa,Gigane Nursing,not_found
-446,Sokoto,Gwadabawa,Alela Dispensary,not_found
-447,Sokoto,Gwadabawa,Yargada dispensary,not_found
-448,Sokoto,Gwadabawa,Abdalo dispensary,not_found
-449,Sokoto,Gwadabawa,Marina Clinic,Minanata Clinic
-450,Sokoto,Gwadabawa,PHC Kiliya,not_found
-451,Sokoto,Gwadabawa,PHC Makina,not_found
-452,Sokoto,Gwadabawa,PHC Zugana,not_found
-453,Sokoto,Isa,General Hospital Isah,Isa General Hospital
-454,Sokoto,Isa,Isah Town Dispensary,not_found
-455,Sokoto,Isa,PHC Bafarawa,not_found
-456,Sokoto,Isa,PHC Yanfako,not_found
-457,Sokoto,Isa,PHC Modachi,not_found
-458,Sokoto,Isa,PHC Tidibale,not_found
-459,Sokoto,Isa,PHC Turba,not_found
-460,Sokoto,Isa,PHC Gatawa,not_found
-461,Sokoto,Illela,Illelah Town Dispensary,not_found
-462,Sokoto,Illela,Sonane Dispensary,not_found
-463,Sokoto,Illela,Amarawa Dispensary,not_found
-464,Sokoto,Illela,Tozai Dispensary,not_found
-465,Sokoto,Illela,PHC Kalmalo,not_found
-466,Sokoto,Illela,PHC Araba,not_found
-467,Sokoto,Illela,PHC Aragati,not_found
-468,Sokoto,Illela,Darna,not_found
-469,Sokoto,Illela,Dankada Dispensary,not_found
-470,Sokoto,Illela,PHC Gidan Hamma,not_found
-471,Sokoto,Kebbe,General hospital Kebbe,Kebbe General Hospital
-472,Sokoto,Kebbe,PHC Kuchi,not_found
-473,Sokoto,Kebbe,PHC Rara,not_found
-474,Sokoto,Kebbe,PHC GIkau,not_found
-475,Sokoto,Kebbe,Maikurfun Dispensary,not_found
-476,Sokoto,Kebbe,PHC Ungushi,not_found
-477,Sokoto,Kebbe,PHC Margai,not_found
-478,Sokoto,Kebbe,Sangi Dispensary Kebbe,not_found
-479,Sokoto,Kebbe,Labau Dispensary,not_found
-480,Sokoto,Kebbe,Sagira dispensary,not_found
-481,Sokoto,Kebbe,Nasagudu dispensary,not_found
-482,Sokoto,Kebbe,Jigiri dispensary,not_found
-483,Sokoto,Kebbe,PHC Kuduttu,not_found
-484,Sokoto,Kebbe,Dukura dispensary,not_found
-485,Sokoto,Kware,PHC Kware,not_found
-486,Sokoto,Kware,CHC Kware,not_found
-487,Sokoto,Kware,PHC Durbawa,not_found
-488,Sokoto,Kware,PHC Balkore,not_found
-489,Sokoto,Kware,PHC Umamruma,not_found
-490,Sokoto,Kware,PHC Zamau,not_found
-491,Sokoto,Kware,PHC Kabanga,not_found
-492,Sokoto,Kware,PHC Rakwamni,not_found
-493,Sokoto,Kware,Sabarru dispensary,not_found
-494,Sokoto,Kware,PHC Tsaki,not_found
-495,Sokoto,Kware,PHC Ruggar Lima,not_found
-496,Sokoto,Kware,PHC Gundunga,not_found
-497,Sokoto,Kware,F.N.P.H Kware,not_found
-498,Sokoto,Kware,PHC Hamma'ali,not_found
-499,Sokoto,Kware,PHC Tungar Galadima,Tungar Galadima Health Clinic
-500,Sokoto,Kware,PHC Kasgada,not_found
-501,Sokoto,Kware,PHC Basansan,not_found
-502,Sokoto,Kware,PHC Ihi,not_found
-503,Sokoto,Kware,PHC More,not_found
-504,Sokoto,Kware,PHC Gemun Damu,not_found
-505,Sokoto,Rabah,General Hospital Rabah,Rabah General Hospital
-506,Sokoto,Rabah,PHC Gandi,not_found
-507,Sokoto,Rabah,Raba Dispensary,not_found
-508,Sokoto,Rabah,Y/Tsakuwa PHC,not_found
-509,Sokoto,Rabah,PHC Rara,not_found
-510,Sokoto,Rabah,Danbanda Dispensary,not_found
-511,Sokoto,Rabah,PHC Badamma,not_found
-512,Sokoto,Rabah,PHC Gwaddodi,not_found
-513,Sokoto,Rabah,PHC Riji,not_found
-514,Sokoto,Rabah,PHC Tsamiya,not_found
-515,Sokoto,Rabah,Mabah Dispensary,not_found
-516,Sokoto,Rabah,PHC Alakiru,not_found
-517,Sokoto,Rabah,PHC Warwanna,not_found
-518,Sokoto,Rabah,PHC Tofa,not_found
-519,Sokoto,Rabah,PHC Rakwamni,not_found
-520,Sokoto,Rabah,PHC Maikujera,not_found
-521,Sokoto,Sabon Birni,Town Clinic Sabon Birni,Sabon Birni Health Clinic
-522,Sokoto,Sabon Birni,General Hospital Sabon Birni,Sabon Birni General Hospital
-523,Sokoto,Sabon Birni,Makuwana Clinic,Kwanni Clinic
-524,Sokoto,Sabon Birni,PHC Tsamaye,not_found
-525,Sokoto,Sabon Birni,PHC Gatawa,not_found
-526,Sokoto,Sabon Birni,Kalgo Dispensary,not_found
-527,Sokoto,Sabon Birni,Tara Dispensary,not_found
-528,Sokoto,Sabon Birni,PHC Kurawa,not_found
-529,Sokoto,Sabon Birni,PHC U/ile,not_found
-530,Sokoto,Sabon Birni,Yarbullutuwa PHC,not_found
-531,Sokoto,Sabon Birni,PHC Goidan Idi,not_found
-532,Sokoto,Sabon Birni,PPM Sabon Birni,not_found
-533,Sokoto,Sabon Birni,PHC Kalgo,not_found
-534,Sokoto,Sabon Birni,PHC Rambadawa,not_found
-535,Sokoto,Sabon Birni,PHC Lajinge,not_found
-536,Sokoto,Sabon Birni,PHC Tara,not_found
-537,Sokoto,Shagari,General Hospital Shagari,Shagari General Hospital
-538,Sokoto,Shagari,Kajiji Dispensary,not_found
-539,Sokoto,Shagari,Runjin Kaka Dispensary,not_found
-540,Sokoto,Shagari,PHC Horo,not_found
-541,Sokoto,Shagari,G/Tudu Dispensary,not_found
-542,Sokoto,Shagari,PHC Dadinmahe,not_found
-543,Sokoto,Shagari,PHC Jaredi,not_found
-544,Sokoto,Shagari,PHC Sanyinnawal,not_found
-545,Sokoto,Shagari,PHC Madenra,not_found
-546,Sokoto,Shagari,Tunga Dispensary,not_found
-547,Sokoto,Shagari,Darin Guru Dispensary,not_found
-548,Sokoto,Shagari,Kesoje Dispensary,not_found
-549,Sokoto,Shagari,PHC Lambara,not_found
-550,Sokoto,Shagari,Lugu Dispensary,not_found
-551,Sokoto,Shagari,PHC Rinaye,not_found
-552,Sokoto,Shagari,PHC Kambama,not_found
-553,Sokoto,Shagari,Mabera H.Post,Mabera Health Post
-554,Sokoto,Shagari,PHC Sage,not_found
-555,Sokoto,Silame,General Hospital Silame,Silame General Hospital
-556,Sokoto,Silame,PHC Gande,not_found
-557,Sokoto,Silame,NPHC Katami,not_found
-558,Sokoto,Silame,Rairan Fulani Healthpost,Sarma A  Health Post
-559,Sokoto,Silame,Jekanadu Dispensary,not_found
-560,Sokoto,Silame,Gidan Audu health post,Gidan Almu Health Post
-561,Sokoto,Silame,Marafa Dispensary,not_found
-562,Sokoto,Silame,Tozo dispensary,not_found
-563,Sokoto,Silame,Gaukai Dispensary,not_found
-564,Sokoto,Silame,Yola dispensary,not_found
-565,Sokoto,Silame,Katami North dispensary,not_found
-566,Sokoto,Silame,Gidan Tudu Dispensary,not_found
-567,Sokoto,Silame,PMV Gandu,not_found
-568,Sokoto,Silame,PMV Saudat,not_found
-569,Sokoto,Silame,Labani Health post,Labani Health Post
-570,Sokoto,Silame,Gadanbe Health post,Gadambe Health Post
-571,Sokoto,Silame,Chopal Health Post,Chofal Health Post
-572,Sokoto,Silame,Karangiya Dispensary,not_found
-573,Sokoto,Silame,Gunki Dispensary,not_found
-574,Sokoto,Silame,Maje Dispensary,not_found
-575,Sokoto,Silame,PHC Dan Magaji,not_found
-576,Sokoto,Silame,Tunga Abdu Dispensary,not_found
-577,Sokoto,Silame,Gujiya Dispensary,not_found
-578,Sokoto,Silame,Dankala Dispensary,not_found
-579,Sokoto,Sokoto North,Rumbukawa Clinic,not_found
-580,Sokoto,Sokoto North,Alkammawa Clinic,not_found
-581,Sokoto,Sokoto North,Mainiyo Dispensary,not_found
-582,Sokoto,Sokoto North,Kofar Kade Clinic,not_found
-583,Sokoto,Sokoto North,WCWC Sokoto,not_found
-584,Sokoto,Sokoto North,Noma Hospital,Noma Hospital
-585,Sokoto,Sokoto North,PHC Gidan Igwai,not_found
-586,Sokoto,Sokoto North,PHC gidan Dare,not_found
-587,Sokoto,Sokoto North,PHC Sabon Birni,not_found
-588,Sokoto,Sokoto North,Mabera Clinic,Saraki Clinic
-589,Sokoto,Sokoto North,Holy Family Specialist,not_found
-590,Sokoto,Sokoto North,Shekina Specialist Hospital,Sokoto Specialist Hospital
-591,Sokoto,Sokoto North,Sokoto Clinic,not_found
-592,Sokoto,Sokoto South,Specialist Hospital Sokoto,Sokoto Specialist Hospital
-593,Sokoto,Sokoto South,BHSC Yarakija,not_found
-594,Sokoto,Sokoto South,Wali Bako SHS,not_found
-595,Sokoto,Sokoto South,Alfijir SHS,not_found
-596,Sokoto,Sokoto South,PHC Gagi,not_found
-597,Sokoto,Sokoto South,Godiya Clinic,Lafiya Clinic
-598,Sokoto,Sokoto South,Standard Clinic,Standard Clinic
-599,Sokoto,Tambuwal,General Hospital Tambuwa,Tambuwal General Hosp
-600,Sokoto,Tambuwal,General Hospital Dogon Daji,Dogon Daji General Hospital
-601,Sokoto,Tambuwal,PHC Alasan Faga,not_found
-602,Sokoto,Tambuwal,PHC Sanyinna,not_found
-603,Sokoto,Tambuwal,PHC Jabo,not_found
-604,Sokoto,Tambuwal,PHC Tambuwal,not_found
-605,Sokoto,Tambuwal,PHC Roman Liman,not_found
-606,Sokoto,Tambuwal,PHC Romon Sarki,not_found
-607,Sokoto,Tambuwal,PHC Barkeji,not_found
-608,Sokoto,Tambuwal,Tulluwa Dispwnsary,not_found
-609,Sokoto,Tambuwal,Bashire Dispensary,not_found
-610,Sokoto,Tambuwal,Sala Dispensary,not_found
-611,Sokoto,Tangaza,General Hospital Tangaza,Tangaza General Hospital
-612,Sokoto,Tangaza,PHC Gidan Madi,not_found
-613,Sokoto,Tangaza,Mungaho Dispensary,not_found
-614,Sokoto,Tangaza,PHC Ruwa wuri,not_found
-615,Sokoto,Tangaza,Ginjo Dispensary,not_found
-616,Sokoto,Tangaza,Maja Dispensary,not_found
-617,Sokoto,Tangaza,Bauni Dispensary,not_found
-618,Sokoto,Tangaza,Sarma Dispensary,not_found
-619,Sokoto,Tangaza,Dinbizo Dispensary,not_found
-620,Sokoto,Tangaza,PHC Masallaci,not_found
-621,Sokoto,Tangaza,PHC Raka,not_found
-622,Sokoto,Tangaza,PHC Zamoriya,not_found
-623,Sokoto,Tangaza,PHC Kalanjeni,not_found
-624,Sokoto,Tangaza,PHC Baidi,not_found
-625,Sokoto,Tangaza,PHC Alkasim,not_found
-626,Sokoto,Tangaza,PHC Labsani,not_found
-627,Sokoto,Tangaza,PHC Zurmuku,not_found
-628,Sokoto,Tangaza,Gidan Dare Clinic,Gidan Dadi Health Clinic
-629,Sokoto,Tangaza,Abdullahi Dan Masudu Clinic,not_found
-630,Sokoto,Tangaza,Nasiha Clinic,Nasiha Health Clinic
-631,Sokoto,Tangaza,PHC Alele,not_found
-632,Sokoto,Tangaza,Arewa Lab and Diagnostics,not_found
-633,Sokoto,Tureta,General Hospital Tureta,Tureta General Hospital
-634,Sokoto,Tureta,Tureta Town Dispensary,not_found
-635,Sokoto,Tureta,Lambar Tureta Dispensary,not_found
-636,Sokoto,Tureta,Tsamiya Dispensary,not_found
-637,Sokoto,Tureta,Karuwa Dispensary,not_found
-638,Sokoto,Tureta,PMV Al’ihsan,not_found
-639,Sokoto,Tureta,Duma Dispensary,not_found
-640,Sokoto,Tureta,Kwarare Dispensary,not_found
-641,Sokoto,Tureta,Galadumai Disppensary,not_found
-642,Sokoto,Tureta,PHC Rinare,not_found
-643,Sokoto,Tureta,G/Dangiwa Dispensary,not_found
-644,Sokoto,Tureta,PHC Modomawa,not_found
-645,Sokoto,Tureta,PHC Rafin Buda,not_found
-646,Sokoto,Tureta,PHC Gidan Kare,not_found
-647,Sokoto,Tureta,Jankware Dispensary,not_found
-648,Sokoto,Tureta,PHC Fura Girke,not_found
-649,Sokoto,Tureta,PHC Garbe Kanne,not_found
-650,Sokoto,Tureta,PHC Jandutsi,not_found
-651,Sokoto,Tureta,PHC Randa,not_found
-652,Sokoto,Tureta,PHC Lofa,not_found
-653,Sokoto,Tureta,PHC Dangilbi,not_found
-654,Sokoto,Tureta,PHC Kamfanin Diya,Kamfanin Diya Health Post
-655,Sokoto,Tureta,PHC Gidan Garkuwa,not_found
-656,Sokoto,Tureta,PHC Gidan Ba'are,not_found
-657,Sokoto,Tureta,PHC Bimasa,not_found
-658,Sokoto,Tureta,PHC Kanin,not_found
-659,Sokoto,Tureta,PHC Kawara,not_found
-660,Sokoto,Wurno,General Hospital Wurno,Wurno General Hospital
-661,Sokoto,Wurno,PHC Achida,not_found
-662,Sokoto,Wurno,PHC Marnona,not_found
-663,Sokoto,Wurno,Wurno Town dispensary,not_found
-664,Sokoto,Wurno,Kandam dispensary,not_found
-665,Sokoto,Wurno,Duhuwa dispensary,not_found
-666,Sokoto,Wurno,Tahir medical Center,Tahir Medical Center Achida
-667,Sokoto,Wurno,PHC Saketa,not_found
-668,Sokoto,Wurno,PHC Dimbiso,not_found
-669,Sokoto,Wurno,PHC Kadagiwa,not_found
-670,Sokoto,Wurno,PHC Masama,not_found
-671,Sokoto,Yabo,General Hospital Yabo,Yabo General Hospital
-672,Sokoto,Yabo,PHC Binjin Muza,not_found
-673,Sokoto,Yabo,PHC kilgori,not_found
-674,Sokoto,Yabo,WCWC Yabo,not_found
-675,Sokoto,Yabo,Torankawa Dispensary,not_found
-676,Sokoto,Yabo,PHC B/ruwa,not_found
-677,Sokoto,Yabo,PHC Kaura,not_found
-678,Sokoto,Yabo,PHC Bengaje,not_found
-679,Sokoto,Yabo,PHC Dagawa,not_found
-680,Sokoto,Yabo,Binji Dispensary,not_found
-681,Sokoto,Yabo,Alkalije dispensary,not_found
-682,Sokoto,Yabo,Kamfataye dispensary,not_found
-683,Sokoto,Yabo,Kibiyare Dispensary,not_found
-684,Sokoto,Yabo,Gomara Dispensary,not_found
-685,Sokoto,Yabo,Dono Dispensary,not_found
-686,Sokoto,Yabo,Addam Dispensary,not_found
-687,Sokoto,Wammakko,Usman Danfodio University Teaching Hospital,Usman Danfodio University Teaching Hospital
-688,Sokoto,Wammakko,BHSC Arkilla,not_found
-689,Sokoto,Wammakko,Maganawa Clinic,Minanata Clinic
-690,Sokoto,Wammakko,Mankeri Dispensary,not_found
-691,Sokoto,Wammakko,PHC Gumbi,not_found
-692,Sokoto,Wammakko,PHC Kasarawa,not_found
-693,Sokoto,Wammakko,PHC Dundaye,not_found
-694,Sokoto,Wammakko,PPM Arkilla,not_found
-695,Sokoto,Wammakko,PHC Yarume Police clinic,Police Clinic
-696,Sokoto,Wammakko,Gidan bubu dispensary,not_found
-697,Sokoto,Wammakko,PHC Samalu,not_found
-698,Sokoto,Wammakko,PHC Gidan Sarki Dunki,Gidan Sarkin Dunki Health Post
-699,Sokoto,Wammakko,PHC Gwamatse,not_found
-700,Sokoto,Wammakko,PHC Gidan Habibu,Gidan Habibu Health Post
-701,Sokoto,Wammakko,PHC Zabori,not_found
-702,Sokoto,Wammakko,Alheri Clinis,Alheri Clinic
-703,Sokoto,Wammakko,PHC Gatare,not_found
-704,Sokoto,Wammakko,Madalla Lafiya Clinic,Lafiya Clinic
-705,Sokoto,Wammakko,Alshifa Medical Centre,Tahir Medical Center Achida
-706,Sokoto,Wammakko,Wammako Maternity,not_found
-707,Sokoto,Wammakko,Mopol Clinic,Police Clinic
-708,Sokoto,Wammakko,Khadija Dental Clinic,Kadadi Health Clinic
-709,Sokoto,Wammakko,Jama'a Clinic,Jama'a Clinic
-710,Sokoto,Wammakko,PHC Yallabe,not_found
-711,Sokoto,Wammakko,PHC Kaurare,not_found
-712,Sokoto,Wammakko,PHC Gidan Kaduna,Gidan Kaduna Health Post
-713,Sokoto,Wammakko,PHC Daraye,not_found
-714,Sokoto,Wammakko,PHC Badano,not_found
-715,Sokoto,Wammakko,PHC Samalu,not_found
-716,State,LGA OF GENEXPERT,Testing Hub Facility,not_found
-717,Rivers,ABUA/ODUAL,GH Abua,not_found
-718,Rivers,AHOADA EAST,ZH AHOADA,not_found
-719,Rivers,DEGEMA,ZH DEGEMA,not_found
-720,Rivers,KHANA,ZH BORI,not_found
-721,Rivers,BONNY,GH Abua,not_found
-722,Rivers,PORT HARCOURT,MILITARY HOSP.,Military Hospital
-723,Rivers,OKRIKA,GH OKRIKA,not_found
-724,Rivers,OBIO/AKPOR,UPTH,not_found
-725,Rivers,Etche,MPHC RUMUIGBO,not_found
-726,Rivers,GOKANA,GH TERABOR,not_found
-727,Rivers,OBIO/AKPOR,MPHC RUMUIGBO,not_found
-728,Rivers,OGBA/EGBEMA/NDONI,"GBEYE HOSP., OMOKU",General Hospital Omoku
-729,Rivers,OKRIKA,ZH OKRIKA,not_found
-730,Rivers,PORT HARCOURT,RSUTH,not_found
-731,Rivers,Abua_Odual,AYAMA MPHC,not_found
-732,Rivers,Abua_Odual,ANYU MPHC,not_found
-733,Rivers,Ahoada East,MPHCC AHOADA,not_found
-734,Rivers,Ahoada East,IHUGBOGO MPHC,not_found
-735,Rivers,Ahoada East,Okporomini Health Centre,Okporomini Primary Health Centre
-736,Rivers,Ahoada West,UBETA MPHC,not_found
-737,Rivers,Ahoada West,MPHC AKINIMA,not_found
-738,Rivers,Ahoada West,MPHC OKOGBE,not_found
-739,Rivers,Akuku Toru,ABONNEMA MPHC,not_found
-740,Rivers,Akuku Toru,MPHC KULA,not_found
-741,Rivers,Andoni,MPHC UNYEADA,not_found
-742,Rivers,Andoni,MPHC UNDEADA,not_found
-743,Rivers,Andoni,MPHC IKURU,not_found
-744,Rivers,Andoni,PHC IBOTIREM,not_found
-745,Rivers,Asari Toru,BMHC,not_found
-746,Rivers,Bonny,M.H.C BONNY,not_found
-747,Rivers,Bonny,Greens,not_found
-748,Rivers,Bonny,BANIGO,not_found
-749,Rivers,Bonny,MPHC PETERSIDE,not_found
-750,Rivers,Degema,MPHC USOKUN,not_found
-751,Rivers,Degema,MPHC BILLE,not_found
-752,Rivers,Degema,TOMBIA MPHC,not_found
-753,Rivers,Eleme,MPHC AKPAJO,not_found
-754,Rivers,Eleme,MPHC EBUBU,not_found
-755,Rivers,Emohua,PHC NDELE,not_found
-756,Rivers,Emohua,MPHC OGBAKIRI,not_found
-757,Rivers,Etche,ULAKWO MPHC,not_found
-758,Rivers,Etche,"Gen Hosp, Okomoko",General Hospital Okomoko
-759,Rivers,Etche,KPOR MPHC,not_found
-760,Rivers,Gokana,KPOR MPHC,not_found
-761,Rivers,Gokana,TERABOR GEN. HOSP.,TERABOR GENERAL HOSPITAL
-762,Rivers,Ikwere,ZH ISIOKPO,not_found
-763,Rivers,Ikwere,OMAGWA H/C,not_found
-764,Rivers,Khana,PHC BORI,not_found
-765,Rivers,Khana,WIIYAAKARA,not_found
-766,Rivers,Obio-Akpo,MPHC RUMUODOMAYA,not_found
-767,Rivers,Obio-Akpo,MPHC RUMUEME,not_found
-768,Rivers,Obio-Akpo,RUMUKRUSHI,not_found
-769,Rivers,Ogba,MPHC OBRIKOM,not_found
-770,Rivers,Ogba,OKWUZI,not_found
-771,Rivers,Ogba,MPHC NDONI,not_found
-772,Rivers,Ogba,MPHC EREMA,not_found
-773,Rivers,Ogu,MPHC OGU,not_found
-774,Rivers,Ogu,BHC BOLO,not_found
-775,Rivers,Ogu,OPUAMA H/C,not_found
-776,Rivers,Okrika,IBAKA MPHC,not_found
-777,Rivers,Okrika,ISAKA H/C,not_found
-778,Rivers,Okrika,OKOCHIRI,not_found
-779,Rivers,Omuma,PHC EBERI,not_found
-780,Rivers,Opobo_Nkoro,CHC OPOBO,not_found
-781,Rivers,Opobo_Nkoro,H/C NKORO,not_found
-782,Rivers,Oyigbo,CHC OYIGBO,not_found
-783,Rivers,Oyigbo,MPHC OBEAKPU,not_found
-784,Rivers,Oyigbo,ODUA H/F,not_found
-785,Rivers,Portharcourt,MGBUDUKWU MPHC,not_found
-786,Rivers,Portharcourt,ABULOMA MPHC,not_found
-787,Rivers,Tai,PHC BUNU,not_found
-788,Rivers,Tai,MPHC NONWA,not_found
-789,Rivers,Tai,MPHC KOROKORO,not_found
-790,Rivers,Tai,MPHC KIRA,not_found
-791,Sokoto,,GH BINJI,not_found
-792,Sokoto,,MMSHS,not_found
-793,Sokoto,,GH DOGON DAJI,not_found
-794,Sokoto,,UDUTH,not_found
-795,Sokoto,,IDH AMANAWA,not_found
-796,Sokoto,,GH ILLELA,not_found
-797,Sokoto,,CHC KOFAR RINI,not_found
-798,Sokoto,,GH ISA,not_found
-799,Sokoto,,GH YABO,not_found
+id,state,lga,facility_name,corrected_facility_name,validated_state
+1,Rivers,Abua_Odual,AGADA 1 MPHC,,
+2,Rivers,Abua_Odual,AMINIGBOKO CHC,,
+3,Rivers,Abua_Odual,EBBOLOM MPHC,,
+4,Rivers,Abua_Odual,ANYU MPHC,,
+5,Rivers,Abua_Odual,OTAPHA H/C,,
+6,Rivers,Abua_Odual,ARUKWO H/F,,
+7,Rivers,Abua_Odual,OGONOKOM H/P,,
+8,Rivers,Abua_Odual,IYAK H/F,,
+9,Rivers,Abua_Odual,EMESU H/C,,
+10,Rivers,Abua_Odual,AMINIOINERE H/C,,
+11,Rivers,Abua_Odual,OBARANY H/F,,
+12,Rivers,Abua_Odual,OKOBOH H/F,,
+13,Rivers,Abua_Odual,EMELEGO MPHC,,
+14,Rivers,Abua_Odual,ODUA H/F,,
+15,Rivers,Abua_Odual,ADIADIA H/C,,
+16,Rivers,Abua_Odual,OGBOLOMA H/F,,
+17,Rivers,Abua_Odual,EMAGO H/F,,
+18,Rivers,Abua_Odual,OKOLOMADE H/C,,
+19,Rivers,Abua_Odual,OGBEMA MPHC,,
+20,Rivers,Abua_Odual,EMIRIPOKO H/C,,
+21,Rivers,Abua_Odual,AMURUTO H/C,,
+22,Rivers,Abua_Odual,AKANI H/F,,
+23,Rivers,Ahoada East,EDEOHA,,
+24,Rivers,Ahoada East,ODIABIDI,,
+25,Rivers,Ahoada East,ULA-UPATA,,
+26,Rivers,Ahoada East,OCHIAGBA,,
+27,Rivers,Ahoada East,PRISONS,,
+28,Rivers,Ahoada East,IHUOWO,,
+29,Rivers,Ahoada East,OGBELE,,
+30,Rivers,Ahoada East,IHUAJE,,
+31,Rivers,Ahoada East,OKPOROWO,,
+32,Rivers,Ahoada East,ABARIKPO H/C,,
+33,Rivers,Ahoada East,ODIEMUDIE H/C,,
+34,Rivers,Ahoada East,ULA-EHUDA MPHC,,
+35,Rivers,Ahoada East,MPHCC IHUAMA,,
+36,Rivers,Ahoada East,OGBO H/C,,
+37,Rivers,Ahoada East,IHUABA H/C,,
+38,Rivers,Ahoada East,Old Comphensive health center Ahoada,BIARA COMPREHENSIVE HEALTH CENTER,Rivers
+39,Rivers,Ahoada East,Odiajie MPHC,,
+40,Rivers,Ahoada East,POLICE CLINIC,Oliver Clinic,Rivers
+41,Rivers,Ahoada East,ODIEMEREYIE HC,,
+42,Rivers,Ahoada West,MPHC ODIEREKE,,
+43,Rivers,Ahoada West,ODAKWU H/F,,
+44,Rivers,Ahoada West,ULA UBIE,,
+45,Rivers,Ahoada West,EBIRIBA H/F,,
+46,Rivers,Ahoada West,UBIO,,
+47,Rivers,Ahoada West,UBARAMA H/C,,
+48,Rivers,Ahoada West,ODIAKU H/C,,
+49,Rivers,Ahoada West,GH JOIN KRAMA,,
+50,Rivers,Ahoada West,EDAGBERI,,
+51,Rivers,Ahoada West,MBIAMA H/C,,
+52,Rivers,Ahoada West,OSHIE H/F,,
+53,Rivers,Ahoada West,OKARKI,,
+54,Rivers,Ahoada West,MPHC IKODI,,
+55,Rivers,Ahoada West,IGOVIA H/F,,
+56,Rivers,Ahoada West,IDU H/F,,
+57,Rivers,Ahoada West,UKPELIEDE H/F,,
+58,Rivers,Ahoada West,AKIOGBOLOGBO HC,Akiogbologbo Health Post,Rivers
+59,Rivers,Ahoada West,OGBOGOLO H/F,,
+60,Rivers,Ahoada West,OGBEDE H/F,,
+61,Rivers,Ahoada West,EMESHI H/C,,
+62,Rivers,Ahoada West,OYIGBA,,
+63,Rivers,Ahoada West,UPATABO H/F,,
+64,Rivers,Akuku Toru,OBONOMA,,
+65,Rivers,Akuku Toru,MPHC IDAMA,,
+66,Rivers,Akuku Toru,MPHC SOKU,,
+67,Rivers,Akuku Toru,ELEMUSAGAMA H/C,,
+68,Rivers,Akuku Toru,MPHC ABISSA,,
+69,Rivers,Akuku Toru,GENERAL HOSPITAL ABONNEMA,Abonnema General Hospital,Rivers
+70,Rivers,Akuku Toru,MPHC KULA,,
+71,Rivers,Andoni,OYOROKOTO,,
+72,Rivers,Andoni,ILOTOMBI,,
+73,Rivers,Andoni,EGWEDE,,
+74,Rivers,Andoni,AGWUTU BOLO,,
+75,Rivers,Andoni,UNYAGALA H/C,,
+76,Rivers,Andoni,MPHC ISIODUM,,
+77,Rivers,Andoni,EGENDEM,,
+78,Rivers,Andoni,PHC INYONGORONG,,
+79,Rivers,Andoni,ASARAMA,,
+80,Rivers,Andoni,IWOMA,,
+81,Rivers,Andoni,PHC ASARAMAIJA,,
+82,Rivers,Andoni,PHC IKURU,,
+83,Rivers,Andoni,PHC EKEDE,,
+84,Rivers,Andoni,EGBOMUNG H/C,,
+85,Rivers,Andoni,AGBALAMA H/C,,
+86,Rivers,Andoni,ASUKAMA,,
+87,Rivers,Andoni,EBUKUMA,,
+88,Rivers,Andoni,OKOROBOUE-ILE H/C,,
+89,Rivers,Andoni,IBOTIREM H/C,,
+90,Rivers,Andoni,AJAKAJAK H/C,,
+91,Rivers,Andoni,PHC EGBORMUNG,,
+92,Rivers,Andoni,PHC ATABI,,
+93,Rivers,Andoni,PHC OTUAFUK,,
+94,Rivers,Andoni,PHC ORONIJA,,
+95,Rivers,Asari Toru,ABALAMA,,
+96,Rivers,Asari Toru,MHC IDO,,
+97,Rivers,Asari Toru,KRAKRAMA H/C,,
+98,Rivers,Asari Toru,GENERAL HOSPITAL BUGUMA,Buguma General Hospital,Rivers
+99,Rivers,Asari Toru,PHC OPROAMA,,
+100,Rivers,Asari Toru,PHC MINAMA,,
+101,Rivers,Asari Toru,PHC TEMA,,
+102,Rivers,Asari Toru,PHC ANGULAMA,,
+103,Rivers,Asari Toru,IFOKO PHC,,
+104,Rivers,Asari Toru,ILLELEMA PHC,,
+105,Rivers,Asari Toru,SAMA PHC,,
+106,Rivers,Asari Toru,OMEKWEAMA PHC,,
+107,Rivers,Asari Toru,SANGAMA PHC,,
+108,Rivers,Asari Toru,SICK BAY,Sick Bay,Rivers
+109,Rivers,Bonny,F.H.C FINIMA,,
+110,Rivers,Bonny,ABALAMABIE MPHCC,,
+111,Rivers,Bonny,Banigo H/C,,
+112,Rivers,Bonny,"Health Post, Halliday",Halliday Health Post,Rivers
+113,Rivers,Bonny,"General Hospital, Bonny",Abonnema General Hospital,Rivers
+114,Rivers,Bonny,Boony Infant Welfare Clinic,Emohua Infant Welfare Clinic,Rivers
+115,Rivers,Bonny,Burukiri,,
+116,Rivers,Bonny,Oloma,,
+117,Rivers,Bonny,Dema Abbey H/C,Dema-Abbey Health Centre,Rivers
+118,Rivers,Bonny,Mphc Peterside,,
+119,Rivers,Degema,CHC DEGEMA,,
+120,Rivers,Degema,OBU AMA,,
+121,Rivers,Degema,OGURAMA,,
+122,Rivers,Degema,USOKUN,,
+123,Rivers,Degema,MPHC BILLE,,
+124,Rivers,Degema,BUKUMA,,
+125,Rivers,Degema,BAKANA H/C,,
+126,Rivers,Eleme,MPHC AGBONCHIA,,
+127,Rivers,Eleme,ALETO H/POST,,
+128,Rivers,Eleme,NCHIA/OGALE HEALTH C,,
+129,Rivers,Eleme,"GENERAL HOSPITAL, ELEME",Degema General Hospital,Rivers
+130,Rivers,Eleme,ALESA H/POST,,
+131,Rivers,Eleme,Agbeta Health Post,GBE HEALTH POST,Rivers
+132,Rivers,Eleme,PHC EKPORO,,
+133,Rivers,Eleme,EKARA HEALTH POST,Ekara Health Post,Rivers
+134,Rivers,Eleme,MPHC ETEO,,
+135,Rivers,Eleme,MPHC Onne,,
+136,Rivers,Emohua,PHC IBAA,,
+137,Rivers,Emohua,CHC OMUDIOGA,,
+138,Rivers,Emohua,RUMUAKUNDE HEALTH POST (IWC),Rumuakunde Health Post Iwc,Rivers
+139,Rivers,Emohua,PHC RUMIEWHOR,,
+140,Rivers,Emohua,C.H.C RUMUJI,,
+141,Rivers,Emohua,MPHCC EGBEDA,,
+142,Rivers,Emohua,MPHCC UBIMINI,,
+143,Rivers,Emohua,MPHCC ODUOHA,,
+144,Rivers,Emohua,MPHC AKPABU,,
+145,Rivers,Emohua,ISIODU H/C,,
+146,Rivers,Emohua,ELELE MOBILE CLINIC,Nest Oil Clinic,Rivers
+147,Rivers,Emohua,INFANT WELRAFE CLINIC,Emohua Infant Welfare Clinic,Rivers
+148,Rivers,Emohua,OVOGO HEALTH POST,MOGHO HEALTH POST,Rivers
+149,Rivers,Emohua,OBELLE PHC,,
+150,Rivers,Emohua,PHC ELIBBRADA,,
+151,Rivers,Emohua,PHC OGBAKIRI,,
+152,Rivers,Emohua,PHC Elibrada,,
+153,Rivers,Etche,AKWA,,
+154,Rivers,Etche,AFARA H/CENTRE,,
+155,Rivers,Etche,NIHI,,
+156,Rivers,Etche,ODUFOR H/C,,
+157,Rivers,Etche,ODAGWA H/POST,,
+158,Rivers,Etche,UMUOHIE H/C,,
+159,Rivers,Etche,Imeh H/C,,
+160,Rivers,Etche,Akpoku health centre,Banigo Health Centre,Rivers
+161,Rivers,Etche,Egwi H/C,,
+162,Rivers,Etche,Abara H/C,,
+163,Rivers,Etche,UMUEDE,,
+164,Rivers,Etche,AKPOKU H/POST,Akpoku Health Post,Rivers
+165,Rivers,Etche,CHOKOTA H/CENTRE,Chokocho Health Centre,Rivers
+166,Rivers,Etche,EGBEKE H/CENTRE,Egbeke Health Centre,Rivers
+167,Rivers,Etche,IHIE H/CENTRE,Ihie Health Centre,Rivers
+168,Rivers,Etche,IWC H/CENTRE,Iwc H/Centre,Rivers
+169,Rivers,Etche,NDASHI H/POST,Ndashi  Health Post,Rivers
+170,Rivers,Etche,OKORAGU H/CENTRE,Okoroagu Primary Health Centre,Rivers
+171,Rivers,Etche,OPIRO H/CENTRE,Iwc H/Centre,Rivers
+172,Rivers,Etche,ORWU/OGIDA H/CENTRE,Iwc H/Centre,Rivers
+173,Rivers,Etche,UMUOYE PHC,,
+174,Rivers,Etche,UMUDELE PHC,,
+175,Rivers,Etche,UMUOLA HC,,
+176,Rivers,Etche,UMUEDEMBA,,
+177,Rivers,Etche,IWC OKOMOKO,,
+178,Rivers,Etche,ELELE H/C,,
+179,Rivers,Etche,OKEHI,,
+180,Rivers,Etche,OZUZU,,
+181,Rivers,Etche,UMIEBUM,,
+182,Rivers,Etche,UMUATURU H/C,,
+183,Rivers,Etche,CHOKOCHO H/C,Chokocho Health Centre,Rivers
+184,Rivers,Etche,BOMU,,
+185,Rivers,Gokana,YEGHE,,
+186,Rivers,Gokana,B.DERE,,
+187,Rivers,Gokana,BARAKO,,
+188,Rivers,Gokana,BODO GEN. HOSP,BODO GENERAL HOSPITAL,Rivers
+189,Rivers,Gokana,BIARA CHC,,
+190,Rivers,Gokana,MPHC K.DERE,,
+191,Rivers,Gokana,MPHC MOGHO,,
+192,Rivers,Gokana,NWE-OL MPHC,,
+193,Rivers,Gokana,MPHC DEEYOR,,
+194,Rivers,Gokana,MPHC TERABOR,,
+195,Rivers,Gokana,PHC BODO,,
+196,Rivers,Gokana,PHC GBE,,
+197,Rivers,Ikwere,IGWURUTA H/C,,
+198,Rivers,Ikwere,ELELE H/C,,
+199,Rivers,Ikwere,APANI H/C,,
+200,Rivers,Ikwere,OMERELU H/C,,
+201,Rivers,Ikwere,UBIMA H/C,,
+202,Rivers,Ikwere,ADANTA H/C,,
+203,Rivers,Ikwere,"ARMY HOSP.,ELELE",,
+204,Rivers,Ikwere,ALUU,,
+205,Rivers,Ikwere,OZUAHA H/C,,
+206,Rivers,Ikwere,IPO H/C,,
+207,Rivers,Ikwere,OMADEME H/C,,
+208,Rivers,Ikwere,OMUANWA H/C,,
+209,Rivers,Ikwere,FAAN CLINIC OMAGWA,,
+210,Rivers,Ikwere,"IWC, ISIOKPO",,
+211,Rivers,Ikwere,"General Hospital, Ubima",Nchia General Hospital,Rivers
+212,Rivers,Ikwere,CHC IGWURUTA,,
+213,Rivers,Ikwere,"COTTAGE HOSP., ALUU",,
+214,Rivers,Khana,BEERI,,
+215,Rivers,Khana,MPHC BORI,,
+216,Rivers,Khana,GEN. HOSP. BORI,,
+217,Rivers,Khana,MPHC KWAWA,,
+218,Rivers,Khana,KAA H/F,,
+219,Rivers,Khana,MPHC LUAWI,,
+220,Rivers,Khana,CHC KAANI 2,,
+221,Rivers,Khana,CHC KAANI 1,,
+222,Rivers,Khana,MPHC LUAWI,,
+223,Rivers,Khana,SOGHO H/POST,Zorsogho Health Post,Rivers
+224,Rivers,Khana,BETEM H/C,,
+225,Rivers,Khana,KPONG HP,,
+226,Rivers,Khana,BEAKOGORO HP,,
+227,Rivers,Khana,LUUWA HP,,
+228,Rivers,Khana,TEKA SOGHO PHC,,
+229,Rivers,Khana,KABANGHA HP,,
+230,Rivers,Khana,GWARA H/F,,
+231,Rivers,Khana,MPHC LUUMENE,,
+232,Rivers,Khana,MPHC OKWALE,,
+233,Rivers,Khana,TAABAA,,
+234,Rivers,Khana,MPHC KAANI,,
+235,Rivers,Khana,MPHC BANE,,
+236,Rivers,Khana,MPHC OPUOKO,,
+237,Rivers,Khana,MPHC KPEAN,,
+238,Rivers,Khana,YAE HP,,
+239,Rivers,Khana,KPAA HP,,
+240,Rivers,Khana,MPHC LUEKU,,
+241,Rivers,Khana,MPHC LUEBE,,
+242,Rivers,Khana,LOORE HP,,
+243,Rivers,Khana,LUEKU H/F,,
+244,Rivers,Obio-Akpo,MPHC RUKPOKWU,,
+245,Rivers,Obio-Akpo,MPHC RUMUEKINI,,
+246,Rivers,Obio-Akpo,MPHC ENEKA,,
+247,Rivers,Obio-Akpo,"6DIVISION,MED. CENTRE,BORI CAMP",,
+248,Rivers,Obio-Akpo,MPHC MGBUOSIMINI,,
+249,Rivers,Obio-Akpo,RUMULUMENI MPHC,,
+250,Rivers,Obio-Akpo,MPHC RUMUPRIKOM,,
+251,Rivers,Obio-Akpo,MPHC OZUOBA,,
+252,Rivers,Obio-Akpo,IRIEBE,,
+253,Rivers,Obio-Akpo,CHOBA HEALTH POST,Choba Health Post,Rivers
+254,Rivers,Obio-Akpo,HEALTH POST RUMUDARA,Rumudara Health Post,Rivers
+255,Rivers,Obio-Akpo,MPHC ELELENWO,,
+256,Rivers,Obio-Akpo,MPHC WOJI,,
+257,Rivers,Obio-Akpo,NAF MED,,
+258,Rivers,Ogba,OBIE,,
+259,Rivers,Ogba,OBOR,,
+260,Rivers,Ogba,ELIEZA,,
+261,Rivers,Ogba,OMOKU,,
+262,Rivers,Ogba,PHC IKIRI,,
+263,Rivers,Ogba,OBOBURU,,
+264,Rivers,Ogba,GENERAL HOSP. OMOKU,General Hospital Omoku,Rivers
+265,Rivers,Ogba,PHC EGBADA,,
+266,Rivers,Ogba,PHC IDU-OGBA,,
+267,Rivers,Ogba,AGGAH,,
+268,Rivers,Ogba,MGBEDE,,
+269,Rivers,Ogba,IBOCHA,,
+270,Rivers,Ogba,EKPE-AGGAH,,
+271,Rivers,Ogba,PHC OBIYEBE,,
+272,Rivers,Ogba,PHC EBOGORO,,
+273,Rivers,Ogba,ASSAH ASSAGAH,,
+274,Rivers,Ogba,NDONI H/C,,
+275,Rivers,Ogba,MPHC AKABUKA,,
+276,Rivers,Ogba,OGBEUKWU HEALTH CENTRE,Ozuzu Health Centre,Rivers
+277,Rivers,Ogba,MODEL PHC ASE ASAGAH,,
+278,Rivers,Ogba,OBIE HEALTH CENTRE,Ihie Health Centre,Rivers
+279,Rivers,Ogba,PHC OKPOSI,,
+280,Rivers,Ogba,GH EREMA,,
+281,Rivers,Ogba,IDU,,
+282,Rivers,Ogba,PHC KRIEGANI,,
+283,Rivers,Ogba,MPHC OBAGI,,
+284,Rivers,Ogba,PHC AMA,,
+285,Rivers,Ogu,IKPO HEALTH CENTRE,Okposi Health Centre,Rivers
+286,Rivers,Ogu,OPUAMA,,
+287,Rivers,Ogu,CHUKU,,
+288,Rivers,Ogu,GENERAL HOSP,Ngo General Hospital,Rivers
+289,Rivers,Ogu,OWUGONO H/C,,
+290,Rivers,Ogu,ELE,,
+291,Rivers,Ogu,OPUAMA,,
+292,Rivers,Okrika,ANYUNGU,,
+293,Rivers,Okrika,OGOLOMA,,
+294,Rivers,Okrika,OGBOGBO,,
+295,Rivers,Okrika,OKUJAGU,,
+296,Rivers,Okrika,ISAKA,,
+297,Rivers,Okrika,OBA,,
+298,Rivers,Okrika,OFIAMINA H/F,,
+299,Rivers,Okrika,OGAN,,
+300,Rivers,Okrika,KALIO MPHC,,
+301,Rivers,Okrika,GEORGE,,
+302,Rivers,Okrika,ZH OKRIKA,,
+303,Rivers,Omuma,UMUELECHI HEALTH CENTRE,Umuechem Health Centre,Rivers
+304,Rivers,Omuma,UMUOGBA H/C,,
+305,Rivers,Omuma,OBIOHIA H/C,,
+306,Rivers,Omuma,OYORO MODEL H/C,,
+307,Rivers,Omuma,OFEH H/C,,
+308,Rivers,Omuma,OHIM/OYORO H/C,,
+309,Rivers,Opobo_Nkoro,QUEEN'S TOWN H/C,,
+310,Rivers,Opobo_Nkoro,MPHC EPELLEAMA,,
+311,Rivers,Opobo_Nkoro,MPHC KALAIBIAMA,,
+312,Rivers,Opobo_Nkoro,MINIMA H/C,,
+313,Rivers,Opobo_Nkoro,H/C NKORO,,
+314,Rivers,Opobo_Nkoro,MPHC KALAIBIAMA,,
+315,Rivers,Oyigbo,MIRIANWANYI H/F,,
+316,Rivers,Oyigbo,OBEAKPU MPHC,,
+317,Rivers,Oyigbo,UMUSIA MPHC,,
+318,Rivers,Oyigbo,POLICE CLINIC,Oliver Clinic,Rivers
+319,Rivers,Oyigbo,LOCATION H/POST,,
+320,Rivers,Oyigbo,UMUAGAI H/F,,
+321,Rivers,Oyigbo,OBETE MPHC,,
+322,Rivers,Oyigbo,MPHC MARI UHU,,
+323,Rivers,Oyigbo,MPHC EGBERU,,
+324,Rivers,Oyigbo,ODUAH,,
+325,Rivers,Portharcourt,POTTS JOHNSON H/C,,
+326,Rivers,Portharcourt,OROGBUM H/C,,
+327,Rivers,Portharcourt,PRISONS,,
+328,Rivers,Portharcourt,CHURCHILL,,
+329,Rivers,Portharcourt,BUNDU AMA H/C,,
+330,Rivers,Portharcourt,MILITARY,,
+331,Rivers,Portharcourt,NAVY MEDICAL,,
+332,Rivers,Portharcourt,RESOURCE CENTRE,,
+333,Rivers,Portharcourt,PORT HARCOURT CITY COUNCIL SICKBAY,,
+334,Rivers,Portharcourt,OKURU AMA,,
+335,Rivers,Portharcourt,AZUBIE,,
+336,Rivers,Portharcourt,OZUBOKO,,
+337,Rivers,Portharcourt,AMADI AMA,,
+338,Rivers,Portharcourt,MINI HC,,
+339,Rivers,Portharcourt,ELEKAHIA,,
+340,Rivers,Tai,PHC BAN-OGOI,,
+341,Rivers,Tai,MPHC KOROMA,,
+342,Rivers,Tai,PHC GBAM,,
+343,Rivers,Tai,MPHC BARA-ALE,,
+344,Rivers,Tai,BOTEM MPHC,,
+345,Rivers,Tai,PHC UEKEN,,
+346,Rivers,Tai,MPHC KPITE,,
+347,Rivers,Tai,PHC BORO-BARA,,
+348,Rivers,Tai,GIO PHC,,
+349,Rivers,Tai,PHC KPORGHOR,,
+350,Sokoto,BINJI,General Hospital Binji,Binji General Hospital,Sokoto
+351,Sokoto,BINJI,Mai kulki dispensary,,
+352,Sokoto,BINJI,Bunkari Dispensary,,
+353,Sokoto,BINJI,PHC Inname,,
+354,Sokoto,BINJI,Dalijan Dispensary,,
+355,Sokoto,BINJI,PHC Samama,,
+356,Sokoto,BINJI,Kura Dispensary,,
+357,Sokoto,BINJI,Kalgo,,
+358,Sokoto,BINJI,Jamli Dispensary,,
+359,Sokoto,BINJI,PHC Dabaga,,
+360,Sokoto,Bodinga,General Hospital Bodinga,Bodinga General Hospital,Sokoto
+361,Sokoto,Bodinga,PHC Danchadi,,
+362,Sokoto,Bodinga,PHC Dingyadi,,
+363,Sokoto,Bodinga,PHC SIfawa,,
+364,Sokoto,Bodinga,PHC Bagalawa,,
+365,Sokoto,Bodinga,Badau Dispensary,,
+366,Sokoto,Bodinga,Dan Ajiwa Dispensary,,
+367,Sokoto,Bodinga,Bagarawa Dispensary,,
+368,Sokoto,Bodinga,Kauranmiyo Dispensary,,
+369,Sokoto,Bodinga,Kaura Tsara Dispensary,,
+370,Sokoto,Bodinga,Fatima Yahaya Hospital,Sifawa Fatima Yahayya,Sokoto
+371,Sokoto,Bodinga,PHC Wumumu,,
+372,Sokoto,Bodinga,PHC Raha,,
+373,Sokoto,Bodinga,PHC Darhela,,
+374,Sokoto,Bodinga,PHC Dabaga,,
+375,Sokoto,Dange Shuni,General Hospital Amanawa,Gada General Hospital,Sokoto
+376,Sokoto,Dange Shuni,Wababe Dispensary,,
+377,Sokoto,Dange Shuni,NPHC Dange Shuni,,
+378,Sokoto,Dange Shuni,Upgraded Shuni,,
+379,Sokoto,Dange Shuni,Army Hospital,Godiya Hospital,Sokoto
+380,Sokoto,Dange Shuni,Fajaldu Dispensary,,
+381,Sokoto,Dange Shuni,PHC Rakina,,
+382,Sokoto,Dange Shuni,Tsafanade Dispensary,,
+383,Sokoto,Dange Shuni,PHC Duka maje,,
+384,Sokoto,Dange Shuni,PHC Kadassaka,,
+385,Sokoto,Dange Shuni,Tuntunbe dispensary,,
+386,Sokoto,Dange Shuni,Tsafe dispensary,,
+387,Sokoto,Dange Shuni,PHC Rudu,,
+388,Sokoto,Gada,General Hospital Gada,Gada General Hospital,Sokoto
+389,Sokoto,Gada,G/Hashimu Dispensary,,
+390,Sokoto,Gada,PHC Kaffe,,
+391,Sokoto,Gada,Kaddi Dispensary,,
+392,Sokoto,Gada,Bigal Dispensary,,
+393,Sokoto,Gada,Kiliya Dispensary,,
+394,Sokoto,Gada,PHC Wauru,,
+395,Sokoto,Gada,Kiri Dispensary,,
+396,Sokoto,Gada,PHC Ila,,
+397,Sokoto,Gada,Holai Dispensary,,
+398,Sokoto,Gada,Gidan Gyado Dispensary,,
+399,Sokoto,Gada,Gilbadi Dispensary,,
+400,Sokoto,Gada,Gadabo Dispensary,,
+401,Sokoto,Gada,PHC Alamaddo,,
+402,Sokoto,Gada,PHC Kadadi,,
+403,Sokoto,Gada,PHC Duhuwa,,
+404,Sokoto,Gada,PHC Tajaye,,
+405,Sokoto,Gada,PHC Tsururu,,
+406,Sokoto,Gada,Sagera Disp,,
+407,Sokoto,Goronyo,Genaral Hospital Goronyo,Goronyo General Hospital,Sokoto
+408,Sokoto,Goronyo,PHC Yarimawa,,
+409,Sokoto,Goronyo,PHC Birjingo,,
+410,Sokoto,Goronyo,PHC Dantasakko,,
+411,Sokoto,Goronyo,Gamifa kawara,,
+412,Sokoto,Goronyo,PHC Zamace,,
+413,Sokoto,Goronyo,Fadarawa Dispensary,,
+414,Sokoto,Goronyo,Giyawa dispensary,,
+415,Sokoto,Goronyo,Boyakai Dispensary,,
+416,Sokoto,Goronyo,PHC Kojiyo,,
+417,Sokoto,Goronyo,PHC Kubutta,,
+418,Sokoto,Goronyo,Takakume Disp.,,
+419,Sokoto,Goronyo,PHC Illela Huda,,
+420,Sokoto,Goronyo,PHC Yamikuba,,
+421,Sokoto,Gudu,PHC Gudu,,
+422,Sokoto,Gudu,PHC Karfen Sarki,,
+423,Sokoto,Gudu,PHC Bachaka,,
+424,Sokoto,Gudu,PHC Kurdulla,,
+425,Sokoto,Gudu,Gh Balle,,
+426,Sokoto,Gudu,PHC Balle,,
+427,Sokoto,Gudu,PMV Muzalifa,,
+428,Sokoto,Gudu,Kandeza Dispensary,,
+429,Sokoto,Gudu,Makuya dispensary,,
+430,Sokoto,Gudu,PHC Marake,,
+431,Sokoto,Gudu,PHC Bunge,,
+432,Sokoto,Gudu,GH Gudu,,
+433,Sokoto,Gwadabawa,General Hospital Gwadabawa,Gwadabawa General Hospital,Sokoto
+434,Sokoto,Gwadabawa,PHC Chimmola,,
+435,Sokoto,Gwadabawa,PHC Salame,,
+436,Sokoto,Gwadabawa,Mammande Dispensary,,
+437,Sokoto,Gwadabawa,Mamman Suka Dispensary,,
+438,Sokoto,Gwadabawa,PHC Gigane,,
+439,Sokoto,Gwadabawa,Chancha Dispensary,,
+440,Sokoto,Gwadabawa,PHC Asara,,
+441,Sokoto,Gwadabawa,PHC Marian,,
+442,Sokoto,Gwadabawa,PHC Tukura,,
+443,Sokoto,Gwadabawa,PHC Atakwanyo,,
+444,Sokoto,Gwadabawa,PMV Karanci,,
+445,Sokoto,Gwadabawa,Gigane Nursing,,
+446,Sokoto,Gwadabawa,Alela Dispensary,,
+447,Sokoto,Gwadabawa,Yargada dispensary,,
+448,Sokoto,Gwadabawa,Abdalo dispensary,,
+449,Sokoto,Gwadabawa,Marina Clinic,Minanata Clinic,Sokoto
+450,Sokoto,Gwadabawa,PHC Kiliya,,
+451,Sokoto,Gwadabawa,PHC Makina,,
+452,Sokoto,Gwadabawa,PHC Zugana,,
+453,Sokoto,Isa,General Hospital Isah,Isa General Hospital,Sokoto
+454,Sokoto,Isa,Isah Town Dispensary,,
+455,Sokoto,Isa,PHC Bafarawa,,
+456,Sokoto,Isa,PHC Yanfako,,
+457,Sokoto,Isa,PHC Modachi,,
+458,Sokoto,Isa,PHC Tidibale,,
+459,Sokoto,Isa,PHC Turba,,
+460,Sokoto,Isa,PHC Gatawa,,
+461,Sokoto,Illela,Illelah Town Dispensary,,
+462,Sokoto,Illela,Sonane Dispensary,,
+463,Sokoto,Illela,Amarawa Dispensary,,
+464,Sokoto,Illela,Tozai Dispensary,,
+465,Sokoto,Illela,PHC Kalmalo,,
+466,Sokoto,Illela,PHC Araba,,
+467,Sokoto,Illela,PHC Aragati,,
+468,Sokoto,Illela,Darna,,
+469,Sokoto,Illela,Dankada Dispensary,,
+470,Sokoto,Illela,PHC Gidan Hamma,,
+471,Sokoto,Kebbe,General hospital Kebbe,Kebbe General Hospital,Sokoto
+472,Sokoto,Kebbe,PHC Kuchi,,
+473,Sokoto,Kebbe,PHC Rara,,
+474,Sokoto,Kebbe,PHC GIkau,,
+475,Sokoto,Kebbe,Maikurfun Dispensary,,
+476,Sokoto,Kebbe,PHC Ungushi,,
+477,Sokoto,Kebbe,PHC Margai,,
+478,Sokoto,Kebbe,Sangi Dispensary Kebbe,,
+479,Sokoto,Kebbe,Labau Dispensary,,
+480,Sokoto,Kebbe,Sagira dispensary,,
+481,Sokoto,Kebbe,Nasagudu dispensary,,
+482,Sokoto,Kebbe,Jigiri dispensary,,
+483,Sokoto,Kebbe,PHC Kuduttu,,
+484,Sokoto,Kebbe,Dukura dispensary,,
+485,Sokoto,Kware,PHC Kware,,
+486,Sokoto,Kware,CHC Kware,,
+487,Sokoto,Kware,PHC Durbawa,,
+488,Sokoto,Kware,PHC Balkore,,
+489,Sokoto,Kware,PHC Umamruma,,
+490,Sokoto,Kware,PHC Zamau,,
+491,Sokoto,Kware,PHC Kabanga,,
+492,Sokoto,Kware,PHC Rakwamni,,
+493,Sokoto,Kware,Sabarru dispensary,,
+494,Sokoto,Kware,PHC Tsaki,,
+495,Sokoto,Kware,PHC Ruggar Lima,,
+496,Sokoto,Kware,PHC Gundunga,,
+497,Sokoto,Kware,F.N.P.H Kware,,
+498,Sokoto,Kware,PHC Hamma'ali,,
+499,Sokoto,Kware,PHC Tungar Galadima,Tungar Galadima Health Clinic,Sokoto
+500,Sokoto,Kware,PHC Kasgada,,
+501,Sokoto,Kware,PHC Basansan,,
+502,Sokoto,Kware,PHC Ihi,,
+503,Sokoto,Kware,PHC More,,
+504,Sokoto,Kware,PHC Gemun Damu,,
+505,Sokoto,Rabah,General Hospital Rabah,Rabah General Hospital,Sokoto
+506,Sokoto,Rabah,PHC Gandi,,
+507,Sokoto,Rabah,Raba Dispensary,,
+508,Sokoto,Rabah,Y/Tsakuwa PHC,,
+509,Sokoto,Rabah,PHC Rara,,
+510,Sokoto,Rabah,Danbanda Dispensary,,
+511,Sokoto,Rabah,PHC Badamma,,
+512,Sokoto,Rabah,PHC Gwaddodi,,
+513,Sokoto,Rabah,PHC Riji,,
+514,Sokoto,Rabah,PHC Tsamiya,,
+515,Sokoto,Rabah,Mabah Dispensary,,
+516,Sokoto,Rabah,PHC Alakiru,,
+517,Sokoto,Rabah,PHC Warwanna,,
+518,Sokoto,Rabah,PHC Tofa,,
+519,Sokoto,Rabah,PHC Rakwamni,,
+520,Sokoto,Rabah,PHC Maikujera,,
+521,Sokoto,Sabon Birni,Town Clinic Sabon Birni,Sabon Birni Health Clinic,Sokoto
+522,Sokoto,Sabon Birni,General Hospital Sabon Birni,Sabon Birni General Hospital,Sokoto
+523,Sokoto,Sabon Birni,Makuwana Clinic,Kwanni Clinic,Sokoto
+524,Sokoto,Sabon Birni,PHC Tsamaye,,
+525,Sokoto,Sabon Birni,PHC Gatawa,,
+526,Sokoto,Sabon Birni,Kalgo Dispensary,,
+527,Sokoto,Sabon Birni,Tara Dispensary,,
+528,Sokoto,Sabon Birni,PHC Kurawa,,
+529,Sokoto,Sabon Birni,PHC U/ile,,
+530,Sokoto,Sabon Birni,Yarbullutuwa PHC,,
+531,Sokoto,Sabon Birni,PHC Goidan Idi,,
+532,Sokoto,Sabon Birni,PPM Sabon Birni,,
+533,Sokoto,Sabon Birni,PHC Kalgo,,
+534,Sokoto,Sabon Birni,PHC Rambadawa,,
+535,Sokoto,Sabon Birni,PHC Lajinge,,
+536,Sokoto,Sabon Birni,PHC Tara,,
+537,Sokoto,Shagari,General Hospital Shagari,Shagari General Hospital,Sokoto
+538,Sokoto,Shagari,Kajiji Dispensary,,
+539,Sokoto,Shagari,Runjin Kaka Dispensary,,
+540,Sokoto,Shagari,PHC Horo,,
+541,Sokoto,Shagari,G/Tudu Dispensary,,
+542,Sokoto,Shagari,PHC Dadinmahe,,
+543,Sokoto,Shagari,PHC Jaredi,,
+544,Sokoto,Shagari,PHC Sanyinnawal,,
+545,Sokoto,Shagari,PHC Madenra,,
+546,Sokoto,Shagari,Tunga Dispensary,,
+547,Sokoto,Shagari,Darin Guru Dispensary,,
+548,Sokoto,Shagari,Kesoje Dispensary,,
+549,Sokoto,Shagari,PHC Lambara,,
+550,Sokoto,Shagari,Lugu Dispensary,,
+551,Sokoto,Shagari,PHC Rinaye,,
+552,Sokoto,Shagari,PHC Kambama,,
+553,Sokoto,Shagari,Mabera H.Post,Mabera Health Post,Sokoto
+554,Sokoto,Shagari,PHC Sage,,
+555,Sokoto,Silame,General Hospital Silame,Silame General Hospital,Sokoto
+556,Sokoto,Silame,PHC Gande,,
+557,Sokoto,Silame,NPHC Katami,,
+558,Sokoto,Silame,Rairan Fulani Healthpost,Sarma A  Health Post,Sokoto
+559,Sokoto,Silame,Jekanadu Dispensary,,
+560,Sokoto,Silame,Gidan Audu health post,Gidan Almu Health Post,Sokoto
+561,Sokoto,Silame,Marafa Dispensary,,
+562,Sokoto,Silame,Tozo dispensary,,
+563,Sokoto,Silame,Gaukai Dispensary,,
+564,Sokoto,Silame,Yola dispensary,,
+565,Sokoto,Silame,Katami North dispensary,,
+566,Sokoto,Silame,Gidan Tudu Dispensary,,
+567,Sokoto,Silame,PMV Gandu,,
+568,Sokoto,Silame,PMV Saudat,,
+569,Sokoto,Silame,Labani Health post,Labani Health Post,Sokoto
+570,Sokoto,Silame,Gadanbe Health post,Gadambe Health Post,Sokoto
+571,Sokoto,Silame,Chopal Health Post,Chofal Health Post,Sokoto
+572,Sokoto,Silame,Karangiya Dispensary,,
+573,Sokoto,Silame,Gunki Dispensary,,
+574,Sokoto,Silame,Maje Dispensary,,
+575,Sokoto,Silame,PHC Dan Magaji,,
+576,Sokoto,Silame,Tunga Abdu Dispensary,,
+577,Sokoto,Silame,Gujiya Dispensary,,
+578,Sokoto,Silame,Dankala Dispensary,,
+579,Sokoto,Sokoto North,Rumbukawa Clinic,,
+580,Sokoto,Sokoto North,Alkammawa Clinic,,
+581,Sokoto,Sokoto North,Mainiyo Dispensary,,
+582,Sokoto,Sokoto North,Kofar Kade Clinic,,
+583,Sokoto,Sokoto North,WCWC Sokoto,,
+584,Sokoto,Sokoto North,Noma Hospital,Noma Hospital,Sokoto
+585,Sokoto,Sokoto North,PHC Gidan Igwai,,
+586,Sokoto,Sokoto North,PHC gidan Dare,,
+587,Sokoto,Sokoto North,PHC Sabon Birni,,
+588,Sokoto,Sokoto North,Mabera Clinic,Saraki Clinic,Sokoto
+589,Sokoto,Sokoto North,Holy Family Specialist,,
+590,Sokoto,Sokoto North,Shekina Specialist Hospital,Sokoto Specialist Hospital,Sokoto
+591,Sokoto,Sokoto North,Sokoto Clinic,,
+592,Sokoto,Sokoto South,Specialist Hospital Sokoto,Sokoto Specialist Hospital,Sokoto
+593,Sokoto,Sokoto South,BHSC Yarakija,,
+594,Sokoto,Sokoto South,Wali Bako SHS,,
+595,Sokoto,Sokoto South,Alfijir SHS,,
+596,Sokoto,Sokoto South,PHC Gagi,,
+597,Sokoto,Sokoto South,Godiya Clinic,Lafiya Clinic,Sokoto
+598,Sokoto,Sokoto South,Standard Clinic,Standard Clinic,Sokoto
+599,Sokoto,Tambuwal,General Hospital Tambuwa,Tambuwal General Hosp,Sokoto
+600,Sokoto,Tambuwal,General Hospital Dogon Daji,Dogon Daji General Hospital,Sokoto
+601,Sokoto,Tambuwal,PHC Alasan Faga,,
+602,Sokoto,Tambuwal,PHC Sanyinna,,
+603,Sokoto,Tambuwal,PHC Jabo,,
+604,Sokoto,Tambuwal,PHC Tambuwal,,
+605,Sokoto,Tambuwal,PHC Roman Liman,,
+606,Sokoto,Tambuwal,PHC Romon Sarki,,
+607,Sokoto,Tambuwal,PHC Barkeji,,
+608,Sokoto,Tambuwal,Tulluwa Dispwnsary,,
+609,Sokoto,Tambuwal,Bashire Dispensary,,
+610,Sokoto,Tambuwal,Sala Dispensary,,
+611,Sokoto,Tangaza,General Hospital Tangaza,Tangaza General Hospital,Sokoto
+612,Sokoto,Tangaza,PHC Gidan Madi,,
+613,Sokoto,Tangaza,Mungaho Dispensary,,
+614,Sokoto,Tangaza,PHC Ruwa wuri,,
+615,Sokoto,Tangaza,Ginjo Dispensary,,
+616,Sokoto,Tangaza,Maja Dispensary,,
+617,Sokoto,Tangaza,Bauni Dispensary,,
+618,Sokoto,Tangaza,Sarma Dispensary,,
+619,Sokoto,Tangaza,Dinbizo Dispensary,,
+620,Sokoto,Tangaza,PHC Masallaci,,
+621,Sokoto,Tangaza,PHC Raka,,
+622,Sokoto,Tangaza,PHC Zamoriya,,
+623,Sokoto,Tangaza,PHC Kalanjeni,,
+624,Sokoto,Tangaza,PHC Baidi,,
+625,Sokoto,Tangaza,PHC Alkasim,,
+626,Sokoto,Tangaza,PHC Labsani,,
+627,Sokoto,Tangaza,PHC Zurmuku,,
+628,Sokoto,Tangaza,Gidan Dare Clinic,Gidan Dadi Health Clinic,Sokoto
+629,Sokoto,Tangaza,Abdullahi Dan Masudu Clinic,,
+630,Sokoto,Tangaza,Nasiha Clinic,Nasiha Health Clinic,Sokoto
+631,Sokoto,Tangaza,PHC Alele,,
+632,Sokoto,Tangaza,Arewa Lab and Diagnostics,,
+633,Sokoto,Tureta,General Hospital Tureta,Tureta General Hospital,Sokoto
+634,Sokoto,Tureta,Tureta Town Dispensary,,
+635,Sokoto,Tureta,Lambar Tureta Dispensary,,
+636,Sokoto,Tureta,Tsamiya Dispensary,,
+637,Sokoto,Tureta,Karuwa Dispensary,,
+638,Sokoto,Tureta,PMV Al’ihsan,,
+639,Sokoto,Tureta,Duma Dispensary,,
+640,Sokoto,Tureta,Kwarare Dispensary,,
+641,Sokoto,Tureta,Galadumai Disppensary,,
+642,Sokoto,Tureta,PHC Rinare,,
+643,Sokoto,Tureta,G/Dangiwa Dispensary,,
+644,Sokoto,Tureta,PHC Modomawa,,
+645,Sokoto,Tureta,PHC Rafin Buda,,
+646,Sokoto,Tureta,PHC Gidan Kare,,
+647,Sokoto,Tureta,Jankware Dispensary,,
+648,Sokoto,Tureta,PHC Fura Girke,,
+649,Sokoto,Tureta,PHC Garbe Kanne,,
+650,Sokoto,Tureta,PHC Jandutsi,,
+651,Sokoto,Tureta,PHC Randa,,
+652,Sokoto,Tureta,PHC Lofa,,
+653,Sokoto,Tureta,PHC Dangilbi,,
+654,Sokoto,Tureta,PHC Kamfanin Diya,Kamfanin Diya Health Post,Sokoto
+655,Sokoto,Tureta,PHC Gidan Garkuwa,,
+656,Sokoto,Tureta,PHC Gidan Ba'are,,
+657,Sokoto,Tureta,PHC Bimasa,,
+658,Sokoto,Tureta,PHC Kanin,,
+659,Sokoto,Tureta,PHC Kawara,,
+660,Sokoto,Wurno,General Hospital Wurno,Wurno General Hospital,Sokoto
+661,Sokoto,Wurno,PHC Achida,,
+662,Sokoto,Wurno,PHC Marnona,,
+663,Sokoto,Wurno,Wurno Town dispensary,,
+664,Sokoto,Wurno,Kandam dispensary,,
+665,Sokoto,Wurno,Duhuwa dispensary,,
+666,Sokoto,Wurno,Tahir medical Center,Tahir Medical Center Achida,Sokoto
+667,Sokoto,Wurno,PHC Saketa,,
+668,Sokoto,Wurno,PHC Dimbiso,,
+669,Sokoto,Wurno,PHC Kadagiwa,,
+670,Sokoto,Wurno,PHC Masama,,
+671,Sokoto,Yabo,General Hospital Yabo,Yabo General Hospital,Sokoto
+672,Sokoto,Yabo,PHC Binjin Muza,,
+673,Sokoto,Yabo,PHC kilgori,,
+674,Sokoto,Yabo,WCWC Yabo,,
+675,Sokoto,Yabo,Torankawa Dispensary,,
+676,Sokoto,Yabo,PHC B/ruwa,,
+677,Sokoto,Yabo,PHC Kaura,,
+678,Sokoto,Yabo,PHC Bengaje,,
+679,Sokoto,Yabo,PHC Dagawa,,
+680,Sokoto,Yabo,Binji Dispensary,,
+681,Sokoto,Yabo,Alkalije dispensary,,
+682,Sokoto,Yabo,Kamfataye dispensary,,
+683,Sokoto,Yabo,Kibiyare Dispensary,,
+684,Sokoto,Yabo,Gomara Dispensary,,
+685,Sokoto,Yabo,Dono Dispensary,,
+686,Sokoto,Yabo,Addam Dispensary,,
+687,Sokoto,Wammakko,Usman Danfodio University Teaching Hospital,Usman Danfodio University Teaching Hospital,Sokoto
+688,Sokoto,Wammakko,BHSC Arkilla,,
+689,Sokoto,Wammakko,Maganawa Clinic,Minanata Clinic,Sokoto
+690,Sokoto,Wammakko,Mankeri Dispensary,,
+691,Sokoto,Wammakko,PHC Gumbi,,
+692,Sokoto,Wammakko,PHC Kasarawa,,
+693,Sokoto,Wammakko,PHC Dundaye,,
+694,Sokoto,Wammakko,PPM Arkilla,,
+695,Sokoto,Wammakko,PHC Yarume Police clinic,Police Clinic,Sokoto
+696,Sokoto,Wammakko,Gidan bubu dispensary,,
+697,Sokoto,Wammakko,PHC Samalu,,
+698,Sokoto,Wammakko,PHC Gidan Sarki Dunki,Gidan Sarkin Dunki Health Post,Sokoto
+699,Sokoto,Wammakko,PHC Gwamatse,,
+700,Sokoto,Wammakko,PHC Gidan Habibu,Gidan Habibu Health Post,Sokoto
+701,Sokoto,Wammakko,PHC Zabori,,
+702,Sokoto,Wammakko,Alheri Clinis,Alheri Clinic,Sokoto
+703,Sokoto,Wammakko,PHC Gatare,,
+704,Sokoto,Wammakko,Madalla Lafiya Clinic,Lafiya Clinic,Sokoto
+705,Sokoto,Wammakko,Alshifa Medical Centre,Tahir Medical Center Achida,Sokoto
+706,Sokoto,Wammakko,Wammako Maternity,,
+707,Sokoto,Wammakko,Mopol Clinic,Police Clinic,Sokoto
+708,Sokoto,Wammakko,Khadija Dental Clinic,Kadadi Health Clinic,Sokoto
+709,Sokoto,Wammakko,Jama'a Clinic,Jama'a Clinic,Sokoto
+710,Sokoto,Wammakko,PHC Yallabe,,
+711,Sokoto,Wammakko,PHC Kaurare,,
+712,Sokoto,Wammakko,PHC Gidan Kaduna,Gidan Kaduna Health Post,Sokoto
+713,Sokoto,Wammakko,PHC Daraye,,
+714,Sokoto,Wammakko,PHC Badano,,
+715,Sokoto,Wammakko,PHC Samalu,,
+716,State,LGA OF GENEXPERT,Testing Hub Facility,,
+717,Rivers,ABUA/ODUAL,GH Abua,,
+718,Rivers,AHOADA EAST,ZH AHOADA,,
+719,Rivers,DEGEMA,ZH DEGEMA,,
+720,Rivers,KHANA,ZH BORI,,
+721,Rivers,BONNY,GH Abua,,
+722,Rivers,PORT HARCOURT,MILITARY HOSP.,Military Hospital,Rivers
+723,Rivers,OKRIKA,GH OKRIKA,,
+724,Rivers,OBIO/AKPOR,UPTH,,
+725,Rivers,Etche,MPHC RUMUIGBO,,
+726,Rivers,GOKANA,GH TERABOR,,
+727,Rivers,OBIO/AKPOR,MPHC RUMUIGBO,,
+728,Rivers,OGBA/EGBEMA/NDONI,"GBEYE HOSP., OMOKU",General Hospital Omoku,Rivers
+729,Rivers,OKRIKA,ZH OKRIKA,,
+730,Rivers,PORT HARCOURT,RSUTH,,
+731,Rivers,Abua_Odual,AYAMA MPHC,,
+732,Rivers,Abua_Odual,ANYU MPHC,,
+733,Rivers,Ahoada East,MPHCC AHOADA,,
+734,Rivers,Ahoada East,IHUGBOGO MPHC,,
+735,Rivers,Ahoada East,Okporomini Health Centre,Okporomini Primary Health Centre,Rivers
+736,Rivers,Ahoada West,UBETA MPHC,,
+737,Rivers,Ahoada West,MPHC AKINIMA,,
+738,Rivers,Ahoada West,MPHC OKOGBE,,
+739,Rivers,Akuku Toru,ABONNEMA MPHC,,
+740,Rivers,Akuku Toru,MPHC KULA,,
+741,Rivers,Andoni,MPHC UNYEADA,,
+742,Rivers,Andoni,MPHC UNDEADA,,
+743,Rivers,Andoni,MPHC IKURU,,
+744,Rivers,Andoni,PHC IBOTIREM,,
+745,Rivers,Asari Toru,BMHC,,
+746,Rivers,Bonny,M.H.C BONNY,,
+747,Rivers,Bonny,Greens,,
+748,Rivers,Bonny,BANIGO,,
+749,Rivers,Bonny,MPHC PETERSIDE,,
+750,Rivers,Degema,MPHC USOKUN,,
+751,Rivers,Degema,MPHC BILLE,,
+752,Rivers,Degema,TOMBIA MPHC,,
+753,Rivers,Eleme,MPHC AKPAJO,,
+754,Rivers,Eleme,MPHC EBUBU,,
+755,Rivers,Emohua,PHC NDELE,,
+756,Rivers,Emohua,MPHC OGBAKIRI,,
+757,Rivers,Etche,ULAKWO MPHC,,
+758,Rivers,Etche,"Gen Hosp, Okomoko",General Hospital Okomoko,Rivers
+759,Rivers,Etche,KPOR MPHC,,
+760,Rivers,Gokana,KPOR MPHC,,
+761,Rivers,Gokana,TERABOR GEN. HOSP.,TERABOR GENERAL HOSPITAL,Rivers
+762,Rivers,Ikwere,ZH ISIOKPO,,
+763,Rivers,Ikwere,OMAGWA H/C,,
+764,Rivers,Khana,PHC BORI,,
+765,Rivers,Khana,WIIYAAKARA,,
+766,Rivers,Obio-Akpo,MPHC RUMUODOMAYA,,
+767,Rivers,Obio-Akpo,MPHC RUMUEME,,
+768,Rivers,Obio-Akpo,RUMUKRUSHI,,
+769,Rivers,Ogba,MPHC OBRIKOM,,
+770,Rivers,Ogba,OKWUZI,,
+771,Rivers,Ogba,MPHC NDONI,,
+772,Rivers,Ogba,MPHC EREMA,,
+773,Rivers,Ogu,MPHC OGU,,
+774,Rivers,Ogu,BHC BOLO,,
+775,Rivers,Ogu,OPUAMA H/C,,
+776,Rivers,Okrika,IBAKA MPHC,,
+777,Rivers,Okrika,ISAKA H/C,,
+778,Rivers,Okrika,OKOCHIRI,,
+779,Rivers,Omuma,PHC EBERI,,
+780,Rivers,Opobo_Nkoro,CHC OPOBO,,
+781,Rivers,Opobo_Nkoro,H/C NKORO,,
+782,Rivers,Oyigbo,CHC OYIGBO,,
+783,Rivers,Oyigbo,MPHC OBEAKPU,,
+784,Rivers,Oyigbo,ODUA H/F,,
+785,Rivers,Portharcourt,MGBUDUKWU MPHC,,
+786,Rivers,Portharcourt,ABULOMA MPHC,,
+787,Rivers,Tai,PHC BUNU,,
+788,Rivers,Tai,MPHC NONWA,,
+789,Rivers,Tai,MPHC KOROKORO,,
+790,Rivers,Tai,MPHC KIRA,,
+791,Sokoto,,GH BINJI,,
+792,Sokoto,,MMSHS,,
+793,Sokoto,,GH DOGON DAJI,,
+794,Sokoto,,UDUTH,,
+795,Sokoto,,IDH AMANAWA,,
+796,Sokoto,,GH ILLELA,,
+797,Sokoto,,CHC KOFAR RINI,,
+798,Sokoto,,GH ISA,,
+799,Sokoto,,GH YABO,,

@@ -5,7 +5,7 @@ from fuzzywuzzy import fuzz, process
 df_master = pd.read_csv("HFR_with_coordinates.csv")
 
 # Read the hub DataFrame
-df_hub = pd.read_csv("ngozi_dataset.csv")
+df_hub = pd.read_csv("ikenna_dataset.csv")
 
 # Create a function to find the best match using fuzzywuzzy
 def find_best_match(name, candidates):
@@ -53,4 +53,4 @@ df_hub['validated_state'] = df_hub.apply(
 )
 
 # Save the updated DataFrame to a new CSV file
-df_hub.to_csv("./ngozi_validated_sites.csv", index=False)
+df_hub.to_csv("./ikenna_validated_sites.csv", index=False)
