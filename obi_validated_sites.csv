@@ -1,0 +1,1558 @@
+id,state,lga,facility_name,corrected_facility_name,validated_state
+1,Kogi,AJAOKUTA,PHC OKUBANYI,,
+2,Kogi,AJAOKUTA,PHC EBIYA,,
+3,Kogi,AJAOKUTA,ASCL AJAOKUTA,,
+4,Kogi,AJAOKUTA,PHC EMIWORO,,
+5,Kogi,AJAOKUTA,CHC GEREGU,,
+6,Kogi,AJAOKUTA,GANAJA MEDICALS,,
+7,Kogi,AJAOKUTA,PHC INNAYERE,,
+8,Kogi,AJAOKUTA,PHC APANKO,,
+9,Kogi,AJAOKUTA,PECULIAR HOSPITAL GANAJA,Grano Specialist Hospital,Kogi
+10,Kogi,AJAOKUTA,UNIQUE CLINIC AJAOKUTA,Unique Clinic,Kogi
+11,Kogi,AJAOKUTA,PHC PATESI,,
+12,Kogi,AJAOKUTA,LARONK CLINIC AJAOKUTA,,
+13,Kogi,AJAOKUTA,PHC ADU,,
+14,Kogi,AJAOKUTA,PHC OGIGIRI,,
+15,Kogi,AJAOKUTA,PHC UPOROKO,,
+16,Kogi,AJAOKUTA,PHC GEREGU,,
+17,Kogi,AJAOKUTA,PHC ODONU,,
+18,Kogi,AJAOKUTA,PHC ADOGO,,
+19,Kogi,AJAOKUTA,COVENANT CLINIC AJAOKUTA,Convenat Clinic,Kogi
+20,Kogi,KOGI,PHC BADOKO,,
+21,Kogi,KOGI,GH KOTON KARFE,,
+22,Kogi,KOGI,FSP KOTON KARFE,,
+23,Kogi,KOGI,PHC AHOKO,,
+24,Kogi,KOGI,MCH GEGU BEKI,,
+25,Kogi,KOGI,PHC SEREGAMA,,
+26,Kogi,KOGI,PHC GEGU,,
+27,Kogi,KOGI,PHC ACHABO,,
+28,Kogi,KOGI,PHC ADABO,,
+29,Kogi,KOGI,PHC ODAH,,
+30,Kogi,KOGI,ECWA CLINIC OREHI,ECWA  clinic orehi,Kogi
+31,Kogi,KOGI,KOTO PRISON,,
+32,Kogi,KOGI,PHC CHIKAKA,,
+33,Kogi,KOGI,PHC GIRINYAN,,
+34,Kogi,OFU,HMH OCHADAMU,,
+35,Kogi,OFU,CHC ALLOMA,,
+36,Kogi,OFU,PHC UGWOLAWO,,
+37,Kogi,OFU,PHC ITOBE,,
+38,Kogi,OFU,MPHCC ITOBE,,
+39,Kogi,OFU,PHC EJULE,,
+40,Kogi,OFU,PHC UMOMI,,
+41,Kogi,OFU,PHC OWOWOLO,,
+42,Kogi,OFU,GH UGWOLAWO,,
+43,Kogi,OFU,SALAM CLINIC UGWOLAWO,Sallam Clinic Ugwolawo,Kogi
+44,Kogi,OFU,PHC OJUWOCHA,,
+45,Kogi,OFU,IKEBE CLINIC,Okene Clinic,Kogi
+46,Kogi,IGALAMELA,PHC AJAKA,,
+47,Kogi,IGALAMELA,PHC ODOLU,,
+48,Kogi,IGALAMELA,PHC OGBOGBO,,
+49,Kogi,IGALAMELA,PHC OFORACHI,,
+50,Kogi,IDAH,PHC UNIT IDAH,,
+51,Kogi,IDAH,PHC OFIGI,,
+52,Kogi,IDAH,ZH IDAH,,
+53,Kogi,IDAH,PHC ANGWA,,
+54,Kogi,IDAH,OLMMH IDAH,,
+55,Kogi,IDAH,PHC EDE ALABA,,
+56,Kogi,IDAH,PHC EFULU,,
+57,Kogi,IDAH,NSP DOT,,
+58,Kogi,DEKINA,PAAUTH ANYIGBA,,
+59,Kogi,DEKINA,PHC OGANENIGWU,,
+60,Kogi,DEKINA,GRIMARD HOSPITAL ANYIGBA,Grimard Hospital,Kogi
+61,Kogi,DEKINA,MARIA GORETTI HOSPITAL ANYIGBA,Maria-Gorritt Hospital,Kogi
+62,Kogi,DEKINA,GH IYALE,,
+63,Kogi,DEKINA,ALL STARS CLINIC ANYIGBA,All Star Clinic Ayingba,Kogi
+64,Kogi,DEKINA,OCHIKA HOSPITAL ABOCHO,Ika Christan Hospital,Kogi
+65,Kogi,DEKINA,MCH DEKINA,,
+66,Kogi,DEKINA,COTTAGE HOSPITAL ABOCHO,Abocho Cottage Hospital,Kogi
+67,Kogi,DEKINA,PEACE HOSPITAL ANYIGBA,Peace Hospital Anyigba,Kogi
+68,Kogi,DEKINA,GOOD SHEPHERD HOSPITAL ANYIGBA,Peace Hospital Anyigba,Kogi
+69,Kogi,DEKINA,AMAZING GRACE HOSPITAL ANYIGBA,Amazing Grace Hospital,Kogi
+70,Kogi,DEKINA,RHEMA HOSPITAL ANYIGBA,Peace Hospital Anyigba,Kogi
+71,Kogi,DEKINA,DEKINA PRISON,,
+72,Kogi,DEKINA,ZH DEKINA,,
+73,Kogi,BASSA,GH OGUMA,,
+74,Kogi,BASSA,PHCC OGUMA,,
+75,Kogi,BASSA,PHC KPATA,,
+76,Kogi,BASSA,PHCC GBOLOKO,,
+77,Kogi,BASSA,PHC KPANCHE,,
+78,Kogi,BASSA,PHC ODENYI,,
+79,Kogi,BASSA,PHC UWOMUA,,
+80,Kogi,BASSA,PHC IKENDE,,
+81,Kogi,BASSA,GH SHERIA,,
+82,Kogi,BASSA,ECWA HOSPITAL AKAKANA,Adekanye Hospital,Kogi
+83,Kogi,OMALA,PHC BAGANA,,
+84,Kogi,OMALA,GH ABEJUKOLO,,
+85,Kogi,OMALA,AK CLINIC ABEJUKOLO,Abejukolo Fsp Clinic,Kogi
+86,Kogi,OMALA,PHC IBADO,,
+87,Kogi,OMALA,PHC OGBA,,
+88,Kogi,OMALA,PHC BAGAJI,,
+89,Kogi,OMALA,PHC DRISU,,
+90,Kogi,OMALA,PEACE HOSPITAL ABEJUKOLO,Abejukolo Peace Hospital,Kogi
+91,Kogi,OMALA,AGAPE CLINIC ABEJUKOLO,Abejukolo Fsp Clinic,Kogi
+92,Kogi,OMALA,PHC OGODU,,
+93,Kogi,OMALA,PHC ECHA,,
+94,Kogi,OMALA,PHC ICHEKE,,
+95,Kogi,OMALA,DIVINE HEALTH CENTRE,Ejiba Health Centre,Kogi
+96,Kogi,OMALA,OCHALA MEMORIAL CLINIC,Ochala Memorial Clinic,Kogi
+97,Kogi,IBAJI,PHC OLAKWU,,
+98,Kogi,IBAJI,PHC ONYEDEGA,,
+99,Kogi,IBAJI,PHC UNALE,,
+100,Kogi,IBAJI,PHC UBONYE,,
+101,Kogi,IBAJI,PHC OJEBE,,
+102,Kogi,IBAJI,PHC ICHALA AJODE,,
+103,Kogi,IBAJI,PHC AYEKE,,
+104,Kogi,IBAJI,PHC AFAH,,
+105,Kogi,IBAJI,PHC ODEKE,,
+106,Kogi,IBAJI,PHC ELELE,,
+107,Kogi,IBAJI,PHC INEME,,
+108,Kogi,IBAJI,PHC ALUAJA IYANO,,
+109,Kogi,IBAJI,PHC ENWELI,,
+110,Kogi,IBAJI,CHC ONYEDEGA,,
+111,Kogi,IBAJI,PHC AYAH,,
+112,Kogi,IBAJI,CHC EJULE OJEBE,,
+113,Kogi,IBAJI,OJOCHEGBE CLINIC,Ojochide Clinic (AJA),Kogi
+114,Kogi,IBAJI,PHC ANEKE,,
+115,Kogi,IBAJI,PHC ODOGWU,,
+116,Kogi,IBAJI,PHC EJULE ONU,,
+117,Kogi,ANKPA,ZH ANKPA,,
+118,Kogi,ANKPA,PHC OGODO,,
+119,Kogi,ANKPA,AL-NURU OGODO,,
+120,Kogi,ANKPA,IKA CHRISTIAN HOSPITAL,Ika Christan Hospital,Kogi
+121,Kogi,ANKPA,BETHEL HOSPITAL ANKPA,Ankpa General Hospital,Kogi
+122,Kogi,ANKPA,MPHCC INYE,,
+123,Kogi,ANKPA,PHC ABACHE,,
+124,Kogi,ANKPA,PHC ODOGOMU,,
+125,Kogi,ANKPA,PHC EJEGBO,,
+126,Kogi,ANKPA,PHC OKPIKO,,
+127,Kogi,ANKPA,PHC ANKPA,,
+128,Kogi,ANKPA,PHC EMANYI,,
+129,Kogi,ANKPA,PHC IKANEKPO,,
+130,Kogi,ANKPA,ACHEKA HOSPITAL,Grace Hospital,Kogi
+131,Kogi,ANKPA,MCH ANKPA,,
+132,Kogi,ANKPA,DEBSUM CLINIC EJEGBO,,
+133,Kogi,ANKPA,PHC OGAJI,,
+134,Kogi,ANKPA,PHC AMOKE,,
+135,Kogi,ANKPA,PHC AFOR GAMGAM,,
+136,Kogi,ANKPA,PHC OJOKU,,
+137,Kogi,ANKPA,OLPH ANKPA,,
+138,Kogi,ANKPA,OLH ANKPA,,
+139,Kogi,OLAMABORO,FSP OKPO,,
+140,Kogi,OLAMABORO,GH OKPO,,
+141,Kogi,OLAMABORO,CHC IMANE,,
+142,Kogi,OLAMABORO,PHC OFANTE,,
+143,Kogi,OLAMABORO,EL SHADDAI HOSPITAL,Shifaah Hospital,Kogi
+144,Kogi,OLAMABORO,PHC OGUGU,,
+145,Kogi,OLAMABORO,PHC IKEJE,,
+146,Kogi,OLAMABORO,PHC ADEH,,
+147,Kogi,ADAVI,CHC NAGAZI,,
+148,Kogi,ADAVI,ECWA CLINIC KUROKO,ECWA  clinic orehi,Kogi
+149,Kogi,ADAVI,APASI CLINIC,Apasi Clinic,Kogi
+150,Kogi,ADAVI,MPHC OZURI,,
+151,Kogi,ADAVI,PHC OSOMA,,
+152,Kogi,ADAVI,PHC IRUVOCHINOMI,,
+153,Kogi,ADAVI,PHC INOZIOMI,,
+154,Kogi,ADAVI,PHC OKUNCHI,,
+155,Kogi,ADAVI,"SAMBIYABO HOSPITAL IZIONOMI,",,
+156,Kogi,ADAVI,PHC OZIOKUTU,,
+157,Kogi,ADAVI,PEOPLES CLINIC,People's Clinic,Kogi
+158,Kogi,ADAVI,PHC OSISI/IPAKETU,,
+159,Kogi,ADAVI,MPHC OSARA,,
+160,Kogi,ADAVI,PHC UTOHU,,
+161,Kogi,ADAVI,ST JOSEPH HOSPITAL,,
+162,Kogi,ADAVI,DEEZA CLINIC,Doe Clinic,Kogi
+163,Kogi,ADAVI,FSP CLINIC KUROKO,Ofuloko Clinic,Kogi
+164,Kogi,KABBA BUNU,ZH KABBA,,
+165,Kogi,KABBA BUNU,ST JOHN HOSPITAL KABBA,St John'S Catholic Hospital Kabba,Kogi
+166,Kogi,KABBA BUNU,CORNERSTONE HOSPITAL KABBA,General Hospital Kabba,Kogi
+167,Kogi,KABBA BUNU,PHC OKE-KOKO,,
+168,Kogi,KABBA BUNU,PHC KAJOLA,,
+169,Kogi,KABBA BUNU,ST MARY PHC,,
+170,Kogi,KABBA BUNU,PHC ODOLU KABBA,,
+171,Kogi,KABBA BUNU,BHC ILUKE,,
+172,Kogi,KABBA BUNU,PHC FEHINTI,,
+173,Kogi,KABBA BUNU,KABBA PRISON,,
+174,Kogi,KABBA BUNU,PHC CENTRAL MARKET,,
+175,Kogi,KABBA BUNU,PHC OKEBUKUN,,
+176,Kogi,IJUMU,GH AYETORO,,
+177,Kogi,IJUMU,CHC IYARA,,
+178,Kogi,IJUMU,GH IYAMOYE,,
+179,Kogi,IJUMU,PHC OGIDI,,
+180,Kogi,IJUMU,PHC IFFE,,
+181,Kogi,IJUMU,ECWA CLINIC AYETORO,,
+182,Kogi,IJUMU,PHC AYETORO,,
+183,Kogi,IJUMU,COTTAGE HOSPITAL AYEGUNLE,Aiyegunle Cottage Hospital,Kogi
+184,Kogi,OKENE,ZH OKENE,,
+185,Kogi,OKENE,PHC OKENE,,
+186,Kogi,OKENE,GH OKENGWE,,
+187,Kogi,OKENE,PHC ENYINARE,,
+188,Kogi,OKENE,PHC BARIKI,,
+189,Kogi,OKENE,PHC AGASSA,,
+190,Kogi,OKENE,PHC ORIETESU,,
+191,Kogi,OKENE,PHC INIKE,,
+192,Kogi,OKENE,PHC OTUTU,,
+193,Kogi,OKENE,PHC SHAFIDEEN,,
+194,Kogi,OKENE,CALVARY CLINIC,Calvary Clinic (Okene),Kogi
+195,Kogi,OKENE,ALI OMEIZA HOSPITAL OKENE,Ali-Omeiza Hospital,Kogi
+196,Kogi,OKENE,PHC AGEVA,,
+197,Kogi,OKENE,ALBARKA CLINIC,Al-Barka Clinic,Kogi
+198,Kogi,OKEHI,AMANA CLINIC OZOVEHE,Amana Clinic,Kogi
+199,Kogi,OKEHI,PHC ORIETESU,,
+200,Kogi,OKEHI,GH OBANGEDE,,
+201,Kogi,OKEHI,PHC OBANGEDE,,
+202,Kogi,OKEHI,CHC IHIMA,,
+203,Kogi,OKEHI,PHC ABOBO,,
+204,Kogi,OKEHI,PHC OKAITO,,
+205,Kogi,OKEHI,PHC OKUMEHI,,
+206,Kogi,OKEHI,PHC IKUEHI,,
+207,Kogi,OKEHI,PHC OBEIBA,,
+208,Kogi,OKEHI,PHC OBOROKE UVETE,,
+209,Kogi,OKEHI,PHC IRUVUSECHI,,
+210,Kogi,OKEHI,PHC EKIACHOEYIN,,
+211,Kogi,OKEHI,FCE CLINIC,Ufedo Clinic,Kogi
+212,Kogi,OKEHI,AZE CLINIC,Agape Clinic,Kogi
+213,Kogi,OKEHI,CHARITY CLINIC,Obeiba  Charity Clinic,Kogi
+214,Kogi,OKEHI,PREMIER MEDICAL CENTRE,Premier Medical Centre [Annex],Kogi
+215,Kogi,OKEHI,VICTORY HOSPITAL OTITE,Victory Hospital,Kogi
+216,Kogi,OKEHI,CHC OHUEPE,,
+217,Kogi,OKEHI,DOSAM CLINIC,Udama Clinic,Kogi
+218,Kogi,OKEHI,UNITY HOSPITAL,Victory Hospital,Kogi
+219,Kogi,OGIRI MAGONGO,GH OGORI,,
+220,Kogi,OGIRI MAGONGO,BHC/NYSC MAGONGO,,
+221,Kogi,OGIRI MAGONGO,PHCC OBATIGBEN,,
+222,Kogi,OGIRI MAGONGO,BHC OGORI,,
+223,Kogi,OGIRI MAGONGO,BHC OTURU,,
+224,Kogi,OGIRI MAGONGO,PHC AKPAFA,,
+225,Kogi,OGIRI MAGONGO,PHCC AKONOGBOLO,,
+226,Kogi,OGIRI MAGONGO,PHC OBINOYIN,,
+227,Kogi,OGIRI MAGONGO,PHCC OFOWO,,
+228,Kogi,OGIRI MAGONGO,PHCC ENI,,
+229,Kogi,OGIRI MAGONGO,PHC UGUGU,,
+230,Kogi,OGIRI MAGONGO,PHCC OSHOBANE,,
+231,Kogi,OGIRI MAGONGO,PHC OKESI,,
+232,Kogi,OGIRI MAGONGO,PHCC OTAMURUN,,
+233,Kogi,OGIRI MAGONGO,PHCC ILETEJU,,
+234,Kogi,OGIRI MAGONGO,PHC AIYEROMI,,
+235,Kogi,OGIRI MAGONGO,PHCC AKPAFA,,
+236,Kogi,OGIRI MAGONGO,UNIQUE CLINIC UGUGU,Unique Clinic,Kogi
+237,Kogi,OGIRI MAGONGO,LIBERTY HOSPITAL ORO,Victory Hospital,Kogi
+238,Kogi,OGIRI MAGONGO,SHALOM HOSPITAL,Shifaah Hospital,Kogi
+239,Kogi,YAGBA WEST,ECWA HOSPITAL EGBE,Agape Hospital,Kogi
+240,Kogi,YAGBA WEST,GOD BLESS CLINIC ODO ERI,,
+241,Kogi,YAGBA WEST,BHC OKOLOKE,,
+242,Kogi,YAGBA WEST,BHC EJIBA,,
+243,Kogi,YAGBA WEST,BHC OGGA,,
+244,Kogi,YAGBA WEST,GH EGBE,,
+245,Kogi,YAGBA WEST,BHC OKERE,,
+246,Kogi,YAGBA EAST,ECWA ISANLU,,
+247,Kogi,YAGBA EAST,PHC IJOWA,,
+248,Kogi,YAGBA EAST,GH ISANLU,,
+249,Kogi,YAGBA EAST,BHC OMOWA-MOPO,,
+250,Kogi,YAGBA EAST,OLUFEMI CLINIC,Ufedo Clinic,Kogi
+251,Kogi,YAGBA EAST,PHC PONYAN,,
+252,Kogi,YAGBA EAST,GH IFEOLUKOTUN,Ifeolukotun DHU,Kogi
+253,Kogi,YAGBA EAST,DHU IFEOLUKUN,Ifeolukotun DHU,Kogi
+254,Kogi,YAGBA EAST,DEEN HOSPITAL,Dean Hospital,Kogi
+255,Kogi,YAGBA EAST,PHC ITEDO,,
+256,Kogi,YAGBA EAST,PHC BAGIDO,,
+257,Kogi,YAGBA EAST,DHU ITEDO,,
+258,Kogi,YAGBA EAST,PHC IRUNDA ILE,,
+259,Kogi,MOPA MURO,GH MOPA,,
+260,Kogi,MOPA MURO,PHC OKOTUN,,
+261,Kogi,MOPA MURO,PHC ODOLE MOPA,,
+262,Kogi,MOPA MURO,PHC OKAGI,,
+263,Kogi,MOPA MURO,PHC ILAI,,
+264,Kogi,MOPA MURO,PHC EFFO,,
+265,Kogi,MOPA MURO,PHC OROKE 1,,
+266,Kogi,MOPA MURO,PHC OROKE 2,,
+267,Kogi,MOPA MURO,BHC MOPA,,
+268,Kogi,MOPA MURO,PHC AGBAJOGUN,,
+269,Kogi,MOPA MURO,PHC AYEDE AMURO,,
+270,Kogi,MOPA MURO,PHC IJAGBE,,
+271,Kogi,MOPA MURO,PHC AYEDERO,,
+272,Kwara,ASA,Agbona BHC,,
+273,Kwara,ASA,Agoke Elebue PHC,,
+274,Kwara,ASA,Ago Oja BHC,,
+275,Kwara,ASA,Aishat Buhari Hospital,,
+276,Kwara,ASA,Arapanajo,,
+277,Kwara,ASA,Awe Model PHC,,
+278,Kwara,ASA,Ballah PHC,,
+279,Kwara,ASA,BHC Aboto-Oja,,
+280,Kwara,ASA,BHC Alapa,,
+281,Kwara,ASA,BHC Otte-Oja,,
+282,Kwara,ASA,Budo Aiyegun Health Facility,,
+283,Kwara,ASA,Budo Tuntun PHC,,
+284,Kwara,ASA,Dhu Afon,,
+285,Kwara,ASA,Efue PHC,,
+286,Kwara,ASA,Elebue Health Facility,,
+287,Kwara,ASA,Federal Psychiatric Hospital Bodo Egba,,
+288,Kwara,ASA,Gambari Aiyekale PHC,,
+289,Kwara,ASA,Laduba PHC,,
+290,Kwara,ASA,Mps Mandala,,
+291,Kwara,ASA,Ogbondoroko/Reke Clinic& Maternity,Ore Ofe Clinic & Maternity,Kwara
+292,Kwara,ASA,Ogele Clinic And Maternity,Orelope Clinic And Maternity,Kwara
+293,Kwara,ASA,Onikeke Health Facility,,
+294,Kwara,ASA,Owode Oja Health Facility,Owode Health Clinic,Kwara
+295,Kwara,ASA,Sapati Oke Health Facility,,
+296,Kwara,ASA,Soolu PHC.,,
+297,Kwara,BARUTEN,Al-Jaba Hospital Okuta,"El Jabal Hospital, Okuta",Kwara
+298,Kwara,BARUTEN,Baptist Hospital Okuta,"Baptist Hospital, Okuta",Kwara
+299,Kwara,BARUTEN,BHC Chikanda,,
+300,Kwara,BARUTEN,BHC Gwanara,,
+301,Kwara,BARUTEN,BHC Kosubosu,,
+302,Kwara,BARUTEN,BHC Yashikina,,
+303,Kwara,BARUTEN,Bukau Kawo Memorial Hospital Gwanmara,"Bukari Kawo Memorial Hospital, Gwanara",Kwara
+304,Kwara,BARUTEN,Cottage Hospital Ilesha,Ilesha Baruba Cottage Hospital,Kwara
+305,Kwara,BARUTEN,Donoru Clinic(PHC),Doctors Clinic,Kwara
+306,Kwara,BARUTEN,General Hospital Okuta,Okuta General Hospital,Kwara
+307,Kwara,BARUTEN,General Hospital Okuta,Okuta General Hospital,Kwara
+308,Kwara,BARUTEN,Hawa Memorial Hospital Guro,Aisat Memorial Hospital,Kwara
+309,Kwara,BARUTEN,Lafia Hospital Okuta,"El Jabal Hospital, Okuta",Kwara
+310,Kwara,BARUTEN,Mhc Kosubosu,,
+311,Kwara,BARUTEN,MPHCc Gure,,
+312,Kwara,BARUTEN,MPHCc Guro,,
+313,Kwara,BARUTEN,"Nakowa Clinic, Okuta",Nakona Clinic & Maternity Okuta,Kwara
+314,Kwara,BARUTEN,PHC Bankubu,,
+315,Kwara,BARUTEN,PHC Boriya,,
+316,Kwara,BARUTEN,PHC Brangan,,
+317,Kwara,BARUTEN,PHC Kenu,,
+318,Kwara,BARUTEN,PHC Okuta,,
+319,Kwara,BARUTEN,PHC Sinau,,
+320,Kwara,BARUTEN,PHC Sinawu,,
+321,Kwara,BARUTEN,PHC Siya,,
+322,Kwara,BARUTEN,PHC Tabora,,
+323,Kwara,BARUTEN,PHC Tewu,,
+324,Kwara,BARUTEN,PHC Yabere,,
+325,Kwara,BARUTEN,PHC Yaru,,
+326,Kwara,BARUTEN,Rotimi Clinic And Maternity Chikanda,Ara Olu Clinic and Maternity.,Kwara
+327,Kwara,EDU,Anu-Oluwa Hospital Gbugbu,,
+328,Kwara,EDU,Bacita Town Dispensary,Bacita Township Dispensary,Kwara
+329,Kwara,EDU,Chc Shonga,C H C Shonga,Kwara
+330,Kwara,EDU,Dhu Lafiagi,,
+331,Kwara,EDU,Dispensary Bindofu,Belle Dispensary,Kwara
+332,Kwara,EDU,Dispensary Pututa,Pututa Dispensary,Kwara
+333,Kwara,EDU,General Hospital Lafiagi,General Hospital Lafiagi,Kwara
+334,Kwara,EDU,Hankuriman Ppa Tsaragi,,
+335,Kwara,EDU,Health Post Dzara,Dzako Health Post,Kwara
+336,Kwara,EDU,Health Post Ifodu,Health Post Jokolu,Kwara
+337,Kwara,EDU,Lafiagaya Hospital Tsaragi Edu,Tsaragi Cottage Hospital Tsaragi,Kwara
+338,Kwara,EDU,Ogo Oluwa Hospital Bacita,Ogo-Olu Hospital Bacita,Kwara
+339,Kwara,EDU,PHC Edogi,,
+340,Kwara,EDU,PHC Takogabi,,
+341,Kwara,EKITI,Cottage Hospital Eruku,"Cottage Hospital, Eruku.",Kwara
+342,Kwara,EKITI,Epe Health Centre,Erinmope Health Centre,Kwara
+343,Kwara,EKITI,Etan Health Centre,Etan Health Centre,Kwara
+344,Kwara,EKITI,PHC Eruku,,
+345,Kwara,EKITI,PHC Obbo-Aiyegunle,,
+346,Kwara,EKITI,PHC Obbo-Ile,,
+347,Kwara,EKITI,PHC Osi,,
+348,Kwara,IFELODUN,Bch Falokun,,
+349,Kwara,IFELODUN,BHC Agbeku,,
+350,Kwara,IFELODUN,BHC Alabe Oja,,
+351,Kwara,IFELODUN,BHC Amodu Asungbolu,,
+352,Kwara,IFELODUN,BHC Amoyo,,
+353,Kwara,IFELODUN,BHC Babanla,,
+354,Kwara,IFELODUN,BHC Babanloma,,
+355,Kwara,IFELODUN,BHC Balogun/Mosudo,,
+356,Kwara,IFELODUN,BHC Ganmo,,
+357,Kwara,IFELODUN,BHC Gbagede,,
+358,Kwara,IFELODUN,BHC Igbaja,,
+359,Kwara,IFELODUN,BHC Igbo-Owu,,
+360,Kwara,IFELODUN,BHC Iyana Share,,
+361,Kwara,IFELODUN,BHC Jimba Oja,,
+362,Kwara,IFELODUN,BHC Kere,,
+363,Kwara,IFELODUN,BHC Oko- Ode,,
+364,Kwara,IFELODUN,BHC Omupo,,
+365,Kwara,IFELODUN,BHC Oro-Ago,,
+366,Kwara,IFELODUN,BHC Patako,,
+367,Kwara,IFELODUN,BHC Yaru,,
+368,Kwara,IFELODUN,Boster Ganmo,,
+369,Kwara,IFELODUN,Community Health Center Owode Ofaro,,
+370,Kwara,IFELODUN,Comprehensive Health Center Babaloma,Babanloma Comprehensive Health Center,Kwara
+371,Kwara,IFELODUN,Cottage Hospital Igbaja,Igboroko Cottage Hospital,Kwara
+372,Kwara,IFELODUN,Cottage Hospital Omupo,Cottage Hospital Omupo,Kwara
+373,Kwara,IFELODUN,General Hospital Oro-Ago,General Hospital Oro -Ago,Kwara
+374,Kwara,IFELODUN,General Hospital Share,General Hospital Share,Kwara
+375,Kwara,IFELODUN,Health Post Adanla,Adanla Health Post,Kwara
+376,Kwara,IFELODUN,Health Post Alegogo,Gamalegi Health Post,Kwara
+377,Kwara,IFELODUN,Health Post Apata-Aje,Apata  _Aje  Health  Post,Kwara
+378,Kwara,IFELODUN,Health Post Kaba Dogari,Kanbi Health Post,Kwara
+379,Kwara,IFELODUN,Health Post Temidire,Temidire  Health Post,Kwara
+380,Kwara,IFELODUN,Igbo Owu PHC,,
+381,Kwara,IFELODUN,MPHC Agunjin,,
+382,Kwara,IFELODUN,PHC Idofian,,
+383,Kwara,IFELODUN,PHC Kere,,
+384,Kwara,IFELODUN,PHC Oke-Ose,,
+385,Kwara,IFELODUN,Specialist Hospital Oke-Ode,Specialist Hospital Oke Ode,Kwara
+386,Kwara,ILORIN EAST,Agbeyangi PHC,,
+387,Kwara,ILORIN EAST,Aiyetoro Ile PHC,,
+388,Kwara,ILORIN EAST,Ariyibi PHCc,,
+389,Kwara,ILORIN EAST,BHC Iporin,,
+390,Kwara,ILORIN EAST,BHC Oke -Oyi,,
+391,Kwara,ILORIN EAST,Budo Oba PHC,,
+392,Kwara,ILORIN EAST,Dada Chc,,
+393,Kwara,ILORIN EAST,Elesinmeta PHC,,
+394,Kwara,ILORIN EAST,Garba Maternity & Clinic,Jabe  Clinic &  Maternity,Kwara
+395,Kwara,ILORIN EAST,Ile Apa PHC,,
+396,Kwara,ILORIN EAST,Karumo PHC,,
+397,Kwara,ILORIN EAST,Lajiki PHC,,
+398,Kwara,ILORIN EAST,Oke - Ose Model Primary Health Center,Oke Ose Model Primary Health Centre,Kwara
+399,Kwara,ILORIN EAST,Okesuna PHC,,
+400,Kwara,ILORIN EAST,Peace Clinic & Maternity,Pease Clinic & Maternity,Kwara
+401,Kwara,ILORIN EAST,Pepele PHC,,
+402,Kwara,ILORIN EAST,PHC Apado,,
+403,Kwara,ILORIN EAST,PHC Awodi,,
+404,Kwara,ILORIN EAST,"P.H.C.C Alimayaki, Shao Garage",,
+405,Kwara,ILORIN EAST,"P.H.C.C Oke-Suna, Zango Ward",,
+406,Kwara,ILORIN EAST,PHC Magaji-Are,,
+407,Kwara,ILORIN EAST,PHC Ojagboro,,
+408,Kwara,ILORIN EAST,PHC Okelele,,
+409,Kwara,ILORIN EAST,Sobi Barack Medical Center,Sobi-Medical Centre,Kwara
+410,Kwara,ILORIN EAST,Uith Ilorin,,
+411,Kwara,ILORIN SOUTH,Balogun Fulani PHCc,,
+412,Kwara,ILORIN SOUTH,Children Specialist Hospital,Children Specialist Hospital Centre Igboro,Kwara
+413,Kwara,ILORIN SOUTH,Ch Ogidi,C H C Ogidi,Kwara
+414,Kwara,ILORIN SOUTH,Civil Service Hosp,Civil Service Hospital,Kwara
+415,Kwara,ILORIN SOUTH,Cottage Hospital Opomalu,Cottage Hospital Omupo,Kwara
+416,Kwara,ILORIN SOUTH,Davest Clinic,Wale Clinic,Kwara
+417,Kwara,ILORIN SOUTH,Epid Unit,Epid Unit Clinic,Kwara
+418,Kwara,ILORIN SOUTH,Mogaji Okaka PHCc,,
+419,Kwara,ILORIN SOUTH,Mogaji Okak PHC,,
+420,Kwara,ILORIN SOUTH,Nigeria Police Force Hospital,,
+421,Kwara,ILORIN SOUTH,Okaka Mhc,,
+422,Kwara,ILORIN SOUTH,Onikanga PHC,,
+423,Kwara,ILORIN SOUTH,P.H.C Ago Aiyekale,,
+424,Kwara,ILORIN SOUTH,PHC Awoli,,
+425,Kwara,ILORIN SOUTH,P.H.C.C. Jalala,,
+426,Kwara,ILORIN SOUTH,P.H.C.C Oke-Ogun Edun Road,Oke Ogun Edun Primary Health Care Center.,Kwara
+427,Kwara,ILORIN SOUTH,PHC Danialu,,
+428,Kwara,ILORIN SOUTH,PHC Ero-Omo,,
+429,Kwara,ILORIN SOUTH,PHC Idiapeoko,,
+430,Kwara,ILORIN SOUTH,PHC Kulende,,
+431,Kwara,ILORIN SOUTH,PHC Oke-Ogun,,
+432,Kwara,ILORIN SOUTH,PHC Olufadi,,
+433,Kwara,ILORIN SOUTH,PHC Tanke,,
+434,Kwara,ILORIN SOUTH,Sobi Specialist Hospital,Sobi Specialist Hospital,Kwara
+435,Kwara,ILORIN WEST,Ago Health Center,Awodi Health Centre,Kwara
+436,Kwara,ILORIN WEST,Alanamu PHC,,
+437,Kwara,ILORIN WEST,Baboko Child Welfare Centre,,
+438,Kwara,ILORIN WEST,BHC Magaji Ngeri,,
+439,Kwara,ILORIN WEST,Ch Adewole,,
+440,Kwara,ILORIN WEST,Cottage Hospital Adewole,Adewole Cottage Hospital,Kwara
+441,Kwara,ILORIN WEST,Egbejila PHC,,
+442,Kwara,ILORIN WEST,Emir'S Palace Clinic,Emir's Palace Health Clinic,Kwara
+443,Kwara,ILORIN WEST,General Hospital Ilorin,General Hospital Ilorin,Kwara
+444,Kwara,ILORIN WEST,Gopd Illorin,,
+445,Kwara,ILORIN WEST,Idigba Health Center,Idigba Health Centre,Kwara
+446,Kwara,ILORIN WEST,"Nigerian Airforce Med, Oloje",,
+447,Kwara,ILORIN WEST,Odo-Okun PHC,,
+448,Kwara,ILORIN WEST,Ogidi Banni PHC,,
+449,Kwara,ILORIN WEST,Oju-Ekun Health Centre,Oju-Ekun Health Centre,Kwara
+450,Kwara,ILORIN WEST,Oke Agodi Health Center,Oke-Agodi Health Centre,Kwara
+451,Kwara,ILORIN WEST,Oko-Erin Clinic,Ebo Soko Clinic & Maternity,Kwara
+452,Kwara,ILORIN WEST,Oloje BHC,,
+453,Kwara,ILORIN WEST,Olupelu Clinic,Wale Clinic,Kwara
+454,Kwara,ILORIN WEST,Pakata PHC,,
+455,Kwara,ILORIN WEST,PHC Alanamu,,
+456,Kwara,ILORIN WEST,PHC Omoda,,
+457,Kwara,ILORIN WEST,PHC Osin Aremu,,
+458,Kwara,ILORIN WEST,PHC Pakata,,
+459,Kwara,ILORIN WEST,Police Training School Clinic,Police Training School Clinic,Kwara
+460,Kwara,ILORIN WEST,Prison Service,,
+461,Kwara,ILORIN WEST,Zarumi PHC,,
+462,Kwara,IREPODUN,Adigun PHC,,
+463,Kwara,IREPODUN,Afin Oro PHC,,
+464,Kwara,IREPODUN,Aganoru PHC,,
+465,Kwara,IREPODUN,Agbamu PHC,,
+466,Kwara,IREPODUN,Agbele PHC,,
+467,Kwara,IREPODUN,Agbeola Oro PHC,,
+468,Kwara,IREPODUN,Arandun PHC,,
+469,Kwara,IREPODUN,Aran Orin PHC,,
+470,Kwara,IREPODUN,Awoye Clinic Oro,,
+471,Kwara,IREPODUN,Buhari PHC,,
+472,Kwara,IREPODUN,Cottage Hospital Ajase,Ajase Cottage Hospital,Kwara
+473,Kwara,IREPODUN,Cottage Hospital Ajase Ipo,Ajase Cottage Hospital,Kwara
+474,Kwara,IREPODUN,Ecwa Hospital Omu-Aran,General Hospital Omu-Aran,Kwara
+475,Kwara,IREPODUN,Elega PHC,,
+476,Kwara,IREPODUN,E Square Hospital Okerimi Oro,,
+477,Kwara,IREPODUN,General Hospital Omu-Aran,General Hospital Omu-Aran,Kwara
+478,Kwara,IREPODUN,General Hospital Oro,Oro General Hospital,Kwara
+479,Kwara,IREPODUN,Ido Oro PHC,,
+480,Kwara,IREPODUN,Igbonla PHC,,
+481,Kwara,IREPODUN,Ijan Otun PHC,,
+482,Kwara,IREPODUN,Ijomu Oro PHC,,
+483,Kwara,IREPODUN,Iludun Oro PHC,,
+484,Kwara,IREPODUN,Iwalesin Pms,,
+485,Kwara,IREPODUN,Monosara PHC,,
+486,Kwara,IREPODUN,Ofearan PHC,,
+487,Kwara,IREPODUN,Okerimi Oro PHC,,
+488,Kwara,IREPODUN,Okeya PHC,,
+489,Kwara,IREPODUN,Olorunsogo Oro,,
+490,Kwara,IREPODUN,Orolodo PHC,,
+491,Kwara,IREPODUN,PHC Ajase-Ipo,,
+492,Kwara,IREPODUN,PHC Esie,,
+493,Kwara,IREPODUN,P.H.C Ifaja,,
+494,Kwara,IREPODUN,PHC Oko,,
+495,Kwara,IREPODUN,P.H.C Oko,B H C Koko,Kwara
+496,Kwara,IREPODUN,PHC Oro,,
+497,Kwara,IREPODUN,"Primary Health Center,Ipetu",Ipetu Primary Health Centre,Kwara
+498,Kwara,IREPODUN,Sanmara PHC,,
+499,Kwara,IREPODUN,Sir Oro PHC,,
+500,Kwara,IREPODUN,Uith Este,,
+501,Kwara,ISIN,BHC Oke-Onigbin,,
+502,Kwara,ISIN,C.H Alla,C H C Alabe,Kwara
+503,Kwara,ISIN,Chc Alla,,
+504,Kwara,ISIN,Chc Ijara,,
+505,Kwara,ISIN,Chc Iwo,,
+506,Kwara,ISIN,Chc Oke Onigbin,,
+507,Kwara,ISIN,General Hospital Isanlu,General Hospital Isanlu-Isin,Kwara
+508,Kwara,ISIN,MPHCc Isanlu,,
+509,Kwara,ISIN,MPHCc Isanlu Isin,,
+510,Kwara,ISIN,MPHCc Owli,,
+511,Kwara,ISIN,MPHCc Owu Isin,,
+512,Kwara,ISIN,M.P.H.C.C Owulsin,,
+513,Kwara,ISIN,MPHC Isanlu,,
+514,Kwara,ISIN,MPHC Owu Isin,,
+515,Kwara,ISIN,Oba-Isin PHC,,
+516,Kwara,ISIN,Odo-Eku Isin PHC,,
+517,Kwara,ISIN,Pamo Isin PHC,,
+518,Kwara,ISIN,PHC Edidi,,
+519,Kwara,ISIN,PHC Eleyin,,
+520,Kwara,ISIN,PHC Igbesi,,
+521,Kwara,ISIN,PHC Ijara-Isin,,
+522,Kwara,ISIN,PHC Iji Isin,,
+523,Kwara,ISIN,PHC Isanlu,,
+524,Kwara,ISIN,PHC Isanlu-Isin,,
+525,Kwara,ISIN,PHC Iwo Odu Ore,,
+526,Kwara,ISIN,PHC Oke-Aba,,
+527,Kwara,ISIN,PHC Olla,,
+528,Kwara,KAIAMA,Aboki,,
+529,Kwara,KAIAMA,Camp PHC,,
+530,Kwara,KAIAMA,Cwc Kaiama,,
+531,Kwara,KAIAMA,Famini PHC,,
+532,Kwara,KAIAMA,Gatte PHC,,
+533,Kwara,KAIAMA,General Hospital Kaima,General Hospital Kaiama,Kwara
+534,Kwara,KAIAMA,Gwaria,,
+535,Kwara,KAIAMA,Hamdala PHC,,
+536,Kwara,KAIAMA,Kanikoko,,
+537,Kwara,KAIAMA,Kossa PHC,,
+538,Kwara,KAIAMA,MPHC Kuguji,,
+539,Kwara,KAIAMA,PHC Aboki,,
+540,Kwara,KAIAMA,PHC Aderan,,
+541,Kwara,KAIAMA,PHC Atiku,,
+542,Kwara,KAIAMA,PHC Bani,,
+543,Kwara,KAIAMA,PHC Bezia,,
+544,Kwara,KAIAMA,PHC Bukabiu,,
+545,Kwara,KAIAMA,PHC Famile,,
+546,Kwara,KAIAMA,PHC Gbajibo,,
+547,Kwara,KAIAMA,PHC Gorobani,,
+548,Kwara,KAIAMA,PHC Iganikoko,,
+549,Kwara,KAIAMA,PHC Kaiama,,
+550,Kwara,KAIAMA,PHC Kaiama 2,,
+551,Kwara,KAIAMA,PHC Kemanji,,
+552,Kwara,KAIAMA,PHC Kinikini,,
+553,Kwara,KAIAMA,PHC Moshi-Gada,,
+554,Kwara,KAIAMA,PHC Nanu,,
+555,Kwara,KAIAMA,PHC Nuku,,
+556,Kwara,KAIAMA,PHC Sherigbea,,
+557,Kwara,KAIAMA,PHC Tenebo,,
+558,Kwara,KAIAMA,PHC Venra,,
+559,Kwara,KAIAMA,PHC Wele Wele,,
+560,Kwara,KAIAMA,PHC Woro,,
+561,Kwara,KAIAMA,School Clinic,Gss School Clinic,Kwara
+562,Kwara,MORO,BHC Shao,,
+563,Kwara,MORO,Dagi PHC,,
+564,Kwara,MORO,Dhu Bode-Saadu,,
+565,Kwara,MORO,Emmanuel Hospital Jebba,Gabu Hospital Jebba,Kwara
+566,Kwara,MORO,Mch Jebba,,
+567,Kwara,MORO,PHC Arobadi,,
+568,Kwara,MORO,PHC Asomu,,
+569,Kwara,MORO,PHC Jehunkunu,,
+570,Kwara,MORO,PHC Maigida Ipaye,,
+571,Kwara,MORO,PHC Molete,,
+572,Kwara,MORO,PHC Olooku,,
+573,Kwara,MORO,PHC Olooru,,
+574,Kwara,MORO,PHC Shao,,
+575,Kwara,MORO,PHC Tepatan,,
+576,Kwara,MORO,Specialist Hospital Jebba,Jebba Specialist Hospital,Kwara
+577,Kwara,MORO,Whc Olokonla,,
+578,Kwara,OFFA,Afolabi Memorial Hospital Offa,Akanji Memorial Hospital,Kwara
+579,Kwara,OFFA,BHC Abogungugu,,
+580,Kwara,OFFA,B.H.C Ajegunle,B H C Asungbale,Kwara
+581,Kwara,OFFA,BHC Balogun,,
+582,Kwara,OFFA,BHC Elemo-Ogun,,
+583,Kwara,OFFA,BHC Essa,,
+584,Kwara,OFFA,BHC Gbosun,,
+585,Kwara,OFFA,BHC Idi-Ogun/Osunte- Atari,,
+586,Kwara,OFFA,BHC. Isale-Ago,,
+587,Kwara,OFFA,BHC Lamodu,,
+588,Kwara,OFFA,BHC Oluyemo,,
+589,Kwara,OFFA,C.H.C Igboidun,C H C Ogidi,Kwara
+590,Kwara,OFFA,Chc Lamodi,,
+591,Kwara,OFFA,Efunlola Memorial Clinic And Maternity,Efunlola Clinic & Maternity,Kwara
+592,Kwara,OFFA,Federal Polythecnic Medical Center,Federal Polytechnic Primary Health Care Centre,Kwara
+593,Kwara,OFFA,General Abdulsalam Memorial,Gentleman Abdulsalam Memorial hospital,Kwara
+594,Kwara,OFFA,General Hospital Offa,Okuta General Hospital,Kwara
+595,Kwara,OFFA,Muslim Hospital Offa,"Muslim Hospital, Offa",Kwara
+596,Kwara,OFFA,Nigeria Navy Medical Centre,Nakowa Medical Centre,Kwara
+597,Kwara,OFFA,Olalomi Hospital Offa,Olalomi Hospital,Kwara
+598,Kwara,OFFA,Olanipekun Medical Center,Olanipekun Medical Centre,Kwara
+599,Kwara,OFFA,Olomo-Wewe,,
+600,Kwara,OFFA,PHC Abogunnugu,,
+601,Kwara,OFFA,PHC Ayaba,,
+602,Kwara,OFFA,PHC Balogun,,
+603,Kwara,OFFA,PHC Lamodi,,
+604,Kwara,OFFA,PHC Owode Offa,,
+605,Kwara,OKE ERO,Ajedun PHC,,
+606,Kwara,OKE ERO,Cottage Hospital - Idofin Odo Ase,Cottage Hospital Idofin Odo Ashe,Kwara
+607,Kwara,OKE ERO,Cottage Hospital - Iloffa,Iloffa Cottage Hospital,Kwara
+608,Kwara,OKE ERO,Egosi Ile PHC,,
+609,Kwara,OKE ERO,Ekan PHC,,
+610,Kwara,OKE ERO,Erinmope PHC,,
+611,Kwara,OKE ERO,Hc Ayedun,,
+612,Kwara,OKE ERO,Hc Odo-Owa,,
+613,Kwara,OKE ERO,Ilale PHC,,
+614,Kwara,OKE ERO,Iloffa-Odo-Owa PHC,,
+615,Kwara,OKE ERO,Imode PHC,,
+616,Kwara,OKE OKE,Imuji PHC,,
+617,Kwara,OKE ERO,M.H.C Idofin- Igbana,Idofin Igbana Model Health Centre,Kwara
+618,Kwara,OKE ERO,Model PHC - Idofin-Igbana,,
+619,Kwara,OKE ERO,Odeda-Idofin-Igbana PHC,,
+620,Kwara,OKE ERO,Odo-Owa 1 PHC,,
+621,Kwara,OKE ERO,Odo-Owa 2 PHC,,
+622,Kwara,KAIAMA,PHC Aboki,,
+623,Kwara,OKE ERO,P.H.C Ekan,,
+624,Kwara,KAIAMA,PHC Gatte,,
+625,Kwara,KAIAMA,PHC Gwaria,,
+626,Kwara,OKE ERO,PHC Idofin Ajekele,,
+627,Kwara,OKE ERO,PHC Idofin Ejin Afo,,
+628,Kwara,OKE ERO,PHC Ilofa-Odoowa,,
+629,Kwara,KAIAMA,PHC Moshegada,,
+630,Kwara,OKE ERO,PHC Odo Aga,,
+631,Kwara,OYUN,BHC Bolorunduro,,
+632,Kwara,OYUN,BHC Erin-Ile,,
+633,Kwara,OYUN,B.H.C Igbonna,,
+634,Kwara,OYUN,BHC Igosun,,
+635,Kwara,OYUN,BHC Ijagbo,,
+636,Kwara,OYUN,BHC Ipee,,
+637,Kwara,OYUN,BHC Ira,,
+638,Kwara,OYUN,BHC Ojoku,,
+639,Kwara,OYUN,Chc Ijagbo,,
+640,Kwara,OYUN,Folorunsho Hospital,Folorunsho Hospital,Kwara
+641,Kwara,OYUN,General Hospital Erin-Ile,ErinIle General Hospital,Kwara
+642,Kwara,OYUN,Simon Clinic And Maternity,Yinka Clinic and Maternity,Kwara
+643,Kwara,PATIGI,Cottage Hospital Kpade,Lade Cottage Hospital,Kwara
+644,Kwara,PATIGI,Cottage Hospital Lade,Lade Cottage Hospital,Kwara
+645,Kwara,PATIGI,General Hospital Patigi,Patigi General Hospital,Kwara
+646,Kwara,PATIGI,Infant Welfare Clinic,Patigi Infant Welfar Clinic,Kwara
+647,Kwara,PATIGI,Infant Welfare Clinic Patigi,Patigi Infant Welfar Clinic,Kwara
+648,Kwara,PATIGI,Kogun Chc,,
+649,Kwara,PATIGI,Lafiyama Maternity Clinic Patigi,Lafiaganwo Clinic/Maternity Shonga,Kwara
+650,Kwara,PATIGI,Maternity And Dispensary Rifun,Rifun Maternity and Dispensary,Kwara
+651,Kwara,PATIGI,MPHC Kpada,,
+652,Kwara,PATIGI,PHC Lolagi,,
+653,Kwara,PATIGI,PHC Sakpefu,,
+654,Kwara,PATIGI,Town Dispensary Lade,Patigi L G A Town Dispensary,Kwara
+655,Nasarawa,WAMBA,"GENERAL HOSPITAL ,WAMBA",Wamba General Hospital,Nasarawa
+656,Nasarawa,WAMBA,"GOD IS BEST HOSPITAL,WAMBA",,
+657,Nasarawa,WAMBA,KEBBEH CLINIC,Ebba Health Clinic,Nasarawa
+658,Nasarawa,WAMBA,PHC KONVAH,,
+659,Nasarawa,WAMBA,PHC KWABE,,
+660,Nasarawa,WAMBA,WAMBA MEDICAL CENTRE,Sandaji Medical Centre,Nasarawa
+661,Nasarawa,WAMBA,SDA TUMARA,,
+662,Nasarawa,WAMBA,ERCC KANGO,,
+663,Nasarawa,WAMBA,PHC YASHI,,
+664,Nasarawa,WAMBA,PHC KUNGRA,,
+665,Nasarawa,WAMBA,MPHC WAMBA,,
+666,Nasarawa,WAMBA,PHC MANGAR,,
+667,Nasarawa,WAMBA,PHC WAMBA KURMIN,,
+668,Nasarawa,WAMBA,CORRECTIONAL CENTRE WAMBA,,
+669,Nasarawa,WAMBA,PHC WUDE KURMIN,,
+670,Nasarawa,WAMBA,PHC GBATA,,
+671,Nasarawa,WAMBA,PHC CHUGBU,,
+672,Nasarawa,WAMBA,PHC KWARA,,
+673,Nasarawa,WAMBA,PHC MARABA GONGON,,
+674,Nasarawa,WAMBA,PHC ZALLI,,
+675,Nasarawa,WAMBA,PHC WAYO,,
+676,Nasarawa,WAMBA,PHC YASHI,,
+677,Nasarawa,WAMBA,PHC ARUM SARKI,,
+678,Nasarawa,WAMBA,PHC GBONBO,,
+679,Nasarawa,WAMBA,PHC MARHAI,,
+680,Nasarawa,WAMBA,PHC MUGGU,,
+681,Nasarawa,WAMBA,ERCC KONVAH,,
+682,Nasarawa,WAMBA,PHC KURIZE,,
+683,Nasarawa,WAMBA,PHC GWAGI,,
+684,Nasarawa,WAMBA,PHC NAKERE,,
+685,Nasarawa,WAMBA,PHC CHESU,,
+686,Nasarawa,WAMBA,PHC SISIMBAKI,,
+687,Nasarawa,DOMA,GENERAL HOSPITAL DOMA,Doma General Hospital,Nasarawa
+688,Nasarawa,DOMA,GENERAL HOSPITAL AGBASHI,Agbashi General Hospital,Nasarawa
+689,Nasarawa,DOMA,PHC DOMA TOWN CLINIC,Shallom Clinic Doma,Nasarawa
+690,Nasarawa,DOMA,PHC MUDU,,
+691,Nasarawa,DOMA,PHC IWASHI,,
+692,Nasarawa,DOMA,PHC BUSCO ARUMANGYE,,
+693,Nasarawa,DOMA,GASKIYA CLINIC,Gaskiya Clinic (Doma),Nasarawa
+694,Nasarawa,DOMA,DADU ROYAL CLINIC,Dadu Royal Clinic,Nasarawa
+695,Nasarawa,DOMA,NEW ERA CLINIC DOMA,New Era Clinic,Nasarawa
+696,Nasarawa,DOMA,SHALOM CLINIC DOMA,Shallom Clinic Doma,Nasarawa
+697,Nasarawa,DOMA,PHC OKPATA,,
+698,Nasarawa,DOMA,PHC NEW MARKET,,
+699,Nasarawa,DOMA,PHC OGMINI,,
+700,Nasarawa,DOMA,PHC ALARAMA,,
+701,Nasarawa,DOMA,PHC MODEL CLINIC,,
+702,Nasarawa,DOMA,PHC AKPANAJA,,
+703,Nasarawa,DOMA,PHC ONDORI,,
+704,Nasarawa,DOMA,PHC DOKA,,
+705,Nasarawa,DOMA,PHC ANKOMA,,
+706,Nasarawa,DOMA,PHC RUKUBI,,
+707,Nasarawa,DOMA,PHC OBENDO,,
+708,Nasarawa,DOMA,PHC OLEGOKPA,,
+709,Nasarawa,DOMA,PHC IJIWO,,
+710,Nasarawa,DOMA,PHC AGYEMA,,
+711,Nasarawa,DOMA,PHC AGBASHI,,
+712,Nasarawa,DOMA,PHC IPONU,,
+713,Nasarawa,DOMA,PHC IDADU,,
+714,Nasarawa,DOMA,PHC IGBABO,,
+715,Nasarawa,DOMA,PHC YELWA,,
+716,Nasarawa,DOMA,ZUMUNTA YELWA CLINIC,Zumunta Health Clinic,Nasarawa
+717,Nasarawa,DOMA,PHC ANDOMA'S PALACE,,
+718,Nasarawa,DOMA,PHC UNGWAN NUPAWA,,
+719,Nasarawa,DOMA,PHC OKPO,LOKO 3 PHCC,Nasarawa
+720,Nasarawa,DOMA,PHC ALWAZA,,
+721,Nasarawa,DOMA,PHC ALAGYE,,
+722,Nasarawa,DOMA,PHC RUTU,,
+723,Nasarawa,DOMA,PHC DAMBA,,
+724,Nasarawa,DOMA,PHC MALLAM ANZA,,
+725,Nasarawa,DOMA,PHC BURUMBURUM,,
+726,Nasarawa,AWE,"GENERAL HOSPITAL,AWE",Awe General Hospital,Nasarawa
+727,Nasarawa,AWE,PHC KEKURA,,
+728,Nasarawa,AWE,PHC KANJE,,
+729,Nasarawa,AWE,PHC AWE OLD TOWN,,
+730,Nasarawa,AWE,PHC MAHANGA,,
+731,Nasarawa,AWE,PHC ALGON,,
+732,Nasarawa,AWE,PHC ABUNI,,
+733,Nasarawa,AWE,PHC BAURE,,
+734,Nasarawa,AWE,PHC KEFFI MOYI,,
+735,Nasarawa,AWE,PHC G/KADE,,
+736,Nasarawa,AWE,PHC TSOHON TUNGA,,
+737,Nasarawa,AWE,PHC TUNGA,,
+738,Nasarawa,AWE,"NAKOWA CLINIC,AWE",Nakowa Clinic Awe,Nasarawa
+739,Nasarawa,AWE,SATELLITE HOSPITAL,Sauki Hospital,Nasarawa
+740,Nasarawa,AWE,HAKURI KOWA CLINIC,Kowa Clinic,Nasarawa
+741,Nasarawa,KARU,PHC MARABA,,
+742,Nasarawa,KARU,PHC NEW KARU,,
+743,Nasarawa,KARU,MARABA GURKU MEDICAL CENTRE,Mararaba Medical Centre,Nasarawa
+744,Nasarawa,KARU,GENERAL HOSPITAL PANDA,Panda General Hospital,Nasarawa
+745,Nasarawa,KARU,GENERAL HOSPITAL UKE,Uke General Hospital,Nasarawa
+746,Nasarawa,KARU,PRIMMEMED HOSPITAL,Rex Hospital,Nasarawa
+747,Nasarawa,KARU,NAGODE CLINIC,NAGODE CLINIC,Nasarawa
+748,Nasarawa,KARU,PHC NYANYA GBAGYI,,
+749,Nasarawa,KARU,MOJILLA HOSPITAL,Karu Mojilla Hospital,Nasarawa
+750,Nasarawa,KARU,PHC JAKANAWAN,,
+751,Nasarawa,KARU,KPARUSHAMA CLINIC,Usha Clinic Kadarko,Nasarawa
+752,Nasarawa,KARU,PHC PANDA,,
+753,Nasarawa,KARU,SARKI CLINIC,Nawarki Clinic,Nasarawa
+754,Nasarawa,KARU,ALHERI CLINIC,Alheri Clinic,Nasarawa
+755,Nasarawa,KARU,KOWA CLINIC,Kowa Clinic,Nasarawa
+756,Nasarawa,KARU,PHC TAKALAFIYA,,
+757,Nasarawa,KARU,PHC GITATA,,
+758,Nasarawa,KARU,PHC GUNDUMA,,
+759,Nasarawa,KARU,PHC ANGWAN MAIGORO,,
+760,Nasarawa,KARU,PHC ASO PADA,,
+761,Nasarawa,KARU,DIZA HOSPITAL,Adonai Hospital,Nasarawa
+762,Nasarawa,KARU,NISSI HOSPITAL,Nissi Hospital,Nasarawa
+763,Nasarawa,KARU,ELSHADAI HOSPITAL,Adonai Hospital,Nasarawa
+764,Nasarawa,KARU,CITY INTERNATIONAL HOSPITAL,Karu City Internation Hospital,Nasarawa
+765,Nasarawa,KARU,PHC MASAKA,,
+766,Nasarawa,KEANA,MODEL PHC,,
+767,Nasarawa,KEANA,MODEL PHC ANURI,,
+768,Nasarawa,KEANA,PHC ALOSHI,,
+769,Nasarawa,KEANA,PHC AGAZA,,
+770,Nasarawa,KEANA,PHC IWAGU,,
+771,Nasarawa,KEANA,PHC ISHOHO,,
+772,Nasarawa,KEANA,PHC DEMEKAA,,
+773,Nasarawa,KEANA,PHC KUDUKU,,
+774,Nasarawa,KEANA,PHC KADARKO,,
+775,Nasarawa,KEANA,PHC GIDA SULE,,
+776,Nasarawa,KEANA,PHC KPLALEV,,
+777,Nasarawa,KEANA,PHC SARKI NOMA,,
+778,Nasarawa,KEANA,PHC ULUJI,,
+779,Nasarawa,KEANA,PHC KALACHI,,
+780,Nasarawa,KEANA,PHC TUDUN ABU,,
+781,Nasarawa,KEANA,PHC KWARA,,
+782,Nasarawa,KEANA,PHC AGBARAGBA,,
+783,Nasarawa,KEANA,PHC GIZA,,
+784,Nasarawa,KEANA,PHC ANGWAN YARA,,
+785,Nasarawa,KEANA,GENERAL HOSPITAL KEANA,Keana General Hospital,Nasarawa
+786,Nasarawa,KEFFI,"FEDERAL MEDICAL CENTER,KEFFI",Keffi Federal Medical Centre,Nasarawa
+787,Nasarawa,KEFFI,PHC ANGWAN WAJE,,
+788,Nasarawa,KEFFI,PHC KOFAR PADA,,
+789,Nasarawa,KEFFI,EBENEZER HOSPITAL,Awe General Hospital,Nasarawa
+790,Nasarawa,KEFFI,AL-NUR HOSPITAL,Al Nur Maternity Hospital,Nasarawa
+791,Nasarawa,KEFFI,GENERAL HOSPITAL KEFFI,Keffi General Hospital,Nasarawa
+792,Nasarawa,KEFFI,ZAMFARA HOSPITAL,Nagari Hospital,Nasarawa
+793,Nasarawa,KEFFI,GODIYA GA ALLAH HOSPITAL,,
+794,Nasarawa,KEFFI,RAYYAN HOSPITAL,Rayyan Hospital Keffi,Nasarawa
+795,Nasarawa,KEFFI,ERCC CLINIC KEFFI,ERCC Health Clinic,Nasarawa
+796,Nasarawa,KEFFI,IMANI HOSPITAL,Moli  Hospital,Nasarawa
+797,Nasarawa,KEFFI,CORRECTIONAL CENTER,,
+798,Nasarawa,KEFFI,INNOVATIVE BIOTECH,Innovative Biotech  Hospital,Nasarawa
+799,Nasarawa,KEFFI,PHC SABON LAYI,,
+800,Nasarawa,KEFFI,PHC RUGA,,
+801,Nasarawa,KEFFI,PHC TSOHON KASUWA,,
+802,Nasarawa,KEFFI,ARMY BARRACKS KEFFI,,
+803,Nasarawa,KEFFI,PHC YELWA,,
+804,Nasarawa,KEFFI,PHC YARKADE,,
+805,Nasarawa,KEFFI,MUBA'US HOSPITAL,Myam Hospital,Nasarawa
+806,Nasarawa,KEFFI,DIVINE MERCY HOSPITAL,,
+807,Nasarawa,KEFFI,PHC GANUWA,,
+808,Nasarawa,KEFFI,PHC ANGWAN NINZO,,
+809,Nasarawa,KEFFI,PHC JIGWADA,,
+810,Nasarawa,KEFFI,PHC YELWA SOBA,,
+811,Nasarawa,KEFFI,PHC SAURA,,
+812,Nasarawa,KEFFI,PHC SABON GARI,,
+813,Nasarawa,KEFFI,PHC ANGWAN MAIKAI,,
+814,Nasarawa,KEFFI,PHC GAUTA,,
+815,Nasarawa,KEFFI,PHC MAIN MARKET,,
+816,Nasarawa,KEFFI,ALLAH BAMU LAFIYA,Allah Bamu Lafiya Clinic,Nasarawa
+817,Nasarawa,KEFFI,SILVERCORD HOSPITAL,Vicar Hospital,Nasarawa
+818,Nasarawa,KEFFI,PHC TILLA,,
+819,Nasarawa,KEFFI,PHC KAIBO MADA,,
+820,Nasarawa,KEFFI,PHC ANGWAN JABA,,
+821,Nasarawa,KOKONA,GENERAL HOSPITAL GARAKU,Garaku General Hospital,Nasarawa
+822,Nasarawa,KOKONA,MAKLIN CLINIC GARAKU,Sauki Clinic (Garaku),Nasarawa
+823,Nasarawa,KOKONA,LABAMA CLINIC ARUSU,Khaki Clinic Arusu,Nasarawa
+824,Nasarawa,KOKONA,PHC ANGWAN LOKO,,
+825,Nasarawa,KOKONA,PHC HADERI,,
+826,Nasarawa,KOKONA,PHC SABON GIDA,,
+827,Nasarawa,KOKONA,PHC ANGWAN MAYO,,
+828,Nasarawa,KOKONA,PHC ANGWAN MAINASARA,,
+829,Nasarawa,KOKONA,PHC ANGORO,,
+830,Nasarawa,KOKONA,PHC NINKORO,,
+831,Nasarawa,KOKONA,PHC BAZARIYE,,
+832,Nasarawa,KOKONA,PHC KOFAR GWARI,,
+833,Nasarawa,KOKONA,NMPHC AGWADA,,
+834,Nasarawa,KOKONA,PHC KANA APAWU,,
+835,Nasarawa,KOKONA,PHC NEW KOYA,,
+836,Nasarawa,KOKONA,PHC MOROA,,
+837,Nasarawa,KOKONA,PHC ARUSU,,
+838,Nasarawa,KOKONA,PHC ANGAN BARAU,,
+839,Nasarawa,KOKONA,PHC AMBA,,
+840,Nasarawa,KOKONA,PHC BASSA,,
+841,Nasarawa,KOKONA,PHC I GARAKU,,
+842,Nasarawa,KOKONA,PHC BOKOKO,,
+843,Nasarawa,KOKONA,PHC KANNDERE,,
+844,Nasarawa,KOKONA,TAIMAKO CLINIC,Taimako Clinic (Garaku),Nasarawa
+845,Nasarawa,LAFIA,DASH,,
+846,Nasarawa,LAFIA,MCHC SHABU,,
+847,Nasarawa,LAFIA,CORRECTIONAL CENTER,,
+848,Nasarawa,LAFIA,PHC AGYARAGU TOFA,,
+849,Nasarawa,LAFIA,PHC AKURBA,,
+850,Nasarawa,LAFIA,PHC ADOGI,,
+851,Nasarawa,LAFIA,PHC ASSAKIO,,
+852,Nasarawa,LAFIA,PHC ASHIGE,,
+853,Nasarawa,LAFIA,PHC TUDUN GWANDARA,,
+854,Nasarawa,LAFIA,PHC BUKAN SIDI,,
+855,Nasarawa,LAFIA,PHC WADATA,,
+856,Nasarawa,LAFIA,PHC MARARABA AKUNZA,,
+857,Nasarawa,LAFIA,PHC DOMA ROAD,,
+858,Nasarawa,LAFIA,CPHC KWANDARE,,
+859,Nasarawa,LAFIA,MPHC TUDUN KAURI,,
+860,Nasarawa,LAFIA,AGREABA HOSPITAL,Agreaba Hospital,Nasarawa
+861,Nasarawa,LAFIA,M & D HOSPITAL,Moli  Hospital,Nasarawa
+862,Nasarawa,LAFIA,ANNUR CLINIC,Alheri Clinic,Nasarawa
+863,Nasarawa,LAFIA,KUNWARKE CLINIC,Kun-Warki Clinic,Nasarawa
+864,Nasarawa,LAFIA,DIAMOND CLINIC,Diamond Clinic,Nasarawa
+865,Nasarawa,LAFIA,GRACELAND(ADAM'S) HOSPITAL,Doma General Hospital,Nasarawa
+866,Nasarawa,LAFIA,THE CHRANE HOSPITAL,,
+867,Nasarawa,LAFIA,AYIMO CLINIC,ADAYI CLINIC,Nasarawa
+868,Nasarawa,LAFIA,PHC ANGWAN SHALELE,,
+869,Nasarawa,LAFIA,PHC ANGWAN RERE,,
+870,Nasarawa,LAFIA,PHC AZUBA BASHAYI,,
+871,Nasarawa,LAFIA,POLICE CLINIC,Lafia Clinic,Nasarawa
+872,Nasarawa,LAFIA,PHC LAFIA EAST,,
+873,Nasarawa,LAFIA,PHC MANA (EMIR'S PALACE) CLINIC,,
+874,Nasarawa,LAFIA,PHC ANGWAN TONI,,
+875,Nasarawa,LAFIA,VOICE OF ISLAM,Voice of Islam Hospital,Nasarawa
+876,Nasarawa,LAFIA,SANDAJI HOSPITAL,Sauki Hospital,Nasarawa
+877,Nasarawa,LAFIA,EWUGA CLINIC,Ewu Clinic,Nasarawa
+878,Nasarawa,LAFIA,PHC GIDAN MAIAKUYA,,
+879,Nasarawa,LAFIA,PHC BAKIN RIJIYA,,
+880,Nasarawa,LAFIA,MDG POLY,,
+881,Nasarawa,LAFIA,PHC AGYRAGU YAKUBU,,
+882,Nasarawa,LAFIA,ABOKI CLINIC,Aboki clinic Ashigye,Nasarawa
+883,Nasarawa,NASARAWA,"PHC EMIR PALACE,NASARAWA",,
+884,Nasarawa,NASARAWA,AJIH CLINIC LOKO,"Ajih Clinic, Loko",Nasarawa
+885,Nasarawa,NASARAWA,RHIZIZI CLINIC AJAGA,,
+886,Nasarawa,NASARAWA,PHC BAKONO,,
+887,Nasarawa,NASARAWA,PHC OGUBA,,
+888,Nasarawa,NASARAWA,KOWA CLINIC TAMMAH,Tamaiko Clinic Doma,Nasarawa
+889,Nasarawa,NASARAWA,MADEENAH CLINIC,Kana Clinic,Nasarawa
+890,Nasarawa,NASARAWA,GENERAL HOSPITAL NASARAWA,Nassarawa General Hospital,Nasarawa
+891,Nasarawa,NASARAWA,"AMINCHI CLINIC,KWATTO",Aminchi Clinic Panda-Kare,Nasarawa
+892,Nasarawa,NASARAWA,NASARA CLINIC ARA,Nasara Clinic,Nasarawa
+893,Nasarawa,NASARAWA,ALUMBUGU MEMORIAL CLINIC KURUDU,Alumbugu Memorial Clinic,Nasarawa
+894,Nasarawa,NASARAWA,NASARAWA MEDICAL CENTER,Nasarawa Medical Centre,Nasarawa
+895,Nasarawa,NASARAWA,PHC II LOKO,LOKO 3 PHCC,Nasarawa
+896,Nasarawa,NASARAWA,JEMUTU CLINIC SABON NASARAWA,,
+897,Nasarawa,NASARAWA,BALAMIYA HOSPITAL NASARAWA,"Alpha Hospital, Nasarawa",Nasarawa
+898,Nasarawa,NASARAWA,PHC GUDIGE SABO,,
+899,Nasarawa,NASARAWA,PHC III LOKO,LOKO 3 PHCC,Nasarawa
+900,Nasarawa,NASARAWA,DEHI HOSPITAL NASARAWA,"Alpha Hospital, Nasarawa",Nasarawa
+901,Nasarawa,NASARAWA,DIAMOND CLINIC,Diamond Clinic,Nasarawa
+902,Nasarawa,NASARAWA,PHC ANGWAN MALLAN,,
+903,Nasarawa,NASARAWA,PHC UDEGE KASA,,
+904,Nasarawa,NASARAWA,PHC ODENI MAGAJI,,
+905,Nasarawa,NASARAWA,PHC 1LOKO,LOKO 3 PHCC,Nasarawa
+906,Nasarawa,NASARAWA,PHC ODENI GIDA,,
+907,Nasarawa,NASARAWA,GENERAL HOSPITAL MARABA UDEGE,Uke General Hospital,Nasarawa
+908,Nasarawa,NASARAWA,PHC ARA I,,
+909,Nasarawa,NASARAWA,PHC OVERSEA,,
+910,Nasarawa,NASARAWA,PHC ONDA,,
+911,Nasarawa,NASARAWA,PHC GUNKI,,
+912,Nasarawa,NASARAWA,CORRECTIONAL CENTER,,
+913,Nasarawa,NASARAWA,PHC LAMINGA,,
+914,Nasarawa,NASARAWA,PHC MARABA UDEGE,UDEGE MBEKI 3 PHCC,Nasarawa
+915,Nasarawa,NASARAWA,PHC UDEGE MBEKI,UDEGE MBEKI 3 PHCC,Nasarawa
+916,Nasarawa,NASS/EGGON,"ERCC HOSPITAL,ALUSHI",Agbashi General Hospital,Nasarawa
+917,Nasarawa,NASS/EGGON,GENERAL HOSPITAL N/EGGON,Nassarawa Eggon General Hospital,Nasarawa
+918,Nasarawa,NASS/EGGON,PHC MADA STATION,,
+919,Nasarawa,NASS/EGGON,MPHC BAKYANO,,
+920,Nasarawa,NASS/EGGON,PHC KAGBU A,,
+921,Nasarawa,NASS/EGGON,PHC TOWN CLINIC,Tonsun Clinic,Nasarawa
+922,Nasarawa,NASS/EGGON,PHCC NASARAWA EGGON,,
+923,Nasarawa,NASS/EGGON,MOKWA HOSPITAL,Moli  Hospital,Nasarawa
+924,Nasarawa,NASS/EGGON,PHC UMME,,
+925,Nasarawa,NASS/EGGON,OKPOHWO FOUNDATION,,
+926,Nasarawa,NASS/EGGON,OMADEFU CLINIC,Ewu Clinic,Nasarawa
+927,Nasarawa,NASS/EGGON,PHC ANGUJI,,
+928,Nasarawa,NASS/EGGON,PHC ABOSHON,,
+929,Nasarawa,NASS/EGGON,PHC OGBAGI,,
+930,Nasarawa,NASS/EGGON,PHC ENDEHU ODNE,,
+931,Nasarawa,NASS/EGGON,PHC EGBUKUN,,
+932,Nasarawa,NASS/EGGON,PHC AKPATA,,
+933,Nasarawa,NASS/EGGON,PHC WASHO,,
+934,Nasarawa,NASS/EGGON,PHC WULKO,,
+935,Nasarawa,NASS/EGGON,PHC WALAGEN,,
+936,Nasarawa,NASS/EGGON,PHC KAGBO LUDO,,
+937,Nasarawa,NASS/EGGON,PHC GIDAN WAYA,,
+938,Nasarawa,NASS/EGGON,PHC LIZZIN KEFFI,,
+939,Nasarawa,NASS/EGGON,ESSONGE CLINIC,Ekosons Clinic,Nasarawa
+940,Nasarawa,NASS/EGGON,PHC WOWYEN,,
+941,Nasarawa,NASS/EGGON,PHC OGBA,,
+942,Nasarawa,NASS/EGGON,PHC EMBUGU,,
+943,Nasarawa,NASS/EGGON,PHC JARMAI,,
+944,Nasarawa,NASS/EGGON,PHC IKKA WANGIBI,,
+945,Nasarawa,NASS/EGGON,PHC WAKAMA,,
+946,Nasarawa,NASS/EGGON,PHC ANYI WALAGEN,,
+947,Nasarawa,NASS/EGGON,PHC ALOGANI NORTH,,
+948,Nasarawa,NASS/EGGON,PHC ARIKPA MISSION,,
+949,Nasarawa,NASS/EGGON,PHCUBBE,,
+950,Nasarawa,NASS/EGGON,PHC ANGWAN CHIYAWA,,
+951,Nasarawa,NASS/EGGON,PHC LASHE,,
+952,Nasarawa,NASS/EGGON,PHC LIKYATI,,
+953,Nasarawa,OBI,GENERAL HOSPITAL OBI,Obi General Hospital,Nasarawa
+954,Nasarawa,OBI,BHC DUDUGURU,,
+955,Nasarawa,OBI,PHC ADUDU,,
+956,Nasarawa,OBI,PHC DADDERE,,
+957,Nasarawa,OBI,PHC AGYARAGU,,
+958,Nasarawa,OBI,ERCC MURYA,ERCC Murya Clinic,Nasarawa
+959,Nasarawa,OBI,MRHC AGWATASHI,,
+960,Nasarawa,OBI,PHC AGWADE,,
+961,Nasarawa,OBI,PHC GIDAN AUSA,,
+962,Nasarawa,OBI,ST. BERNARD AKANGA,St. Bernard Health Center - Akanga,Nasarawa
+963,Nasarawa,OBI,PHC OBI 1,,
+964,Nasarawa,OBI,PHC TUDUN ADABU,,
+965,Nasarawa,OBI,PHC AKALEKU,,
+966,Nasarawa,OBI,PHC IDEVI,,
+967,Nasarawa,OBI,PHC OBI 11,,
+968,Nasarawa,OBI,PHC AGON,,
+969,Nasarawa,OBI,PHC ABIOGA,,
+970,Nasarawa,OBI,PHC KPANGWA,,
+971,Nasarawa,OBI,PHC AGWATASHI,,
+972,Nasarawa,OBI,AROW HOSPITAL AGYARAGU,Agreaba Hospital,Nasarawa
+973,Nasarawa,OBI,ERCC DADDERE,,
+974,Nasarawa,OBI,MPHC AGWATASHI,,
+975,Nasarawa,NASARAWA TOTO,PHC ADADU,,
+976,Nasarawa,NASARAWA TOTO,PHC MAJAGA,,
+977,Nasarawa,NASARAWA TOTO,PHC KURU,,
+978,Nasarawa,NASARAWA TOTO,PHC SHAFA ABAKPA,,
+979,Nasarawa,NASARAWA TOTO,PHC KATAKPA,,
+980,Nasarawa,NASARAWA TOTO,PHC CHIJI,,
+981,Nasarawa,NASARAWA TOTO,MODEL PHC UMAISHA,,
+982,Nasarawa,NASARAWA TOTO,PHC UGYA,,
+983,Nasarawa,NASARAWA TOTO,PHC KARMO,,
+984,Nasarawa,NASARAWA TOTO,GENERAL HOSPITAL TOTO,Toto General Hospital,Nasarawa
+985,Nasarawa,NASARAWA TOTO,PHC UKYA,,
+986,Nasarawa,NASARAWA TOTO,PHC ARABA,,
+987,Nasarawa,NASARAWA TOTO,PHC SHAFA KWATTO,,
+988,Nasarawa,NASARAWA TOTO,BHC GADABUKE,,
+989,Nasarawa,NASARAWA TOTO,PHC YELWA,,
+990,Nasarawa,NASARAWA TOTO,MODEL PHC TOTO,,
+991,Nasarawa,NASARAWA TOTO,GENERAL HOSPITAL UMAISHA,Umaisha General Hospital,Nasarawa
+992,Nasarawa,NASARAWA TOTO,PHC KANYEHU,,
+993,Nasarawa,NASARAWA TOTO,PHC LOKOGOMA,LOKO 3 PHCC,Nasarawa
+994,Nasarawa,NASARAWA TOTO,PHC TOWN CLINIC TOTO,Toto Town Primary Health Clinic,Nasarawa
+995,Nasarawa,NASARAWA TOTO,PHC GARAGWA,,
+996,Nasarawa,NASARAWA TOTO,PHC KULLO,,
+997,Nasarawa,NASARAWA TOTO,PHC TOWN CLINIC UMAISHA,,
+998,Nasarawa,NASARAWA TOTO,PHC NAKUSE,,
+999,Nasarawa,NASARAWA TOTO,"SUNNAH CLINIC,LOKOGOMA",,
+1000,Nasarawa,AKWANGA,GENERAL HOSPITAL AKWANGA,General Hospital Akwanga,Nasarawa
+1001,Nasarawa,AKWANGA,OLA HOSPITAL AKWANGA,Royal Hospital  Akwanga,Nasarawa
+1002,Nasarawa,AKWANGA,PHC RINZE,,
+1003,Nasarawa,AKWANGA,PHC MOROA,,
+1004,Nasarawa,AKWANGA,PHC ANDAHA,,
+1005,Nasarawa,AKWANGA,"NASAMU CLINIC,AKWANGA",Simbard Sauki Clinic Akwanga,Nasarawa
+1006,Nasarawa,AKWANGA,PHC NUNKU,,
+1007,Nasarawa,AKWANGA,PHC UNGWAN DARIYA,,
+1008,Nasarawa,AKWANGA,PHC TABU,,
+1009,Nasarawa,AKWANGA,"PHC WAMBA ROAD,AKWANGA",,
+1010,Nasarawa,AKWANGA,PHC TAKPIR,,
+1011,Nasarawa,AKWANGA,"ORIENT HOSPITAL,AKWANGA",Orient Hospital Akwanga,Nasarawa
+1012,Nasarawa,AKWANGA,PHC RIJAH,,
+1013,Nasarawa,AKWANGA,PHC ANJIDA,,
+1014,Nasarawa,AKWANGA,BUKATA CLINIC,Bukata Clinic,Nasarawa
+1015,Nasarawa,AKWANGA,"BUBO M.C.M,RINZE",,
+1016,Nasarawa,AKWANGA,MOCHU M.C.MOROA,Mochu Memorial Clinic Moroa,Nasarawa
+1017,Nasarawa,AKWANGA,"CHETO CLINIC,AKWANGA",Cheto Clinic Akwanga,Nasarawa
+1018,Nasarawa,AKWANGA,"SU-DER CLINIC,GUDI",Sudir Clinic Gudi,Nasarawa
+1019,Nasarawa,AKWANGA,PHC AGYAGA,,
+1020,Nasarawa,AKWANGA,PHC NINGA,,
+1021,Nasarawa,AKWANGA,"BAPTIST CLINIC,AKWANGA",Baptist Clinic Akwanga,Nasarawa
+1022,Nasarawa,AKWANGA,PHC AKKAH,,
+1023,Nasarawa,AKWANGA,PHC BAYAN DUTSE,,
+1024,Nasarawa,AKWANGA,PHC GUDI,,
+1025,Nasarawa,AKWANGA,"ROYAL HOSPITAL,AKWANGA",Royal Hospital  Akwanga,Nasarawa
+1026,Niger,AGAIE,General Hospital Agaie,Agaie General Hospital,Niger
+1027,Niger,AGAIE,BHC Kutiriko,,
+1028,Niger,AGAIE,MCH Ekossa,,
+1029,Niger,AGAIE,MCH Ekowuna,,
+1030,Niger,AGAIE,BHC Etsugaie,,
+1031,Niger,AGAIE,BHC Tagagi,,
+1032,Niger,AGAIE,BHC Wadata,,
+1033,Niger,AGAIE,MCH Baro,,
+1034,Niger,AGAIE,BHC Bororoko,,
+1035,Niger,AGAIE,PHC Akwanu,,
+1036,Niger,AGAIE,PHC Emibunu,,
+1037,Niger,AGAIE,PHC Nami,,
+1038,Niger,AGAIE,PHC Mashina,,
+1039,Niger,AGAIE,Iko Allah clinic,Pandogari Ikon Allah Clinic,Niger
+1040,Niger,AGAIE,Baro Phc,,
+1041,Niger,AGAIE,Fogbe Phc,,
+1042,Niger,AGAIE,Yebosoko maternity,,
+1043,Niger,AGAIE,Godiya clinic,GAZA Clinic,Niger
+1044,Niger,AGAIE,Usajat maternity home,Wadata Matanity Home,Niger
+1045,Niger,AGAIE,Raima maternity home,Nomau Maternity Home,Niger
+1046,Niger,AGAIE,Town despensary,LAPAI TOWN DISPENSARY,Niger
+1047,Niger,AGWARA,Rural Hospital Agwara,General Hospital Kuta,Niger
+1048,Niger,AGWARA,PHC Rofia,,
+1049,Niger,AGWARA,PHC Galla,alhamdu phc,Niger
+1050,Niger,AGWARA,KAYALA PHC,,
+1051,Niger,AGWARA,T/DORUWA PHC,Duma  PHC,Niger
+1052,Niger,AGWARA,PHC TASHAN FULANI,Tashan Fulani health post,Niger
+1053,Niger,AGWARA,PHC RAFIN KALA,,
+1054,Niger,AGWARA,BHC Agwara,,
+1055,Niger,AGWARA,BHC Adehe,,
+1056,Niger,AGWARA,CHC Agwara,,
+1057,Niger,AGWARA,BHC Mago,,
+1058,Niger,AGWARA,BHC N/Papiri,,
+1059,Niger,AGWARA,Health Facility Kokori,Kokoli Health Centre,Niger
+1060,Niger,AGWARA,Health Facility Papirin Gajere,Papirin Gajere Healt centre,Niger
+1061,Niger,BIDA,Federal Medical Centre Bida,Bida Federal Medical Centre,Niger
+1062,Niger,BIDA,General Hospital Bida,Bangi General Hospital,Niger
+1063,Niger,BIDA,Wadata Clinic,Ecwa Clinic,Niger
+1064,Niger,BIDA,Bida Clinic,Bida Clinic,Niger
+1065,Niger,BIDA,Sauki Clinic,Faith Clinic,Niger
+1066,Niger,BIDA,Yebosoko Specialist Hospital Bida,Yebo Soko Specialist Hospital,Niger
+1067,Niger,BIDA,Gbogbontigi primary health centre,Egbanti Primary Health Centre,Niger
+1068,Niger,BIDA,Alheri maternity home (Banyagi),Azman  Maternity Home,Niger
+1069,Niger,BIDA,Alheri maternity home bida,Fatima Maternity Home,Niger
+1070,Niger,BIDA,Amana maternity home (bida),AMANA MATERNITY HOME DANDAUDU,Niger
+1071,Niger,BIDA,Corner Stone Medical Store,,
+1072,Niger,BIDA,Dokodza maternity home,Godiya Maternity Home,Niger
+1073,Niger,BIDA,Faith Clinic and maternity,Halimat Clinic And Maternity,Niger
+1074,Niger,BIDA,Usman /Aisha Memorial Hospital (Marana) bida,,
+1075,Niger,BIDA,Ogu-Oluwa Kitten maternity Home,,
+1076,Niger,BIDA,Sauki Clinic and maternity,Nasara Clinic And Maternity,Niger
+1077,Niger,BIDA,Trinity maternity home,Victory Maternity Home,Niger
+1078,Niger,BIDA,Wadata Clinic,Ecwa Clinic,Niger
+1079,Niger,BIDA,Yebo PECC Clinic,Yeyedulo Clinic,Niger
+1080,Niger,BIDA,Asrafan medical Centre,Al- Azeez Medical Centre,Niger
+1081,Niger,BIDA,Yetu specialist hospital,Yebo Soko Specialist Hospital,Niger
+1082,Niger,BOSSO,Boss MCH,,
+1083,Niger,BOSSO,MCH Matkunkele,,
+1084,Niger,BOSSO,BHC Beji,,
+1085,Niger,BOSSO,BHC Garatu,,
+1086,Niger,BOSSO,PHC Shatta,salama phc,Niger
+1087,Niger,BOSSO,PHC Hope,CHEKU PHC,Niger
+1088,Niger,BOSSO,FUT Clinic Bosso,FOTI CHPOST CLINIC,Niger
+1089,Niger,BOSSO,BHC Sabon - Daga,,
+1090,Niger,BOSSO,Zozo Maternity,,
+1091,Niger,BOSSO,PHC Kunko,,
+1092,Niger,BOSSO,PHC Godiya Lunko,,
+1093,Niger,BOSSO,PHC Kada Kumakara,,
+1094,Niger,BOSSO,SUCCESS PHC,,
+1095,Niger,BOSSO,GUNGU PHC,,
+1096,Niger,BOSSO,SAUKI PHC,Yakudi   PHC,Niger
+1097,Niger,BOSSO,NASARA PHC,Nasara victory phc,Niger
+1098,Niger,BOSSO,YADDA PHC,Yakudi   PHC,Niger
+1099,Niger,BOSSO,Abdulrahaman Memorial Clinic and Maternity,Alheri clinic and maternity,Niger
+1100,Niger,BOSSO,Abiana Maternity Home,Azman  Maternity Home,Niger
+1101,Niger,BOSSO,Bosso Faith Primary Health Centre,Bosso Primary Health Centre,Niger
+1102,Niger,BOSSO,Mapa Health Post,Komala Health Post,Niger
+1103,Niger,BOSSO,Garkiya Children Specialist Hospital,Berith Specialist Hospital,Niger
+1104,Niger,BOSSO,Zamani Maternity Home,Nomau Maternity Home,Niger
+1105,Niger,BOSSO,NOMA PHC,Duma  PHC,Niger
+1106,Niger,CHANCHAGA,School of Midwifery,,
+1107,Niger,CHANCHAGA,PHC Kpakungu,,
+1108,Niger,CHANCHAGA,POD General Hospital Minna,Minna General Hospital,Niger
+1109,Niger,CHANCHAGA,General Hospital Minna,Minna General Hospital,Niger
+1110,Niger,CHANCHAGA,Devine Mercy Hospital Dautse Kura,,
+1111,Niger,CHANCHAGA,Standard Hospital & Maternity Minna,,
+1112,Niger,CHANCHAGA,FSP Tunga,PPFN TUNGA,Niger
+1113,Niger,CHANCHAGA,Gwari Road PHC,,
+1114,Niger,CHANCHAGA,MCH Maitunbi,,
+1115,Niger,CHANCHAGA,PHC Tunga Sabon Titi,,
+1116,Niger,CHANCHAGA,New Prison Clinic,Soko Kunke Clinic,Niger
+1117,Niger,CHANCHAGA,Old Prison Clinic,Leprosy Clinic,Niger
+1118,Niger,CHANCHAGA,Bazza Jassim Clinic Minna,,
+1119,Niger,CHANCHAGA,School of Health Technology Minna,,
+1120,Niger,CHANCHAGA,PPFN Chanchaga,,
+1121,Niger,CHANCHAGA,Cantonment Nigeria Army Clinic Minna,,
+1122,Niger,CHANCHAGA,PPFN Tunga Minna,PPFN TUNGA,Niger
+1123,Niger,CHANCHAGA,PHC Albisheri,,
+1124,Niger,CHANCHAGA,UBE Clinic,Ecwa Clinic,Niger
+1125,Niger,CHANCHAGA,PHC Morris Minna,,
+1126,Niger,CHANCHAGA,Abdulsallam Clinic,ABS Clinic,Niger
+1127,Niger,CHANCHAGA,Top Medical hospital,,
+1128,Niger,CHANCHAGA,Masol Hospital,Solace Hospital,Niger
+1129,Niger,CHANCHAGA,Gelead Hospital,Gaja Hospital,Niger
+1130,Niger,CHANCHAGA,Arewa clinic,Amam CLINIC,Niger
+1131,Niger,CHANCHAGA,Taimako hospital,Wasiha Hospital,Niger
+1132,Niger,CHANCHAGA,Wasiya hospital,Wasiha Hospital,Niger
+1133,Niger,CHANCHAGA,Faith hospital,Ray Birth Hospital,Niger
+1134,Niger,CHANCHAGA,Mustapha hospital,Rapha Hospital,Niger
+1135,Niger,CHANCHAGA,Nkyabge PHC,,
+1136,Niger,EDATI,CHC Enagi,,
+1137,Niger,EDATI,CHC Enagi,,
+1138,Niger,EDATI,Gazhelati H/Facility,,
+1139,Niger,EDATI,BHC Gonagi,,
+1140,Niger,EDATI,BHC Gbangban,,
+1141,Niger,EDATI,NPHC Gbototi,,
+1142,Niger,EDATI,Health Clinic Tama,Kwana  Health clinic,Niger
+1143,Niger,EDATI,Health Clinic Gamunu,Hammak Health Clinic,Niger
+1144,Niger,EDATI,BHC Sapke,,
+1145,Niger,EDATI,NPHC Etsuwono,,
+1146,Niger,EDATI,Health Clinic Lenfa Bororo,Lenfa Primary Health Clinic,Niger
+1147,Niger,EDATI,Lenfa Health Clinic,Kwana  Health clinic,Niger
+1148,Niger,EDATI,Gazhe Health Clinic,Hammak Health Clinic,Niger
+1149,Niger,EDATI,Guzzan Health Clinic,Hammak Health Clinic,Niger
+1150,Niger,EDATI,Lukoro Health Clinic,Mukugi Health Clinic,Niger
+1151,Niger,EDATI,BHC Gonagi,,
+1152,Niger,GURARA,Federal Medical Centre Gawu Babangida,Bida Federal Medical Centre,Niger
+1153,Niger,GURARA,BHC Izom,,
+1154,Niger,GURARA,BHC Tufa,,
+1155,Niger,GURARA,BHC Lefu,,
+1156,Niger,GURARA,BHC Diko,,
+1157,Niger,GURARA,Rural Hospital Gawu Babangida,,
+1158,Niger,GURARA,BHC Bonu,,
+1159,Niger,GURARA,Comp. Health Centre Kwaka,Kokoli Health Centre,Niger
+1160,Niger,GURARA,BHC Kabo,,
+1161,Niger,GURARA,BHC Shako,,
+1162,Niger,GURARA,BHC Tuna,,
+1163,Niger,GURARA,BHC Diko,,
+1164,Niger,GURARA,BOYI SARKI PHCC,,
+1165,Niger,GURARA,ABUCHI PHC,,
+1166,Niger,GURARA,SHANUH PHC,,
+1167,Niger,GURARA,BADNAGBE PHC,,
+1168,Niger,GURARA,PASSALI PHC,,
+1169,Niger,GURARA,SINSI PHC,,
+1170,Niger,GBAKO,Rural Hospital Lemu,Lemu Rural Hospital,Niger
+1171,Niger,GBAKO,BHC Edozhigi,,
+1172,Niger,GBAKO,BHC Batagi,BATAGI CHPOST,Niger
+1173,Niger,GBAKO,CHC Edokota,,
+1174,Niger,GBAKO,BHC Sommazhiko,,
+1175,Niger,GBAKO,Private Hospital Yetu,Spring Valley Hospital,Niger
+1176,Niger,GBAKO,PHC Clinic Edozhigi,,
+1177,Niger,GBAKO,PHC Clinic Somajigi,Zuma PHC Clinic,Niger
+1178,Niger,GBAKO,PHC Clinic Gbadafu,NANTU PHC CLINIC,Niger
+1179,Niger,GBAKO,CHC Kedigi,,
+1180,Niger,GBAKO,CHC Ejiko,,
+1181,Niger,GBAKO,CHC Batako,,
+1182,Niger,GBAKO,Mainasara,,
+1183,Niger,GBAKO,Yetu Maternity,,
+1184,Niger,GBAKO,CHC Biramafu,,
+1185,Niger,GBAKO,CHC Legbozukun,,
+1186,Niger,KATCHA,BHC Katcha,,
+1187,Niger,KATCHA,BHC Badeggi,,
+1188,Niger,KATCHA,BHC Bakeko,,
+1189,Niger,KATCHA,BHC kateregi,,
+1190,Niger,KATCHA,BHC Katcha,,
+1191,Niger,KATCHA,PHC Ndeji,,
+1192,Niger,KATCHA,PHC Ndabisa,,
+1193,Niger,KATCHA,PHC Halilu,,
+1194,Niger,KONTAGORA,General Hospital Kontagora,Kontagora General Hospital,Niger
+1195,Niger,KONTAGORA,CPHC Kontagora,,
+1196,Niger,KONTAGORA,NPI Clinic,Faith Clinic,Niger
+1197,Niger,KONTAGORA,Ubandoma Clinic kontagora,,
+1198,Niger,KONTAGORA,AMC Kontagora,,
+1199,Niger,KONTAGORA,Kontagora Clinic,Kontagora Clinic And Maternity,Niger
+1200,Niger,KONTAGORA,Katani waya,,
+1201,Niger,KONTAGORA,Nassarawa PHC Kontagora,,
+1202,Niger,KONTAGORA,Cenral Despensary Kontagora,Kontagora General Hospital,Niger
+1203,Niger,KONTAGORA,Tunga Kawo Modern Clinic,Kawo model clinic,Niger
+1204,Niger,KONTAGORA,K. Waya Clinic,ECWA clinic Diko,Niger
+1205,Niger,KONTAGORA,Tungan Habu PHC,,
+1206,Niger,KONTAGORA,Midwefery,,
+1207,Niger,KONTAGORA,Masaha PHC,,
+1208,Niger,KONTAGORA,D/fadama PHC,Duma  PHC,Niger
+1209,Niger,KONTAGORA,R/NagwamatseNagwamaste Village,,
+1210,Niger,KONTAGORA,Al-Azeez medical centre,Al- Azeez Medical Centre,Niger
+1211,Niger,KONTAGORA,Lafiya clinic,Jamima Clinic,Niger
+1212,Niger,KONTAGORA,Nissi clinic,Endless Clinic,Niger
+1213,Niger,KONTAGORA,Aminci Clinic,Amam CLINIC,Niger
+1214,Niger,KONTAGORA,Bawan Allah clinic,,
+1215,Niger,KONTAGORA,Goje Medical Center,Goje medical centre,Niger
+1216,Niger,KONTAGORA,Kontagora Clinic,Kontagora Clinic And Maternity,Niger
+1217,Niger,KONTAGORA,Nasara Clinic,Fary Clinic,Niger
+1218,Niger,KONTAGORA,Assabur,,
+1219,Niger,KONTAGORA,Taimako clinic,Jamima Clinic,Niger
+1220,Niger,KONTAGORA,Sauki clinic,Faith Clinic,Niger
+1221,Niger,KONTAGORA,Rahama,,
+1222,Niger,KONTAGORA,Khalepha Clinic,Kwana  Health clinic,Niger
+1223,Niger,LAVUN,General Hospital Kutigi,Kutigi General Hospital,Niger
+1224,Niger,LAVUN,BHC Bussu,,
+1225,Niger,LAVUN,CHC Dabban,,
+1226,Niger,LAVUN,BHC Ma’ali,,
+1227,Niger,LAVUN,MCH Doko,,
+1228,Niger,LAVUN,Dzowu Health Clinic,Hammak Health Clinic,Niger
+1229,Niger,LAVUN,Enagi Health Clinic,Egbagi Primary Health Clinic,Niger
+1230,Niger,LAVUN,Ndaruka Health Clinic,Nasarawa Health Clinic,Niger
+1231,Niger,LAVUN,PHC Charati,,
+1232,Niger,LAVUN,PHC Robizhi,,
+1233,Niger,LAVUN,PHCC Kuchi Woro,,
+1234,Niger,LAVUN,PHC Santali,,
+1235,Niger,LAVUN,Aminchi PHC,,
+1236,Niger,LAVUN,KUTIGI CLINIC KUTIGI,,
+1237,Niger,LAVUN,SHIKO PHC KUTIGI.,,
+1238,Niger,LAVUN,AL-UMMAT PHCC KUTIGI,,
+1239,Niger,LAVUN,JEMIL PHCC KUTIGI,,
+1240,Niger,LAVUN,IKON ALLAH,,
+1241,Niger,LAVUN,JINYINAGE MATERNITY HOME,,
+1242,Niger,LAVUN,NUSAM DAH PHCC DOKO,,
+1243,Niger,LAVUN,EMMANUEL PHCC DOKO,,
+1244,Niger,LAVUN,YAMUSA PHCC,,
+1245,Niger,LAVUN,BUSU PHCC DANCITAGI,,
+1246,Niger,LAVUN,SAUKI PHC S/MADINA,,
+1247,Niger,LAVUN,PHC Etsuzagi,,
+1248,Niger,LAPAI,General Hospital Lapai,General Hospital Lapai,Niger
+1249,Niger,LAPAI,General Hospital Gullu,General Hospital Kuta,Niger
+1250,Niger,LAPAI,BHC Saminaka,,
+1251,Niger,LAPAI,Nassarawa PHC,,
+1252,Niger,LAPAI,PHC Lafiya kpada,Lafiyan-Kpada,Niger
+1253,Niger,LAPAI,PHC Dapu,Duma  PHC,Niger
+1254,Niger,MAGAMA,General Hospital Auna,AUNA GENARAL HOSPITAL,Niger
+1255,Niger,MAGAMA,General Hospital Nasko,Minna General Hospital,Niger
+1256,Niger,MAGAMA,BHC Salka,salama phc,Niger
+1257,Niger,MAGAMA,BHC Kura,,
+1258,Niger,MAGAMA,PHC WANDO,,
+1259,Niger,MAGAMA,PHC GWAGWADE,,
+1260,Niger,MAGAMA,PHC KAWO,,
+1261,Niger,MARIGA,CHC Mariga,,
+1262,Niger,MARIGA,General Hospital Bangi,Bangi General Hospital,Niger
+1263,Niger,MARIGA,Bobi Family Planning MCH,,
+1264,Niger,MARIGA,PHC Uraga,,
+1265,Niger,MARIGA,PHC Maigoge,,
+1266,Niger,MARIGA,BHC Kampani Bobi,,
+1267,Niger,MARIGA,Kampani Garba PHC,,
+1268,Niger,MARIGA,CHC Beri,,
+1269,Niger,MARIGA,AHMADIYYA PHCC,,
+1270,Niger,MARIGA,FAISAL MED CENTRE,Faisal Medical Centre Kwana,Niger
+1271,Niger,MARIGA,CETO PHCC,,
+1272,Niger,MARIGA,karama,,
+1273,Niger,MARIGA,cheto phc dusai,,
+1274,Niger,MARIGA,kuimo,,
+1275,Niger,MARIGA,haske phc mariga,,
+1276,Niger,MARIGA,odofiya kasuwan doya mariga,,
+1277,Niger,MARIGA,blossom unguwan yanjakinmariga,,
+1278,Niger,MARIGA,mechemis mariga,,
+1279,Niger,MARIGA,bola phc mariga,,
+1280,Niger,MARIGA,GODIA CLINIC,GAZA Clinic,Niger
+1281,Niger,MASHEGU,PHC Mashegu,CHEKU PHC,Niger
+1282,Niger,MASHEGU,PHC Kawo,,
+1283,Niger,MASHEGU,MPHC Makera,,
+1284,Niger,MASHEGU,CPHC Kaboji,,
+1285,Niger,MASHEGU,Rural Hospital Sahon – Rami,Sahon Rami A A Kure Rural Hospital,Niger
+1286,Niger,MASHEGU,BHC Mashegu,,
+1287,Niger,MASHEGU,NPHC Makera,,
+1288,Niger,MASHEGU,Engineer A.A Kure Sahon Rami,,
+1289,Niger,MASHEGU,PHC Gobirawa,,
+1290,Niger,MASHEGU,PHC Kwatachi,,
+1291,Niger,MASHEGU,Haske clinic makera,Hammak Health Clinic,Niger
+1292,Niger,MASHEGU,Nakowa clinic gada,ECWA clinic Diko,Niger
+1293,Niger,MASHEGU,Manigi godiya and maternity home,Godiya Maternity Home,Niger
+1294,Niger,MASHEGU,Alheri phcc Adogo,,
+1295,Niger,MASHEGU,Sokomajin phc maternity home Manigi,,
+1296,Niger,MASHEGU,Faith clinic maternity home Makera,Lafiya Clinic & Maternity,Niger
+1297,Niger,MASHEGU,Soba danko and maternity home,Azman  Maternity Home,Niger
+1298,Niger,MASHEGU,"Babagi phcc, maternity home Kaboji",,
+1299,Niger,MASHEGU,"Alheri phcc, maternity home Kawo",,
+1300,Niger,MASHEGU,Daughter charity phcc Makera,,
+1301,Niger,MASHEGU,"Haske phcc, maternity home Makera",,
+1302,Niger,MASHEGU,"Yebosoko phcc, maternity home B/rami",,
+1303,Niger,MASHEGU,"Shaban phcc, maternity home Msg",,
+1304,Niger,MASHEGU,"Sauki clinic , maternity home Manigi",Kate Maternity Clinic Yakila,Niger
+1305,Niger,MASHEGU,"Ndakuru sauki clinic, Kasanga",,
+1306,Niger,MASHEGU,PHC Adogon Malam,,
+1307,Niger,MOKWA,General Hospital Mokwa,Mokwa General Hospital,Niger
+1308,Niger,MOKWA,BHC Gbajibo,,
+1309,Niger,MOKWA,BHC Bokani,,
+1310,Niger,MOKWA,PHC Kara Jebba,,
+1311,Niger,MOKWA,BHC Kaniya,,
+1312,Niger,MOKWA,BHC Kudu,,
+1313,Niger,MOKWA,BHC Kpaki,,
+1314,Niger,MOKWA,BHC Jaagi,JAAGI BHCCLINIC,Niger
+1315,Niger,MOKWA,FSP Jebba,,
+1316,Niger,MOKWA,PHC Ndayako,,
+1317,Niger,MOKWA,BHC Gbara,,
+1318,Niger,MOKWA,PHC Rabba,,
+1319,Niger,MOKWA,PHC Labozhi,,
+1320,Niger,MOKWA,CHP Foti,,
+1321,Niger,MOKWA,CHC Kpautagi,,
+1322,Niger,MOKWA,. CHC Wabi,,
+1323,Niger,MOKWA,PHC Efu Goro Mokwa.,,
+1324,Niger,MOKWA,PHC Ran,,
+1325,Niger,MOKWA,HAKIMI ALIYU MEMORIAL CLINIC,Bid wagu memorial clinic izom,Niger
+1326,Niger,MOKWA,MOKWA CLINIC AKIN,Jama'A Clinic,Niger
+1327,Niger,MOKWA,FATIMA MEMORIAL CLINIC KARIGI,,
+1328,Niger,MOKWA,FOUNDATION CLINIC,,
+1329,Niger,MOKWA,OSWAGU CLINIC MOKWA,MOKWA Nasiru Clinic,Niger
+1330,Niger,MOKWA,BHC Muwo,,
+1331,Niger,MUNYA,MMM Fuka,,
+1332,Niger,MUNYA,Rural Hospital Sarkin –Pawa,Sarkin Pawa Rural Hospital,Niger
+1333,Niger,MUNYA,BHC Kuchi,,
+1334,Niger,MUNYA,PHC Chibani,,
+1335,Niger,MUNYA,PHC Dandaudu,alhamdu phc,Niger
+1336,Niger,MUNYA,BHC Guni,unity phc,Niger
+1337,Niger,MUNYA,PHC Mangorota,,
+1338,Niger,MUNYA,PHC GWADAMI,,
+1339,Niger,MUNYA,MCH SABON GARI,,
+1340,Niger,MUNYA,ALHERI CLINIC,AL-birru Clinic,Niger
+1341,Niger,MUNYA,RAHUSA MATERNITY CLINIC,Swashi  Clinic & Maternity,Niger
+1342,Niger,MUNYA,PHC ZHALAPE,,
+1343,Niger,MUNYA,PHC DANGUNU,,
+1344,Niger,MUNYA,ALHERI CLINIC ZAZZAGA,,
+1345,Niger,MUNYA,PHC KAPANA,,
+1346,Niger,MUNYA,Agbegyi Sarkin pawa Clinic,,
+1347,Niger,MUNYA,Akusi Clinic,ABS Clinic,Niger
+1348,Niger,MUNYA,Amana Maternity Dandaudu,AMANA MATERNITY HOME DANDAUDU,Niger
+1349,Niger,MUNYA,Anguwan Tunga PHCC,,
+1350,Niger,MUNYA,Atnadu PHCC,alhamdu phc,Niger
+1351,Niger,MUNYA,PHC FUKAN KADARA,,
+1352,Niger,PAIKORO,Paiko Town Clinic,Paiko Town Clinic.,Niger
+1353,Niger,PAIKORO,MCH Kwakuti,,
+1354,Niger,PAIKORO,IBB Specialist Hospital Chanchaga,Primak Specialist Hospital,Niger
+1355,Niger,PAIKORO,PHC Gayegi,,
+1356,Niger,PAIKORO,MCH Tungan Mallam,,
+1357,Niger,PAIKORO,PHC Nikuchi,,
+1358,Niger,PAIKORO,PHC Baidna,,
+1359,Niger,PAIKORO,MCH Ishau,,
+1360,Niger,PAIKORO,ECWA Clinic Paiko,Ecwa Clinic,Niger
+1361,Niger,PAIKORO,Leprosy Referral Hospital Chanchaga,,
+1362,Niger,PAIKORO,PHC Kaffin – Koro,,
+1363,Niger,PAIKORO,PHC Tawu,,
+1364,Niger,PAIKORO,Model Clinic Paiko,,
+1365,Niger,PAIKORO,PHC Ebba,,
+1366,Niger,PAIKORO,PHC Azagbe Paiko,,
+1367,Niger,PAIKORO,PHC Gabadna,,
+1368,Niger,PAIKORO,PHC Kampani Dorowa,,
+1369,Niger,PAIKORO,PHC Nagopita,optimal phc,Niger
+1370,Niger,PAIKORO,PHC Tatiko,,
+1371,Niger,PAIKORO,Gayegi PHC,,
+1372,Niger,PAIKORO,Tawu PHC,,
+1373,Niger,PAIKORO,Tatiko PHC,,
+1374,Niger,PAIKORO,Nukuchi PHC,,
+1375,Niger,PAIKORO,Aboroso,,
+1376,Niger,PAIKORO,Nagopita PHC,optimal phc,Niger
+1377,Niger,PAIKORO,PHC Egwa,,
+1378,Niger,PAIKORO,PHC Yebosoko,,
+1379,Niger,PAIKORO,Gami PHC,,
+1380,Niger,PAIKORO,Nassara PHC,,
+1381,Niger,PAIKORO,BHC Bugo,,
+1382,Niger,PAIKORO,Yidna PHC,,
+1383,Niger,PAIKORO,Gayegi PHC,,
+1384,Niger,PAIKORO,DR. MAGAJI HOSP & MATARNUTY,,
+1385,Niger,PAIKORO,MAI ALBARKA,,
+1386,Niger,PAIKORO,KAUNA PHC,Duma  PHC,Niger
+1387,Niger,PAIKORO,TURAKI PH PAIKO,,
+1388,Niger,PAIKORO,EMMAUNEL PHC,,
+1389,Niger,PAIKORO,RIKON AOMANA TATIKO,,
+1390,Niger,PAIKORO,SABO PHC KWAKUTI,,
+1391,Niger,PAIKORO,SHABA CHIMBI,,
+1392,Niger,PAIKORO,DESTINY PH C,Ayi destiny phc,Niger
+1393,Niger,PAIKORO,AZAIDO PHC,,
+1394,Niger,PAIKORO,ECWA PHC,,
+1395,Niger,PAIKORO,FARRY PHC,,
+1396,Niger,PAIKORO,FAITH PHC,,
+1397,Niger,PAIKORO,HAKARI PHC,,
+1398,Niger,PAIKORO,ALHARI NIKUCHI PHC,,
+1399,Niger,PAIKORO,DAUKA PHC,Duma  PHC,Niger
+1400,Niger,PAIKORO,SHALLON PHC,,
+1401,Niger,PAIKORO,ALHERI PHC,,
+1402,Niger,PAIKORO,UNITY PHC,unity phc,Niger
+1403,Niger,PAIKORO,FAMILY HEALTH CLINILC,Hammak Health Clinic,Niger
+1404,Niger,PAIKORO,BABA KHALIFA PHC,,
+1405,Niger,PAIKORO,BUTTU PHC,,
+1406,Niger,PAIKORO,KOROPA PHC,,
+1407,Niger,PAIKORO,PHC Tawu,,
+1408,Niger,KAGARA,General Hospital Kagara,General Hospital Kagara,Niger
+1409,Niger,KAGARA,BHC Pandogari,,
+1410,Niger,KAGARA,BHC Madaka,,
+1411,Niger,KAGARA,BHC Tegina,,
+1412,Niger,KAGARA,BHC Yakila,Yakudi   PHC,Niger
+1413,Niger,KAGARA,BHC Kwana,,
+1414,Niger,KAGARA,BHC Kusheki,,
+1415,Niger,KAGARA,Maikujeri BHC,,
+1416,Niger,KAGARA,Sabon Gari Kagar PHC,,
+1417,Niger,KAGARA,Kundu PHC,Duma  PHC,Niger
+1418,Niger,RIJAU,General Hospital Tungan Magajiya,Tungan Magajiya General Hospital,Niger
+1419,Niger,RIJAU,TBL Clinic Rijau,,
+1420,Niger,RIJAU,BHC Genu,,
+1421,Niger,RIJAU,BHC Darangi,,
+1422,Niger,RIJAU,BHC Dukku,,
+1423,Niger,RIJAU,BHC Tungan Bunu,,
+1424,Niger,RIJAU,MCH Rijau,,
+1425,Niger,RIJAU,General Hospital T/ Magajiya,Ni T/Magajiya General Hospital,Niger
+1426,Niger,RIJAU,BHC Dukku,,
+1427,Niger,RIJAU,BHC Darangi,,
+1428,Niger,RIJAU,BHC Genu,,
+1429,Niger,RIJAU,Marke PHC,Duma  PHC,Niger
+1430,Niger,RIJAU,Alaga Kure PHC,,
+1431,Niger,RIJAU,Sabongarin Ushe PHC,,
+1432,Niger,RIJAU,Uganda PHC,,
+1433,Niger,RIJAU,Lowcost PHC,,
+1434,Niger,SHIRORO,General Hospital Kuta,General Hospital Kuta,Niger
+1435,Niger,SHIRORO,MCH Gwada,,
+1436,Niger,SHIRORO,MCH Gunu,,
+1437,Niger,SHIRORO,MCH kuta,,
+1438,Niger,SHIRORO,PHCC Zumba,,
+1439,Niger,SHIRORO,CHC Erena,,
+1440,Niger,SHIRORO,She PHCC,,
+1441,Niger,SHIRORO,Siza Clinic,GAZA Clinic,Niger
+1442,Niger,SHIRORO,PHC Zukuchi,,
+1443,Niger,SHIRORO,AYENAJEYI PHCC,,
+1444,Niger,SHIRORO,GALKOGO PHCC,,
+1445,Niger,SHIRORO,BASSA PHCC,,
+1446,Niger,SHIRORO,MCH GUNU,,
+1447,Niger,SHIRORO,Kampani Danjuma PHC,,
+1448,Niger,SULEJA,General Hospital Suleja,General Hospital Suleja,Niger
+1449,Niger,SULEJA,Dije Bala Clinic,,
+1450,Niger,SULEJA,Late Gambo Abubakar Clinic Suleja,,
+1451,Niger,SULEJA,CHC Madella,,
+1452,Niger,SULEJA,Town Dispensary Suleja,LAPAI TOWN DISPENSARY,Niger
+1453,Niger,SULEJA,Prison Clinic Suleja,Prison Service Clinic,Niger
+1454,Niger,SULEJA,Maje Hospital,Maraba Hospital,Niger
+1455,Niger,SULEJA,Madalla Clinic,GAZA Clinic,Niger
+1456,Niger,SULEJA,Late Gambo Hospital Suleja,Suleja Hospital,Niger
+1457,Niger,SULEJA,Kwankwashe BHC,,
+1458,Niger,SULEJA,PHC Mallam Ashehu,,
+1459,Niger,SULEJA,Charles Hospital,Charles Hospital,Niger
+1460,Niger,SULEJA,Berith Hospital,Ray Birth Hospital,Niger
+1461,Niger,SULEJA,Spring Vally Hospital,Spring Valley Hospital,Niger
+1462,Niger,SULEJA,Salam Hospital,Solace Hospital,Niger
+1463,Niger,SULEJA,Solace Hospital,Solace Hospital,Niger
+1464,Niger,SULEJA,Maraba Hospital,Maraba Hospital,Niger
+1465,Niger,SULEJA,Delight Hopital,Delight Hospital,Niger
+1466,Niger,SULEJA,Susan Hospital,Suzan Hospital,Niger
+1467,Niger,SULEJA,Base Hospital,Goshen Hospital,Niger
+1468,Niger,SULEJA,Fairy Clinic,Fary Clinic,Niger
+1469,Niger,SULEJA,Kwuchiko PHC,,
+1470,Niger,TAFA,UMYMH Sabon – Wuse,,
+1471,Niger,TAFA,UMYMH Sabon – Wuse,,
+1472,Niger,TAFA,MPHC Gauraka,,
+1473,Niger,TAFA,MPHC Garam,,
+1474,Niger,TAFA,BHC Ijah Gwari,,
+1475,Niger,TAFA,MDG Clinic Chachi,,
+1476,Niger,TAFA,CPHC New Bwari,,
+1477,Niger,TAFA,BHC Baban Tunga,,
+1478,Niger,TAFA,NPHC Gauraka,,
+1479,Niger,TAFA,NHIS Ijah Gbagyi,,
+1480,Niger,TAFA,PHC Kata Tseni,,
+1481,Niger,TAFA,PHC Aso,,
+1482,Niger,TAFA,BHC Baban Tunga,,
+1483,Niger,TAFA,MDG Chachi,,
+1484,Niger,TAFA,Apya,,
+1485,Niger,TAFA,Fidmac Clinic,Jamima Clinic,Niger
+1486,Niger,TAFA,AMMA HEALTH CENTRE N/WUSE,New Wuse Basic Health Centre,Niger
+1487,Niger,TAFA,ST CHARLES CLINIC N/WUSE,,
+1488,Niger,TAFA,NAKOWA HEALTH MATERNITY CLINIC N/WUSE,Kate Maternity Clinic Yakila,Niger
+1489,Niger,TAFA,FREEDOM CLINIC GAURAKA,Freedom Clinic,Niger
+1490,Niger,TAFA,CONFIDENCE CLINIC GAURAKA,,
+1491,Niger,TAFA,ENDLESS CLINIC GAURAKA,Endless Clinic,Niger
+1492,Niger,TAFA,JEC HOSPITAL KAD ROAD,,
+1493,Niger,TAFA,LAFIYA DUNYA CLINIC IJAH,,
+1494,Niger,TAFA,ZUMA PRY HEALTH CENTRE GAURAKA,Gara Primary Health Centre,Niger
+1495,Niger,TAFA,OZIA MATERNITY CLINIC DAKOWA,Kate Maternity Clinic Yakila,Niger
+1496,Niger,TAFA,ANG . NASARA,,
+1497,Niger,TAFA,RAPHA HOSPITAL KARFE,Rapha Hospital,Niger
+1498,Niger,TAFA,WAMBA CLINIC N/WUSE,,
+1499,Niger,TAFA,DIVINE CLINIC GAURAKA,Divine Clinic,Niger
+1500,Niger,TAFA,PHC Karfe,,
+1501,Niger,WUSHISHI,General Hospital Wushishi,wusshishi General Hospital,Niger
+1502,Niger,WUSHISHI,CHC Zungeru,,
+1503,Niger,WUSHISHI,PHC GWARJIKO,,
+1504,Niger,WUSHISHI,PHC PAKARA,,
+1505,Niger,WUSHISHI,PHC KANKO,,
+1506,Niger,WUSHISHI,PHC MAITO,Duma  PHC,Niger
+1507,Niger,WUSHISHI,PHC AKARE,,
+1508,Niger,WUSHISHI,PHC BANKOJI,,
+1509,State,LGA,Testing Hub Facility,,
+1510,Kogi,,KSSH LOKOJA,,
+1511,Kogi,,FTH LOKOJA,,
+1512,Kogi,,KSSH LOKOJA/ FTH LOKOJA,,
+1513,Kogi,,HMH OCHADAMU,,
+1514,Kogi,,PAAUTH ANYIGBA,,
+1515,Kogi,,ZH ANKPA,,
+1516,Kogi,,CHC NAGAZI,,
+1517,Kogi,,SPECIALIST HOSPITAL OBANGEDE,Obangede Specialist Hospital,Kogi
+1518,Kogi,,ECWA HOSPITAL EGBE,Agape Hospital,Kogi
+1519,Kwara,,SOBI SH ILORIN,,
+1520,Kwara,,GH OKUTA,,
+1521,Kwara,,CHC SHONGA,C H C Shonga,Kwara
+1522,Kwara,,GH OMUARAN,,
+1523,Kwara,,UITH ILORIN,,
+1524,Kwara,,GH ILORIN,,
+1525,Kwara,,GH OFFA,,
+1526,Kwara,,GH KAIAMA,,
+1527,Nasarawa,,GH WAMBA,,
+1528,Nasarawa,,GH DOMA,,
+1529,Nasarawa,,GH OBI,,
+1530,Nasarawa,,OBI,,
+1531,Nasarawa,,MGMC KARU,,
+1532,Nasarawa,,ZANKLI,,
+1533,Nasarawa,,GH UKE,,
+1534,Nasarawa,,DASH LAFIA,,
+1535,Nasarawa,,F.M.C KEFFI,,
+1536,Nasarawa,,GH GARAKU,,
+1537,Nasarawa,,GH NAS.,,
+1538,Nasarawa,,GH N/EGGON,,
+1539,Nasarawa,,ERCC ALUSHI,,
+1540,Niger,,General Hospital Lapai,General Hospital Lapai,Niger
+1541,Niger,,GENERAL HOSPITAL NEW BUSSA & GENERAL HOSPITAL MOKWA,,
+1542,Niger,,FEDERAL MEDICAL CENTRE BIDA,Bida Federal Medical Centre,Niger
+1543,Niger,,"PHCC BEJI, GENERAL HOSPITAL MINNA & IBBSH CHANCHAGA",,
+1544,Niger,,"GENERAL HOSPITAL MINNA, PHCC BEJI & IBBSH CHANCHAGA",,
+1545,Niger,,GENERAL HOSPITAL KUTIGI & GENERAL HOSPITAL MOKWA,,
+1546,Niger,,GENERAL HOSPITAL SULEJA,General Hospital Suleja,Niger
+1547,Niger,,GENERAL HOSPITAL KONTAGORA & GENERAL HOSPITAL KAGARA,,
+1548,Niger,,GENERAL HOSPITAL KUTIGI,Kutigi General Hospital,Niger
+1549,Niger,,GENERAL HOSPITAL KONTAGORA,Kontagora General Hospital,Niger
+1550,Niger,,GENERAL HOSPITAL MOKWA,Mokwa General Hospital,Niger
+1551,Niger,,"GENERAL HOSPITAL MINNA, IBBSH CHANCHAGA & PHCC BEJI",,
+1552,Niger,,"IBBS HOSPITAL CHANCHAGA , PHCC BEJI & GENERAL HOSPITAL MINNA",,
+1553,Niger,,GENERAL HOSPITAL RAFI & PHCC BEJI,General Hospital Lapai,Niger
+1554,Niger,,GENERAL HOSPITAL MINNA & PHCC BEJI,Minna General Hospital,Niger
+1555,Niger,,GENERAL HOSPITAL SULEJA & UMYMH SABON WUSE,General Hospital Suleja,Niger
+1556,Niger,,UMYMH SABON WUSE & GENERAL HOSPITAL SULEJA,General Hospital Suleja,Niger
+1557,Niger,,PHCC BEJI,,
