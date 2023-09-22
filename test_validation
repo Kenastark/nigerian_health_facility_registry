@@ -5,7 +5,7 @@ from fuzzywuzzy import fuzz, process
 df_master = pd.read_csv("HFR_with_coordinates.csv")
 
 # Read the hub DataFrame
-df_hub = pd.read_csv("ade_dataset.csv")
+df_hub = pd.read_csv("tiffany_dataset.csv")
 
 # Create a function to find the best match using fuzzywuzzy
 def find_best_match(name, candidates):
@@ -16,7 +16,7 @@ def find_best_match(name, candidates):
     # below 60 it becomes inaccurate
     # > 80 it matches very few
     # 70 is optimum
-    if best_match[1] >= 70:
+    if best_match[1] >= 85:
         return best_match[0]
     else:
         return ""
@@ -40,6 +40,7 @@ for name, state in zip(df_hub['facility_name'], df_hub['state']):
         best_match = find_best_match(name, candidate_names)
         
         corrected_names.append(best_match)
+
     else:
         corrected_names.append("")
 
@@ -52,5 +53,6 @@ df_hub['validated_state'] = df_hub.apply(
     axis=1
 )
 
+
 # Save the updated DataFrame to a new CSV file
-df_hub.to_csv("./ade_validated_sites.csv", index=False)
+df_hub.to_csv("./tiffany_validated_sites.csv", index=False)
